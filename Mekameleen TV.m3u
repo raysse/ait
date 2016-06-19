@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Mekameleen TV" audio-track="eng" tvg-logo="https://lh3.googleusercontent.com/-T2LQnxLTGyE/AAAAAAAAAAI/AAAAAAAAAAA/yE4TPRTTnJU/photo.jpg", Mekameleen TV
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u
