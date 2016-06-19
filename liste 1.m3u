@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,AR_BEIN 1 HD
+http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
+#EXTINF:-1,AR_BEIN 2 HD
+http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/1.ts
+#EXTINF:-1,AR_BEIN 3 HD
+http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/3.ts
+#EXTINF:-1,AR_BEIN 4 HD
+http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/4.ts
+#EXTINF:-1,AR_BEIN_MAX1
+http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
+#EXTINF:-1,AR_BEIN_MAX2
+http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
 #EXTINF:-1,Chasse et Pêche
 http://163.172.17.191:5890/live/azize/azize/330.ts
 #EXTINF:-1,Animaux
