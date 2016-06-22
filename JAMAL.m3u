@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,* * * * * * * * * * ARABIC * * * * * * * * * *
 http://s1.ukhdtv.com:7860/live/ml2new/AZERTY123/589.ts
 #EXTINF:-1,AR: TUNISNA
@@ -313,7 +313,7 @@ http://s1.ukhdtv.com:7860/live/ml2new/AZERTY123/1779.ts
 http://s1.ukhdtv.com:7860/live/ml2new/AZERTY123/1778.ts
 #EXTINF:-1,AR: beINSport 11 HD
 http://s1.ukhdtv.com:7860/live/ml2new/AZERTY123/1777.ts
-EXTINF:-1,* * * * * * * * * * DIGI ALBANIA * * * * * * * * * *
+#EXTINF:-1,* * * * * * * * * * DIGI ALBANIA * * * * * * * * * *
 http://s1.ukhdtv.com:7860/live/ml2new/AZERTY123/675.ts
 #EXTINF:-1,ALB: Folklorit
 http://s1.ukhdtv.com:7860/live/ml2new/AZERTY123/1776.ts
