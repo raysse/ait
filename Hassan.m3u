@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 TVG-NAME="" TVG-LOGO="" GROUP-TITLE="AR_BEIN HD",
 #EXTINF:-1,AR_BEIN 1 HD
 http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts
 #EXTINF:-1,AR_BEIN 2 HD
@@ -12,7 +11,6 @@ http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/4.ts
 http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
 #EXTINF:-1,AR_BEIN_MAX2 HD
 http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
-#EXTINF:-1 TVG-NAME="" TVG-LOGO="" GROUP-TITLE="AR_BEIN",
 #EXTINF:-1,AR: beIN Sport Max 1
 http://orbit-iptv.com:2500/live/theo/theo/3315.ts
 #EXTINF:-1,AR: beIN Sport Max 2
@@ -27,8 +25,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3491.ts
 http://orbit-iptv.com:2500/live/theo/theo/3492.ts
 #EXTINF:-1,AR: BEIN MAX 1 BACKUP D
 http://orbit-iptv.com:2500/live/theo/theo/3493.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ARABIC BEINSPORT",
-http://orbit-iptv.com:2500/live/theo/theo/2299.ts
 #EXTINF:-1,AR: BEIN News
 http://orbit-iptv.com:2500/live/theo/theo/2073.ts
 #EXTINF:-1,BEINSPORT
@@ -64,9 +60,7 @@ http://orbit-iptv.com:2500/live/theo/theo/2070.ts
 #EXTINF:-1,AR: BEINSPORTS15HD
 http://orbit-iptv.com:2500/live/theo/theo/2071.ts
 #EXTINF:-1,AR: BEINSPORTS16HD
-http://orbit-iptv.com:2500/live/theo/theo/2072.
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ARABIC OSN CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2298.ts
+http://orbit-iptv.com:2500/live/theo/theo/2072.ts
 #EXTINF:-1,AR: OSN_MOVIES_FESTIVAL
 http://orbit-iptv.com:2500/live/theo/theo/1787.ts
 #EXTINF:-1,OSN MOVIE BOX HD
@@ -145,8 +139,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1888.ts
 http://orbit-iptv.com:2500/live/theo/theo/1889.ts
 #EXTINF:-1,AR: OSN Animal Planet
 http://orbit-iptv.com:2500/live/theo/theo/1931.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ARABIC CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2290.ts
 #EXTINF:-1,AR: MTV LEBANON
 http://orbit-iptv.com:2500/live/theo/theo/3548.ts
 #EXTINF:-1,AR: ALJADID
@@ -210,7 +202,8 @@ http://orbit-iptv.com:2500/live/theo/theo/2946.ts
 #EXTINF:-1,AR: AL HURRA IRAQ
 http://orbit-iptv.com:2500/live/theo/theo/2948.ts
 #EXTINF:-1,=====+ MORROCO +======
-http://orbit-iptv.com:2500/live/theo/theo/2585.ts
+#EXTINF:-1,Al AOULA
+http://topiptv.net:5890/live/Robert/Robert/192.ts
 #EXTINF:-1,AR: Tamazight
 http://orbit-iptv.com:2500/live/theo/theo/2592.ts
 #EXTINF:-1,AR: SAMIRA-TV
@@ -234,7 +227,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1981.ts
 #EXTINF:-1,AR-SYRIA ALOULA
 http://orbit-iptv.com:2500/live/theo/theo/1900.ts
 #EXTINF:-1,+-------ALGERIA+------+
-http://orbit-iptv.com:2500/live/theo/theo/2587.ts
 #EXTINF:-1,AR:Samira TV
 http://orbit-iptv.com:2500/live/theo/theo/2612.ts
 #EXTINF:-1,AR:KBCAlgeria
@@ -256,7 +248,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2609.ts
 #EXTINF:-1,AR:ALGERIE 3
 http://orbit-iptv.com:2500/live/theo/theo/2607.ts
 #EXTINF:-1,+------Tunisia+-------+
-http://orbit-iptv.com:2500/live/theo/theo/2586.ts
 #EXTINF:-1,ARr: Zaitouna
 http://orbit-iptv.com:2500/live/theo/theo/2604.ts
 #EXTINF:-1,ARr: NATIONAL1
@@ -456,8 +447,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1895.ts
 http://orbit-iptv.com:2500/live/theo/theo/1894.ts
 #EXTINF:-1,AR-NILE CINEMA
 http://orbit-iptv.com:2500/live/theo/theo/1893.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AFRICA",
-http://orbit-iptv.com:2500/live/theo/theo/2569.ts
 #EXTINF:-1,AF: Touba TV
 http://orbit-iptv.com:2500/live/theo/theo/3265.ts
 #EXTINF:-1,AF: TFM
@@ -508,8 +497,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3376.ts
 http://orbit-iptv.com:2500/live/theo/theo/3377.ts
 #EXTINF:-1,AF: 2STV(SENEGAL)
 http://orbit-iptv.com:2500/live/theo/theo/2553.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ALBANIA CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2305.ts
 #EXTINF:-1,AL: Ballkan
 http://orbit-iptv.com:2500/live/theo/theo/2884.ts
 #EXTINF:-1,AL: KINO THRILLER
@@ -776,8 +763,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1944.ts
 http://orbit-iptv.com:2500/live/theo/theo/3235.ts
 #EXTINF:-1,BAN: JALSHA MOVIES
 http://orbit-iptv.com:2500/live/theo/theo/3240.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="BELGIUM CHANNEL",
-http://orbit-iptv.com:2500/live/theo/theo/2672.ts
 #EXTINF:-1,RTC Tele Liege
 http://orbit-iptv.com:2500/live/theo/theo/2676.ts
 #EXTINF:-1,BE: RTL TVI
@@ -796,8 +781,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2674.ts
 http://orbit-iptv.com:2500/live/theo/theo/2675.ts
 #EXTINF:-1,BG: bTV Cinema
 http://orbit-iptv.com:2500/live/theo/theo/3199.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FRANCE CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2301.ts
 #EXTINF:-1,.......FRANCE TNT.......
 http://orbit-iptv.com:2500/live/theo/theo/2483.ts
 #EXTINF:-1,FR: France-O-HD
@@ -1166,8 +1149,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3359.ts
 http://orbit-iptv.com:2500/live/theo/theo/3362.ts
 #EXTINF:-1,FR:  I tele
 http://orbit-iptv.com:2500/live/theo/theo/3335.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GERMAM CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2297.ts
 #EXTINF:-1,DE: Sky Sports News HD
 http://orbit-iptv.com:2500/live/theo/theo/2823.ts
 #EXTINF:-1,DE: Sport digital HD
@@ -1394,8 +1375,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2413.ts
 http://orbit-iptv.com:2500/live/theo/theo/2412.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
 http://orbit-iptv.com:2500/live/theo/theo/2411.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GREECE CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2340.ts
 #EXTINF:-1,GR: ZOUGLA TV
 http://orbit-iptv.com:2500/live/theo/theo/2369.ts
 #EXTINF:-1,GR: Viasat Sport HD
@@ -1478,8 +1457,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2357.ts
 http://orbit-iptv.com:2500/live/theo/theo/2358.ts
 #EXTINF:-1,GR 4E
 http://orbit-iptv.com:2500/live/theo/theo/2359.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KHURDISH CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2830.ts
 #EXTINF:-1,KU: ZAGROS
 http://orbit-iptv.com:2500/live/theo/theo/2832.ts
 #EXTINF:-1,KU: TV10
@@ -1528,8 +1505,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2857.ts
 http://orbit-iptv.com:2500/live/theo/theo/2850.ts
 #EXTINF:-1,KU: Denge-Tv
 http://orbit-iptv.com:2500/live/theo/theo/2852.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="INDIA CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2294.ts
 #EXTINF:-1,IN:ZING
 http://orbit-iptv.com:2500/live/theo/theo/1331.ts
 #EXTINF:-1,IN:ZEE TV HD
@@ -1618,7 +1593,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2192.ts
 http://orbit-iptv.com:2500/live/theo/theo/929.ts
 #EXTINF:-1,IN: &Picture HD
 http://orbit-iptv.com:2500/live/theo/theo/2260.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ITALIYA CHANNELS",
 #EXTINF:-1,+------Sky CHANNELS+-------+
 http://orbit-iptv.com:2500/live/theo/theo/2291.ts
 #EXTINF:-1,IT: SKY SPORT 1 HD
@@ -1831,8 +1805,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1226.ts
 http://orbit-iptv.com:2500/live/theo/theo/1225.ts
 #EXTINF:-1,IT: PRIMAFILA 1 HD
 http://orbit-iptv.com:2500/live/theo/theo/995.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Latino CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/3151.ts
 #EXTINF:-1,Latino: TVN Chile HD
 http://orbit-iptv.com:2500/live/theo/theo/3152.ts
 #EXTINF:-1,Latino: TN ARG
@@ -1863,16 +1835,12 @@ http://orbit-iptv.com:2500/live/theo/theo/3161.ts
 http://orbit-iptv.com:2500/live/theo/theo/3168.ts
 #EXTINF:-1,Latino: Anime TV
 http://orbit-iptv.com:2500/live/theo/theo/3163.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Malta CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2694.ts
 #EXTINF:-1,MT: TVM 2
 http://orbit-iptv.com:2500/live/theo/theo/2696.ts
 #EXTINF:-1,MT: TVM 1
 http://orbit-iptv.com:2500/live/theo/theo/2695.ts
 #EXTINF:-1,MT: Smash TV
 http://orbit-iptv.com:2500/live/theo/theo/2697.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="NATHERLAND-HBO CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/1490.ts
 #EXTINF:-1,NL:Fox Sport 5
 http://orbit-iptv.com:2500/live/theo/theo/1491.ts
 #EXTINF:-1,NL:Fox Sport 4*
@@ -2011,8 +1979,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3067.ts
 http://orbit-iptv.com:2500/live/theo/theo/3080.ts
 #EXTINF:-1,NL:  Rtl Lounge
 http://orbit-iptv.com:2500/live/theo/theo/3054.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="NORWAY CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2312.ts
 #EXTINF:-1,NOVA: VIASAT Sport
 http://orbit-iptv.com:2500/live/theo/theo/2314.ts
 #EXTINF:-1,NOVA: C More Hits
@@ -2021,8 +1987,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2316.ts
 http://orbit-iptv.com:2500/live/theo/theo/2318.ts
 #EXTINF:-1,NOVA: C MORE Sport
 http://orbit-iptv.com:2500/live/theo/theo/2319.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PAKISTAN CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2295.ts
 #EXTINF:-1,PK: GEO NEWS
 http://orbit-iptv.com:2500/live/theo/theo/1766.ts
 #EXTINF:-1,PK: NEW,S ONE
@@ -2111,8 +2075,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1825.ts
 http://orbit-iptv.com:2500/live/theo/theo/2101.ts
 #EXTINF:-1,PK: ARY_Digital_Plus
 http://orbit-iptv.com:2500/live/theo/theo/1679.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="POLAND CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2296.ts
 #EXTINF:-1,PL: Tvp 3
 http://orbit-iptv.com:2500/live/theo/theo/2736.ts
 #EXTINF:-1,PL: Tvp 2
@@ -2161,8 +2123,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2121.ts
 http://orbit-iptv.com:2500/live/theo/theo/2111.ts
 #EXTINF:-1,PL Ngc - PL Ngc
 http://orbit-iptv.com:2500/live/theo/theo/2119.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PURTGOUAL CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2292.ts
 #EXTINF:-1,PT: SPORT TV 1
 http://orbit-iptv.com:2500/live/theo/theo/1813.ts
 #EXTINF:-1,PT-SPORT TV 2
@@ -2221,8 +2181,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1130.ts
 http://orbit-iptv.com:2500/live/theo/theo/1129.ts
 #EXTINF:-1,PT: AXN Black HD
 http://orbit-iptv.com:2500/live/theo/theo/1131.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="RUSSIA CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2303.ts
 #EXTINF:-1,RU: МАТЧ! Футбол 3  [Спорт ru]
 http://orbit-iptv.com:2500/live/theo/theo/3486.ts
 #EXTINF:-1,RU: МАТЧ! Футбол 2  [Спорт ru]
@@ -2357,8 +2315,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3398.ts
 http://orbit-iptv.com:2500/live/theo/theo/3399.ts
 #EXTINF:-1,RU: Discovery Channel
 http://orbit-iptv.com:2500/live/theo/theo/3394.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Romanian CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2704.ts
 #EXTINF:-1,RO: Eurosport 2
 http://orbit-iptv.com:2500/live/theo/theo/2721.ts
 #EXTINF:-1,RO: Eurosport
@@ -2407,8 +2363,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3143.ts
 http://orbit-iptv.com:2500/live/theo/theo/3138.ts
 #EXTINF:-1,RO: Antena 1
 http://orbit-iptv.com:2500/live/theo/theo/3139.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Singapore CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/3169.ts
 #EXTINF:-1,MLZ: Astro Sports 4
 http://orbit-iptv.com:2500/live/theo/theo/3173.ts
 #EXTINF:-1,MLZ: Astro Sports 3
@@ -2417,8 +2371,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3172.ts
 http://orbit-iptv.com:2500/live/theo/theo/3171.ts
 #EXTINF:-1,MLZ: Astro Sports 1
 http://orbit-iptv.com:2500/live/theo/theo/3170.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="IRAN CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/3045.ts
 #EXTINF:-1,IR: Gem Travel HD
 http://orbit-iptv.com:2500/live/theo/theo/3050.ts
 #EXTINF:-1,IR: Gem Rubix HD
@@ -2431,8 +2383,6 @@ http://orbit-iptv.com:2500/live/theo/theo/3049.ts
 http://orbit-iptv.com:2500/live/theo/theo/3051.ts
 #EXTINF:-1,IR: Gem HD
 http://orbit-iptv.com:2500/live/theo/theo/3046.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPAIN CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2302.ts
 #EXTINF:-1,ES: Historia
 http://orbit-iptv.com:2500/live/theo/theo/1101.ts
 #EXTINF:-1,ES: CanalPlus Xtra
@@ -2511,8 +2461,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1090.ts
 http://orbit-iptv.com:2500/live/theo/theo/1076.ts
 #EXTINF:-1,Smart Sport 1
 http://orbit-iptv.com:2500/live/theo/theo/1966.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Scandinavian CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2464.ts
 #EXTINF:-1,SC: Viasat-Motor-HD
 http://orbit-iptv.com:2500/live/theo/theo/2447.ts
 #EXTINF:-1,SC:  SVT 1
@@ -2539,8 +2487,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2458.ts
 http://orbit-iptv.com:2500/live/theo/theo/2463.ts
 #EXTINF:-1,SC: C-More-Emotion-HD
 http://orbit-iptv.com:2500/live/theo/theo/2459.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TURKISH CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2300.ts
 #EXTINF:-1,---TURKEY-TV-8-----
 http://orbit-iptv.com:2500/live/theo/theo/1364.ts
 #EXTINF:-1,TR: Cinebox TR (LOCAL)
@@ -2711,8 +2657,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1377.ts
 http://orbit-iptv.com:2500/live/theo/theo/524.ts
 #EXTINF:-1,Tivibuspor
 http://orbit-iptv.com:2500/live/theo/theo/1970.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="UNITED KINGDOM CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2157.ts
 #EXTINF:-1,---SKYUK One----
 http://orbit-iptv.com:2500/live/theo/theo/1433.ts
 #EXTINF:-1,UK: Sky Sport 1 HD
@@ -2937,8 +2881,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1935.ts
 http://orbit-iptv.com:2500/live/theo/theo/1942.ts
 #EXTINF:-1,UK:  DISNEY XD
 http://orbit-iptv.com:2500/live/theo/theo/2173.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2293.ts
 #EXTINF:-1,USA:USA Net
 http://orbit-iptv.com:2500/live/theo/theo/2918.ts
 #EXTINF:-1,USA: Starz Cinema
@@ -3043,8 +2985,6 @@ http://orbit-iptv.com:2500/live/theo/theo/2202.ts
 http://orbit-iptv.com:2500/live/theo/theo/1972.ts
 #EXTINF:-1,VIASAT Football
 http://orbit-iptv.com:2500/live/theo/theo/1971.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="YUGOSLAVIA CHANNELS",
-http://orbit-iptv.com:2500/live/theo/theo/2304.ts
 #EXTINF:-1,EX-YU: SPORT KLUB 3
 http://orbit-iptv.com:2500/live/theo/theo/2100.ts
 #EXTINF:-1,EX-YU: Sport Klub 2
@@ -3123,8 +3063,6 @@ http://orbit-iptv.com:2500/live/theo/theo/1685.ts
 http://orbit-iptv.com:2500/live/theo/theo/2438.ts
 #EXTINF:-1,RO: DIGI SPORT 4 HD
 http://orbit-iptv.com:2500/live/theo/theo/2439.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Action Movies",
-http://orbit-iptv.com:2500/movie/theo/theo/2372.avi
 #EXTINF:-1,Warcraft 2016
 http://orbit-iptv.com:2500/movie/theo/theo/3381.mkv
 #EXTINF:-1,Vigilante.Diaries.2016
