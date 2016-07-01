@@ -61,6 +61,16 @@ http://orbit-iptv.com:2500/live/theo/theo/2070.ts
 http://orbit-iptv.com:2500/live/theo/theo/2071.ts
 #EXTINF:-1,AR: BEINSPORTS16HD
 http://orbit-iptv.com:2500/live/theo/theo/2072.ts
+#EXTINF:-1,¤¤¤¤¤¤MOVIES¤¤¤¤¤¤
+http://topiptv.net:5890/live/Robert/Robert/1508.ts
+#EXTINF:-1,beIN MOVIES 1HD
+http://topiptv.net:5890/live/Robert/Robert/840.ts
+#EXTINF:-1,beIN MOVIES 2HD
+http://topiptv.net:5890/live/Robert/Robert/839.ts
+#EXTINF:-1,beIN MOVIES 3HD
+http://topiptv.net:5890/live/Robert/Robert/1458.ts
+#EXTINF:-1,beIN MOVIES 4HD
+http://topiptv.net:5890/live/Robert/Robert/1477.ts
 #EXTINF:-1,AR: OSN_MOVIES_FESTIVAL
 http://orbit-iptv.com:2500/live/theo/theo/1787.ts
 #EXTINF:-1,OSN MOVIE BOX HD
