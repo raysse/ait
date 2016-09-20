@@ -1,28 +1,5 @@
 #EXTM3U
 #EXTINF:-1,#### BeinSports Arabe Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/302.ts
-#EXTINF:-1,AR- BEIN SPORT NEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/691.ts
-#EXTINF:-1,BeinSports 1HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/10.ts
-#EXTINF:-1,BeinSports_2HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/9.ts
-#EXTINF:-1,BeinSports_3HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/8.ts
-#EXTINF:-1,BeinSports_4HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/7.ts
-#EXTINF:-1,BeinSports_5HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/6.ts
-#EXTINF:-1,BeinSports_6HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/5.ts
-#EXTINF:-1,BeinSports_7HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/4.ts
-#EXTINF:-1,BeinSports_8HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/3.ts
-#EXTINF:-1,BeinSports_9HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2.ts
-#EXTINF:-1,BeinSports_10HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1.ts
 #EXTINF:-1,AR: BeinSports 1HD LOCAL
 http://ip.kmsat.info:8000/live/Fernando/Fernando/1750.ts
 #EXTINF:-1,AR: BeinSports_2HD LOCAL
@@ -51,1694 +28,1990 @@ http://ip.kmsat.info:8000/live/Fernando/Fernando/322.ts
 http://ip.kmsat.info:8000/live/Fernando/Fernando/1632.ts
 #EXTINF:-1,AR: Bein Movies4 HD
 http://ip.kmsat.info:8000/live/Fernando/Fernando/2112.ts
-#EXTINF:-1,#### Sky Italy Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/303.ts
-#EXTINF:-1,IT: VIDEOLINA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2215.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2216.ts
-#EXTINF:-1,IT: Premium Action +24_HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2212.ts
-#EXTINF:-1,IT: Mediaset La 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2213.ts
-#EXTINF:-1,IT: Iris
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2214.ts
-#EXTINF:-1,IT: Topcrime
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2197.ts
-#EXTINF:-1,IT: Sky Disney Channel +1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2193.ts
-#EXTINF:-1,IT: RAI Storia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2195.ts
-#EXTINF:-1,IT: Rai Scuola
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2196.ts
-#EXTINF:-1,IT: Rai News 24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2194.ts
-#EXTINF:-1,IT: Radio Montercarlo TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2190.ts
-#EXTINF:-1,IT: Radio 105 Tv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2191.ts
-#EXTINF:-1,IT: Premium Sport 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2189.ts
-#EXTINF:-1,IT: Premium Joi +24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2192.ts
-#EXTINF:-1,IT: Marcopolo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2198.ts
-#EXTINF:-1,IT: Real Time
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1801.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1760.ts
-#EXTINF:-1,IT: Premium Top Crime HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1761.ts
-#EXTINF:-1,IT: Premium Iris HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1762.ts
-#EXTINF:-1,IT: Disney Junior
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1763.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/57.ts
-#EXTINF:-1,IT: RAI 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1533.ts
-#EXTINF:-1,IT: RAI 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/239.ts
-#EXTINF:-1,IT: Rai 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1534.ts
-#EXTINF:-1,IT: RAI 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/240.ts
-#EXTINF:-1,IT: Mediaset La 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1610.ts
-#EXTINF:-1,IT: Cartoonito
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1554.ts
-#EXTINF:-1,IT: Boing
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1555.ts
-#EXTINF:-1,IT: Discovery Science
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1305.ts
-#EXTINF:-1,IT: Rai Gulp
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1537.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1536.ts
-#EXTINF:-1,IT: Sky Cinema +24 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1372.ts
-#EXTINF:-1,IT: Discovery T&L HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1381.ts
-#EXTINF:-1,IT: Disney XD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1032.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/753.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/716.ts
-#EXTINF:-1,IT: SKY CINEMA Plus 24 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/703.ts
-#EXTINF:-1,IT: PREMIUM CINEMA +24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1542.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1539.ts
-#EXTINF:-1,IT: Premium Joi
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1540.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1377.ts
-#EXTINF:-1,IT: Premium Energy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/715.ts
-#EXTINF:-1,IT: Premium Calcio 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/634.ts
-#EXTINF:-1,IT: Premium Calcio 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/635.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/636.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/637.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/638.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/639.ts
-#EXTINF:-1,IT: Premium Calcio 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/640.ts
-#EXTINF:-1,IT: Premium Stories
-http://ip.kmsat.info:8000/live/Fernando/Fernando/380.ts
-#EXTINF:-1,IT: Premium Comedy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/382.ts
-#EXTINF:-1,IT: Premium Action HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/383.ts
-#EXTINF:-1,IT: Premium Emotion
-http://ip.kmsat.info:8000/live/Fernando/Fernando/202.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/204.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/208.ts
-#EXTINF:-1,IT: Premium Crime  + 24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/205.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/206.ts
-#EXTINF:-1,IT: Nat Geo People
-http://ip.kmsat.info:8000/live/Fernando/Fernando/714.ts
-#EXTINF:-1,IT: History HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/718.ts
-#EXTINF:-1,IT: Gambero Rosso HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/712.ts
-#EXTINF:-1,IT: Fine Living
-http://ip.kmsat.info:8000/live/Fernando/Fernando/711.ts
-#EXTINF:-1,IT: Explora HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/710.ts
-#EXTINF:-1,IT: Cielo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/709.ts
-#EXTINF:-1,IT: AXN HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/707.ts
-#EXTINF:-1,IT: Animal Planet
-http://ip.kmsat.info:8000/live/Fernando/Fernando/705.ts
-#EXTINF:-1,IT: Alice
-http://ip.kmsat.info:8000/live/Fernando/Fernando/704.ts
-#EXTINF:-1,IT: Sky Moto GP HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/631.ts
-#EXTINF:-1,IT: National Geographic HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/629.ts
-#EXTINF:-1,IT: FOCUS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/487.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/421.ts
-#EXTINF:-1,IT: Fox Life
-http://ip.kmsat.info:8000/live/Fernando/Fernando/453.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/455.ts
-#EXTINF:-1,IT: Sky Fox Animation HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/264.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/397.ts
-#EXTINF:-1,IT: Rai Premium
-http://ip.kmsat.info:8000/live/Fernando/Fernando/398.ts
-#EXTINF:-1,IT: Rai Movie
-http://ip.kmsat.info:8000/live/Fernando/Fernando/399.ts
-#EXTINF:-1,IT: Discovery Channal HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/384.ts
-#EXTINF:-1,IT: FOX HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/378.ts
-#EXTINF:-1,IT: Sport Italia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/220.ts
-#EXTINF:-1,IT: Sky uno
-http://ip.kmsat.info:8000/live/Fernando/Fernando/194.ts
-#EXTINF:-1,IT: SKy TG 24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/218.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/227.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/226.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/224.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/225.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://ip.kmsat.info:8000/live/Fernando/Fernando/273.ts
-#EXTINF:-1,IT: NatGeo Wild HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/339.ts
-#EXTINF:-1,IT: FOX COMEDY HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/337.ts
-#EXTINF:-1,IT: DMAX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/336.ts
-#EXTINF:-1,IT: CARTOON NETWORK
-http://ip.kmsat.info:8000/live/Fernando/Fernando/335.ts
-#EXTINF:-1,IT: Sky Cinema Maxs
-http://ip.kmsat.info:8000/live/Fernando/Fernando/195.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/232.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/233.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/198.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/234.ts
-#EXTINF:-1,IT: Sky Cinema  24 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/236.ts
-#EXTINF:-1,IT: Primafila 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/265.ts
-#EXTINF:-1,IT: Primafila 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/326.ts
-#EXTINF:-1,IT: Primafila 3 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/777.ts
-#EXTINF:-1,IT: Primafila 4 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/327.ts
-#EXTINF:-1,IT: Primafila 5 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/332.ts
-#EXTINF:-1,IT: Primafila 6 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/329.ts
-#EXTINF:-1,IT: Primafila 8 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/371.ts
-#EXTINF:-1,IT: Primafila 7 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/778.ts
-#EXTINF:-1,IT: Primafila 10 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/372.ts
-#EXTINF:-1,IT: Primafila 11 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/780.ts
-#EXTINF:-1,IT: Primafila 12 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/781.ts
-#EXTINF:-1,IT: Primafila 13 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/782.ts
-#EXTINF:-1,IT: Primafila 14 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/783.ts
-#EXTINF:-1,IT: Primafila 15 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/785.ts
-#EXTINF:-1,IT: SKY ATLANTIC HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/199.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://ip.kmsat.info:8000/live/Fernando/Fernando/214.ts
-#EXTINF:-1,IT: La7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/215.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/217.ts
-#EXTINF:-1,IT: Eurosport 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/243.ts
-#EXTINF:-1,IT: Eurosport 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/242.ts
-#EXTINF:-1,IT: Canale 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/193.ts
-#EXTINF:-1,IT: RSI La1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/63.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/64.ts
-#EXTINF:-1,IT: Rete 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/60.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/66.ts
-#EXTINF:-1,IT: Sky Cinema Hits
-http://ip.kmsat.info:8000/live/Fernando/Fernando/71.ts
-#EXTINF:-1,#### BeinSport France Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/304.ts
-#EXTINF:-1,FR:BEINSPORT 1 HD fr
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2143.ts
-#EXTINF:-1,FR:BEINSPORT 2 HD fr
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2144.ts
-#EXTINF:-1,FR:BEINSPORT 3 HD fr
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2145.ts
-#EXTINF:-1,FR: BEIN SPORT FR1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/130.ts
-#EXTINF:-1,FR: BEIN SPORT FR2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/131.ts
-#EXTINF:-1,FR: BEIN SPORT FR3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1006.ts
-#EXTINF:-1,#### France Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/301.ts
-#EXTINF:-1,FR:Weo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1911.ts
-#EXTINF:-1,FR: TREK HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2107.ts
-#EXTINF:-1,FR: GAME ONE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2106.ts
-#EXTINF:-1,FR: AB3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2105.ts
-#EXTINF:-1,FR: Orange Comment C est Fait HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1844.ts
-#EXTINF:-1,FR: E! ENTERTAINMENT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1848.ts
-#EXTINF:-1,FR: TV5 Monde Europe HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1716.ts
-#EXTINF:-1,FR: Nat Geo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/482.ts
-#EXTINF:-1,FR: Equidia Live
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1792.ts
-#EXTINF:-1,FR: AB Moteurs
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1715.ts
-#EXTINF:-1,FR: AB 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1714.ts
-#EXTINF:-1,FR: PPV A La Carte 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1412.ts
-#EXTINF:-1,FR: PPV A La Carte 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1413.ts
-#EXTINF:-1,FR: PPV A La Carte 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1414.ts
-#EXTINF:-1,FR: PPV A La Carte 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1415.ts
-#EXTINF:-1,FR: PPV A La Carte 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1416.ts
-#EXTINF:-1,FR: PPV A La Carte 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1417.ts
-#EXTINF:-1,FR: PPV A La Carte 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1418.ts
-#EXTINF:-1,FR: PPV A La Carte 8
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1419.ts
-#EXTINF:-1,FR: PPV A La Carte 9
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2200.ts
-#EXTINF:-1,FR: PPV A La Carte 10
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2201.ts
-#EXTINF:-1,FR: PPV A La Carte 11
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2203.ts
-#EXTINF:-1,FR: PPV A La Carte 12
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2204.ts
-#EXTINF:-1,FR: PPV A La Carte 13
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2205.ts
-#EXTINF:-1,FR: PPV A La Carte 14
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2206.ts
-#EXTINF:-1,FR: PPV A La Carte 15
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2207.ts
-#EXTINF:-1,FR: PPV A La Carte 16
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2208.ts
-#EXTINF:-1,FR: PPV A La Carte 17
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2209.ts
-#EXTINF:-1,FR: PPV A La Carte 18
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2210.ts
-#EXTINF:-1,FR: PPV A La Carte 19
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2211.ts
-#EXTINF:-1,FR: PPV A La Carte 20
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2202.ts
-#EXTINF:-1,FR: GRAND LILLE TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1629.ts
-#EXTINF:-1,FR: EURONEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1628.ts
-#EXTINF:-1,FR: HD1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1543.ts
-#EXTINF:-1,FR: Gong
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1469.ts
-#EXTINF:-1,FR: TVBREIZH
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1269.ts
-#EXTINF:-1,FR: Orange Documentaire HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1282.ts
-#EXTINF:-1,FR: OLTV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1236.ts
-#EXTINF:-1,FR: NUMERO 23 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1257.ts
-#EXTINF:-1,FR:  VOYAGE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1258.ts
-#EXTINF:-1,FR: TELETOON plus
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1175.ts
-#EXTINF:-1,FR: Orange enquete exclusive HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1174.ts
-#EXTINF:-1,FR: Orange Cine horreur HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1171.ts
-#EXTINF:-1,FR: Orange Cine Comedie HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1173.ts
-#EXTINF:-1,FR: Orange Cine Aventure HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1172.ts
-#EXTINF:-1,FR: Orange Cine Action HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1170.ts
-#EXTINF:-1,FR: NRJ 12
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1039.ts
-#EXTINF:-1,FR: BFM Business
-http://ip.kmsat.info:8000/live/Fernando/Fernando/998.ts
-#EXTINF:-1,FR: TOUTE l'HISTOIRE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/857.ts
-#EXTINF:-1,FR: TIJI
-http://ip.kmsat.info:8000/live/Fernando/Fernando/854.ts
-#EXTINF:-1,FR: RTL 9 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/859.ts
-#EXTINF:-1,FR: Rmc Decouverte
-http://ip.kmsat.info:8000/live/Fernando/Fernando/849.ts
-#EXTINF:-1,FR: Planete  A&E HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/848.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/855.ts
-#EXTINF:-1,FR: EQUIPE 21
-http://ip.kmsat.info:8000/live/Fernando/Fernando/858.ts
-#EXTINF:-1,FR: CHERIE 25
-http://ip.kmsat.info:8000/live/Fernando/Fernando/861.ts
-#EXTINF:-1,FR: CANAL J
-http://ip.kmsat.info:8000/live/Fernando/Fernando/851.ts
-#EXTINF:-1,FR: Boomerang HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/852.ts
-#EXTINF:-1,FR: BOING
-http://ip.kmsat.info:8000/live/Fernando/Fernando/853.ts
-#EXTINF:-1,FR : EURONEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/860.ts
-#EXTINF:-1,FR: National Geo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/767.ts
-#EXTINF:-1,FR: M6 Music
-http://ip.kmsat.info:8000/live/Fernando/Fernando/769.ts
-#EXTINF:-1,FR: Disney Channel +1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/774.ts
-#EXTINF:-1,FR: Disney Channel
-http://ip.kmsat.info:8000/live/Fernando/Fernando/775.ts
-#EXTINF:-1,FR: D17
-http://ip.kmsat.info:8000/live/Fernando/Fernando/776.ts
-#EXTINF:-1,FR: TMC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/760.ts
-#EXTINF:-1,FR: Teva HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/763.ts
-#EXTINF:-1,FR: D8
-http://ip.kmsat.info:8000/live/Fernando/Fernando/762.ts
-#EXTINF:-1,FR: Cartoon Network HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/761.ts
-#EXTINF:-1,FR: BFM TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/766.ts
-#EXTINF:-1,FR: France 24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/739.ts
-#EXTINF:-1,FR-DISNEY JUNIOR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/740.ts
-#EXTINF:-1,FR: Canal + HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/664.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/633.ts
-#EXTINF:-1,FR: NATIONALGEO WILD HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/626.ts
-#EXTINF:-1,FR: A LACARTE 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/627.ts
-#EXTINF:-1,FR: SYFY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/623.ts
-#EXTINF:-1,FR: PLANETE +
-http://ip.kmsat.info:8000/live/Fernando/Fernando/622.ts
-#EXTINF:-1,FR: OCS Choc
-http://ip.kmsat.info:8000/live/Fernando/Fernando/615.ts
-#EXTINF:-1,FR: INFOSPORT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/616.ts
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/619.ts
-#EXTINF:-1,FR: CINE FX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/620.ts
-#EXTINF:-1,FR: OCS GEANTS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/621.ts
-#EXTINF:-1,FR: Cine Emotion HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/614.ts
-#EXTINF:-1,FR: PARIS PREMIERE  HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/572.ts
-#EXTINF:-1,FR: Mangas
-http://ip.kmsat.info:8000/live/Fernando/Fernando/566.ts
-#EXTINF:-1,FR: Gulli
-http://ip.kmsat.info:8000/live/Fernando/Fernando/567.ts
-#EXTINF:-1,FR: Foot24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/556.ts
-#EXTINF:-1,FR: EUROSPORT 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/557.ts
-#EXTINF:-1,FR: W9 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/467.ts
-#EXTINF:-1,FR: Planete Ci
-http://ip.kmsat.info:8000/live/Fernando/Fernando/468.ts
-#EXTINF:-1,FR: OCS MAX HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/465.ts
-#EXTINF:-1,FR: NT1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/466.ts
-#EXTINF:-1,FR: DISCOVERY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/389.ts
-#EXTINF:-1,FR: CINE PREMIER
-http://ip.kmsat.info:8000/live/Fernando/Fernando/388.ts
-#EXTINF:-1,FR: CHASSE ET PECHE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/390.ts
-#EXTINF:-1,FR: CANAL FAMILY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/392.ts
-#EXTINF:-1,FR: ACTION
-http://ip.kmsat.info:8000/live/Fernando/Fernando/393.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/262.ts
-#EXTINF:-1,FR: A LA CARTE 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/263.ts
-#EXTINF:-1,FR: A LA CARTE 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/819.ts
-#EXTINF:-1,FR: A LA CARTE 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/313.ts
-#EXTINF:-1,FR: A LA CARTE 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/272.ts
-#EXTINF:-1,FR: A LA CARTE 8
-http://ip.kmsat.info:8000/live/Fernando/Fernando/894.ts
-#EXTINF:-1,FR: A LA CARTE 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/893.ts
-#EXTINF:-1,FR: A LA CARTE 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/892.ts
-#EXTINF:-1,FR: TF1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/275.ts
-#EXTINF:-1,FR: France 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/134.ts
-#EXTINF:-1,FR: France 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/135.ts
-#EXTINF:-1,FR: France 4 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/136.ts
-#EXTINF:-1,FR: France 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/137.ts
-#EXTINF:-1,FR: France O
-http://ip.kmsat.info:8000/live/Fernando/Fernando/133.ts
-#EXTINF:-1,FR: M6 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/141.ts
-#EXTINF:-1,FR: Serie Club HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/279.ts
-#EXTINF:-1,FR: COMEDIE  HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/281.ts
-#EXTINF:-1,FR: 13EME RUE HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/280.ts
-#EXTINF:-1,FR: USHUAIA HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/289.ts
-#EXTINF:-1,FR: CINE FRISSON HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/288.ts
-#EXTINF:-1,FR: CINE FAMIZ
-http://ip.kmsat.info:8000/live/Fernando/Fernando/287.ts
-#EXTINF:-1,FR: CANAL SPORT HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/286.ts
-#EXTINF:-1,FR: CANAL SERIES HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/283.ts
-#EXTINF:-1,FR: CANAL DECALE HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/285.ts
-#EXTINF:-1,FR: CANAL CINEMA HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/282.ts
-#EXTINF:-1,FR: ANIMAUX HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/291.ts
-#EXTINF:-1,FR: 6TER
-http://ip.kmsat.info:8000/live/Fernando/Fernando/147.ts
-#EXTINF:-1,FR: ARTE HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/144.ts
-#EXTINF:-1,FR: Sciences & Vie TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/150.ts
-#EXTINF:-1,FR: CINE POLAR HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/346.ts
-#EXTINF:-1,FR: OCS City HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/348.ts
-#EXTINF:-1,FR: iTELE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/347.ts
-#EXTINF:-1,BE: La Une HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/772.ts
-#EXTINF:-1,BE: La-Deux
-http://ip.kmsat.info:8000/live/Fernando/Fernando/571.ts
-#EXTINF:-1,BE: La-Trois
-http://ip.kmsat.info:8000/live/Fernando/Fernando/570.ts
-#EXTINF:-1,BE: RTL TVI HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1342.ts
-#EXTINF:-1,BE: PLUG RTL
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1343.ts
-#EXTINF:-1,BE: LA TROIS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1344.ts
-#EXTINF:-1,BE: LA DEUX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1345.ts
-#EXTINF:-1,BE: KETNET
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1346.ts
-#EXTINF:-1,FR: CANAL PLAY 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/884.ts
-#EXTINF:-1,FR: CANAL PLAY 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/885.ts
-#EXTINF:-1,FR: CANAL PLAY 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/886.ts
-#EXTINF:-1,FR: CANAL PLAY 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1668.ts
-#EXTINF:-1,FR: CANAL PLAY 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1669.ts
-#EXTINF:-1,FR: CANAL PLAY 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1670.ts
-#EXTINF:-1,FR:CANAL PLAY 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1671.ts
-#EXTINF:-1,FR:CANAL PLAY 8
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1672.ts
-#EXTINF:-1,FR: CANAL PLAY 9
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1673.ts
-#EXTINF:-1,FR: CANAL PLAY 15
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1679.ts
-#EXTINF:-1,FR: CANAL PLAY 14
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1678.ts
-#EXTINF:-1,FR: CANAL PLAY 13
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1677.ts
-#EXTINF:-1,FR: CANAL PLAY 12
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1676.ts
-#EXTINF:-1,FR: CANAL PLAY 11
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1675.ts
-#EXTINF:-1,FR: CANAL PLAY 10
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1674.ts
-#EXTINF:-1,#### Arabe Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/305.ts
-#EXTINF:-1,AR: ZAHRAA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2095.ts
-#EXTINF:-1,AR: SHARQIA KARBALA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2096.ts
-#EXTINF:-1,AR: QATAR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2101.ts
-#EXTINF:-1,AR: NABA TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2099.ts
-#EXTINF:-1,AR: MOTAWASSIT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2103.ts
-#EXTINF:-1,AR: KARBALA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2091.ts
-#EXTINF:-1,AR: IRAQIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2092.ts
-#EXTINF:-1,AR: FIRST TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2104.ts
-#EXTINF:-1,AR: DW TV ARABIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2100.ts
-#EXTINF:-1,AR: DIJLA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2090.ts
-#EXTINF:-1,AR: AL SALAM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2102.ts
-#EXTINF:-1,AR: AL AQSA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2097.ts
-#EXTINF:-1,AR : ART HEKAYAT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2085.ts
-#EXTINF:-1,AR: ART HEKAYAT 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2086.ts
-#EXTINF:-1,AR: ART CINEMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2087.ts
-#EXTINF:-1,AR:Saudia_Quran_tv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2073.ts
-#EXTINF:-1,AR:Mecca_Quran
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2074.ts
-#EXTINF:-1,AR:IQRAA_TV3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2076.ts
-#EXTINF:-1,AR: ALBAGHDADIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2089.ts
-#EXTINF:-1,AR: AL SHARQIA TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2093.ts
-#EXTINF:-1,AR: AL SHARQIA NEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2094.ts
-#EXTINF:-1,AR: AL FORAT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2088.ts
-#EXTINF:-1,AR:Al_Haram
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2078.ts
-#EXTINF:-1,AR: SPACETOON
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2084.ts
-#EXTINF:-1,AR: ZAYTOUNA-HEDAYA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1764.ts
-#EXTINF:-1,AR: SYRIA SAMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1871.ts
-#EXTINF:-1,AR: SYRIA DRAMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1872.ts
-#EXTINF:-1,AR: SYRIA AL IKHBARIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1874.ts
-#EXTINF:-1,AR: SHAM FM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1875.ts
-#EXTINF:-1,AR: LIBYA TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1868.ts
-#EXTINF:-1,AR: LIBYA CHANNEL
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1870.ts
-#EXTINF:-1,AR: HALAB TODAY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1873.ts
-#EXTINF:-1,AR: DUBAI SPORT TV 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1717.ts
-#EXTINF:-1,AR: ATTESSIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1867.ts
-#EXTINF:-1,AR: ALMAGHARIBIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1866.ts
-#EXTINF:-1,AR: ASSALAM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1781.ts
-#EXTINF:-1,AR: ALHAYAT 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1783.ts
-#EXTINF:-1,AR: ALHAYAT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1782.ts
-#EXTINF:-1,AR: AL RAY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1780.ts
-#EXTINF:-1,AR: AL RAHMAH
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1779.ts
-#EXTINF:-1,AR: AL RAFIDAIN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1778.ts
-#EXTINF:-1,AR: AL KARAMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1777.ts
-#EXTINF:-1,AR: AL HURRA IRAQ
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1774.ts
-#EXTINF:-1,AR: AL FAYHAA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1772.ts
-#EXTINF:-1,AR: AL FADY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1771.ts
-#EXTINF:-1,AR: AL ARABIA HADATH
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1768.ts
-#EXTINF:-1,AR: AL AAN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1773.ts
-#EXTINF:-1,AR: AJIYAL
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1767.ts
-#EXTINF:-1,AR: AGHANINA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1766.ts
-#EXTINF:-1,AR: ALGERIE NATIONAL
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1634.ts
-#EXTINF:-1,AR-Samira
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1182.ts
-#EXTINF:-1,AR: ZAYTOUNA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1619.ts
-#EXTINF:-1,AR: Tounesna
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1620.ts
-#EXTINF:-1,AR: ElHiwar Tounsi
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1618.ts
-#EXTINF:-1,AR- AL MAYADEEN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1552.ts
-#EXTINF:-1,AR- AL JANOUBIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1551.ts
-#EXTINF:-1,AR: Tunisie Nationale 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1477.ts
-#EXTINF:-1,AR: Tunisie Nationale 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1478.ts
-#EXTINF:-1,AR: Toyor Al Janah Children
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1476.ts
-#EXTINF:-1,AR: Hanibal
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1480.ts
-#EXTINF:-1,AR: Tunisia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1479.ts
-#EXTINF:-1,AR: KBC ALGERIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1458.ts
-#EXTINF:-1,AR: Tunisna
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1462.ts
-#EXTINF:-1,AR- ElHeddaf TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1272.ts
-#EXTINF:-1,AR- ELBILAD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1273.ts
-#EXTINF:-1,AR- ECHOUROUK TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1274.ts
-#EXTINF:-1,AR- ECHOUROUK NEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1275.ts
-#EXTINF:-1,AR- DZAIR NEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1277.ts
-#EXTINF:-1,AR:  CANAL ALGERIE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1278.ts
-#EXTINF:-1,AR- ALGERIE TV CORAN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1279.ts
-#EXTINF:-1,AR- ALGERIE 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1280.ts
-#EXTINF:-1,AR- ALDJAZAIRIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1281.ts
-#EXTINF:-1,AR: Hannibal
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1461.ts
-#EXTINF:-1,AR: ABUDABI OULA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1454.ts
-#EXTINF:-1,AR: ABUDABI DRAMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1455.ts
-#EXTINF:-1,AR- Alan
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1338.ts
-#EXTINF:-1,AR: AJYAL SAUDI
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1339.ts
-#EXTINF:-1,AR- Panorama Drama
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1331.ts
-#EXTINF:-1,AR- Panorama Drama 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1330.ts
-#EXTINF:-1,AR- Panorama Comedy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1332.ts
-#EXTINF:-1,AR-  Alkass-1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1334.ts
-#EXTINF:-1,AR-  Alkass-2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1335.ts
-#EXTINF:-1,AR-  Alkass-4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1336.ts
-#EXTINF:-1,AR-  Alkass-5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1337.ts
-#EXTINF:-1,AR- FATAFEAT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1270.ts
-#EXTINF:-1,AR: LBC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1192.ts
-#EXTINF:-1,AR-Wesal
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1179.ts
-#EXTINF:-1,AR-Sunna
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1180.ts
-#EXTINF:-1,AR-Sky-News-Arabia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1181.ts
-#EXTINF:-1,AR-Sama-Dubai
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1183.ts
-#EXTINF:-1,AR-Rotana-Cinema
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1184.ts
-#EXTINF:-1,AR-Panorama-Film
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1185.ts
-#EXTINF:-1,AR-Medi-1-Sat
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1188.ts
-#EXTINF:-1,AR: 2M-MONDE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1191.ts
-#EXTINF:-1,AR- Arabe Box Office 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/891.ts
-#EXTINF:-1,AR- Arabe Box Office 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/890.ts
-#EXTINF:-1,AR- Arabe Box Office 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/889.ts
-#EXTINF:-1,AR- Arabe Box Office 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/888.ts
-#EXTINF:-1,AR- Arabe Box Office 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/887.ts
-#EXTINF:-1,AR- Rotana-music
-http://ip.kmsat.info:8000/live/Fernando/Fernando/725.ts
-#EXTINF:-1,AR- Rotana-Masriya
-http://ip.kmsat.info:8000/live/Fernando/Fernando/726.ts
-#EXTINF:-1,AR- Rotana-Khalijia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/727.ts
-#EXTINF:-1,AR- Rotana-Clip
-http://ip.kmsat.info:8000/live/Fernando/Fernando/728.ts
-#EXTINF:-1,AR- Rotana-Classic
-http://ip.kmsat.info:8000/live/Fernando/Fernando/729.ts
-#EXTINF:-1,AR: Jordan-Sport
-http://ip.kmsat.info:8000/live/Fernando/Fernando/731.ts
-#EXTINF:-1,AR- DZair-TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/748.ts
-#EXTINF:-1,AR- AL-MANAR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/732.ts
-#EXTINF:-1,AR- Al-Khabar-TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/733.ts
-#EXTINF:-1,AR- AL-IMAN-TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/734.ts
-#EXTINF:-1,OSN: On Demand
-http://ip.kmsat.info:8000/live/Fernando/Fernando/699.ts
-#EXTINF:-1,AR: MBC PRO SPORT 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1153.ts
-#EXTINF:-1,AR: MBC PRO SPORT 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/539.ts
-#EXTINF:-1,AR: MBC PRO SPORT 3 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/670.ts
-#EXTINF:-1,AR: EnnaharTV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/671.ts
-#EXTINF:-1,AR: France 24 AR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1031.ts
-#EXTINF:-1,AR- Noor Dubai
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1025.ts
-#EXTINF:-1,AR- Nabaa
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1026.ts
-#EXTINF:-1,AR- Dubai Drama
-http://ip.kmsat.info:8000/live/Fernando/Fernando/681.ts
-#EXTINF:-1,AR- DUBAI ONE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/682.ts
-#EXTINF:-1,AR- Charika Sport
-http://ip.kmsat.info:8000/live/Fernando/Fernando/683.ts
-#EXTINF:-1,AR- Charika Kabtv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/684.ts
-#EXTINF:-1,AR-Baraem
-http://ip.kmsat.info:8000/live/Fernando/Fernando/686.ts
-#EXTINF:-1,AR- Aljadeed
-http://ip.kmsat.info:8000/live/Fernando/Fernando/688.ts
-#EXTINF:-1,AR: AL ARABIA NEWS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/690.ts
-#EXTINF:-1,AR- Aljazeera englisch
-http://ip.kmsat.info:8000/live/Fernando/Fernando/484.ts
-#EXTINF:-1,Aljazeera Mubasher2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/485.ts
-#EXTINF:-1,AR- Aljazeera Balkans:
-http://ip.kmsat.info:8000/live/Fernando/Fernando/483.ts
-#EXTINF:-1,AR: Mbc Action
-http://ip.kmsat.info:8000/live/Fernando/Fernando/460.ts
-#EXTINF:-1,AR- Quran Tv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/400.ts
-#EXTINF:-1,AR- Nour ACHAM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/401.ts
-#EXTINF:-1,AR: MBC 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/157.ts
-#EXTINF:-1,AR: MBC 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/462.ts
-#EXTINF:-1,AR: MBC 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1464.ts
-#EXTINF:-1,AR: MBC 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/407.ts
-#EXTINF:-1,AR: MBC DRAMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/318.ts
-#EXTINF:-1,AR: MBC BOLLYWOOD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/394.ts
-#EXTINF:-1,AR-MBC MAX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1189.ts
-#EXTINF:-1,AR: MBC MASR2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1190.ts
-#EXTINF:-1,AR- Nile Sport
-http://ip.kmsat.info:8000/live/Fernando/Fernando/402.ts
-#EXTINF:-1,AR- Nile Life
-http://ip.kmsat.info:8000/live/Fernando/Fernando/403.ts
-#EXTINF:-1,AR- Nile Comedy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/404.ts
-#EXTINF:-1,AR- Nile Cinema
-http://ip.kmsat.info:8000/live/Fernando/Fernando/405.ts
-#EXTINF:-1,AR- Echorouk TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/409.ts
-#EXTINF:-1,AR- Alsharqiya
-http://ip.kmsat.info:8000/live/Fernando/Fernando/416.ts
-#EXTINF:-1,AR- Aljazeera
-http://ip.kmsat.info:8000/live/Fernando/Fernando/418.ts
-#EXTINF:-1,AR- OSN MOVIES HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/320.ts
-#EXTINF:-1,AR: ART AFLAM 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/323.ts
-#EXTINF:-1,AR- Al Nahar Drama
-http://ip.kmsat.info:8000/live/Fernando/Fernando/324.ts
-#EXTINF:-1,AR: Nessma
-http://ip.kmsat.info:8000/live/Fernando/Fernando/295.ts
-#EXTINF:-1,AR: ART AFLAM 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/298.ts
-#EXTINF:-1,AR: Art-Hekayat
-http://ip.kmsat.info:8000/live/Fernando/Fernando/300.ts
-#EXTINF:-1,#### Albanie Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/498.ts
-#EXTINF:-1,Pink Western
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1937.ts
-#EXTINF:-1,Pink Thriller
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1938.ts
-#EXTINF:-1,Pink Romance
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1941.ts
-#EXTINF:-1,Pink Premium
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1942.ts
-#EXTINF:-1,Pink Plus
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1943.ts
-#EXTINF:-1,Pink Pedia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1944.ts
-#EXTINF:-1,Pink Music
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1945.ts
-#EXTINF:-1,Pink Kuvar
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1947.ts
-#EXTINF:-1,Pink Kids
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1948.ts
-#EXTINF:-1,Pink Horror
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1949.ts
-#EXTINF:-1,Pink Folk 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1950.ts
-#EXTINF:-1,Pink Film
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1951.ts
-#EXTINF:-1,Pink Fantasy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1952.ts
-#EXTINF:-1,Pink Extra
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1953.ts
-#EXTINF:-1,Pink Crime & Mistery
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1954.ts
-#EXTINF:-1,Pink Comedy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1955.ts
-#EXTINF:-1,ALB: Tring Smile
-http://ip.kmsat.info:8000/live/Fernando/Fernando/975.ts
-#EXTINF:-1,ALB: Tring Festa
-http://ip.kmsat.info:8000/live/Fernando/Fernando/977.ts
-#EXTINF:-1,ALB: Super Sport 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/974.ts
-#EXTINF:-1,ALB: Stinet T Channel
-http://ip.kmsat.info:8000/live/Fernando/Fernando/979.ts
-#EXTINF:-1,ALB: RTV21 Junior
-http://ip.kmsat.info:8000/live/Fernando/Fernando/980.ts
-#EXTINF:-1,THOR: Digi Sport 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1062.ts
-#EXTINF:-1,ALB: PinkReality
-http://ip.kmsat.info:8000/live/Fernando/Fernando/366.ts
-#EXTINF:-1,ALB: Super Sport 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/370.ts
-#EXTINF:-1,ALB: Supersport 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1055.ts
-#EXTINF:-1,ALB: Supersport 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1056.ts
-#EXTINF:-1,ALB: Supersport 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1057.ts
-#EXTINF:-1,ALB: PinkWestern
-http://ip.kmsat.info:8000/live/Fernando/Fernando/369.ts
-#EXTINF:-1,ALB: PINK SCI-FI & FANTASY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/362.ts
-#EXTINF:-1,ALB: Pink 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/360.ts
-#EXTINF:-1,ALB: Pink2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/361.ts
-#EXTINF:-1,Pink 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1958.ts
-#EXTINF:-1,#### UK Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/307.ts
-#EXTINF:-1,UK: Sky One HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2115.ts
-#EXTINF:-1,UK: SKY TWO HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2116.ts
-#EXTINF:-1,UK: BT Sports 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2113.ts
-#EXTINF:-1,UK: BT Sports 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2114.ts
-#EXTINF:-1,UK: TLC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1600.ts
-#EXTINF:-1,UK: Sky Drama
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1607.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1605.ts
-#EXTINF:-1,UK: More 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1598.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1465.ts
-#EXTINF:-1,UK: VH1 Classic
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1368.ts
-#EXTINF:-1,UK: Racing
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1369.ts
-#EXTINF:-1,UK: SHOWCASE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1307.ts
-#EXTINF:-1,UK: ITVBE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1308.ts
-#EXTINF:-1,UK: ITV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1309.ts
-#EXTINF:-1,UK: HISTORY 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1310.ts
-#EXTINF:-1,UK: FILM 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1312.ts
-#EXTINF:-1,UK: E!
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1313.ts
-#EXTINF:-1,UK: DAVE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1314.ts
-#EXTINF:-1,UK: CRIME & THRILLER
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1315.ts
-#EXTINF:-1,UK: CBS Action
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1318.ts
-#EXTINF:-1,UK: 5 Usa
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1320.ts
-#EXTINF:-1,Uk:Discovery Science HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1252.ts
-#EXTINF:-1,UK: SKY MOVIE FAMILY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1250.ts
-#EXTINF:-1,UK: Premier Sport
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1251.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1254.ts
-#EXTINF:-1,UK: Sky Chelsea TV HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1220.ts
-#EXTINF:-1,UK: Sky Cartoon Network
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1221.ts
-#EXTINF:-1,UK: RTE1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1224.ts
-#EXTINF:-1,UK: RTE2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1223.ts
-#EXTINF:-1,UK: Sky Animal Planet
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1222.ts
-#EXTINF:-1,UK: MTV HITS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1225.ts
-#EXTINF:-1,UK: DISNEY XD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1227.ts
-#EXTINF:-1,UK: SKY MOVIES THRILLER
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1177.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1178.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1176.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1140.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1141.ts
-#EXTINF:-1,UK: True Movies 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1103.ts
-#EXTINF:-1,UK: True Movies 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1091.ts
-#EXTINF:-1,UK: TCM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1100.ts
-#EXTINF:-1,UK: SKY MOVIE PREMIERE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1105.ts
-#EXTINF:-1,UK: Nick Jr
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1098.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1093.ts
-#EXTINF:-1,UK: Sky Arts 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1087.ts
-#EXTINF:-1,UK: PICK TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1094.ts
-#EXTINF:-1,UK: MTV Rocks
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1088.ts
-#EXTINF:-1,UK: MTV Base
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1089.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1080.ts
-#EXTINF:-1,UK: ITV 3 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1081.ts
-#EXTINF:-1,UK: ITV 4 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1082.ts
-#EXTINF:-1,UK: Eden +1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1095.ts
-#EXTINF:-1,UK: E4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1097.ts
-#EXTINF:-1,UK: Discovery Shed
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1096.ts
-#EXTINF:-1,UK: Sky Setanta Sports 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1035.ts
-#EXTINF:-1,UK: Sky MUTV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1038.ts
-#EXTINF:-1,UK: Sky BT Sport 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1036.ts
-#EXTINF:-1,UK: Sky BT Sport 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1037.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1011.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1603.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1015.ts
-#EXTINF:-1,UK: Quest
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1018.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1014.ts
-#EXTINF:-1,UK: Sky Sports News
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1604.ts
-#EXTINF:-1,UK: Discovery History
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1019.ts
-#EXTINF:-1,UK: Comedy Central
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1020.ts
-#EXTINF:-1,UK: Sky Sport 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1017.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1008.ts
-#EXTINF:-1,UK: Sky sports 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1009.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1010.ts
-#EXTINF:-1,UK: SKY SPORT 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1033.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1601.ts
-#EXTINF:-1,UK: SKY SPORT 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1034.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1602.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/872.ts
-#EXTINF:-1,UK: CBS REALITY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/871.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/870.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/333.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/334.ts
-#EXTINF:-1,#### Turk Channels####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/463.ts
-#EXTINF:-1,TR: FILMBOX YERLI 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2059.ts
-#EXTINF:-1,TR: FILMBOX YERLI 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2060.ts
-#EXTINF:-1,TR: FILMBOX YERLI 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2061.ts
-#EXTINF:-1,TR: FILMBOX YERLI 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2062.ts
-#EXTINF:-1,TR: FILMBOX YERLI 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2063.ts
-#EXTINF:-1,TR: FILMBOX YERLI 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2064.ts
-#EXTINF:-1,TR: FILMBOX YERLI 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2065.ts
-#EXTINF:-1,TR: FILMBOX YERLI 8
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2066.ts
-#EXTINF:-1,TR: FILMBOX YERLI 9
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2067.ts
-#EXTINF:-1,TR: FILMBOX YERLI 10
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2068.ts
-#EXTINF:-1,TR: LIG TV 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1426.ts
-#EXTINF:-1,TR: LIG TV 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1425.ts
-#EXTINF:-1,TR: LIG TV 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1424.ts
-#EXTINF:-1,TR: Moviemax Stars 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1365.ts
-#EXTINF:-1,TR: Moviemax Stars
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1364.ts
-#EXTINF:-1,TR: Moviemax Premier 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1363.ts
-#EXTINF:-1,TR: Moviemax Premier
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1362.ts
-#EXTINF:-1,TR: Moviemax Festival
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1367.ts
-#EXTINF:-1,TR: Movie Smart Gold
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1366.ts
-#EXTINF:-1,TR: LOCA 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1359.ts
-#EXTINF:-1,TR: LOCA 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1360.ts
-#EXTINF:-1,TR: LOCA 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1361.ts
-#EXTINF:-1,TK: TV 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1076.ts
-#EXTINF:-1,TK: KRAL TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1078.ts
-#EXTINF:-1,TK: KANAL D HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1067.ts
-#EXTINF:-1,TK: KANAL 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1068.ts
-#EXTINF:-1,TK: A SPOR HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1073.ts
-#EXTINF:-1,TK: A HABER HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1074.ts
-#EXTINF:-1,TK: FOX TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1041.ts
-#EXTINF:-1,TK: TRT SPOR HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1051.ts
-#EXTINF:-1,TK: NTV SPOR HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1050.ts
-#EXTINF:-1,TK: TV2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/994.ts
-#EXTINF:-1,TK: POWER TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/996.ts
-#EXTINF:-1,TK: YABAN TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/992.ts
-#EXTINF:-1,TK: TRT BELGESEL HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/445.ts
-#EXTINF:-1,TK: TRT TURK
-http://ip.kmsat.info:8000/live/Fernando/Fernando/442.ts
-#EXTINF:-1,TK: TRT MUZIK
-http://ip.kmsat.info:8000/live/Fernando/Fernando/443.ts
-#EXTINF:-1,TK: TRT HABER HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/441.ts
-#EXTINF:-1,TK: TRT COCUK
-http://ip.kmsat.info:8000/live/Fernando/Fernando/444.ts
-#EXTINF:-1,TK: TRT 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/440.ts
-#EXTINF:-1,TK: STAR TV HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/426.ts
-#EXTINF:-1,TK: SHOW TV HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/427.ts
-#EXTINF:-1,TK: NTV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/428.ts
-#EXTINF:-1,TK: Dreamturk Tv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/410.ts
-#EXTINF:-1,TK: DREAM TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/450.ts
-#EXTINF:-1,#### Deutsch Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/972.ts
-#EXTINF:-1,DE: SKY HISTORY CHANNEL HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1403.ts
-#EXTINF:-1,DE: SKY AXN ACTION HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1404.ts
-#EXTINF:-1,DE: VOX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1321.ts
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1325.ts
-#EXTINF:-1,DE: Sky Rtl Passion
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1326.ts
-#EXTINF:-1,DE: Sky Planet HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1327.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1328.ts
-#EXTINF:-1,DE: Sky Krimi
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1239.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1245.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1244.ts
-#EXTINF:-1,DE: National Geo HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1242.ts
-#EXTINF:-1,DE: Nat Geo Wild
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1241.ts
-#EXTINF:-1,DE: Sky Emotion
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1137.ts
-#EXTINF:-1,DE: Sky Cinema
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1138.ts
-#EXTINF:-1,DE: TNT SERIES HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/960.ts
-#EXTINF:-1,DE: SKY TNT FILME HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/959.ts
-#EXTINF:-1,DE: SKY SYFY HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/956.ts
-#EXTINF:-1,DE: SKY HITS HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/955.ts
-#EXTINF:-1,DE: SKY DMAX HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/958.ts
-#EXTINF:-1,DE: SKY COMEDY HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/952.ts
-#EXTINF:-1,DE: SKY ACTION HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/953.ts
-#EXTINF:-1,DE: SKY 13 STREET HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/954.ts
-#EXTINF:-1,DE: SIXX HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/957.ts
-#EXTINF:-1,DE: SAT 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/967.ts
-#EXTINF:-1,DE: RTL PASS?ON
-http://ip.kmsat.info:8000/live/Fernando/Fernando/966.ts
-#EXTINF:-1,DE: RTL CR?ME
-http://ip.kmsat.info:8000/live/Fernando/Fernando/964.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/962.ts
-#EXTINF:-1,DE: PRO MAXX HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/969.ts
-#EXTINF:-1,DE: PRO 7 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/968.ts
-#EXTINF:-1,DE: ARTE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/961.ts
-#EXTINF:-1,DE: A E DE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/970.ts
-#EXTINF:-1,DE: VEVO DE HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/799.ts
-#EXTINF:-1,DE: Super RTL HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/791.ts
-#EXTINF:-1,DE: SKY Bundesliga HD1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/786.ts
-#EXTINF:-1,DE: SKY Bundesliga HD2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/787.ts
-#EXTINF:-1,DE: RTL HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/790.ts
-#EXTINF:-1,DE: RIC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/800.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/792.ts
-#EXTINF:-1,DE: Deluxe Music
-http://ip.kmsat.info:8000/live/Fernando/Fernando/798.ts
-#EXTINF:-1,DE: Sky-Select HD 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/613.ts
-#EXTINF:-1,DE: Sky-Select HD 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/612.ts
-#EXTINF:-1,DE: Sky-Select HD 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/611.ts
-#EXTINF:-1,DE: Sky-Select HD 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/610.ts
-#EXTINF:-1,DE: Sky-Select HD 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/609.ts
-#EXTINF:-1,DE:  Sky-Select HD 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/608.ts
-#EXTINF:-1,DE: Sky-Select HD 7
-http://ip.kmsat.info:8000/live/Fernando/Fernando/607.ts
-#EXTINF:-1,DE :SKY HITS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/542.ts
-#EXTINF:-1,DE :SKY CINEMA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/545.ts
-#EXTINF:-1,DE :SKY CINEMA 24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/543.ts
-#EXTINF:-1,DE: ZDF
-http://ip.kmsat.info:8000/live/Fernando/Fernando/345.ts
-#EXTINF:-1,DE: Sky Sport1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/344.ts
-#EXTINF:-1,DE: Sky Sport2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1457.ts
-#EXTINF:-1,DE: Sky MGM HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/343.ts
-#EXTINF:-1,DE: Sky Bundes liga 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/341.ts
-#EXTINF:-1,DE: Sky AXN HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/340.ts
-#EXTINF:-1,#### Indian Channel ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1130.ts
-#EXTINF:-1,#### Espagnole Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/663.ts
-#EXTINF:-1,ES: Tring Jolly HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1353.ts
-#EXTINF:-1,ES: Tring History
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1352.ts
-#EXTINF:-1,ES: CANAL Estrenos
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1427.ts
-#EXTINF:-1,ES: Comedy Central
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1428.ts
-#EXTINF:-1,ES: TCM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1060.ts
-#EXTINF:-1,ES: Canal + Toros
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1061.ts
-#EXTINF:-1,ES: C+ SERIES XTRA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1267.ts
-#EXTINF:-1,ES: BARCA TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/897.ts
-#EXTINF:-1,ES: Canal Futbol
-http://ip.kmsat.info:8000/live/Fernando/Fernando/764.ts
-#EXTINF:-1,ES: Canal Liga
-http://ip.kmsat.info:8000/live/Fernando/Fernando/765.ts
-#EXTINF:-1,ES: NATIONAL-GEOGRAPHIC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/735.ts
-#EXTINF:-1,ES: HISTORIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/736.ts
-#EXTINF:-1,ES: FOX-LIFE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/737.ts
-#EXTINF:-1,ES: DISNEY-JUNIOR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/738.ts
-#EXTINF:-1,ES: TV3 CAT
-http://ip.kmsat.info:8000/live/Fernando/Fernando/644.ts
-#EXTINF:-1,ES: SYFY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/646.ts
-#EXTINF:-1,ES: RT NOTICIAS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/647.ts
-#EXTINF:-1,ES: REAL MADRID
-http://ip.kmsat.info:8000/live/Fernando/Fernando/648.ts
-#EXTINF:-1,ES: NICKELODEON
-http://ip.kmsat.info:8000/live/Fernando/Fernando/654.ts
-#EXTINF:-1,ES: FOX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/649.ts
-#EXTINF:-1,ES: CANAL  ESTRENOS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/656.ts
-#EXTINF:-1,ES: CANAL  DCINE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/658.ts
-#EXTINF:-1,ES: CANAL  COMEDIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/659.ts
-#EXTINF:-1,ES: CANAL  ACCION
-http://ip.kmsat.info:8000/live/Fernando/Fernando/660.ts
-#EXTINF:-1,ES: CANAL SERIE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/655.ts
-#EXTINF:-1,ES: CANAL DEPORTE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/657.ts
-#EXTINF:-1,ES: CALLE 13
-http://ip.kmsat.info:8000/live/Fernando/Fernando/662.ts
-#EXTINF:-1,ES: Taquilla 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1470.ts
-#EXTINF:-1,ES: Taquilla 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1471.ts
-#EXTINF:-1,ES: Taquilla 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1472.ts
-#EXTINF:-1,ES: Taquilla 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1473.ts
-#EXTINF:-1,ES: Taquilla 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1474.ts
-#EXTINF:-1,ES: Taquilla 6
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1475.ts
-#EXTINF:-1,####VOD ARABE####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/807.ts
-#EXTINF:-1,Film: Jimi
-http://ip.kmsat.info:8000/movie/Fernando/Fernando/802.mkv
-#EXTINF:-1,Film: Jazeera 2
-http://ip.kmsat.info:8000/movie/Fernando/Fernando/805.mkv
-#EXTINF:-1,Film: Hamati Bet7ebini
-http://ip.kmsat.info:8000/movie/Fernando/Fernando/804.mkv
-#EXTINF:-1,Film: Captin Hima
-http://ip.kmsat.info:8000/movie/Fernando/Fernando/806.mkv
-#EXTINF:-1,Film: Alawat Rou7
-http://ip.kmsat.info:8000/movie/Fernando/Fernando/803.mkv
-#EXTINF:-1,Film: Haribatan
-http://ip.kmsat.info:8000/movie/Fernando/Fernando/801.mkv
-#EXTINF:-1,####OSN####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/808.ts
-#EXTINF:-1,OSN: Ya Hala Drama HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/869.ts
-#EXTINF:-1,OSN: Animal Planet
-http://ip.kmsat.info:8000/live/Fernando/Fernando/868.ts
-#EXTINF:-1,OSN: MOVIES PREMIERE 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/817.ts
-#EXTINF:-1,OSN: Movie Action 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/818.ts
-#EXTINF:-1,OSN: DISCOVERY HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/810.ts
-#EXTINF:-1,OSN: MOVIE ACTION
-http://ip.kmsat.info:8000/live/Fernando/Fernando/809.ts
-#EXTINF:-1,OSN: Yahala HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/815.ts
-#EXTINF:-1,OSN: Movies Kids
-http://ip.kmsat.info:8000/live/Fernando/Fernando/744.ts
-#EXTINF:-1,OSN: Movie Action 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/741.ts
-#EXTINF:-1,OSN: MOVIES FESTIVAL
-http://ip.kmsat.info:8000/live/Fernando/Fernando/742.ts
-#EXTINF:-1,OSN: Movie Box Office 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/747.ts
-#EXTINF:-1,OSN: Movie Box Office 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/746.ts
-#EXTINF:-1,OSN: Movie Box Office 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/745.ts
-#EXTINF:-1,#### Portugal Channels ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/883.ts
-#EXTINF:-1,PT: TVI 24
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2231.ts
-#EXTINF:-1,PT: TVI
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2232.ts
-#EXTINF:-1,PT: TVCine 3 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2233.ts
-#EXTINF:-1,PT: TV SERIES
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2234.ts
-#EXTINF:-1,PT: TV Globo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2236.ts
-#EXTINF:-1,PT: SYFY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2237.ts
-#EXTINF:-1,PT: SIC Radical
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2228.ts
-#EXTINF:-1,PT: SIC Noticias
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2225.ts
-#EXTINF:-1,PT: SIC MULHER
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2226.ts
-#EXTINF:-1,PT: SIC HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2224.ts
-#EXTINF:-1,PT: SIC CARAS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2227.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2219.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2218.ts
-#EXTINF:-1,PT: RTP 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2217.ts
-#EXTINF:-1,PT: Odisseia
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2230.ts
-#EXTINF:-1,PT: NBA HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2250.ts
-#EXTINF:-1,PT: MOV HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2238.ts
-#EXTINF:-1,PT: Motors TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2252.ts
-#EXTINF:-1,PT: Kombat Sports
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2253.ts
-#EXTINF:-1,PT: Hollywood
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2221.ts
-#EXTINF:-1,PT: Fox HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2229.ts
-#EXTINF:-1,PT: Fox Crime
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2223.ts
-#EXTINF:-1,PT: FOX COMEDY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2242.ts
-#EXTINF:-1,PT: Fight Network
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2251.ts
-#EXTINF:-1,PT: Eurosport News
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2247.ts
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2249.ts
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2248.ts
-#EXTINF:-1,PT: Canal Q
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2222.ts
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2244.ts
-#EXTINF:-1,PT: AXN HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2240.ts
-#EXTINF:-1,PT: AXN Black HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2241.ts
-#EXTINF:-1,PT: TV Series SD/HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1804.ts
-#EXTINF:-1,PT: Toros TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1805.ts
-#EXTINF:-1,PT: Sy-Fy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1806.ts
-#EXTINF:-1,PT: SportTV 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1807.ts
-#EXTINF:-1,PT: SportTV 4 HD/SD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1808.ts
-#EXTINF:-1,PT: SportTV 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1809.ts
-#EXTINF:-1,PT: SportTV 2 HD/SD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1810.ts
-#EXTINF:-1,PT: SportTV 1 HD/SD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1811.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1812.ts
-#EXTINF:-1,PT: SPORT TV AMERICA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1813.ts
-#EXTINF:-1,PT: RTP 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1814.ts
-#EXTINF:-1,PT: RTP 1 SD/HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1815.ts
-#EXTINF:-1,PT: Real Madrid TV HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1816.ts
-#EXTINF:-1,PT: Plus TVI
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1817.ts
-#EXTINF:-1,PT: PFC HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1818.ts
-#EXTINF:-1,PT: Panda Biggs
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1819.ts
-#EXTINF:-1,PT: Niclelodeon
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1820.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1821.ts
-#EXTINF:-1,PT: FOX Movies
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1822.ts
-#EXTINF:-1,PT: Fox Life HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1823.ts
-#EXTINF:-1,PT: FOX Crime HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1824.ts
-#EXTINF:-1,PT: PORTO CANAL
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1700.ts
-#EXTINF:-1,PT: NICKELODEON
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1702.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1703.ts
-#EXTINF:-1,PT: MOTORVISION
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1707.ts
-#EXTINF:-1,PT: MOSAICO
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1708.ts
-#EXTINF:-1,PT: JIMJAM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1710.ts
-#EXTINF:-1,PT: FOX LIFE
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1713.ts
-#EXTINF:-1,PT: TVCINE 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1698.ts
-#EXTINF:-1,PT: TVCINE 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1697.ts
-#EXTINF:-1,PT: TVCINE 4 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1695.ts
-#EXTINF:-1,PT: TV SERIES HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1699.ts
-#EXTINF:-1,PT:Sport TV 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1686.ts
-#EXTINF:-1,PT:Sport TV 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1684.ts
-#EXTINF:-1,PT:Sport TV 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1685.ts
-#EXTINF:-1,PT:Sport TV 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1683.ts
-#EXTINF:-1,PT:Sport TV 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1682.ts
-#EXTINF:-1,PT: TLC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/879.ts
-#EXTINF:-1,####EX-YU####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/951.ts
-#EXTINF:-1,EX-YU: RTS 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1969.ts
-#EXTINF:-1,EX-YU: RTS 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1970.ts
-#EXTINF:-1,EX-YU: RTS 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2117.ts
-#EXTINF:-1,EX-YU: Studio B
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2118.ts
-#EXTINF:-1,EX-YU: Pink Zabava
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2124.ts
-#EXTINF:-1,EX YU: PINK 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2122.ts
-#EXTINF:-1,EX-YU: Pink 3 Info
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2123.ts
-#EXTINF:-1,EX-YU: Nova RS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2121.ts
-#EXTINF:-1,EX-YU: N1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2120.ts
-#EXTINF:-1,EX-YU: KCN 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2125.ts
-#EXTINF:-1,EX-YU: KCN 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2126.ts
-#EXTINF:-1,EX-YU: KCN 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2127.ts
-#EXTINF:-1,EX-YU: B92 Info
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2119.ts
-#EXTINF:-1,EXYU* Fox Life
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1964.ts
-#EXTINF:-1,EX-YU: Fox Movies
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1962.ts
-#EXTINF:-1,EX-YU: TV 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1967.ts
-#EXTINF:-1,EX-YU: Prva TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1971.ts
-#EXTINF:-1,EX-YU: Prva Plus
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1972.ts
-#EXTINF:-1,EX-YU: Fox
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1963.ts
-#EXTINF:-1,EX-YU: BH TV 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1966.ts
-#EXTINF:-1,EX-YU: B92
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1973.ts
-#EXTINF:-1,EX-YU: AXN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1965.ts
-#EXTINF:-1,EX-YU: ATV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1968.ts
-#EXTINF:-1,EX-YU: Cinestar Premiere 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1959.ts
-#EXTINF:-1,EX-YU: Cinestar Premiere 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1960.ts
-#EXTINF:-1,EX-YU: Cinestar
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1961.ts
-#EXTINF:-1,EX-YU: Tring Super
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1350.ts
-#EXTINF:-1,EX-YU: Tring Max
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1349.ts
-#EXTINF:-1,EX-YU: Tring Fantasy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1354.ts
-#EXTINF:-1,EX-YU: Tring Comedy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1351.ts
-#EXTINF:-1,EX-YU: HAYAT PLUS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1210.ts
-#EXTINF:-1,EX-YU: HAYAT MUSIC
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1211.ts
-#EXTINF:-1,EX-YU: HAYAT FOLK
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1209.ts
-#EXTINF:-1,EX-YU: TV 1000
-http://ip.kmsat.info:8000/live/Fernando/Fernando/911.ts
-#EXTINF:-1,EX-YU: SPORT KLUB GOLF
-http://ip.kmsat.info:8000/live/Fernando/Fernando/941.ts
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/938.ts
-#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1208.ts
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/940.ts
-#EXTINF:-1,EX-YU: RTL PASSION [ HR ]
-http://ip.kmsat.info:8000/live/Fernando/Fernando/914.ts
-#EXTINF:-1,EX-YU: RTL CRIME [ HR ]
-http://ip.kmsat.info:8000/live/Fernando/Fernando/913.ts
-#EXTINF:-1,EX-YU: PINK WORLD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/910.ts
-#EXTINF:-1,EX-YU: PINK THRILLER
-http://ip.kmsat.info:8000/live/Fernando/Fernando/909.ts
-#EXTINF:-1,EX-YU: PINK SOAP
-http://ip.kmsat.info:8000/live/Fernando/Fernando/905.ts
-#EXTINF:-1,EX-YU: PINK REALITY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/906.ts
-#EXTINF:-1,EX-YU: PINK PREMIUM
-http://ip.kmsat.info:8000/live/Fernando/Fernando/907.ts
-#EXTINF:-1,EX-YU: PINK 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/902.ts
-#EXTINF:-1,EX-YU: NICKELODEON
-http://ip.kmsat.info:8000/live/Fernando/Fernando/932.ts
-#EXTINF:-1,EX-YU: NATIONAL GEOGRAPHIC [ HR ]
-http://ip.kmsat.info:8000/live/Fernando/Fernando/930.ts
-#EXTINF:-1,EX-YU: MINIMAX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/931.ts
-#EXTINF:-1,EX-YU: KLASIK TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/937.ts
-#EXTINF:-1,EX-YU: HBO COMEDY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/919.ts
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://ip.kmsat.info:8000/live/Fernando/Fernando/918.ts
-#EXTINF:-1,EX-YU: HAYAT BIH
-http://ip.kmsat.info:8000/live/Fernando/Fernando/923.ts
-#EXTINF:-1,EX-YU: HAPPY
-http://ip.kmsat.info:8000/live/Fernando/Fernando/925.ts
-#EXTINF:-1,EX-YU: GRAND TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/933.ts
-#EXTINF:-1,EX-YU: DOMA TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/936.ts
-#EXTINF:-1,EX-YU: CINEMAX 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/921.ts
-#EXTINF:-1,EX-YU: CINEMAX
-http://ip.kmsat.info:8000/live/Fernando/Fernando/920.ts
-#EXTINF:-1,EX-YU: ATLAS TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/926.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/942.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/943.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/945.ts
-#EXTINF:-1,EX-YU:  ARENA SPORT 5 HR
-http://ip.kmsat.info:8000/live/Fernando/Fernando/946.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB
-http://ip.kmsat.info:8000/live/Fernando/Fernando/947.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB
-http://ip.kmsat.info:8000/live/Fernando/Fernando/948.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB
-http://ip.kmsat.info:8000/live/Fernando/Fernando/949.ts
-#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB
-http://ip.kmsat.info:8000/live/Fernando/Fernando/950.ts
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3065.ts
+#EXTINF:-1,AR:LBC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/159.ts
+#EXTINF:-1,AR:LDC_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1935.ts
+#EXTINF:-1,AR:TELE_LIBAN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2030.ts
+#EXTINF:-1,AR:FUTURE_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/160.ts
+#EXTINF:-1,AR:OTV_LEBANON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1858.ts
+#EXTINF:-1,AR:ALMAYADEN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/99.ts
+#EXTINF:-1,AR:NBN_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1990.ts
+#EXTINF:-1,AR:MTV_LEBANON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/863.ts
+#EXTINF:-1,AR:ALMANAR_LEB
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1991.ts
+#EXTINF:-1,AR:ALJADID
+http://iptv-supplier.com:8000/live/bouzaher/ryade/667.ts
+#EXTINF:-1,AR:SEEVII_PREMIERE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3061.ts
+#EXTINF:-1,AR:IFILM_ARABIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2788.ts
+#EXTINF:-1,AR:SYRIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/70.ts
+#EXTINF:-1,AR:ALALAM_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2070.ts
+#EXTINF:-1,AR:SYRIA_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/177.ts
+#EXTINF:-1,AR:TALAQUI_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1763.ts
+#EXTINF:-1,AR:SYRIA_ALIKHBARIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1999.ts
+#EXTINF:-1,AR:SYRIA_ALAOULA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2001.ts
+#EXTINF:-1,AR:ADDOUNIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1610.ts
+#EXTINF:-1,AR:NOUR_SHAM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1712.ts
+#EXTINF:-1,AR:HALAB_LYOUM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3099.ts
+#EXTINF:-1,AR:BEIN_MOVIES1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1748.ts
+#EXTINF:-1,AR:BEIN_MOVIES2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1749.ts
+#EXTINF:-1,AR:BEIN_MOVIES3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2590.ts
+#EXTINF:-1,AR:BEIN_MOVIES4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3055.ts
+#EXTINF:-1,AR:FATAFEET
+http://iptv-supplier.com:8000/live/bouzaher/ryade/60.ts
+#EXTINF:-1,AR:STAR_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1937.ts
+#EXTINF:-1,AR:STAR_CINEMA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1938.ts
+#EXTINF:-1,AR:MOGA_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3018.ts
+#EXTINF:-1,AR:MOGA_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2339.ts
+#EXTINF:-1,AR:FUNOON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2384.ts
+#EXTINF:-1,AR:ALFAGER
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2341.ts
+#EXTINF:-1,AR:TIME_FILM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2328.ts
+#EXTINF:-1,AR:TIME_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2326.ts
+#EXTINF:-1,AR:TIME_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2327.ts
+#EXTINF:-1,AR:CIMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2268.ts
+#EXTINF:-1,AR:SHA3BIAT_EG
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2820.ts
+#EXTINF:-1,AR:TOKTOK_CIMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2273.ts
+#EXTINF:-1,AR:MEKAMELINE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3105.ts
+#EXTINF:-1,AR:ZEE_AFLAM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/154.ts
+#EXTINF:-1,AR:ZEE_ALWAN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/153.ts
+#EXTINF:-1,AR:B4U_AFLAM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2028.ts
+#EXTINF:-1,AR:MBC_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/106.ts
+#EXTINF:-1,AR:MBC_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/107.ts
+#EXTINF:-1,AR:MBC_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/108.ts
+#EXTINF:-1,AR:MBC_4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/109.ts
+#EXTINF:-1,AR:MBC_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/111.ts
+#EXTINF:-1,AR:MBC_MAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/112.ts
+#EXTINF:-1,AR:MBC_MASR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/113.ts
+#EXTINF:-1,AR:MBC_MASAR2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/114.ts
+#EXTINF:-1,AR:MBC_BOLLYWOOD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/115.ts
+#EXTINF:-1,AR:MBC1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3057.ts
+#EXTINF:-1,AR:MBC2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3062.ts
+#EXTINF:-1,AR:MBC3HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3063.ts
+#EXTINF:-1,AR:MBC4HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3064.ts
+#EXTINF:-1,AR:MBC_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/110.ts
+#EXTINF:-1,AR:MBC_MAXHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3067.ts
+#EXTINF:-1,AR:MBC_DRAMAHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3066.ts
+#EXTINF:-1,AR:MBC_ACTIONHD
+#EXTINF:-1,AR:B4U_PLUS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2029.ts
+#EXTINF:-1,AR:ROTANA_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/121.ts
+#EXTINF:-1,AR:ROTANA_AFLAM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2034.ts
+#EXTINF:-1,AR:ROTANA_MASRIYA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/117.ts
+#EXTINF:-1,AR:ROTANA_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/116.ts
+#EXTINF:-1,AR:ROTANA_KHALIJIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1120.ts
+#EXTINF:-1,AR:ROTANA_CLIP
+http://iptv-supplier.com:8000/live/bouzaher/ryade/120.ts
+#EXTINF:-1,AR:ROTANA_CLASSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/119.ts
+#EXTINF:-1,AR:ART_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/185.ts
+#EXTINF:-1,AR:ART_AFLAM1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/183.ts
+#EXTINF:-1,AR:ART_AFLAM2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/186.ts
+#EXTINF:-1,AR:ART_HEKAYAT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/604.ts
+#EXTINF:-1,AR:ART_HEKYAT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/184.ts
+#EXTINF:-1,AR:ABUDHABI _TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/130.ts
+#EXTINF:-1,AR:ABUDHABI_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/129.ts
+#EXTINF:-1,AR:ABUDHABI_EMARAT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/663.ts
+#EXTINF:-1,AR:NAT_GEOABUTHABI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/12.ts
+#EXTINF:-1,AR:DUBAI_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/122.ts
+#EXTINF:-1,AR:SAMA_DUBAI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/128.ts
+#EXTINF:-1,AR:DUBAI_ZAMAN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/127.ts
+#EXTINF:-1,AR:DUBAI_NOUR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2800.ts
+#EXTINF:-1,AR:DUBAI_ONE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/125.ts
+#EXTINF:-1,AR:TOYOR_JANNAH
+http://iptv-supplier.com:8000/live/bouzaher/ryade/164.ts
+#EXTINF:-1,AR:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/655.ts
+#EXTINF:-1,AR:MAJED_KIDS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3003.ts
+#EXTINF:-1,AR:AJYAL_KIDS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3104.ts
+#EXTINF:-1,AR:SPACETOON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/165.ts
+#EXTINF:-1,AR:NOON_KIDS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1699.ts
+#EXTINF:-1,AR:SEMSEM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/846.ts
+#EXTINF:-1,AR:BARAEM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/163.ts
+#EXTINF:-1,AR:KARAMISH
+http://iptv-supplier.com:8000/live/bouzaher/ryade/179.ts
+#EXTINF:-1,AR:JEEM_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/848.ts
+#EXTINF:-1,AR:CBC_SOFRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/151.ts
+#EXTINF:-1,AR:CBC_EXTRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/152.ts
+#EXTINF:-1,AR:CBC_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/150.ts
+#EXTINF:-1,AR:CBC_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/104.ts
+#EXTINF:-1,AR:CBC_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/149.ts
+#EXTINF:-1,AR:TEN_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1406.ts
+#EXTINF:-1,AR:TEN2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1407.ts
+#EXTINF:-1,AR:SAT7_KIDS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3134.ts
+#EXTINF:-1,AR:SAT7
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3133.ts
+#EXTINF:-1,AR:SADA_ELBALAD_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2822.ts
+#EXTINF:-1,AR:BAYTEK_CIMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2340.ts
+#EXTINF:-1,AR:DW_ARABIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2782.ts
+#EXTINF:-1,AR:MELODY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1860.ts
+#EXTINF:-1,AR:MELODY_AFLAM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1762.ts
+#EXTINF:-1,AR:PANORAMA_DRAMA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1804.ts
+#EXTINF:-1,AR:PANORAMA_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1802.ts
+#EXTINF:-1,AR:PANORAMA_FILM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1801.ts
+#EXTINF:-1,AR:WESSAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2051.ts
+#EXTINF:-1,AR:ORIENT_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/45.ts
+#EXTINF:-1,AR:ALHAYAT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/157.ts
+#EXTINF:-1,AR:ALHAYAT_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/158.ts
+#EXTINF:-1,AR:ARABICA_tv
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2472.ts
+#EXTINF:-1,AR:DREAM_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/86.ts
+#EXTINF:-1,AR:CAIRO_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/155.ts
+#EXTINF:-1,AR:TUBE_AFLAM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2033.ts
+#EXTINF:-1,AR:ELMEHWAR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3137.ts
+#EXTINF:-1,AR:ALOULA_EGYPT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/79.ts
+#EXTINF:-1,AR:CINEMA1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2947.ts
+#EXTINF:-1,AR:ALNAHAR_MASR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/105.ts
+#EXTINF:-1,AR:ALNAHAR_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/97.ts
+#EXTINF:-1,AR:ALNAHAR_ONE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3103.ts
+#EXTINF:-1,AR:ALNAHAR-TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2574.ts
+#EXTINF:-1,AR:ALNAHAR_SPORT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2949.ts
+#EXTINF:-1,AR:ALNAHAR_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2948.ts
+#EXTINF:-1,AR:ALKAHERA_WELNASS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2950.ts
+#EXTINF:-1,AR:NILE_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1542.ts
+#EXTINF:-1,AR:NILE_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/47.ts
+#EXTINF:-1,AR:NILE_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/48.ts
+#EXTINF:-1,AR:ENTV_DZ
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1613.ts
+#EXTINF:-1,AR:ALG_5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2971.ts
+#EXTINF:-1,AR:EL_DJAZAIRIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/65.ts
+#EXTINF:-1,AR:EL_HEDDAF
+http://iptv-supplier.com:8000/live/bouzaher/ryade/66.ts
+#EXTINF:-1,AR:ELBAHIA_DZ
+http://iptv-supplier.com:8000/live/bouzaher/ryade/133.ts
+#EXTINF:-1,AR:TASSILI_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3132.ts
+#EXTINF:-1,AR:ECHOROUK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/138.ts
+#EXTINF:-1,AR:NUMEDIA_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2799.ts
+#EXTINF:-1,AR:ECHOROKTV_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/140.ts
+#EXTINF:-1,AR:ECHOUROUK_BENNA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/75.ts
+#EXTINF:-1,AR:ALMAGHARIBIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2165.ts
+#EXTINF:-1,AR:TAMAZIGHT_ALGERIA_4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1469.ts
+#EXTINF:-1,AR:CANAL_ALG
+http://iptv-supplier.com:8000/live/bouzaher/ryade/136.ts
+#EXTINF:-1,AR:DZAIR_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/73.ts
+#EXTINF:-1,AR:DZAIR_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/64.ts
+#EXTINF:-1,AR:ALG_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/135.ts
+#EXTINF:-1,AR:ENNAHAR_LAKI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1768.ts
+#EXTINF:-1,AR:ENNAHAR_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/137.ts
+#EXTINF:-1,AR:L'INDEX_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3058.ts
+#EXTINF:-1,AR:KBC_(DZ)
+http://iptv-supplier.com:8000/live/bouzaher/ryade/134.ts
+#EXTINF:-1,AR:SAMIRA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/139.ts
+#EXTINF:-1,AR:El_BILAD(DZ)
+http://iptv-supplier.com:8000/live/bouzaher/ryade/132.ts
+#EXTINF:-1,AR:BERBERE_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3059.ts
+#EXTINF:-1,AR:BEURTV_(DZ)
+http://iptv-supplier.com:8000/live/bouzaher/ryade/141.ts
+#EXTINF:-1,AR:BZAF_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1703.ts
+#EXTINF:-1,AR:ELHIWAR_TOUNSI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1537.ts
+#EXTINF:-1,AR:NESSMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/143.ts
+#EXTINF:-1,AR:TNN_TUNISIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2398.ts
+#EXTINF:-1,AR:TUNISIA1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/144.ts
+#EXTINF:-1,AR:TUNISIA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/142.ts
+#EXTINF:-1,AR:ALMUSTAKILA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2397.ts
+#EXTINF:-1,AR:ALJANOUBIA_TN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1843.ts
+#EXTINF:-1,AR:ZAYTOUNA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1704.ts
+#EXTINF:-1,AR:ZITOUNA_HIDAYA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2429.ts
+#EXTINF:-1,AR:ALINSEN_TN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1995.ts
+#EXTINF:-1,AR:FIRST_TN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/571.ts
+#EXTINF:-1,AR:M_TUNISA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/147.ts
+#EXTINF:-1,AR:HANNIBAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/57.ts
+#EXTINF:-1,AR:TOUNESNA_TN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/146.ts
+#EXTINF:-1,AR:ETTASSIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1475.ts
+#EXTINF:-1,AR:TELVZA_TN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1720.ts
+#EXTINF:-1,AR:ALOULA_MAR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3.ts
+#EXTINF:-1,AR:ASSADISSA_MAR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/7.ts
+#EXTINF:-1,AR:ARRIADHIA_MAROC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/9.ts
+#EXTINF:-1,AR:2M_MAROC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/148.ts
+#EXTINF:-1,AR:MEDI1_SAT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/6.ts
+#EXTINF:-1,AR:ARRABIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2221.ts
+#EXTINF:-1,AR:TAMAZIGHT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2223.ts
+#EXTINF:-1,AR:HAWAKOUM_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3098.ts
+#EXTINF:-1,AR:ALMAGHRIBIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/664.ts
+#EXTINF:-1,AR:IQRAA_EUROPE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1611.ts
+#EXTINF:-1,AR:QURAN_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1800.ts
+#EXTINF:-1,AR:AHL_QURAN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3060.ts
+#EXTINF:-1,AR:IQRAA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/171.ts
+#EXTINF:-1,AR:EL_RAHMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2930.ts
+#EXTINF:-1,AR:SKYNEWSARABIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2342.ts
+#EXTINF:-1,AR:SADA_ELBALAD2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2.ts
+#EXTINF:-1,AR:MAZZIKA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1107.ts
+#EXTINF:-1,AR:AGHANINA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1751.ts
+#EXTINF:-1,AR:ALMAJD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/665.ts
+#EXTINF:-1,AR:ALMAJD_SCIENTIFIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3019.ts
+#EXTINF:-1,AR:ALMAJD_RAWDHA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3022.ts
+#EXTINF:-1,AR:ALMAJD_QURAN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3020.ts
+#EXTINF:-1,AR:AL_RESSALAH
+http://iptv-supplier.com:8000/live/bouzaher/ryade/96.ts
+#EXTINF:-1,AR:JORDAN_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1779.ts
+#EXTINF:-1,AR:QATAR_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2778.ts
+#EXTINF:-1,AR:MANN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2048.ts
+#EXTINF:-1,AR:Al-Quds
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2739.ts
+#EXTINF:-1,AR:TRT_ARABIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1778.ts
+#EXTINF:-1,AR:IRAQIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/567.ts
+#EXTINF:-1,AR:IRAQIA_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1721.ts
+#EXTINF:-1,AR:BAGHDADIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1103.ts
+#EXTINF:-1,AR:BAGHDADIA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1408.ts
+#EXTINF:-1,AR:KARBALA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2204.ts
+#EXTINF:-1,AR:RASHEED_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/43.ts
+#EXTINF:-1,AR:AL_SUMARIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/558.ts
+#EXTINF:-1,AR:AL_SHARQUIANEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/514.ts
+#EXTINF:-1,AR:DiJLA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2777.ts
+#EXTINF:-1,AR:AL_RAFIDAIN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/516.ts
+#EXTINF:-1,AR:AL_HURRAIRAQ
+http://iptv-supplier.com:8000/live/bouzaher/ryade/517.ts
+#EXTINF:-1,AR:Al_SHARQIYA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1410.ts
+#EXTINF:-1,AR:HAYAT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2756.ts
+#EXTINF:-1,AR:DUBAI_SPORT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/123.ts
+#EXTINF:-1,AR:ADSPROT_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/103.ts
+#EXTINF:-1,AR:ADSPORT2_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/44.ts
+#EXTINF:-1,AR:NILE_SPORT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/37.ts
+#EXTINF:-1,AR:ALAHLY_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1698.ts
+#EXTINF:-1,AR:ALKASS_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1710.ts
+#EXTINF:-1,AR:ALARABYA_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/178.ts
+#EXTINF:-1,AR:ALARABIYA_ALLHADATH
+http://iptv-supplier.com:8000/live/bouzaher/ryade/101.ts
+#EXTINF:-1,AR:EURONEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3035.ts
+#EXTINF:-1,AR:RT_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1798.ts
+#EXTINF:-1,AR:ALJAZEERA_DOC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/80.ts
+#EXTINF:-1,AR:BBC_ARABIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/89.ts
+#EXTINF:-1,AR:ANN_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/166.ts
+#EXTINF:-1,AR:ALJAZZERA_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/100.ts
+#EXTINF:-1,AR:FRANCE_24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1114.ts
+#EXTINF:-1,AR:PALESTINE_TODAY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/169.ts
+#EXTINF:-1,AR:OSN_MOVIES_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2105.ts
+#EXTINF:-1,AR:OSN_MOVIES_PREMIERE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2102.ts
+#EXTINF:-1,AR:OSN_ORBIT_CINEMA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2116.ts
+#EXTINF:-1,AR:OSN_FESTIVAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2108.ts
+#EXTINF:-1,AR:OSN_STAR_WORLD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2111.ts
+#EXTINF:-1,AR:OSN_YAHALA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1752.ts
+#EXTINF:-1,AR:OSN_ON_DEMAND_EXTRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2112.ts
+#EXTINF:-1,AR:OSN_MOVIES_kIDS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2106.ts
+#EXTINF:-1,AR:OSN_MOVIES_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2103.ts
+#EXTINF:-1,AR:OSN_MOVIES_ACTION2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2104.ts
+#EXTINF:-1,AR:OSN_ORBIT_CINEMA1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2115.ts
+#EXTINF:-1,AR:OSN_ELYOM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2113.ts
+#EXTINF:-1,AR:OSN_BOXOFFIC1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2156.ts
+#EXTINF:-1,AR:OSN_BOXOFFIC2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2155.ts
+#EXTINF:-1,AR:OSN_BOX_OFFICE3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2117.ts
+#EXTINF:-1,AR:OSN_ANIMAL_PLANET
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2118.ts
+#EXTINF:-1,AR:OSN_ONDEMAND
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2109.ts
+#EXTINF:-1,AR:OSN_MOVIES2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2154.ts
+#EXTINF:-1,AR:OSN_MOVIES+2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2107.ts
+#EXTINF:-1,AR:MBC_PROSPORTS1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/180.ts
+#EXTINF:-1,AR:MBC_PROSPORTS2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/181.ts
+#EXTINF:-1,AR:MBC_PROSPORTS3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/182.ts
+#EXTINF:-1,AR:MBC_PROSPORTS4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/49.ts
+#EXTINF:-1,AR:BEIN_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1754.ts
+#EXTINF:-1,AR:BEIN_SPORTS_HD1+
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3054.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/26.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/27.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/28.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/29.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/30.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD6
+http://iptv-supplier.com:8000/live/bouzaher/ryade/31.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD7
+http://iptv-supplier.com:8000/live/bouzaher/ryade/32.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD8
+http://iptv-supplier.com:8000/live/bouzaher/ryade/33.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD9
+http://iptv-supplier.com:8000/live/bouzaher/ryade/34.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD10
+http://iptv-supplier.com:8000/live/bouzaher/ryade/35.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD11
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2576.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD12
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2577.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD13
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2578.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD14
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2579.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD15
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2580.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD16
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2581.ts
+#EXTINF:-1,BEIN_SPORT1_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3118.ts
+#EXTINF:-1,BEIN_SPORT2_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3119.ts
+#EXTINF:-1,BEIN_SPORT3_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3120.ts
+#EXTINF:-1,BEIN_SPORT4_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3121.ts
+#EXTINF:-1,BEIN_SPORT5_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3122.ts
+#EXTINF:-1,BEIN_SPORT6_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3123.ts
+#EXTINF:-1,BEIN_SPORT7_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3124.ts
+#EXTINF:-1,BEIN_SPORT8_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3125.ts
+#EXTINF:-1,BEIN_SPORT9_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3126.ts
+#EXTINF:-1,BEIN_SPORT10_SD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3127.ts
+#EXTINF:-1,AR:The.Idol
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3041.mkv
+#EXTINF:-1,AR:Our.Love.Kangaro
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3040.mkv
+#EXTINF:-1,AR:Ne3ma
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3039.mkv
+#EXTINF:-1,AR:Karam.The.King
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3038.mkv
+#EXTINF:-1,AR:Youm.Maloosh.Lazma
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2905.mkv
+#EXTINF:-1,AR:Vitamin
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2904.mkv
+#EXTINF:-1,AR:Tuesday.Slumber
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2903.mkv
+#EXTINF:-1,AR:Sou2.Tafahom
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2902.mkv
+#EXTINF:-1,AR:Sokar.Mor
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2901.mkv
+#EXTINF:-1,AR:Shadd.Agzaa
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2900.mkv
+#EXTINF:-1,AR:Paparazzi
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2899.mkv
+#EXTINF:-1,AR:Neswen.lish.la2
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2898.mkv
+#EXTINF:-1,AR:Microphone
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2897.mkv
+#EXTINF:-1,AR:Hawii
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2896.mkv
+#EXTINF:-1,AR:Fazzaa
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2895.mkv
+#EXTINF:-1,AR:Eldonia.Ma2looba
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2894.mkv
+#EXTINF:-1,AR:AL.Prensesa
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2892.mkv
+#EXTINF:-1,AR:Al.Mowaten.Bors
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2893.mkv
+#EXTINF:-1,AR:7ara.Mazno2ah
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2891.mkv
+#EXTINF:-1,AR:7amati.Bit7ebeni
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2890.mkv
+#EXTINF:-1,AR:7alawet.Roo7.akoam.com
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2889.mkv
+#EXTINF:-1,KU:WAAR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2451.ts
+#EXTINF:-1,KU:TRT_KURDI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2453.ts
+#EXTINF:-1,KU:RONAHI_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2462.ts
+#EXTINF:-1,KU:NRT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2457.ts
+#EXTINF:-1,KU:NRT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2448.ts
+#EXTINF:-1,KU:MUZIKA_KURDI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2934.ts
+#EXTINF:-1,KU:KURDSAT_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2461.ts
+#EXTINF:-1,KU:KURDMAX_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2459.ts
+#EXTINF:-1,KU:KURDMAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2450.ts
+#EXTINF:-1,KU:KURDISTAN_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2454.ts
+#EXTINF:-1,KU:KOMALA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2455.ts
+#EXTINF:-1,KU:RUDAW_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2977.ts
+#EXTINF:-1,KU:REGA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2976.ts
+#EXTINF:-1,KU:KNN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2452.ts
+#EXTINF:-1,FR:EURONEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/247.ts
+#EXTINF:-1,FR:FRANCE24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/227.ts
+#EXTINF:-1,FR:BFM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/246.ts
+#EXTINF:-1,FR:TV5_MONDE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/513.ts
+#EXTINF:-1,FR:ITELE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1747.ts
+#EXTINF:-1,FR:PRESS_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3042.ts
+#EXTINF:-1,FR:LCI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2431.ts
+#EXTINF:-1,FR:ARTE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/248.ts
+#EXTINF:-1,FR:TF1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/214.ts
+#EXTINF:-1,FR:M6
+http://iptv-supplier.com:8000/live/bouzaher/ryade/215.ts
+#EXTINF:-1,FR:W9
+http://iptv-supplier.com:8000/live/bouzaher/ryade/216.ts
+#EXTINF:-1,FR:FRANCE2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/217.ts
+#EXTINF:-1,FR:FRANCE3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/218.ts
+#EXTINF:-1,FR:FRANCE4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/219.ts
+#EXTINF:-1,FR:FRANCE5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/220.ts
+#EXTINF:-1,FR:FRANCEO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/221.ts
+#EXTINF:-1,FR:CANAL+
+http://iptv-supplier.com:8000/live/bouzaher/ryade/445.ts
+#EXTINF:-1,FR:CANAL+CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/193.ts
+#EXTINF:-1,FR:CANAL+FAMILY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/194.ts
+#EXTINF:-1,FR:CANAL+SPORT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/446.ts
+#EXTINF:-1,FR:CANAL+DECALE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1825.ts
+#EXTINF:-1,FR:CANAL+SERIES
+http://iptv-supplier.com:8000/live/bouzaher/ryade/195.ts
+#EXTINF:-1,FR:CINE+PREMIER
+http://iptv-supplier.com:8000/live/bouzaher/ryade/207.ts
+#EXTINF:-1,FR:CINE+FRISSON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/200.ts
+#EXTINF:-1,FR:CINE+FAMIZ
+http://iptv-supplier.com:8000/live/bouzaher/ryade/210.ts
+#EXTINF:-1,FR:CINE+EMOTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/209.ts
+#EXTINF:-1,FR:CINE+_CLASSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1827.ts
+#EXTINF:-1,FR:OCS_MAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/196.ts
+#EXTINF:-1,FR:OCS_CHOC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/197.ts
+#EXTINF:-1,FR:OCS_GEANTS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/198.ts
+#EXTINF:-1,FR:RTS_UN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/241.ts
+#EXTINF:-1,FR:RTS_DEUX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/242.ts
+#EXTINF:-1,FR:ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/213.ts
+#EXTINF:-1,FR:13EME_RUE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/224.ts
+#EXTINF:-1,FR:TV_BREIZH
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1828.ts
+#EXTINF:-1,FR:POLAR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/231.ts
+#EXTINF:-1,FR:CINE_FX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3101.ts
+#EXTINF:-1,FR:SYFY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/228.ts
+#EXTINF:-1,FR:SERIE_CLUB
+http://iptv-supplier.com:8000/live/bouzaher/ryade/237.ts
+#EXTINF:-1,FR:CHERIE25
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1386.ts
+#EXTINF:-1,FR:RMC_DECOUVERTE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3043.ts
+#EXTINF:-1,FR:PARIS_PREMIERE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/223.ts
+#EXTINF:-1,FR:LA_TELE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3080.ts
+#EXTINF:-1,FR:NORMANDIE_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/249.ts
+#EXTINF:-1,FR:COMEDIE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/225.ts
+#EXTINF:-1,FR:D8
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1782.ts
+#EXTINF:-1,FR:D17
+http://iptv-supplier.com:8000/live/bouzaher/ryade/208.ts
+#EXTINF:-1,FR:HD1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1811.ts
+#EXTINF:-1,FR:RTL9
+http://iptv-supplier.com:8000/live/bouzaher/ryade/222.ts
+#EXTINF:-1,FR:TMC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/251.ts
+#EXTINF:-1,FR:TEVA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/244.ts
+#EXTINF:-1,FR:NT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/226.ts
+#EXTINF:-1,FR:NRJ12
+http://iptv-supplier.com:8000/live/bouzaher/ryade/253.ts
+#EXTINF:-1,FR:6TER
+http://iptv-supplier.com:8000/live/bouzaher/ryade/203.ts
+#EXTINF:-1,FR:WEO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/243.ts
+#EXTINF:-1,FR:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/254.ts
+#EXTINF:-1,FR:DISNEY_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1986.ts
+#EXTINF:-1,FR:DISNEY_XD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3013.ts
+#EXTINF:-1,FR:DISNEY_JUNIOR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/511.ts
+#EXTINF:-1,FR:GULLI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/258.ts
+#EXTINF:-1,FR:PIWI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1992.ts
+#EXTINF:-1,FR:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/257.ts
+#EXTINF:-1,FR:TELETOON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1689.ts
+#EXTINF:-1,FR:CANALJ
+http://iptv-supplier.com:8000/live/bouzaher/ryade/11.ts
+#EXTINF:-1,FR:BOOMERANG
+http://iptv-supplier.com:8000/live/bouzaher/ryade/256.ts
+#EXTINF:-1,FR:TIJI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/235.ts
+#EXTINF:-1,FR:MANGA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/259.ts
+#EXTINF:-1,FR:M6_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/204.ts
+#EXTINF:-1,FR:MTV_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2694.ts
+#EXTINF:-1,FR:MTV_Dance
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2696.ts
+#EXTINF:-1,FR:MTV_BASE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2697.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD1+
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2939.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/190.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD2+
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3088.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/191.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/192.ts
+#EXTINF:-1,FR:SFR_SPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3110.ts
+#EXTINF:-1,FR:SFR_SPORT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3111.ts
+#EXTINF:-1,FR:EUROSPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/858.ts
+#EXTINF:-1,FR:EUROSPORT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/260.ts
+#EXTINF:-1,FR:EQUIPE21
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1750.ts
+#EXTINF:-1,FR:EQUIDA_LIVE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3004.ts
+#EXTINF:-1,FR:FOOT+24/24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/263.ts
+#EXTINF:-1,FR:OLTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1781.ts
+#EXTINF:-1,FR:INFOSPORT+
+http://iptv-supplier.com:8000/live/bouzaher/ryade/199.ts
+#EXTINF:-1,FR:DISCOVERY_SCIENCE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/230.ts
+#EXTINF:-1,FR:DISCOVERY_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/232.ts
+#EXTINF:-1,FR:SCIENCES_VIE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/229.ts
+#EXTINF:-1,FR:NATGEO_WILD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/233.ts
+#EXTINF:-1,FR:NATGEO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/234.ts
+#EXTINF:-1,FR:PLANETE+_CI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/239.ts
+#EXTINF:-1,FR:CHASSE_ET_PECHE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/212.ts
+#EXTINF:-1,FR:PLANETE_AE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1744.ts
+#EXTINF:-1,FR:PLANETE+
+http://iptv-supplier.com:8000/live/bouzaher/ryade/240.ts
+#EXTINF:-1,FR:TOUTE_L'HISTOIRE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1830.ts
+#EXTINF:-1,FR:ANIMAUX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/236.ts
+#EXTINF:-1,FR:USHUAIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/206.ts
+#EXTINF:-1,FR:VOYAGE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/205.ts
+#EXTINF:-1,FR:CANALPALY_5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2372.ts
+#EXTINF:-1,FR:CANALPLAY_4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2360.ts
+#EXTINF:-1,FR:CANALPALY_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2359.ts
+#EXTINF:-1,FR:CANALPLAY_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2358.ts
+#EXTINF:-1,FR:CANALPLAY_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2357.ts
+#EXTINF:-1,BE:LA_UNE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/507.ts
+#EXTINF:-1,BE:LA_DEUX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/202.ts
+#EXTINF:-1,BE:LA_TROIS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/201.ts
+#EXTINF:-1,BE:CLUB_RTL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/510.ts
+#EXTINF:-1,BE:RTL_TVI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/508.ts
+#EXTINF:-1,BE:PLUG_RTL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/509.ts
+#EXTINF:-1,BE:EEN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1765.ts
+#EXTINF:-1,BE:TELE_VESDRE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1728.ts
+#EXTINF:-1,FR:Keanu
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3016.mkv
+#EXTINF:-1,FR:Chosen
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3015.mkv
+#EXTINF:-1,FR:Angry.Birds
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3014.mkv
+#EXTINF:-1,FR:Le.Chasseur.et.la.reine.des.glaces
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3017.mkv
+#EXTINF:-1,FR:Batman.v.Superman.Dawn.of.Justice
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3005.mkv
+#EXTINF:-1,FR:Divergente3
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3006.mkv
+#EXTINF:-1,FR:Forsaken
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3007.mkv
+#EXTINF:-1,FR:Pattaya
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/3008.mkv
+#EXTINF:-1,FR:Whiskey.Tango.Foxtrot
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2965.avi
+#EXTINF:-1,FR:The.Eichmann.Show
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2964.avi
+#EXTINF:-1,FR:My.Big.Fat.Greek.Wedding.2
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2963.mkv
+#EXTINF:-1,FR:Josephine.S.Arrondit
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2962.mkv
+#EXTINF:-1,FR:Heidi
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2967.mkv
+#EXTINF:-1,FR:Et.Ta.Soeur
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2966.mkv
+#EXTINF:-1,FR:Eddie.the.Eagle
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2961.mkv
+#EXTINF:-1,FR:Zoolander.2
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2888.avi
+#EXTINF:-1,FR:Truth
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2887.avi
+#EXTINF:-1,FR:The.Revenant
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2872.avi
+#EXTINF:-1,FR:The.Intern
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2886.mkv
+#EXTINF:-1,FR:The.Hunger.Games.Mockingjay.Part.2
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2871.avi
+#EXTINF:-1,FR:The.Hateful.Eight
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2870.avi
+#EXTINF:-1,FR:The.Good.Dinosaur
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2869.avi
+#EXTINF:-1,FR:The.Finest.Hours
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2885.avi
+#EXTINF:-1,FR:The.Choice
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2884.avi
+#EXTINF:-1,FR:The.5th.Wave
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2868.avi
+#EXTINF:-1,FR:The.33
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2867.avi
+#EXTINF:-1,FR:Suburra
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2866.avi
+#EXTINF:-1,FR:Star.Wars.Episode.VII.The.Force.Awakens
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2865.avi
+#EXTINF:-1,FR:Spotlight
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2883.avi
+#EXTINF:-1,FR:Southpaw
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2864.avi
+#EXTINF:-1,FR:Sisters
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2863.avi
+#EXTINF:-1,FR:Secret.In.Their.Eyes
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2882.avi
+#EXTINF:-1,FR:Risen
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2881.avi
+#EXTINF:-1,FR:Ride.Along.2
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2862.avi
+#EXTINF:-1,FR:Point.Break
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2880.avi
+#EXTINF:-1,FR:Ooops.Noah.is.gone
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2861.avi
+#EXTINF:-1,FR:Mission.Impossible.Rogue.Nation
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2860.avi
+#EXTINF:-1,FR:Minions
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2859.avi
+#EXTINF:-1,FR:Legend
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2858.avi
+#EXTINF:-1,FR:Krampus
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2857.avi
+#EXTINF:-1,FR:Joy
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2879.avi
+#EXTINF:-1,FR:Inside.Out
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2856.avi
+#EXTINF:-1,FR:Babysitting.2
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2852.avi
+#EXTINF:-1,FR:In.the.Heart.of.the.Sea
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2878.avi
+#EXTINF:-1,FR:Hyena.Road
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2855.mkv
+#EXTINF:-1,FR:How.To.Be.Single
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2877.avi
+#EXTINF:-1,FR:Extinction
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2854.avi
+#EXTINF:-1,FR:Deadpool
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2876.avi
+#EXTINF:-1,FR:Concussion
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2875.avi
+#EXTINF:-1,FR:Close.Range
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2853.avi
+#EXTINF:-1,FR:Brooklyn
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2874.avi
+#EXTINF:-1,FR:Bridge.of.Spies
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2873.avi
+#EXTINF:-1,FR:Zootopia
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2960.mkv
+#EXTINF:-1,FR:The.Peanuts.Movie
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2959.mkv
+#EXTINF:-1,FR:The.Alvin.and.the.Chipmunks.The.Road.Chip
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2958.avi
+#EXTINF:-1,Fr: The.7th.Dwarf
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2957.avi
+#EXTINF:-1,FR:The Little Prince
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2956.mkv
+#EXTINF:-1,FR:Shaun.The.Sheep.Movie
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2955.mkv
+#EXTINF:-1,FR:Open.Season.Scared.Silly
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2954.mkv
+#EXTINF:-1,FR:Maya.the.Bee.Movie
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2953.mkv
+#EXTINF:-1,FR:Kung.Fu.Panda.3
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2952.mkv
+#EXTINF:-1,UK:CNN_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2383.ts
+#EXTINF:-1,UK:ITV1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/447.ts
+#EXTINF:-1,UK:ITV2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/448.ts
+#EXTINF:-1,UK:ITV3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/321.ts
+#EXTINF:-1,UK:ITV4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/320.ts
+#EXTINF:-1,UK:MORE_4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1813.ts
+#EXTINF:-1,UK:BBC1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/318.ts
+#EXTINF:-1,UK:BBC2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/317.ts
+#EXTINF:-1,UK:BBC3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/316.ts
+#EXTINF:-1,UK:BBC4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/315.ts
+#EXTINF:-1,UK:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/286.ts
+#EXTINF:-1,UK:NICKELODEON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/288.ts
+#EXTINF:-1,UK:DISNEY_XD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/950.ts
+#EXTINF:-1,UK:RTE_JR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/322.ts
+#EXTINF:-1,UK:RTE1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/323.ts
+#EXTINF:-1,UK:SENTANTA_IRELAND
+http://iptv-supplier.com:8000/live/bouzaher/ryade/276.ts
+#EXTINF:-1,UK:HIT_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3009.ts
+#EXTINF:-1,UK:SKY_ONE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/289.ts
+#EXTINF:-1,UK:SKY_TWO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/285.ts
+#EXTINF:-1,UK:SKY_MOVIES_THRILLER
+http://iptv-supplier.com:8000/live/bouzaher/ryade/290.ts
+#EXTINF:-1,UK:SKY_MOVIES_SELECT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/291.ts
+#EXTINF:-1,UK:SKY_MOVIES_PREMIERE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/293.ts
+#EXTINF:-1,UK:SKY_MOVIES_MODERN_GREAT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/295.ts
+#EXTINF:-1,UK:SKY_MOVIES_FAMILY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/309.ts
+#EXTINF:-1,UK:SKY_MOVIES_DRAMA_ROMANCE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/299.ts
+#EXTINF:-1,UK:SKY_MOVIES_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/311.ts
+#EXTINF:-1,UK:SKY_MOVIES_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/300.ts
+#EXTINF:-1,UK:TRUE_MOVIES2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1399.ts
+#EXTINF:-1,UK:CBS_DRAMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1398.ts
+#EXTINF:-1,UK:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1400.ts
+#EXTINF:-1,UK:SKY_ATLANTIC_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/306.ts
+#EXTINF:-1,UK:TRUE_MOVIES1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/287.ts
+#EXTINF:-1,UK:ANIMAL_PLANETE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/314.ts
+#EXTINF:-1,UK:NATIONAL_GEOGRAPHY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/312.ts
+#EXTINF:-1,UK:DISCOVERY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/313.ts
+#EXTINF:-1,UK:HISTORY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/284.ts
+#EXTINF:-1,UK:LIVING
+http://iptv-supplier.com:8000/live/bouzaher/ryade/319.ts
+#EXTINF:-1,UK:BT_SPORTS_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/281.ts
+#EXTINF:-1,UK:BT_SPORTS_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/282.ts
+#EXTINF:-1,UK:BOX_NATION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/280.ts
+#EXTINF:-1,UK:ESPN_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/279.ts
+#EXTINF:-1,UK:SKY_SPORTS_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/271.ts
+#EXTINF:-1,UK:SKY_SPORTS_F1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/272.ts
+#EXTINF:-1,UK:SKY_SPORTS_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/275.ts
+#EXTINF:-1,UK:SKY_SPORTS_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/274.ts
+#EXTINF:-1,UK:SKY_SPORTS_3HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/273.ts
+#EXTINF:-1,UK:SKY_SPORTS_4HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/776.ts
+#EXTINF:-1,UK:SKY_SPORTS_5HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/777.ts
+#EXTINF:-1,US: BUY_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2784.ts
+#EXTINF:-1,US:CNN_LIVE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2481.ts
+#EXTINF:-1,US:FOX_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2937.ts
+#EXTINF:-1,US:ABC_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2494.ts
+#EXTINF:-1,US:TSN1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2491.ts
+#EXTINF:-1,US:TSN_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2485.ts
+#EXTINF:-1,US:TSN_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2484.ts
+#EXTINF:-1,US:TSN_4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2479.ts
+#EXTINF:-1,US:NHL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2789.ts
+#EXTINF:-1,US:NBA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2478.ts
+#EXTINF:-1,US:NFL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2490.ts
+#EXTINF:-1,US:HBO_ZONE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2489.ts
+#EXTINF:-1,USA:HBO_US
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2753.ts
+#EXTINF:-1,US:HBO_SIGNATURE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2487.ts
+#EXTINF:-1,US:BLOOMBERG
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2488.ts
+#EXTINF:-1,US:FOX_SPORTS1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2495.ts
+#EXTINF:-1,US:FOX_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2486.ts
+#EXTINF:-1,CAN:TVA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2785.ts
+#EXTINF:-1,CAN:RDI_CANADA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2783.ts
+#EXTINF:-1,VO:Trumbo
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2925.avi
+#EXTINF:-1,VO:The.Revenant
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2913.avi
+#EXTINF:-1,VO:The.Last.Witch.Hunter
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2912.avi
+#EXTINF:-1,VO:The.Dressmaker
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2924.avi
+#EXTINF:-1,VO:The.Choice
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2923.avi
+#EXTINF:-1,VO:Spectre
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2911.avi
+#EXTINF:-1,VO:Queen of the Desert
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2910.avi
+#EXTINF:-1,VO:Point.Break
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2922.avi
+#EXTINF:-1,VO:Mojave
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2921.avi
+#EXTINF:-1,VO:Kung.Fu.Panda.3
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2920.avi
+#EXTINF:-1,VO:Jane.Got.a.Gun.2015
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2919.avi
+#EXTINF:-1,VO:In.the.Heart.of.the.Sea
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2918.avi
+#EXTINF:-1,VO:Fathers.and.Daughters
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2909.avi
+#EXTINF:-1,VO:excess
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2914.avi
+#EXTINF:-1,VO:Creed
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2908.avi
+#EXTINF:-1,VO:Concussion
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2917.avi
+#EXTINF:-1,VO:Burnt
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2907.avi
+#EXTINF:-1,VO:Brooklyn
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2916.avi
+#EXTINF:-1,VO:Black.Mass
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2906.avi
+#EXTINF:-1,VO:A.Perfect.Day
+http://iptv-supplier.com:8000/movie/bouzaher/ryade/2915.avi
+#EXTINF:-1,NL:NPO_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1642.ts
+#EXTINF:-1,NL:NPO_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1643.ts
+#EXTINF:-1,NL:NPO_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1644.ts
+#EXTINF:-1,NL:HBO_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1639.ts
+#EXTINF:-1,NL:HBO_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1640.ts
+#EXTINF:-1,NL:HBO_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1641.ts
+#EXTINF:-1,NL:RTL5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1648.ts
+#EXTINF:-1,NL:RTL4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1647.ts
+#EXTINF:-1,NL:RTL7
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1649.ts
+#EXTINF:-1,NL:RTL8
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1650.ts
+#EXTINF:-1,Nl:SBS_6
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1646.ts
+#EXTINF:-1,NL:Film1_Action
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1651.ts
+#EXTINF:-1,NL:FILM1_PREMIERE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1861.ts
+#EXTINF:-1,NL:NICKELODEON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1705.ts
+#EXTINF:-1,NL:FOX_SPORTS1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1573.ts
+#EXTINF:-1,NL:FOX_SPORTS2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1574.ts
+#EXTINF:-1,NL:FOX_SPORTS3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1575.ts
+#EXTINF:-1,NL:FOX_SPORTS4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1576.ts
+#EXTINF:-1,NL:FOX_SPORTS5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1577.ts
+#EXTINF:-1,NL:SPORT1_VOETBAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1578.ts
+#EXTINF:-1,NL:SPORT1_EXTRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1862.ts
+#EXTINF:-1,NL:DISNEYXD/VERONICA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1998.ts
+#EXTINF:-1,NL:ZIGGO_SPORT_SELECT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3031.ts
+#EXTINF:-1,NL:TLC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3032.ts
+#EXTINF:-1,NL:SBS_9
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3029.ts
+#EXTINF:-1,NL:RTL_CRIME
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3030.ts
+#EXTINF:-1,NL:NICK_JR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3033.ts
+#EXTINF:-1,NL:DISCOVERY_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3027.ts
+#EXTINF:-1,NL:13TH_STREET
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3028.ts
+#EXTINF:-1,IT:RAI1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/326.ts
+#EXTINF:-1,IT:RAI2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/325.ts
+#EXTINF:-1,IT:RAI3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/324.ts
+#EXTINF:-1,IT:RAI4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1383.ts
+#EXTINF:-1,IT:RAI5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1382.ts
+#EXTINF:-1,IT:CANAL_5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3034.ts
+#EXTINF:-1,IT:RAI_GULP
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2582.ts
+#EXTINF:-1,IT:RAI_YOYO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2678.ts
+#EXTINF:-1,IT:RAI_PREMIUM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2679.ts
+#EXTINF:-1,IT:RAI_NEWS24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2680.ts
+#EXTINF:-1,IT:RAI_MOVIE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2674.ts
+#EXTINF:-1,IT:MEDIASET_EXTRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2587.ts
+#EXTINF:-1,IT:MEDIASET2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2588.ts
+#EXTINF:-1,IT:RETE4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2671.ts
+#EXTINF:-1,IT:LA5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2673.ts
+#EXTINF:-1,IT:La7HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2589.ts
+#EXTINF:-1,IT:IRIS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2675.ts
+#EXTINF:-1,IT:CIELO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2672.ts
+#EXTINF:-1,IT:SKY_TG24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2586.ts
+#EXTINF:-1,IT:SKY_CINEMA1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1895.ts
+#EXTINF:-1,IT:SKY_UNO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2585.ts
+#EXTINF:-1,IT:SKY_CINEMA_MAXHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/330.ts
+#EXTINF:-1,IT:SKY_ATLANTICHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/333.ts
+#EXTINF:-1,IT:SKY_CINEMA_FAMILYHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/334.ts
+#EXTINF:-1,IT:SKY_CINEMA_CULT_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/332.ts
+#EXTINF:-1,IT:SKY_CINEMA_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/331.ts
+#EXTINF:-1,IT:SKY_CINEMA_CLASSICS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1850.ts
+#EXTINF:-1,IT:PREMIUM_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/341.ts
+#EXTINF:-1,IT:PREMIUM_STUDIO_UNIVERSAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/350.ts
+#EXTINF:-1,IT:PREMIUM_ENERGY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/348.ts
+#EXTINF:-1,IT:PREMIUM_EMOTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/347.ts
+#EXTINF:-1,IT:PREMIUM_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1902.ts
+#EXTINF:-1,IT:PREMIUM_JOI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1274.ts
+#EXTINF:-1,IT:PREMIUM_CRIME
+http://iptv-supplier.com:8000/live/bouzaher/ryade/343.ts
+#EXTINF:-1,IT:PREMIUM_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/342.ts
+#EXTINF:-1,IT:PREMIUM_STORIES+24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/337.ts
+#EXTINF:-1,IT:PREMIUM_DISNEY_JUNIOR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/346.ts
+#EXTINF:-1,IT:PREMIUM_DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/345.ts
+#EXTINF:-1,IT:PREMIUM_CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/340.ts
+#EXTINF:-1,IT:CARTOUNITO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2583.ts
+#EXTINF:-1,IT:RSI_LA_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1389.ts
+#EXTINF:-1,IT:RSI_LA_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1388.ts
+#EXTINF:-1,IT:FOX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/327.ts
+#EXTINF:-1,IT:FOX_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1899.ts
+#EXTINF:-1,IT:FOX_CRIME+1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1279.ts
+#EXTINF:-1,IT:REAL_TIME+1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1849.ts
+#EXTINF:-1,IT:DISCOVERY_WORLD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1896.ts
+#EXTINF:-1,IT:NATGEO_WILDHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1280.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2352.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2351.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_3HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2350.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_4HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2349.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_5HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2348.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_6HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2347.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_7HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2346.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_8HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2345.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_9HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2344.ts
+#EXTINF:-1,IT:SKY_PRIMAFILA_10HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2343.ts
+#EXTINF:-1,IT:FOX_SPORTS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1392.ts
+#EXTINF:-1,IT:SKY_MOTO_GPHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1281.ts
+#EXTINF:-1,IT:RAI_SPORT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1275.ts
+#EXTINF:-1,IT:RAI_SPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1276.ts
+#EXTINF:-1,IT:SKY_SPORT_F1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/329.ts
+#EXTINF:-1,IT:SKY_SPORTS_24HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/349.ts
+#EXTINF:-1,IT:SKY_SPORTS_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/328.ts
+#EXTINF:-1,IT:SKY_SPORTS_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/573.ts
+#EXTINF:-1,IT:SKY_SPORTS_3HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/574.ts
+#EXTINF:-1,IT:Premium_Calcio1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2400.ts
+#EXTINF:-1,IT:Premium_Calcio2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2396.ts
+#EXTINF:-1,IT:Premium_Sport_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2393.ts
+#EXTINF:-1,IT:Premium_Sport_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2394.ts
+#EXTINF:-1,DE:WRD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2333.ts
+#EXTINF:-1,DE:SRF1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2230.ts
+#EXTINF:-1,DE:SRF2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2231.ts
+#EXTINF:-1,DE:RTL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/377.ts
+#EXTINF:-1,DE:RTL2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2003.ts
+#EXTINF:-1,DE:SUPER_RTL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2004.ts
+#EXTINF:-1,DE:ZEE_ONE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3136.ts
+#EXTINF:-1,DE:N24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3135.ts
+#EXTINF:-1,DE:RTL_NETRO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2335.ts
+#EXTINF:-1,DE:RTL_CRIM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2334.ts
+#EXTINF:-1,DE:ORF1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2011.ts
+#EXTINF:-1,DE:ORF2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/374.ts
+#EXTINF:-1,DE:ORF3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2575.ts
+#EXTINF:-1,DE:ZDF
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2743.ts
+#EXTINF:-1,DE:ZDF_INFO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/372.ts
+#EXTINF:-1,DE:ZDF_NEO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2737.ts
+#EXTINF:-1,DE:SIXX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1500.ts
+#EXTINF:-1,DE:VOX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2005.ts
+#EXTINF:-1,DE:SAT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2006.ts
+#EXTINF:-1,DE:PRO7_MAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2331.ts
+#EXTINF:-1,DE:PRO7
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1501.ts
+#EXTINF:-1,DE:DMAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2734.ts
+#EXTINF:-1,DE:DAS_ERSTE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2978.ts
+#EXTINF:-1,DE:NDR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1502.ts
+#EXTINF:-1,DE:MUNCHEN_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2986.ts
+#EXTINF:-1,DE:ANIXE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2989.ts
+#EXTINF:-1,DE:N-TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1504.ts
+#EXTINF:-1,DE:TNT_SERIE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/376.ts
+#EXTINF:-1,DE:TNT_FILM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2336.ts
+#EXTINF:-1,DE:KABEL1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1506.ts
+#EXTINF:-1,DE:ARTE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1508.ts
+#EXTINF:-1,DE:SKY_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/371.ts
+#EXTINF:-1,DE:SKY_CINEMA_24HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/361.ts
+#EXTINF:-1,DE:SKY_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2736.ts
+#EXTINF:-1,DE:SKY_ATLANTIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/362.ts
+#EXTINF:-1,DE:SKY_EMOTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/360.ts
+#EXTINF:-1,DE:SKY_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/370.ts
+#EXTINF:-1,DE:Sky_KRIMI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/942.ts
+#EXTINF:-1,DE:SKY_HITS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/369.ts
+#EXTINF:-1,DE:SKY_MGM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2330.ts
+#EXTINF:-1,DE:KIKA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/378.ts
+#EXTINF:-1,DE:DISNEY_XD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2264.ts
+#EXTINF:-1,DE:DISNEY_CINEMAGIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2267.ts
+#EXTINF:-1,DE:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2332.ts
+#EXTINF:-1,DE:NICKELODEON
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2007.ts
+#EXTINF:-1,DE:FOX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2276.ts
+#EXTINF:-1,DE:13TH_STREETHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/946.ts
+#EXTINF:-1,DE:SYFY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/945.ts
+#EXTINF:-1,DE:NATGEO_WILD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/943.ts
+#EXTINF:-1,DE:HISTORYHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/944.ts
+#EXTINF:-1,DE:NATGEO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/375.ts
+#EXTINF:-1,DE:SKY_SELECT6
+http://iptv-supplier.com:8000/live/bouzaher/ryade/363.ts
+#EXTINF:-1,DE:SKY_SELECT5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/364.ts
+#EXTINF:-1,DE:SKY_SELECT4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/365.ts
+#EXTINF:-1,DE:SKY_SELECT3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/366.ts
+#EXTINF:-1,DE:SKY_SELECT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/367.ts
+#EXTINF:-1,DE:SKY_SELECT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/368.ts
+#EXTINF:-1,DE:SPORT_DIGITAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2338.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/359.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/357.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/358.ts
+#EXTINF:-1,ES:CANAL_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/479.ts
+#EXTINF:-1,ES:nova
+http://iptv-supplier.com:8000/live/bouzaher/ryade/480.ts
+#EXTINF:-1,ES:CANAL_TOROS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/385.ts
+#EXTINF:-1,ES:CANAL_LIGA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2970.ts
+#EXTINF:-1,ES:CANAL_GOLF
+http://iptv-supplier.com:8000/live/bouzaher/ryade/387.ts
+#EXTINF:-1,ES:CANAL_FUTBOL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/388.ts
+#EXTINF:-1,ES:CANAL_LIGA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/386.ts
+#EXTINF:-1,ES:BEIN_LA_LIGA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3112.ts
+#EXTINF:-1,ES:BEIN_SPORTS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/486.ts
+#EXTINF:-1,ES:Barca
+http://iptv-supplier.com:8000/live/bouzaher/ryade/484.ts
+#EXTINF:-1,ES:EUROSPORT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1668.ts
+#EXTINF:-1,ES:CANAL_DEPORTES
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2036.ts
+#EXTINF:-1,ES:CANAL_DEPORTES2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2972.ts
+#EXTINF:-1,ES:CANAL_COMEDIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/389.ts
+#EXTINF:-1,ES:CANAL_ACCION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/481.ts
+#EXTINF:-1,ES:CANAL_XTRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2973.ts
+#EXTINF:-1,ES:CANAL_ESTRENOS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1853.ts
+#EXTINF:-1,ES:CANAL_DCINE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/482.ts
+#EXTINF:-1,ES:ODISEA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1857.ts
+#EXTINF:-1,ES:CAZA_Y_PESCA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2974.ts
+#EXTINF:-1,ES:A & E
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2975.ts
+#EXTINF:-1,ES:CANAL_DE_LASESTRELLAS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1856.ts
+#EXTINF:-1,ES:LA_SEXTA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/382.ts
+#EXTINF:-1,ES:REAL_MADRID
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1662.ts
+#EXTINF:-1,ES:EURONEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1806.ts
+#EXTINF:-1,ES:DISNEY_JUNIOR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2928.ts
+#EXTINF:-1,ES:SYFY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1876.ts
+#EXTINF:-1,ES:MoviStar_MotoGp
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1877.ts
+#EXTINF:-1,ES:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1671.ts
+#EXTINF:-1,ES:CUATRO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1673.ts
+#EXTINF:-1,ES:TELECINCO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1660.ts
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1664.ts
+#EXTINF:-1,ES:MOVISTAR_F1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1661.ts
+#EXTINF:-1,ES:La2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1666.ts
+#EXTINF:-1,ES:La1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1667.ts
+#EXTINF:-1,ES:HOLLYWOOD_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/973.ts
+#EXTINF:-1,ES:HISTORIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/381.ts
+#EXTINF:-1,ES:GALICIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1669.ts
+#EXTINF:-1,ES:FOX_LIFE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1665.ts
+#EXTINF:-1,ES:FOX1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1670.ts
+#EXTINF:-1,ES:CLAN_TVE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1676.ts
+#EXTINF:-1,ES:CALLE_13
+http://iptv-supplier.com:8000/live/bouzaher/ryade/969.ts
+#EXTINF:-1,ES:AXN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/487.ts
+#EXTINF:-1,ES:ANTENNA3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1675.ts
+#EXTINF:-1,ES:ANDALUCIA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1807.ts
+#EXTINF:-1,TR:ATV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/415.ts
+#EXTINF:-1,TR:TV2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1835.ts
+#EXTINF:-1,TR:TV8_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/397.ts
+#EXTINF:-1,TR:KANALD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/398.ts
+#EXTINF:-1,TR:KANAL7
+http://iptv-supplier.com:8000/live/bouzaher/ryade/917.ts
+#EXTINF:-1,TR:SHOW_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/394.ts
+#EXTINF:-1,TR:ISTANBUL_TV1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3102.ts
+#EXTINF:-1,TR:SHOW_MAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3091.ts
+#EXTINF:-1,TR:POWER_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/401.ts
+#EXTINF:-1,TR:NTV_AVRUPA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3096.ts
+#EXTINF:-1,TR:EURO_STAR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3090.ts
+#EXTINF:-1,TR:EURO_D
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3092.ts
+#EXTINF:-1,TR:FLASH_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1054.ts
+#EXTINF:-1,TR:FOX_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1834.ts
+#EXTINF:-1,TR:TRT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/408.ts
+#EXTINF:-1,TR:TRT_Haber
+http://iptv-supplier.com:8000/live/bouzaher/ryade/983.ts
+#EXTINF:-1,TR:TRT_TURK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/413.ts
+#EXTINF:-1,TR:TRT_cocuk
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1886.ts
+#EXTINF:-1,TR:TRT_Muzik
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1887.ts
+#EXTINF:-1,TR:TRT_Diyanet
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1888.ts
+#EXTINF:-1,TR:TRT_Okul
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1889.ts
+#EXTINF:-1,TR:TRT_BELGESEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1755.ts
+#EXTINF:-1,TR:TRT_SPOR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/412.ts
+#EXTINF:-1,TR:BABY_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1009.ts
+#EXTINF:-1,TR:360
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1017.ts
+#EXTINF:-1,TR:ANIMAL_PLANET
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1840.ts
+#EXTINF:-1,TR:DISCOVERY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1832.ts
+#EXTINF:-1,TR:A_HABER
+http://iptv-supplier.com:8000/live/bouzaher/ryade/913.ts
+#EXTINF:-1,TR:FANATIKTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/905.ts
+#EXTINF:-1,TR:STARTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/407.ts
+#EXTINF:-1,TR:24TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/406.ts
+#EXTINF:-1,TR:CNN_TURK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/911.ts
+#EXTINF:-1,TR:BEYAZTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/916.ts
+#EXTINF:-1,TR:SANSAR_ÃœLKE_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1757.ts
+#EXTINF:-1,TR:FILTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1758.ts
+#EXTINF:-1,TR:DREAM_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1760.ts
+#EXTINF:-1,TR:DREAM_TURK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1761.ts
+#EXTINF:-1,TR:DISNEY_XD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1497.ts
+#EXTINF:-1,TR:MINIKAGO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1498.ts
+#EXTINF:-1,TR:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1010.ts
+#EXTINF:-1,TR:SINEMATV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/908.ts
+#EXTINF:-1,TR:SINEMA2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/909.ts
+#EXTINF:-1,TR:PLANET_TURC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1837.ts
+#EXTINF:-1,TR:PLANET_MUFTAK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1838.ts
+#EXTINF:-1,TR:PLANET_COCUK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1839.ts
+#EXTINF:-1,TR: MovieMax_Premier HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2746.ts
+#EXTINF:-1,TR:MOVIEMAX_STARSHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2747.ts
+#EXTINF:-1,TR:MOVIEMAX_PREMIER_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2749.ts
+#EXTINF:-1,TR:MOVIEMAX_TURC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2748.ts
+#EXTINF:-1,TR:MOVIEMAX_FESTIVALHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2750.ts
+#EXTINF:-1,TR:MOVIEMAX_FAMILY_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2751.ts
+#EXTINF:-1,TR:MOVIEMAX_ACTIONHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2752.ts
+#EXTINF:-1,TR:SALON1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/402.ts
+#EXTINF:-1,TR:SALON2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/403.ts
+#EXTINF:-1,TR:SALON3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/404.ts
+#EXTINF:-1,TR:LOCAL1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1885.ts
+#EXTINF:-1,TR:LOCAL2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1884.ts
+#EXTINF:-1,TR:NTV_SPOR
+http://iptv-supplier.com:8000/live/bouzaher/ryade/400.ts
+#EXTINF:-1,TR:SPRTS_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1836.ts
+#EXTINF:-1,TR:A_SPORHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/914.ts
+#EXTINF:-1,TR:GS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3095.ts
+#EXTINF:-1,TR:FENERBAHCE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3093.ts
+#EXTINF:-1,TR:BJK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3094.ts
+#EXTINF:-1,TR:TIVIBU_SPOR_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2990.ts
+#EXTINF:-1,TR:TIVIBU_SPOR_2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2991.ts
+#EXTINF:-1,TR:LIG_TV_1HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/392.ts
+#EXTINF:-1,TR:LIG_TV _2HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/391.ts
+#EXTINF:-1,TR:LIG_TV_3HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/390.ts
+#EXTINF:-1,IN:ZEE_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/879.ts
+#EXTINF:-1,IN:ZEE_CINEMA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/878.ts
+#EXTINF:-1,IN:ZEE_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/438.ts
+#EXTINF:-1,IN:B4U_PLUS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/436.ts
+#EXTINF:-1,IN:SUNTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/434.ts
+#EXTINF:-1,IN:SET_MAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/444.ts
+#EXTINF:-1,IN:9xM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/433.ts
+#EXTINF:-1,IN:MUSIC_INDIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1068.ts
+#EXTINF:-1,IN:B4U_INDIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1067.ts
+#EXTINF:-1,IN:ZEE_CAFE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2136.ts
+#EXTINF:-1,IN:B4U_MOVIES
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2137.ts
+#EXTINF:-1,IN:STAR_SPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3071.ts
+#EXTINF:-1,IND:TEN_SPORT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3069.ts
+#EXTINF:-1,IN:STAR_SPORT3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3072.ts
+#EXTINF:-1,IND:TEN_SPORT
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3068.ts
+#EXTINF:-1,IN:TEN_GOLF
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3070.ts
+#EXTINF:-1,IN:MAA_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3073.ts
+#EXTINF:-1,IN:AsiaNET_MOVIE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3074.ts
+#EXTINF:-1,IN:SONY_SIX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2134.ts
+#EXTINF:-1,IN:ZEE_BOLLYWOOD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2123.ts
+#EXTINF:-1,IN:ZEE_CLASSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2127.ts
+#EXTINF:-1,IN:B4U_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2129.ts
+#EXTINF:-1,IN:STAR_PLUS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2130.ts
+#EXTINF:-1,IN:ARY_ZINDAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2138.ts
+#EXTINF:-1,IN:9X_JALWA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2135.ts
+#EXTINF:-1,-Portuguese-live-TV-
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1878.ts
+#EXTINF:-1,PT:EUROSPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2367.ts
+#EXTINF:-1,PT:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2368.ts
+#EXTINF:-1,PT:BABY_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2370.ts
+#EXTINF:-1,PT:TVCine1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2302.ts
+#EXTINF:-1,PT:TVCine2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2303.ts
+#EXTINF:-1,PT:TVCine3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2304.ts
+#EXTINF:-1,PT:TVCine4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2305.ts
+#EXTINF:-1,PT:TVCseries
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2306.ts
+#EXTINF:-1,PT:RTP_Madeira
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2318.ts
+#EXTINF:-1,PT:RTP_Informacao
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2319.ts
+#EXTINF:-1,PT:RTP2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2320.ts
+#EXTINF:-1,PT:RTP1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2321.ts
+#EXTINF:-1,PT:Fox_Life
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2313.ts
+#EXTINF:-1,PT:Fox_Crime
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2314.ts
+#EXTINF:-1,PT:Fox_Comedy
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2311.ts
+#EXTINF:-1,PT:FoxHD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2312.ts
+#EXTINF:-1,PT:Axn_White
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2309.ts
+#EXTINF:-1,PT:Axn_Black
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2310.ts
+#EXTINF:-1,PT:AXN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2308.ts
+#EXTINF:-1,PT:SporTV5
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2298.ts
+#EXTINF:-1,PT:SPORT_TV1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts
+#EXTINF:-1,PT:SporTV2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts
+#EXTINF:-1,PT:SporTV3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts
+#EXTINF:-1,PT:SporTV4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2297.ts
+#EXTINF:-1,PT:Canal_Porto
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2315.ts
+#EXTINF:-1,PT:Benfica2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2300.ts
+#EXTINF:-1,PT:Benfica1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2301.ts
+#EXTINF:-1,PT:TVI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2317.ts
+#EXTINF:-1,PT:SyFy
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2322.ts
+#EXTINF:-1,PT:Disney_Junior
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2324.ts
+#EXTINF:-1,PT:CartoonNetWork
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2323.ts
+#EXTINF:-1,AL:TRING_WORLD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2652.ts
+#EXTINF:-1,AL:TRING_TRING
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2653.ts
+#EXTINF:-1,AL:TRING_SUPER
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2654.ts
+#EXTINF:-1,AL:TRING_SHQIP
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2655.ts
+#EXTINF:-1,AL:TRING_PLANET
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2656.ts
+#EXTINF:-1,AL:TRING_MAX
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2657.ts
+#EXTINF:-1,AL:TRING_LIFE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2658.ts
+#EXTINF:-1,AL:TRING_HISTORY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2659.ts
+#EXTINF:-1,AL:TRING_COMEDY
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2660.ts
+#EXTINF:-1,AL:RTK_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2665.ts
+#EXTINF:-1,AL:KTV_HD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2664.ts
+#EXTINF:-1,AL:ABC_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2823.ts
+#EXTINF:-1,AL:RTK_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1919.ts
+#EXTINF:-1,AL:FIRST_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1929.ts
+#EXTINF:-1,Al:RTV_PLUS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1971.ts
+#EXTINF:-1,AL:RTV_21
+http://iptv-supplier.com:8000/live/bouzaher/ryade/1972.ts
+#EXTINF:-1,AL:TRING_SPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2467.ts
+#EXTINF:-1,AL:TRING_SPORT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2468.ts
+#EXTINF:-1,AL:TRING_SPORT3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2469.ts
+#EXTINF:-1,AL:TRING_SPORT4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2470.ts
+#EXTINF:-1,AL:SUPERSPORT_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2464.ts
+#EXTINF:-1,AL:SUPERSPORT_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2466.ts
+#EXTINF:-1,AL:SUPERSPORT_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2465.ts
+#EXTINF:-1,AL:SUPERSPORT_4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2471.ts
+#EXTINF:-1,EXYU:RTS_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2690.ts
+#EXTINF:-1,EXYU:RTS_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2691.ts
+#EXTINF:-1,EXYU:PINK_ZABAVA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2508.ts
+#EXTINF:-1,EXYU:PINK_PREMIUM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2509.ts
+#EXTINF:-1,EXYU:PINK_WESTERN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2510.ts
+#EXTINF:-1,EXYU:PINK_SOAP
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2512.ts
+#EXTINF:-1,EXYU:PINK_EXTRA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2507.ts
+#EXTINF:-1,EXYU:PINK_ACTION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2511.ts
+#EXTINF:-1,EXYU:PINK
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2504.ts
+#EXTINF:-1,EXYU:PINK_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2505.ts
+#EXTINF:-1,EXYU:PINK_3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2506.ts
+#EXTINF:-1,EXYU:HRT4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2499.ts
+#EXTINF:-1,EXYU:HRT3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2498.ts
+#EXTINF:-1,EXYU:HRT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2497.ts
+#EXTINF:-1,EXYU:HRT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2496.ts
+#EXTINF:-1,EXYU:CINESTAR_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2500.ts
+#EXTINF:-1,EXYU:CINESTAR_PREMIERE
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2501.ts
+#EXTINF:-1,EXYU:CINEMAX_2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2503.ts
+#EXTINF:-1,EXYU:CINEMAX_1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2502.ts
+#EXTINF:-1,EXYU:SPORT_KLUB1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2517.ts
+#EXTINF:-1,EXYU:SPORT_KLUB2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2518.ts
+#EXTINF:-1,EXYU:SPORT_KLUB3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2519.ts
+#EXTINF:-1,EXYU:ARENA_SPORT1_SRB
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2520.ts
+#EXTINF:-1,EXYU:ARENA_SPORT1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2513.ts
+#EXTINF:-1,EXYU:ARENA_SPORT2_SRB
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2521.ts
+#EXTINF:-1,EXYU:ARENA_SPORT2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2514.ts
+#EXTINF:-1,EXYU:ARENA_SPORT3_SRB
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2522.ts
+#EXTINF:-1,EXYU:ARENA_SPORT3
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2515.ts
+#EXTINF:-1,EXYU:ARENA_SPORT4_SRB
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2523.ts
+#EXTINF:-1,EXYU:ARENA_SPORT4
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2516.ts
+#EXTINF:-1,AF:RTI1
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2608.ts
+#EXTINF:-1,AF:RTB_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2609.ts
+#EXTINF:-1,AF:CANAL_2_INFORMATION
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2610.ts
+#EXTINF:-1,AF:2STV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2732.ts
+#EXTINF:-1,AF:IMPACT_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2735.ts
+#EXTINF:-1,AF:TVJ_JAMAICA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3079.ts
+#EXTINF:-1,AF:TVC_NEWS
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3077.ts
+#EXTINF:-1,AF:TVC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3076.ts
+#EXTINF:-1,AF:GABON_24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3075.ts
+#EXTINF:-1,AF:ANN7
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3078.ts
+#EXTINF:-1,AF:NOLLYWOOD
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2632.ts
+#EXTINF:-1,AF:ALL_MUSIC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2634.ts
+#EXTINF:-1,AF:D24_SENEGAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/3056.ts
+#EXTINF:-1,AF:VOX_AFRICA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2763.ts
+#EXTINF:-1,AF:DIASPORA24_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2733.ts
+#EXTINF:-1,AF:GONG
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2769.ts
+#EXTINF:-1,AF:STV_SOMALI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2627.ts
+#EXTINF:-1,AF:RTI2
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2607.ts
+#EXTINF:-1,AF:MFM
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2759.ts
+#EXTINF:-1,AF:MANA_MAPUTO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2768.ts
+#EXTINF:-1,AF:RTNC
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2765.ts
+#EXTINF:-1,AF:EBRU_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2767.ts
+#EXTINF:-1,AF:CANAL_2_INTERNATIONAL
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2762.ts
+#EXTINF:-1,AF:AFRICA_24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2766.ts
+#EXTINF:-1,AF:ESTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2760.ts
+#EXTINF:-1,AF:G24
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2770.ts
+#EXTINF:-1,AF:TCHAD_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2761.ts
+#EXTINF:-1,AF:CRTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2764.ts
+#EXTINF:-1,AF:TELE_CONGO
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2633.ts
+#EXTINF:-1,AF:SOMALI_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2604.ts
+#EXTINF:-1,AF:RTV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2611.ts
+#EXTINF:-1,AF:RTS1_SEN
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2595.ts
+#EXTINF:-1,AF:ORTM_MALI
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2614.ts
+#EXTINF:-1,AF:NTAI_NIGERIA
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2619.ts
+#EXTINF:-1,AF:TFM_TV
+http://iptv-supplier.com:8000/live/bouzaher/ryade/2668.ts
 #EXTINF:-1,#### VOD BOX OFFICE FR ####
 http://ip.kmsat.info:8000/live/Fernando/Fernando/1169.ts
 #EXTINF:-1,Doc:Racing Extinction
@@ -1895,173 +2168,3 @@ http://ip.kmsat.info:8000/movie/Fernando/Fernando/1154.mkv
 http://ip.kmsat.info:8000/live/Fernando/Fernando/1294.ts
 #EXTINF:-1,Seul sur Mars 3D
 http://ip.kmsat.info:8000/movie/Fernando/Fernando/1292.mkv
-#EXTINF:-1,AF: Sudan_TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2186.ts
-#EXTINF:-1,IN | Star Sports 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2168.ts
-#EXTINF:-1,IN | Star Sports 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2167.ts
-#EXTINF:-1,IN | Star Sports 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2166.ts
-#EXTINF:-1,SPORTS | LIG TV1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2162.ts
-#EXTINF:-1,SPORTS | LIG TV2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2163.ts
-#EXTINF:-1,SPORTS | LIG TV3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2164.ts
-#EXTINF:-1,MUSIC:M2O Music
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2108.ts
-#EXTINF:-1,MUSIC:Indies Live
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2109.ts
-#EXTINF:-1,MUSIC:Djing DJS
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2110.ts
-#EXTINF:-1,MUSIC:Capital_Tv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2111.ts
-#EXTINF:-1,#### Netherland ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/981.ts
-#EXTINF:-1,NL: Ziggo_Sport1_Golf
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1976.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1974.ts
-#EXTINF:-1,NL: Ziggo Sport
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1977.ts
-#EXTINF:-1,NL: Zeeland tv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1978.ts
-#EXTINF:-1,NL: Veronica XD HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1979.ts
-#EXTINF:-1,NL: TV OOST HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1980.ts
-#EXTINF:-1,NL: TLC HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1981.ts
-#EXTINF:-1,NL: Syfy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1982.ts
-#EXTINF:-1,NL: Sport 1 Racing
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1975.ts
-#EXTINF:-1,NL: SPORT 1 EXTRA 2 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1983.ts
-#EXTINF:-1,NL: SPORT 1 EXTRA 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1984.ts
-#EXTINF:-1,NL: SBS 9-B
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1985.ts
-#EXTINF:-1,NL: SBS 6 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1986.ts
-#EXTINF:-1,NL: RTV Drenthe
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1987.ts
-#EXTINF:-1,NL: RTL Z
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1989.ts
-#EXTINF:-1,NL: RTL Telekids
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1990.ts
-#EXTINF:-1,NL: RTL lounge
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1988.ts
-#EXTINF:-1,NL: RTL 8 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1991.ts
-#EXTINF:-1,NL: RTL 7 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1992.ts
-#EXTINF:-1,NL: RTL 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1993.ts
-#EXTINF:-1,NL: RTL 4 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1994.ts
-#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1996.ts
-#EXTINF:-1,NL: NPO POLITIEK / SPORT HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1997.ts
-#EXTINF:-1,NL: NPO 3 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1998.ts
-#EXTINF:-1,NL: NPO 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1999.ts
-#EXTINF:-1,NL: NPO 101 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2000.ts
-#EXTINF:-1,NL: NPO 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2001.ts
-#EXTINF:-1,NL: Nickelodeon
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2003.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://ip.kmsat.info:8000/live/Fernando/Fernando/986.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://ip.kmsat.info:8000/live/Fernando/Fernando/985.ts
-#EXTINF:-1,NL: FOX Sports 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/984.ts
-#EXTINF:-1,NL: FOX Sports 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/983.ts
-#EXTINF:-1,NL: Fox Sports 1 HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/982.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://ip.kmsat.info:8000/live/Fernando/Fernando/988.ts
-#EXTINF:-1,NL: Film 1 Spotlight
-http://ip.kmsat.info:8000/live/Fernando/Fernando/991.ts
-#EXTINF:-1,NL: Film 1 Comedy
-http://ip.kmsat.info:8000/live/Fernando/Fernando/989.ts
-#EXTINF:-1,NL: Film 1 Action HD
-http://ip.kmsat.info:8000/live/Fernando/Fernando/990.ts
-#EXTINF:-1,####[USA]####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1635.ts
-#EXTINF:-1,USA-TSN1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1646.ts
-#EXTINF:-1,USA-TSN2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1645.ts
-#EXTINF:-1,USA-TSN-3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1649.ts
-#EXTINF:-1,USA-wacxtv
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1640.ts
-#EXTINF:-1,USA-Vevo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1636.ts
-#EXTINF:-1,USA-Newsmax
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1637.ts
-#EXTINF:-1,USA-CBSN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1638.ts
-#EXTINF:-1,USA-CBN
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1639.ts
-#EXTINF:-1,USA-Bloomberg
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1642.ts
-#EXTINF:-1,####  RUS ####
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1235.ts
-#EXTINF:-1,RU | Zoo Park
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2159.ts
-#EXTINF:-1,RU | Telekanal Zvezda
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2152.ts
-#EXTINF:-1,RU | Sony Turbo
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2148.ts
-#EXTINF:-1,RU | Russia 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2151.ts
-#EXTINF:-1,RU | Ren
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2153.ts
-#EXTINF:-1,RU | Outdoor Channel
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2157.ts
-#EXTINF:-1,RU | National Geographic
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2154.ts
-#EXTINF:-1,RU | Nat Geo Wild
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2155.ts
-#EXTINF:-1,RU | Moya Planeta
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2160.ts
-#EXTINF:-1,RU | HTB
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2150.ts
-#EXTINF:-1,RU | HD Life
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2149.ts
-#EXTINF:-1,RU | Discovery Channel
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2156.ts
-#EXTINF:-1,RU | Discovery
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2147.ts
-#EXTINF:-1,RU | Animal Planet
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2158.ts
-#EXTINF:-1,RU | 24 Doc
-http://ip.kmsat.info:8000/live/Fernando/Fernando/2161.ts
-#EXTINF:-1,RU | Viasat Nature
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1859.ts
-#EXTINF:-1,RU | Viasat History
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1860.ts
-#EXTINF:-1,RU | Viasat Explorer
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1861.ts
-#EXTINF:-1,RU | TV1000
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1862.ts
-#EXTINF:-1,RU | NTV Football 3
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1855.ts
-#EXTINF:-1,RU | NTV Football 2
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1854.ts
-#EXTINF:-1,RU | NTV Football 1
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1853.ts
-#EXTINF:-1,RU | Nash Futbol
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1856.ts
-#EXTINF:-1,RU | Match Nash Sport
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1858.ts
-#EXTINF:-1,RU | Match
-http://ip.kmsat.info:8000/live/Fernando/Fernando/1857.ts
