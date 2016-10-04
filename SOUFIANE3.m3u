@@ -1,2539 +1,1565 @@
 #EXTM3U
-#EXTINF:-1,***** FRENCH *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1523.ts
-#EXTINF:-1,++++ SPORTS ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1548.ts
-#EXTINF:-1,FR: SFR SPORT 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2060.ts
-#EXTINF:-1,FR: SFR SPORT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2061.ts
-#EXTINF:-1,FR: SFR SPORT 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2062.ts
-#EXTINF:-1,FR: SFR CINE A LA DEMANDE 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2066.ts
-#EXTINF:-1,FR: SFR CINE A LA DEMANDE 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2067.ts
-#EXTINF:-1,FRENCH |  BEIN SPORTS HD1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/17.ts
-#EXTINF:-1,FRENCH |  BEIN SPORTS HD2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/18.ts
-#EXTINF:-1,FRENCH |  BEIN SPORTS HD3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/19.ts
-#EXTINF:-1,FRENCH |  BEINSPORT_MAX4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/559.ts
-#EXTINF:-1,FRENCH |  BEINSPORT_MAX5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/558.ts
-#EXTINF:-1,FRENCH |  BEINSPORT_MAX6
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/554.ts
-#EXTINF:-1,FRENCH |  BEINSPORT_MAX7
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1706.ts
-#EXTINF:-1,FRENCH |  BEINSPORT_MAX8
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1707.ts
-#EXTINF:-1,FR: TREK HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2059.ts
-#EXTINF:-1,FRENCH |  FOOT +
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/63.ts
-#EXTINF:-1,FR: AB Moteur HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2056.ts
-#EXTINF:-1,FRENCH |  InfoSport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/227.ts
-#EXTINF:-1,FRENCH |  L'EQUIPE 21
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/21.ts
-#EXTINF:-1,FRENCH | MA CHAINE SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/120.ts
-#EXTINF:-1,FRENCH |  EUROSPORT HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/64.ts
-#EXTINF:-1,FRENCH |  EUROSPORT 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/125.ts
-#EXTINF:-1,FRENCH | EUROSPORT2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/229.ts
-#EXTINF:-1,FRENCH | CANAL SPORT HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/562.ts
-#EXTINF:-1,FRENCH |  OL TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/111.ts
-#EXTINF:-1,FRENCH |  CANAL  SPORT HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/34.ts
-#EXTINF:-1,++++ FILMS ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1538.ts
-#EXTINF:-1,FRENCH |  LOC OCS GEANT HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/769.ts
-#EXTINF:-1,FRENCH |  LOC OCS CHOC HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/770.ts
-#EXTINF:-1,FRENCH |  LOC CINE PREMIER HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/775.ts
-#EXTINF:-1,FRENCH | LOC Cine  Emotion H -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/774.ts
-#EXTINF:-1,FRENCH |  LOC Canal  Family HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/771.ts
-#EXTINF:-1,FRENCH | LOC Canal  cinema HD H -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/773.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.10
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/552.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.9
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/551.ts
-#EXTINF:-1,FRENCH |  A LA CARTE 8 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/702.ts
-#EXTINF:-1,FRENCH |  A LA CARTE 7 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/701.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/550.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/549.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/548.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/547.ts
-#EXTINF:-1,FRENCH |  A.LA.CARTE.1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/546.ts
-#EXTINF:-1,FRENCH |  CANALPLAY-9
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/561.ts
-#EXTINF:-1,FRENCH |  CANALPLAY-5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/557.ts
-#EXTINF:-1,FRENCH |  CANALPLAY-4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/556.ts
-#EXTINF:-1,FRENCH |  CANALPLAY-3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/555.ts
-#EXTINF:-1,FRENCH |  CANALPLAY-1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/553.ts
-#EXTINF:-1,FRENCH |  HD 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/472.ts
-#EXTINF:-1,FRENCH | ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/104.ts
-#EXTINF:-1,FRENCH |  CINE  Ã‰MOTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/39.ts
-#EXTINF:-1,FRENCH |  SERIE CLUB HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/47.ts
-#EXTINF:-1,FRENCH |  SYFY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/225.ts
-#EXTINF:-1,FRENCH |  cherie25
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/530.ts
-#EXTINF:-1,FRENCH |  OCS MAX HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/50.ts
-#EXTINF:-1,FRENCH |  OCS GEANT HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/51.ts
-#EXTINF:-1,FRENCH |  OCS CITY HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/112.ts
-#EXTINF:-1,FRENCH |  CINE + FRISSON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/40.ts
-#EXTINF:-1,FRENCH | Comedie Plus HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/130.ts
-#EXTINF:-1,FR: CINE FX HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2058.ts
-#EXTINF:-1,FRENCH | comedie HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/606.ts
-#EXTINF:-1,FRENCH |  CINE PLUS PREMIER HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/148.ts
-#EXTINF:-1,FRENCH |  CINE PLUS FRISSON HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/149.ts
-#EXTINF:-1,FRENCH |  CINE PLUS EMOTION HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/151.ts
-#EXTINF:-1,FRENCH |  CINE CLASSIC HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/132.ts
-#EXTINF:-1,FRENCH |  CINE POLAR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/44.ts
-#EXTINF:-1,FRENCH |  Canal-Serie
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/232.ts
-#EXTINF:-1,FRENCH |  CANAL FAMILY HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/36.ts
-#EXTINF:-1,FRENCH |  CANAL SERIES HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/563.ts
-#EXTINF:-1,FRENCH |  SYFY HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/54.ts
-#EXTINF:-1,FRENCH |  CANAL CINEMA HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/38.ts
-#EXTINF:-1,FRENCH |  CANAL PLUS FAMILY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/147.ts
-#EXTINF:-1,FRENCH |  CINE FAMIZ HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/593.ts
-#EXTINF:-1,++++ CULTURE ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1539.ts
-#EXTINF:-1,FRENCH |  Chasse&Peche
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/590.ts
-#EXTINF:-1,FRENCH |  WEO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/96.ts
-#EXTINF:-1,FRENCH |  Animaux
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/231.ts
-#EXTINF:-1,FRENCH |  NATIONAL.GEO.WILD.HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/572.ts
-#EXTINF:-1,FRENCH |  LOC Serie Club F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/764.ts
-#EXTINF:-1,FRENCH |  June HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/92.ts
-#EXTINF:-1,FRENCH |  W9 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/28.ts
-#EXTINF:-1,FRENCH |  Ushuaia HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/66.ts
-#EXTINF:-1,FRENCH |  USHUAIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/97.ts
-#EXTINF:-1,FRENCH |  Discovery
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/573.ts
-#EXTINF:-1,FRENCH |  VOYAGE TV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/605.ts
-#EXTINF:-1,FRENCH |  ScienceetVieTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/105.ts
-#EXTINF:-1,FRENCH |  PLANET PLUS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/108.ts
-#EXTINF:-1,FRENCH |  PLANET PLUS CI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/109.ts
-#EXTINF:-1,FRENCH |  Planete Plus AE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/110.ts
-#EXTINF:-1,FRENCH |  PLANETE +
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/70.ts
-#EXTINF:-1,FRENCH |  Teva HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/93.ts
-#EXTINF:-1,FRENCH |  NAT GEO WILD HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/71.ts
-#EXTINF:-1,FRENCH |  NAT GEO WILD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/114.ts
-#EXTINF:-1,FRENCH |  NATIONAL GEO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/68.ts
-#EXTINF:-1,FRENCH |  NAT GEO HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/115.ts
-#EXTINF:-1,FRENCH |  HISTOIRE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/122.ts
-#EXTINF:-1,FRENCH |  DISCOVERY-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/230.ts
-#EXTINF:-1,FRENCH |  RMC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/107.ts
-#EXTINF:-1,FRENCH |  CHASSE & PECHE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/136.ts
-#EXTINF:-1,FRENCH |  ANIMAUX HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/144.ts
-#EXTINF:-1,FRENCH |  DISCOVERY SCIENCE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/604.ts
-#EXTINF:-1,++++ ENFANTS ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1537.ts
-#EXTINF:-1,FRENCH |  DISNEY CINEMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/568.ts
-#EXTINF:-1,FRENCH |  GULLI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/592.ts
-#EXTINF:-1,FRENCH |  TeleToon Plus
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/102.ts
-#EXTINF:-1,FRENCH |  TeleToon
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/103.ts
-#EXTINF:-1,FRENCH |  LA UNE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/761.ts
-#EXTINF:-1,FRENCH |  LA DEUX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/762.ts
-#EXTINF:-1,FRENCH |  TCM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/94.ts
-#EXTINF:-1,FRENCH |  TIJI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/101.ts
-#EXTINF:-1,FRENCH |  DISNEY CINE MAGIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/567.ts
-#EXTINF:-1,FRENCH |  DISNEY JUNIOR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/569.ts
-#EXTINF:-1,FRENCH |  PIWI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/565.ts
-#EXTINF:-1,FRENCH |  DISNEY CHANNEL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/566.ts
-#EXTINF:-1,FRENCH |  MANGAS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/119.ts
-#EXTINF:-1,FRENCH | CANAL J
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/139.ts
-#EXTINF:-1,FRENCH |  DISNEY CINE  MAGIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/128.ts
-#EXTINF:-1,FRENCH | Disney Channel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/129.ts
-#EXTINF:-1,FRENCH |  CARTOON NETWORK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/137.ts
-#EXTINF:-1,FRENCH |  BOOMERANG
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/140.ts
-#EXTINF:-1,FRENCH |  BOING
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/141.ts
-#EXTINF:-1,++++ EVENEMENT ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1536.ts
-#EXTINF:-1,FRENCH |  TV5 MONDE  HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/98.ts
-#EXTINF:-1,FRENCH |  TV5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/99.ts
-#EXTINF:-1,FRENCH |  TMC HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/100.ts
-#EXTINF:-1,FRENCH |  LOC TF1 HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/763.ts
-#EXTINF:-1,FRENCH |  TF1 hd
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/303.ts
-#EXTINF:-1,FRENCH |  France 0
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/145.ts
-#EXTINF:-1,FRENCH |  LOC M6 HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/766.ts
-#EXTINF:-1,FRENCH |  LOC Canal  Decale HD F -
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/772.ts
-#EXTINF:-1,FRENCH |  RTL9
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/278.ts
-#EXTINF:-1,FRENCH |  RTL 9 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/106.ts
-#EXTINF:-1,FRENCH |  Paris Premiere
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/55.ts
-#EXTINF:-1,FRENCH |  NT1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/722.ts
-#EXTINF:-1,FRENCH |  NRJ 12 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/113.ts
-#EXTINF:-1,FRENCH |  MCM POP
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/118.ts
-#EXTINF:-1,FRENCH |  M6 Music HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/121.ts
-#EXTINF:-1,FRENCH |  M6
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/26.ts
-#EXTINF:-1,FRENCH |  E!
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/95.ts
-#EXTINF:-1,FRENCH |  D8
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/29.ts
-#EXTINF:-1,FRENCH |  D17
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/721.ts
-#EXTINF:-1,FRENCH |  FRANCE 24 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/124.ts
-#EXTINF:-1,FRENCH |  France 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/280.ts
-#EXTINF:-1,FRENCH |  France2-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/228.ts
-#EXTINF:-1,FRENCH |  FRANCE 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/22.ts
-#EXTINF:-1,FRENCH |  FRANCE 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/23.ts
-#EXTINF:-1,FRENCH |  France 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/24.ts
-#EXTINF:-1,FRENCH |  FRANCE 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/25.ts
-#EXTINF:-1,FRENCH |  CANAL DECAL HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/37.ts
-#EXTINF:-1,FRENCH |  EURONEWS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/126.ts
-#EXTINF:-1,FRENCH |  Enorme TV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/127.ts
-#EXTINF:-1,FRENCH |  ENORME HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/57.ts
-#EXTINF:-1,FRENCH |  CANAL PLUS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/138.ts
-#EXTINF:-1,FRENCH |  CANAL+
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/33.ts
-#EXTINF:-1,FRENCH |  BFM TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/142.ts
-#EXTINF:-1,FRENCH |  BFM BUSINESS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/143.ts
-#EXTINF:-1,FRENCH |  ARTE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/27.ts
-#EXTINF:-1,FRENCH |  6TER HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/30.ts
-#EXTINF:-1,FRENCH |  13EME RUE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/53.ts
-#EXTINF:-1,RTS_2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/529.ts
-#EXTINF:-1,RTS_1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/528.ts
-#EXTINF:-1,+++++ MUSIC +++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1709.ts
-#EXTINF:-1,FRENCH |  MTV MUSIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1708.ts
-#EXTINF:-1,FRENCH |  MTV HITS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/117.ts
-#EXTINF:-1,FRENCH |  MTV DANCE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/116.ts
-#EXTINF:-1,â€¢â—â˜…---- Belgium ----â˜…â—â€¢
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1592.ts
-#EXTINF:-1,GREEK |  ZOUGL@
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1616.ts
-#EXTINF:-1,GREEK |  VOULI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1617.ts
-#EXTINF:-1,GREEK |  Tv100
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1618.ts
-#EXTINF:-1,GREEK |  TV Gold
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1619.ts
-#EXTINF:-1,GREEK |  TRT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1621.ts
-#EXTINF:-1,GREEK |  TILESPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1622.ts
-#EXTINF:-1,GREEK |  Thraki TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1623.ts
-#EXTINF:-1,GREEK |  Thema TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1624.ts
-#EXTINF:-1,GREEK |  Star
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1625.ts
-#EXTINF:-1,GREEK |  Skai
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1628.ts
-#EXTINF:-1,GREEK |  SBC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1629.ts
-#EXTINF:-1,GREEK |  SAMIAKI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1630.ts
-#EXTINF:-1,GREEK |  OMEGA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1631.ts
-#EXTINF:-1,GREEK |  NEA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1632.ts
-#EXTINF:-1,GREEK |  MESSINIA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1643.ts
-#EXTINF:-1,GREEK |  Mega
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1633.ts
-#EXTINF:-1,GREEK |  Mana Ellada TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1626.ts
-#EXTINF:-1,GREEK |  Makeleio Web Tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1634.ts
-#EXTINF:-1,GREEK |  Lepanto
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1635.ts
-#EXTINF:-1,GREEK |  KRITI TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1636.ts
-#EXTINF:-1,GREEK |  KONTRA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1637.ts
-#EXTINF:-1,GREEK |  JAYZEE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1627.ts
-#EXTINF:-1,GREEK |  Î›Î‘ÎœÎ¨Î— TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1638.ts
-#EXTINF:-1,GREEK |  EXTRA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1639.ts
-#EXTINF:-1,GREEK |  ERT2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1640.ts
-#EXTINF:-1,GREEK |  ERT1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1641.ts
-#EXTINF:-1,GREEK |  EPIRUS TV1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1642.ts
-#EXTINF:-1,GREEK |  E
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1644.ts
-#EXTINF:-1,GREEK |  DIKTYO TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1645.ts
-#EXTINF:-1,GREEK |  BLUE SKY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1646.ts
-#EXTINF:-1,GREEK |  Axeloos TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1647.ts
-#EXTINF:-1,GREEK |  Astra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1648.ts
-#EXTINF:-1,GREEK |  Art
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1649.ts
-#EXTINF:-1,GREEK |  Apeiro TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1620.ts
-#EXTINF:-1,GREEK |  ANT1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1650.ts
-#EXTINF:-1,GREEK |  Alpha
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1651.ts
-#EXTINF:-1,GREEK |  4E
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1653.ts
-#EXTINF:-1,GR: Nova Sports 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1672.ts
-#EXTINF:-1,GR: Nova Sports 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1673.ts
-#EXTINF:-1,GR: Nova
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1674.ts
-#EXTINF:-1,GREEK |  AIGAIO TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1652.ts
-#EXTINF:-1,BELGIUM |  TV LUX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1601.ts
-#EXTINF:-1,BELGIUM |  TELEVESDRE TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1602.ts
-#EXTINF:-1,BELGIUM |  TELE MB
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1593.ts
-#EXTINF:-1,BELGIUM |  TELE BRUXELLES
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1594.ts
-#EXTINF:-1,BELGIUM |  PLUG RTL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1595.ts
-#EXTINF:-1,BELGIUM |  NOTELE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1596.ts
-#EXTINF:-1,BELGIUM |  LA UNE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1597.ts
-#EXTINF:-1,BELGIUM |  LA TROIS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1598.ts
-#EXTINF:-1,BELGIUM |  LA DEUX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1599.ts
-#EXTINF:-1,BELGIUM |  CLUB RTL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1600.ts
-#EXTINF:-1,BELGIUM |  CANAL C
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1603.ts
-#EXTINF:-1,BELGIUM |  ANTENNE CENTRE TELEVISION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1604.ts
-#EXTINF:-1,TURKISH |  YUMURCAK TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1705.ts
-#EXTINF:-1,TURKISH |  SAMANYOLU TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1704.ts
-#EXTINF:-1,TURKISH |  PLANET TURK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/989.ts
-#EXTINF:-1,TURKISH |  AHABER_TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1703.ts
-#EXTINF:-1,SW=Viasat-Motor-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1699.ts
-#EXTINF:-1,SW=Viasat-Hockey-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1700.ts
-#EXTINF:-1,SW=Viasat-Golf-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1701.ts
-#EXTINF:-1,SW=Viasat-Fotboll-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1702.ts
-#EXTINF:-1,SE: TV4 Film
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1921.ts
-#EXTINF:-1,SE: TV3 Sweden
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1939.ts
-#EXTINF:-1,SE: TV 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1920.ts
-#EXTINF:-1,SE: TV 12
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1940.ts
-#EXTINF:-1,SE: TV 11
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1941.ts
-#EXTINF:-1,SE: SVT1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1734.ts
-#EXTINF:-1,SE: SVT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1735.ts
-#EXTINF:-1,SE: Sjuan
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1942.ts
-#EXTINF:-1,Ru-THT 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2044.ts
-#EXTINF:-1,RU-TCH
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2040.ts
-#EXTINF:-1,Ru-Sportal TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2029.ts
-#EXTINF:-1,RU-RTR Planeta
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2043.ts
-#EXTINF:-1,RU-RTNoticias
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2039.ts
-#EXTINF:-1,Ru-otp
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2046.ts
-#EXTINF:-1,Ru-other 12 (russia)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2047.ts
-#EXTINF:-1,Ru-OTB
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2045.ts
-#EXTINF:-1,Ru-open education
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2048.ts
-#EXTINF:-1,Ru-One.by russia hd
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2049.ts
-#EXTINF:-1,Ru-One.by russia
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2050.ts
-#EXTINF:-1,Ru-One.by hd
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2051.ts
-#EXTINF:-1,Ru-One.by
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2052.ts
-#EXTINF:-1,Ru-one trophy hd
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2053.ts
-#EXTINF:-1,Ru-oh
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2054.ts
-#EXTINF:-1,Ru-music box ua
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2030.ts
-#EXTINF:-1,Ru-m1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2028.ts
-#EXTINF:-1,Ru-diving tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2031.ts
-#EXTINF:-1,Ru-disney 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2032.ts
-#EXTINF:-1,Ru-defended
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2033.ts
-#EXTINF:-1,Ru-ct
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2034.ts
-#EXTINF:-1,Ru-cry tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2035.ts
-#EXTINF:-1,Ru-COK3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2042.ts
-#EXTINF:-1,Ru-cognitive hd (reserve)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2036.ts
-#EXTINF:-1,Ru-city tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2037.ts
-#EXTINF:-1,Ru-chuvashia
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2038.ts
-#EXTINF:-1,Ru-Basketball
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2041.ts
-#EXTINF:-1,RTV 21 PLUS - RTV 21 PLUS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1409.ts
-#EXTINF:-1,Rtk1 - Rtk1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1407.ts
-#EXTINF:-1,PLANETE  THALASSA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/711.ts
-#EXTINF:-1,OSN-ALKASS-SPORT-3-HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/359.ts
-#EXTINF:-1,NRK 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1919.ts
-#EXTINF:-1,NRK 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1918.ts
-#EXTINF:-1,NRK 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1917.ts
-#EXTINF:-1,NR: Viasat Golf
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1747.ts
-#EXTINF:-1,NR: TV3 Sport 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1890.ts
-#EXTINF:-1,NR: TV3 Sport 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1743.ts
-#EXTINF:-1,NR: TV3 Puls
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1744.ts
-#EXTINF:-1,NR: TV3 Norway
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1895.ts
-#EXTINF:-1,NR: TV3 Danmark
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1896.ts
-#EXTINF:-1,NR: TV3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1904.ts
-#EXTINF:-1,NR: TV2 Zulu
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1741.ts
-#EXTINF:-1,NR: TV2 Zebra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1897.ts
-#EXTINF:-1,NR: TV2 SportKanalen
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1887.ts
-#EXTINF:-1,NR: TV2 Sport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1888.ts
-#EXTINF:-1,NR: TV2 Norge
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1899.ts
-#EXTINF:-1,NR: TV2 News
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1740.ts
-#EXTINF:-1,NR: TV2 Lorry
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1739.ts
-#EXTINF:-1,NR: TV2 FRI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1871.ts
-#EXTINF:-1,NR: TV2 Charlie
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1742.ts
-#EXTINF:-1,NR: TV Norge
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1902.ts
-#EXTINF:-1,NR: TV 6 NORGE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1872.ts
-#EXTINF:-1,NR: TLC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1873.ts
-#EXTINF:-1,NR: NRK 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1905.ts
-#EXTINF:-1,NR: NRK 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1906.ts
-#EXTINF:-1,NR: NRK 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1907.ts
-#EXTINF:-1,NR: Nickelodeon
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1874.ts
-#EXTINF:-1,NR: National Geographic
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1875.ts
-#EXTINF:-1,NR: Nat Geo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1910.ts
-#EXTINF:-1,NR: Max Norway
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1911.ts
-#EXTINF:-1,NR: Kanal 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1745.ts
-#EXTINF:-1,NR: Kanal 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1749.ts
-#EXTINF:-1,NR: EuroSport Live
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1877.ts
-#EXTINF:-1,NR: EuroSport 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1878.ts
-#EXTINF:-1,NR: DR2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1737.ts
-#EXTINF:-1,NR: DR1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1736.ts
-#EXTINF:-1,NR: Dr Ultra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1913.ts
-#EXTINF:-1,NR: Dr Ramasjang
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1748.ts
-#EXTINF:-1,NR: DR K
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1750.ts
-#EXTINF:-1,NR: DR 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1879.ts
-#EXTINF:-1,NR: DK 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1914.ts
-#EXTINF:-1,NR: Disney Channel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1908.ts
-#EXTINF:-1,NR: Comedy Central
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1880.ts
-#EXTINF:-1,NR: Canal 9 Danmark
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1881.ts
-#EXTINF:-1,NR: C More Series
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1882.ts
-#EXTINF:-1,NR: C More Hits
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1883.ts
-#EXTINF:-1,NR: C More First
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1884.ts
-#EXTINF:-1,NR: C More Action
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1885.ts
-#EXTINF:-1,NR: 6Eren
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1746.ts
-#EXTINF:-1,NL_Ziggo_Sport1_Voetbal
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1666.ts
-#EXTINF:-1,NL_Ziggo_Sport1_Racing
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1667.ts
-#EXTINF:-1,NL_Ziggo_Sport1_Golf
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1668.ts
-#EXTINF:-1,NL_Ziggo_Sport1_extra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1669.ts
-#EXTINF:-1,NL_HBO_2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1656.ts
-#EXTINF:-1,NL_HBO_1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1657.ts
-#EXTINF:-1,NL_HBO3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1655.ts
-#EXTINF:-1,NL_Fox_Sport5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1661.ts
-#EXTINF:-1,NL_Fox_Sport4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1662.ts
-#EXTINF:-1,NL_Fox_Sport3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1663.ts
-#EXTINF:-1,NL_Fox_Sport2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1664.ts
-#EXTINF:-1,NL_Fox_Sport1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1665.ts
-#EXTINF:-1,NL_Film_1_Spotlight
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1660.ts
-#EXTINF:-1,NL_Film_1_Premiere
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1658.ts
-#EXTINF:-1,NL_Film_1_Comedy_and_Kids
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1654.ts
-#EXTINF:-1,NL_Film_1_Action
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1659.ts
-#EXTINF:-1,NL:FOX SPORTS 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1404.ts
-#EXTINF:-1,NL:FOX SPORTS 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1405.ts
-#EXTINF:-1,M4 Sport Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1862.ts
-#EXTINF:-1,M2 Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1863.ts
-#EXTINF:-1,M1 Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1864.ts
-#EXTINF:-1,Light Channel TV 1 Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1865.ts
-#EXTINF:-1,Jasz Trio TV Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1866.ts
-#EXTINF:-1,Halom TV Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1867.ts
-#EXTINF:-1,FN: YLE TV2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1891.ts
-#EXTINF:-1,FN: YLE TV 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1892.ts
-#EXTINF:-1,Fix Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1868.ts
-#EXTINF:-1,Duna TV Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1869.ts
-#EXTINF:-1,ATV Hungary
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1870.ts
-#EXTINF:-1,***** ARABE *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1522.ts
-#EXTINF:-1,beINSports 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/8.ts
-#EXTINF:-1,beINSports 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/9.ts
-#EXTINF:-1,beINSports 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/10.ts
-#EXTINF:-1,beINSports 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/11.ts
-#EXTINF:-1,beINSports 5 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/12.ts
-#EXTINF:-1,beINSports 6 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/13.ts
-#EXTINF:-1,beINSports 7 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/14.ts
-#EXTINF:-1,beINSports 8 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/15.ts
-#EXTINF:-1,beINSports 9 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/16.ts
-#EXTINF:-1,beIN SPORTS 13HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/320.ts
-#EXTINF:-1,beIN SPORTS 12HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/319.ts
-#EXTINF:-1,beIN SPORTS 11HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/318.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/316.ts
-#EXTINF:-1,beIN SPORTS 1HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/307.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/308.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/309.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/310.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/311.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/312.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/313.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/314.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/315.ts
-#EXTINF:-1,ARABIC | BeinHD_Movies4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2064.ts
-#EXTINF:-1,ARABIC | BeinHD_Movies3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2063.ts
-#EXTINF:-1,ARABIC | BeinHD_Movies2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1670.ts
-#EXTINF:-1,ARABIC | BeinHD_Movies1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1671.ts
-#EXTINF:-1,ARABIC | ROYA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2018.ts
-#EXTINF:-1,ARABIC | kuwait_tv2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2015.ts
-#EXTINF:-1,ARABIC | kuwait_tv1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2016.ts
-#EXTINF:-1,ARABIC | Jordan TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2017.ts
-#EXTINF:-1,ARABIC | SAUDI 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1992.ts
-#EXTINF:-1,ARABIC | SAUDI 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1991.ts
-#EXTINF:-1,ARABIC | OTV LIBANON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1994.ts
-#EXTINF:-1,ARABIC | Moga Comedy
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1995.ts
-#EXTINF:-1,ARABIC | Moga Cinema
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1996.ts
-#EXTINF:-1,ARABIC | MELODY CLASSIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1993.ts
-#EXTINF:-1,ARABIC | Ten
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1986.ts
-#EXTINF:-1,ARABIC | SADA ALBALAD DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1989.ts
-#EXTINF:-1,ARABIC | Kuwait TV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1988.ts
-#EXTINF:-1,ARABIC | Algerie 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1987.ts
-#EXTINF:-1,ARABIC | ABU DHABI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1990.ts
-#EXTINF:-1,ARABIC | Al Kahira Wal Nes 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1984.ts
-#EXTINF:-1,ARABIC | Al Kahira Wal Nes
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1985.ts
-#EXTINF:-1,ARABIC | SUDAN MONAWAAT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1980.ts
-#EXTINF:-1,ARABIC | SUDAN DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1979.ts
-#EXTINF:-1,ARABIC | SUDAN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1976.ts
-#EXTINF:-1,ARABIC | SADA ALBALAD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1983.ts
-#EXTINF:-1,ARABIC | LDC Lebanon
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1981.ts
-#EXTINF:-1,ARABIC | LDC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1982.ts
-#EXTINF:-1,ARABIC | CHOROUQ SUDAN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1977.ts
-#EXTINF:-1,ARABIC | BLUE NILE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1978.ts
-#EXTINF:-1,ARABIC | Al Hayat We Alnas
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1973.ts
-#EXTINF:-1,ARABIC | Al Hayat
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1974.ts
-#EXTINF:-1,ARABIC | AL ASSIMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1975.ts
-#EXTINF:-1,ARABIC |  OSN ALYOM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/706.ts
-#EXTINF:-1,ARABIC |  OSN DISCOVERY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/360.ts
-#EXTINF:-1,ARABIC |  OSN CINEMA 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/353.ts
-#EXTINF:-1,ARABIC |  OSN ALKASS SPORT 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/364.ts
-#EXTINF:-1,ARABIC |  OSN ALKASS SPORT 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/363.ts
-#EXTINF:-1,ARABIC |  OSN ALKASS SPORT 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/362.ts
-#EXTINF:-1,ARABIC |  ZEE AWALAN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/352.ts
-#EXTINF:-1,ARABIC |  FRANCE 24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1591.ts
-#EXTINF:-1,ARABIC |  CBC TWO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1590.ts
-#EXTINF:-1,ARABIC |  TOYOR AL JANAH
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/406.ts
-#EXTINF:-1,ARABIC |  TOUNESNA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/405.ts
-#EXTINF:-1,ARABIC |  SYRIA NOUR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/404.ts
-#EXTINF:-1,ARABIC |  SYRIA DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/403.ts
-#EXTINF:-1,ARABIC |  SPACETOON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/542.ts
-#EXTINF:-1,ARABIC |  SAMA TV SYRIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/399.ts
-#EXTINF:-1,ARABIC |  TUNISIA 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/813.ts
-#EXTINF:-1,ARABIC |  TUNISIA 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/812.ts
-#EXTINF:-1,ARABIC |  HANNIBAL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/809.ts
-#EXTINF:-1,ARABIC |  SAMA DUBAI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/398.ts
-#EXTINF:-1,ARABIC |  ALJANOUBIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/810.ts
-#EXTINF:-1,ARABIC |  ROTANA CLASSIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/347.ts
-#EXTINF:-1,ARABIC |  ROTANA CINEMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/348.ts
-#EXTINF:-1,ARABIC |  ROTANA MASSRIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/396.ts
-#EXTINF:-1,ARABIC |  ROTANA KHALIGIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/395.ts
-#EXTINF:-1,ARABIC |  ROTANA CLIP
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/394.ts
-#EXTINF:-1,ARABIC | ROTANA CINEMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/393.ts
-#EXTINF:-1,ARABIC |  NILE CINEMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/236.ts
-#EXTINF:-1,ARABIC |  Funoon HD AR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/381.ts
-#EXTINF:-1,ARABIC |  DUBAI SPORT 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/660.ts
-#EXTINF:-1,ARABIC |  DUBAI SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/661.ts
-#EXTINF:-1,ARABIC |  SAUDI QURAN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/351.ts
-#EXTINF:-1,ARABIC |  DUBAI ONE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/785.ts
-#EXTINF:-1,ARABIC |  DREAM 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/349.ts
-#EXTINF:-1,ARABIC |  CBC SOFRA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/781.ts
-#EXTINF:-1,ARABIC |  CBC EXTRA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/159.ts
-#EXTINF:-1,ARABIC |  BARAEM KIDS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/782.ts
-#EXTINF:-1,ARABIC |  ALWATAN ALGERIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/783.ts
-#EXTINF:-1,ARABIC |  ALGERIA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/784.ts
-#EXTINF:-1,ARABIC |  QURAN TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/392.ts
-#EXTINF:-1,ARABIC |  NILE SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/239.ts
-#EXTINF:-1,ARABIC |  NILE LIFE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/238.ts
-#EXTINF:-1,ARABIC |  NESMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/780.ts
-#EXTINF:-1,ARABIC |  FATAFEET
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/7.ts
-#EXTINF:-1,ARABIC |  NILE DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/237.ts
-#EXTINF:-1,ARABIC |  NILE COMEDY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/389.ts
-#EXTINF:-1,ARABIC |  MBC MAX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/326.ts
-#EXTINF:-1,ARABIC |  MBC Drama
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/327.ts
-#EXTINF:-1,ARABIC |  MBC ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/325.ts
-#EXTINF:-1,ARABIC |  Cinema1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/531.ts
-#EXTINF:-1,ARABIC |  Cinema2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/532.ts
-#EXTINF:-1,ARABIC |  Cinema3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/533.ts
-#EXTINF:-1,ARABIC |  Cinema4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/534.ts
-#EXTINF:-1,ARABIC |  Cinema5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/535.ts
-#EXTINF:-1,ARABIC |  Cinema6
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/536.ts
-#EXTINF:-1,ARABIC |  ART HEKAYAT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/329.ts
-#EXTINF:-1,ARABIC |  ART HEKAYAT 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/328.ts
-#EXTINF:-1,ARABIC |  ART CINEMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/304.ts
-#EXTINF:-1,ARABIC | ART AFLAM 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/305.ts
-#EXTINF:-1,ARABIC |  ART AFLAM 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/306.ts
-#EXTINF:-1,ARABIC |  BBC ARABIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/545.ts
-#EXTINF:-1,ARABIC |  ELDJAZAIRIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/162.ts
-#EXTINF:-1,ARABIC |  OSN YA HALA DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/169.ts
-#EXTINF:-1,ARABIC |  OSN STAR MOVIES 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/171.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES PREMIERE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/173.ts
-#EXTINF:-1,ARABIC |  OSN MOVIE PREMIERE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/177.ts
-#EXTINF:-1,ARABIC |  OSN SPORT 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/540.ts
-#EXTINF:-1,ARABIC |  OSN SPORT 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/539.ts
-#EXTINF:-1,ARABIC |  OSN YAHALA HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/358.ts
-#EXTINF:-1,ARABIC |  OSN STAR MOVIES HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/357.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES FIRST
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/356.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES FESTIVAL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/335.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES ACTION 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/337.ts
-#EXTINF:-1,ARABIC |  OSN MBC DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/355.ts
-#EXTINF:-1,ARABIC |  OSN CINEMA 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/354.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES FIRST MORE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/703.ts
-#EXTINF:-1,OSN Mov Premier  2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/705.ts
-#EXTINF:-1,ARABIC |  OSN DISCOVERY SC HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/707.ts
-#EXTINF:-1,ARABIC |  OSN FIRST COMEDY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/708.ts
-#EXTINF:-1,OSN CINEMA 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/709.ts
-#EXTINF:-1,OSN CINEMA 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/710.ts
-#EXTINF:-1,ARABIC |  OSN SPORT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/538.ts
-#EXTINF:-1,ARABIC |  OSN SPORT 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/537.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES ACTION HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/336.ts
-#EXTINF:-1,ARABIC |  OSN MOVIE KIDS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/693.ts
-#EXTINF:-1,ARABIC |  OSN NAT GEO WILD HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/172.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/174.ts
-#EXTINF:-1,ARABIC |  OSN MOVIES DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/175.ts
-#EXTINF:-1,ARABIC |  OSN ANIMAL PLANET
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/180.ts
-#EXTINF:-1,Tamazight
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/324.ts
-#EXTINF:-1,ARABIC |  MA_Medi1Tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/153.ts
-#EXTINF:-1,ARABIC |  MA_Assadissa
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/154.ts
-#EXTINF:-1,ARABIC |  MA_Arryadia
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/155.ts
-#EXTINF:-1,ARABIC |  MA_almaghribia
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/156.ts
-#EXTINF:-1,ARABIC |  MA_alaoula
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/157.ts
-#EXTINF:-1,ARABIC | MA_2M
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/158.ts
-#EXTINF:-1,KBC (dz)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/20.ts
-#EXTINF:-1,ARABIC |  NESMA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/390.ts
-#EXTINF:-1,ARABIC |  SAMIRA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/3.ts
-#EXTINF:-1,EL DJAZAIRIA (dz)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1.ts
-#EXTINF:-1,ARABIC |  ROTANA MUSIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/397.ts
-#EXTINF:-1,ARABIC |  ECHOUROK TV (dz)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/704.ts
-#EXTINF:-1,ARABIC |  DZAIR NEWS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/160.ts
-#EXTINF:-1,ARABIC | :NBN TV LEBANON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/388.ts
-#EXTINF:-1,ARABIC |  MTV LEBANON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/386.ts
-#EXTINF:-1,ARABIC |  MEKKAH TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/385.ts
-#EXTINF:-1,ARABIC |  MBC MASR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/345.ts
-#EXTINF:-1,ARABIC |  MBC4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/234.ts
-#EXTINF:-1,ARABIC |  MBC MAXHD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/344.ts
-#EXTINF:-1,ARABIC |  MBC BOLLYWOOD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/343.ts
-#EXTINF:-1,ARABIC |  LBC HD LEBANON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/378.ts
-#EXTINF:-1,ARABIC |  IQRAA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/330.ts
-#EXTINF:-1,ARABIC |  DZAIR TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/382.ts
-#EXTINF:-1,ARABIC |  DREAM 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/331.ts
-#EXTINF:-1,ARABIC |  DUBAI TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/240.ts
-#EXTINF:-1,ARABIC |  DUBAI ONE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/242.ts
-#EXTINF:-1,ARABIC |  DUBAI RACING
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/376.ts
-#EXTINF:-1,ARABIC |  DUBAI DRAMA HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/662.ts
-#EXTINF:-1,ARABIC |  DREAM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/380.ts
-#EXTINF:-1,ARABIC |  CBC Drama
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/384.ts
-#EXTINF:-1,ARABIC | CBC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/383.ts
-#EXTINF:-1,ARABIC |  CARTOON NETWORK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/387.ts
-#EXTINF:-1,ARABIC |  BBC ARABIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/377.ts
-#EXTINF:-1,ARABIC |  ALJAZEERA HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/543.ts
-#EXTINF:-1,ARABIC |  ALJAZEERA DOC HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/544.ts
-#EXTINF:-1,ARABIC |  AL ARABIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/241.ts
-#EXTINF:-1,ARABIC |  AJYAL KIDS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/379.ts
-#EXTINF:-1,ARABIC |  AD SPORTS 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/400.ts
-#EXTINF:-1,ARABIC |  ABU DHABI NATGEO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/332.ts
-#EXTINF:-1,ARABIC |  ABU DHABI DARAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/333.ts
-#EXTINF:-1,ARABIC |  ZEE AFLAM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/350.ts
-#EXTINF:-1,ARABIC |  MBC MASR 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/346.ts
-#EXTINF:-1,ARABIC |  MBC3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/182.ts
-#EXTINF:-1,ARABIC |  MBC2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/183.ts
-#EXTINF:-1,ARABIC |  MBC1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/184.ts
-#EXTINF:-1,ARABIC |  MBC PRO SPORT 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/342.ts
-#EXTINF:-1,ARABIC |  MBC PRO SPORT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/341.ts
-#EXTINF:-1,ARABIC |  MBC PRO SPORT 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/340.ts
-#EXTINF:-1,ARABIC |  CIMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/665.ts
-#EXTINF:-1,ARABIC |  CAIRO DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/666.ts
-#EXTINF:-1,ARABIC |  CAIRO CINEMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/667.ts
-#EXTINF:-1,ARABIC |  AL HIWAR ETTOUNSI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/811.ts
-#EXTINF:-1,ARABIC |   AL TOUNSIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/668.ts
-#EXTINF:-1,ARABIC |  AL RESALAH
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/669.ts
-#EXTINF:-1,ARABIC |   AL MANAR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/670.ts
-#EXTINF:-1,ARABIC |  ALJAZEERA MUBASHER
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/672.ts
-#EXTINF:-1,ARABIC |  AL MAJD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/673.ts
-#EXTINF:-1,ARABIC |  ABU DHABI SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/671.ts
-#EXTINF:-1,ARABIC |  DUBAI AL AOULA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/5.ts
-#EXTINF:-1,ARABIC |  ECHOUROUK BENNA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/4.ts
-#EXTINF:-1,ARABIC |  ENNAHAR TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/161.ts
-#EXTINF:-1,ARABIC |  DUBAI ZAMAN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/6.ts
-#EXTINF:-1,ARABIC |  CBC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2.ts
-#EXTINF:-1,***** U.K. *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1525.ts
-#EXTINF:-1,+++++ SPORTS +++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1550.ts
-#EXTINF:-1,USA:HBO US
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2068.ts
-#EXTINF:-1,USA: WWE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2069.ts
-#EXTINF:-1,USA: USA:A Network HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2070.ts
-#EXTINF:-1,USA: TBS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2074.ts
-#EXTINF:-1,USA: SYFY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2075.ts
-#EXTINF:-1,USA: STARZ EDGE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2076.ts
-#EXTINF:-1,USA: Starz Comedy
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2077.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2078.ts
-#EXTINF:-1,USA: Sportsnet One HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2079.ts
-#EXTINF:-1,USA: SPORTS NET
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2080.ts
-#EXTINF:-1,USA: SPIKE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2081.ts
-#EXTINF:-1,USA: SPACE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2082.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2083.ts
-#EXTINF:-1,USA: Showtime Next
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2084.ts
-#EXTINF:-1,USA: Showtime Extreme
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2085.ts
-#EXTINF:-1,USA: ShowTime 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2086.ts
-#EXTINF:-1,USA: ShowTime
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2087.ts
-#EXTINF:-1,USA: OWN HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2088.ts
-#EXTINF:-1,USA: NICKELODEN HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2089.ts
-#EXTINF:-1,USA: NHL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2090.ts
-#EXTINF:-1,USA: NFL Network HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2091.ts
-#EXTINF:-1,USA: NFL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2092.ts
-#EXTINF:-1,USA: NBC SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2093.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2097.ts
-#EXTINF:-1,USA: LIFE TIME
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2098.ts
-#EXTINF:-1,USA: HIFI
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2101.ts
-#EXTINF:-1,USA: HALLMARK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2108.ts
-#EXTINF:-1,USA: H2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2109.ts
-#EXTINF:-1,USA: FreeRom HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2111.ts
-#EXTINF:-1,USA: FOXX HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2112.ts
-#EXTINF:-1,USA: Fox Sport 506 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2113.ts
-#EXTINF:-1,USA: FOX Sport 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2114.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2115.ts
-#EXTINF:-1,USA: FOX HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2117.ts
-#EXTINF:-1,USA: Food Network
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2118.ts
-#EXTINF:-1,USA: Discovery Science HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2123.ts
-#EXTINF:-1,USA: CW HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2125.ts
-#EXTINF:-1,USA: COMEDY CENTRAL HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2126.ts
-#EXTINF:-1,USA: CNN HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2128.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2129.ts
-#EXTINF:-1,USA: Cinemax East
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2130.ts
-#EXTINF:-1,USA: Cinemax 5 StarMax
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2132.ts
-#EXTINF:-1,USA: CBS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2134.ts
-#EXTINF:-1,USA: BTN Sport HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2135.ts
-#EXTINF:-1,USA: Bravo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2137.ts
-#EXTINF:-1,USA: BLOOMBERG
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2138.ts
-#EXTINF:-1,USA: Animal Planet HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2140.ts
-#EXTINF:-1,USA: AMC HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2141.ts
-#EXTINF:-1,USA: AFN SPORTS HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2142.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2143.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2144.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2145.ts
-#EXTINF:-1,USA: AFN PULSE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2146.ts
-#EXTINF:-1,USA: AFN PRIME PACIFIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2147.ts
-#EXTINF:-1,USA: AFN PRIME ATLANTIC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2148.ts
-#EXTINF:-1,USA: AFN NEWS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2149.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2150.ts
-#EXTINF:-1,USA: ABC HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2152.ts
-#EXTINF:-1,USA: A&E
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2156.ts
-#EXTINF:-1,UK: TLC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2013.ts
-#EXTINF:-1,UK: Setanta Sport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1733.ts
-#EXTINF:-1,UK: history 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1945.ts
-#EXTINF:-1,UK: Good Food
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2011.ts
-#EXTINF:-1,UK: E!
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2012.ts
-#EXTINF:-1,UK: COMEDY CENTRAL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1946.ts
-#EXTINF:-1,UK: BT SPORT  ESPN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1943.ts
-#EXTINF:-1,UK: BabyTV GB
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2009.ts
-#EXTINF:-1,UK: At The Races UK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1738.ts
-#EXTINF:-1,UK |  DISNEY JR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1710.ts
-#EXTINF:-1,UK: ID INVESTIGATION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2014.ts
-#EXTINF:-1,UK: Crime & Investigiation
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2010.ts
-#EXTINF:-1,UK: MUTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2027.ts
-#EXTINF:-1,UK:SKY-PREMIERE SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/260.ts
-#EXTINF:-1,FOX Sports 1 - FOX Sports 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/844.ts
-#EXTINF:-1,FOX Sports 2 - FOX Sports 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/845.ts
-#EXTINF:-1,UK: sky sport F1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2055.ts
-#EXTINF:-1,UK:Sky Sport News HQ
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/190.ts
-#EXTINF:-1,UK:Sky Sport 5 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/191.ts
-#EXTINF:-1,UK:Sky Sport 4 SD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/193.ts
-#EXTINF:-1,UK:Sky Sport 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/194.ts
-#EXTINF:-1,UK:Sky Sport 3 SD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/195.ts
-#EXTINF:-1,UK:Sky Sport 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/196.ts
-#EXTINF:-1,UK:Sky Sport 2 SD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/197.ts
-#EXTINF:-1,UK:Sky Sport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/198.ts
-#EXTINF:-1,UK:Sky Sport 1 SD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/199.ts
-#EXTINF:-1,UK:Sky Sport 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/200.ts
-#EXTINF:-1,UK:EuroSport 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/509.ts
-#EXTINF:-1,UK: BT SPORTS EXTRA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/855.ts
-#EXTINF:-1,UK: BT Sport Europe
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/818.ts
-#EXTINF:-1,UK:BT-SPORTS1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/700.ts
-#EXTINF:-1,UK: BT-BTsport2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/302.ts
-#EXTINF:-1,UK BT Sport 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/816.ts
-#EXTINF:-1,UK BT Sport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/817.ts
-#EXTINF:-1,BT SPORT 1 uk
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/814.ts
-#EXTINF:-1,BT SPORT 2 uk
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/815.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/617.ts
-#EXTINF:-1,UK: Motors tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/807.ts
-#EXTINF:-1,UK:Boxnation
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/560.ts
-#EXTINF:-1,UK: Sky Sports Box Office PPV live during events
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/846.ts
-#EXTINF:-1,UK: Chelsea FC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/920.ts
-#EXTINF:-1,UK:Premier Sport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/220.ts
-#EXTINF:-1,UK: Racing UK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/832.ts
-#EXTINF:-1,UK: Sport News
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/635.ts
-#EXTINF:-1,UK: Setanta Sports Ireland HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1356.ts
-#EXTINF:-1,+++++ CULTURE +++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1542.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1040.ts
-#EXTINF:-1,UK: Discovery Channel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1041.ts
-#EXTINF:-1,UK: ANIMAL PLANET
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/630.ts
-#EXTINF:-1,UK:National Geographic
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/222.ts
-#EXTINF:-1,UK: Nat geo wild
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/474.ts
-#EXTINF:-1,UK:Nat Geo Wild
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/223.ts
-#EXTINF:-1,UK:Discovery Science HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/624.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/629.ts
-#EXTINF:-1,++++ MOVIES ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1541.ts
-#EXTINF:-1,UK:Sky Movies Action
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/210.ts
-#EXTINF:-1,UK:Sky Movies Thriller
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/201.ts
-#EXTINF:-1,UK:Sky Movies ShowCase
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/623.ts
-#EXTINF:-1,UK:Sky Movies Select
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/202.ts
-#EXTINF:-1,UK:Sky Movies Premiere
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/204.ts
-#EXTINF:-1,UK:Sky Movies Greats
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/205.ts
-#EXTINF:-1,UK:Sky Movies Family
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/206.ts
-#EXTINF:-1,UK:Sky Movies Drama & Romance
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/207.ts
-#EXTINF:-1,UK:Sky Movies Disney
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/208.ts
-#EXTINF:-1,UK:Sky Movie Sci-Fi & horror
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/211.ts
-#EXTINF:-1,UK: True Drama
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/678.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/615.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi & Horror
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/616.ts
-#EXTINF:-1,UK: Sky Movies Modern HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/674.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/614.ts
-#EXTINF:-1,UK: Movies-4men Uk
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/679.ts
-#EXTINF:-1,UK: True Movies1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/675.ts
-#EXTINF:-1,UK: True Movies 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/680.ts
-#EXTINF:-1,UK:Sky Movies Comedy
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/209.ts
-#EXTINF:-1,UK: Drama
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/636.ts
-#EXTINF:-1,UK: Aliens
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/637.ts
-#EXTINF:-1,UK: MOVIES ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/634.ts
-#EXTINF:-1,UK: Film4 UK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/677.ts
-#EXTINF:-1,UK:Sky Living
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/212.ts
-#EXTINF:-1,UK: Syfy UK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/676.ts
-#EXTINF:-1,UK:Sky Atlantic
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/213.ts
-#EXTINF:-1,UK |  CBS DRAMA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1607.ts
-#EXTINF:-1,UK |  CBS ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1608.ts
-#EXTINF:-1,++++ EVENTS ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1540.ts
-#EXTINF:-1,UK_ITV 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/828.ts
-#EXTINF:-1,UK_ITV2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/829.ts
-#EXTINF:-1,UK_ITV3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/830.ts
-#EXTINF:-1,UK_ITV4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/831.ts
-#EXTINF:-1,UK:BBC One HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/507.ts
-#EXTINF:-1,UK:BBC Two HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/505.ts
-#EXTINF:-1,UK:BBC Three HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/506.ts
-#EXTINF:-1,UK:BBC Four HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/508.ts
-#EXTINF:-1,UK: SKY NEWS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/186.ts
-#EXTINF:-1,UK:Watch
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/187.ts
-#EXTINF:-1,UK: Gold
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1000.ts
-#EXTINF:-1,UK: Channel 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/585.ts
-#EXTINF:-1,UK: Channel 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/806.ts
-#EXTINF:-1,UK |  QUEST
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1605.ts
-#EXTINF:-1,UK |  CNN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1609.ts
-#EXTINF:-1,UK |  CBS REALITY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1606.ts
-#EXTINF:-1,UK: Fox
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/632.ts
-#EXTINF:-1,UK:Sky Art 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/214.ts
-#EXTINF:-1,UK:Sky 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/216.ts
-#EXTINF:-1,UK:RTE Two HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/218.ts
-#EXTINF:-1,UK:RTE One
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/219.ts
-#EXTINF:-1,UK:TCL HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/188.ts
-#EXTINF:-1,UK: Sky Two
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/638.ts
-#EXTINF:-1,UK: SKY ONE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/639.ts
-#EXTINF:-1,UK: Sky Greats
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/633.ts
-#EXTINF:-1,UK: Universal HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1037.ts
-#EXTINF:-1,UK: ID
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/627.ts
-#EXTINF:-1,UK: Alibi
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/631.ts
-#EXTINF:-1,UK:Yesterday
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/185.ts
-#EXTINF:-1,++++ KIDS ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1543.ts
-#EXTINF:-1,UK:NICKLEODON
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/221.ts
-#EXTINF:-1,UK: FOOD Network
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/570.ts
-#EXTINF:-1,UK: Disney XD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/684.ts
-#EXTINF:-1,UK: Disney Junior
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/628.ts
-#EXTINF:-1,UK: Disney Channel UK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/682.ts
-#EXTINF:-1,UK: Cartoon Network
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/685.ts
-#EXTINF:-1,UK: Nicktoons
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/625.ts
-#EXTINF:-1,UK: Nick JR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/681.ts
-#EXTINF:-1,UK: MTV Hits
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1361.ts
-#EXTINF:-1,Uk: Mtv Music
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/962.ts
-#EXTINF:-1,UK: Tiny Pop
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/683.ts
-#EXTINF:-1,UK:  Vevo 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/965.ts
-#EXTINF:-1,UK: Vevo 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/964.ts
-#EXTINF:-1,UK: Vevo 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/963.ts
-#EXTINF:-1,VEVO_2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/514.ts
-#EXTINF:-1,VEVO_1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/513.ts
-#EXTINF:-1,UK: Mtv Rocks
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1372.ts
-#EXTINF:-1,|MIO| SINGTEL TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2019.ts
-#EXTINF:-1,|MIO| MIO STADIUM 108
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2026.ts
-#EXTINF:-1,|MIO| MIO STADIUM 107
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2025.ts
-#EXTINF:-1,|MIO| MIO STADIUM 106
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2024.ts
-#EXTINF:-1,|MIO| MIO STADIUM 105
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2023.ts
-#EXTINF:-1,|MIO| MIO STADIUM 104
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2022.ts
-#EXTINF:-1,|MIO| MIO STADIUM 103
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2021.ts
-#EXTINF:-1,|MIO| MIO STADIUM 102
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/2020.ts
-#EXTINF:-1,EPL= C-T-H 1  HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/790.ts
-#EXTINF:-1,EPL= C-T-H 2 HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/791.ts
-#EXTINF:-1,EPL= C-T-H 3 HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/792.ts
-#EXTINF:-1,EPL= C-T-H 4 HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/793.ts
-#EXTINF:-1,EPL= C-T-H 5 HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/794.ts
-#EXTINF:-1,EPL= C-T-H 6 HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/795.ts
-#EXTINF:-1,EPL= C-T-H-X HD*
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/796.ts
-#EXTINF:-1,EPL= CTH ASTRO 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/802.ts
-#EXTINF:-1,EPL= CTH ASTRO 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/803.ts
-#EXTINF:-1,EPL= CTH ASTRO 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/804.ts
-#EXTINF:-1,EPL= CTH ASTRO 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/805.ts
-#EXTINF:-1,EPL= NBC LIVE SPORTS EXTRA 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/797.ts
-#EXTINF:-1,EPL= NBC LIVE SPORTS EXTRA 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/798.ts
-#EXTINF:-1,EPL= NBC LIVE SPORTS EXTRA  3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/799.ts
-#EXTINF:-1,EPL= NBC LIVE SPORTS EXTRA  4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/800.ts
-#EXTINF:-1,EPL= NBC LIVE SPORTS EXTRA 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/801.ts
-#EXTINF:-1,E-P-L
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/789.ts
-#EXTINF:-1,***** U.S.A. *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1526.ts
-#EXTINF:-1,USA TSN 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/752.ts
-#EXTINF:-1,USA  TSN 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/754.ts
-#EXTINF:-1,USA TSN 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/755.ts
-#EXTINF:-1,USA TSN 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/756.ts
-#EXTINF:-1,USA ESPN USA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/733.ts
-#EXTINF:-1,USA ESPN 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/732.ts
-#EXTINF:-1,Vizion plus - Vizion plus
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1415.ts
-#EXTINF:-1,USA: FOX Sports 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1385.ts
-#EXTINF:-1,USA: FOX Sports 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1384.ts
-#EXTINF:-1,USA: Fox News
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/727.ts
-#EXTINF:-1,USA NBA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/738.ts
-#EXTINF:-1,USA Animal Planet
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/725.ts
-#EXTINF:-1,USA CNBC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/730.ts
-#EXTINF:-1,USA Bein USA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/726.ts
-#EXTINF:-1,USA ABC News
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/723.ts
-#EXTINF:-1,***** ITALIAN *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1529.ts
-#EXTINF:-1,++++ SPORT ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1535.ts
-#EXTINF:-1,IT:Rai Sport 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/493.ts
-#EXTINF:-1,IT:Rai Sport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/492.ts
-#EXTINF:-1,IT:Sky Supercalcio HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/476.ts
-#EXTINF:-1,IT: Eurosport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/339.ts
-#EXTINF:-1,IT:Sky Moto GP HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/480.ts
-#EXTINF:-1,IT:Sky Sport F1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/283.ts
-#EXTINF:-1,IT:Sky Sport 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/478.ts
-#EXTINF:-1,IT-SKY SPORT 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/645.ts
-#EXTINF:-1,IT:Sky Sport 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/477.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/292.ts
-#EXTINF:-1,IT:Sky Calcio 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/489.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1030.ts
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1031.ts
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1032.ts
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1033.ts
-#EXTINF:-1,IT: Sky Calcio 6 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/768.ts
-#EXTINF:-1,IT: Sky Calcio 7 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1371.ts
-#EXTINF:-1,IT: Supr Tenis HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1383.ts
-#EXTINF:-1,++++ EVENTI ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1546.ts
-#EXTINF:-1,IT:Sky Uno HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/475.ts
-#EXTINF:-1,IT:Rai 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/494.ts
-#EXTINF:-1,IT:RAI-2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/250.ts
-#EXTINF:-1,IT:RAI-3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/249.ts
-#EXTINF:-1,IT: RAI 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/49.ts
-#EXTINF:-1,IT: Italia 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/522.ts
-#EXTINF:-1,it: Canale 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/527.ts
-#EXTINF:-1,IT: Telecinco HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/391.ts
-#EXTINF:-1,IT: RSI LA 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1381.ts
-#EXTINF:-1,IT: RSI LA 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1382.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/521.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/520.ts
-#EXTINF:-1,IT:Sky Cielo HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/285.ts
-#EXTINF:-1,++++ CULTURA ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1547.ts
-#EXTINF:-1,IT: SKY History HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1377.ts
-#EXTINF:-1,IT:Sky.Discovery.Channel.HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/688.ts
-#EXTINF:-1,IT-NAT GEO PEOPLE HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/712.ts
-#EXTINF:-1,IT:Sky National Geographic HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/479.ts
-#EXTINF:-1,IT:Sky.Nat.Geo.WildHD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/687.ts
-#EXTINF:-1,IT: Animal Planet
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/402.ts
-#EXTINF:-1,IT: Discovery Sci HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/338.ts
-#EXTINF:-1,IT: Discovery Sci
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/689.ts
-#EXTINF:-1,IT:Sky Caccia & Pesca HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/490.ts
-#EXTINF:-1,IT: SKY GamberoRosso HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1402.ts
-#EXTINF:-1,++++ BAMBINO ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1545.ts
-#EXTINF:-1,IT: Cartoonito
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/765.ts
-#EXTINF:-1,IT: Boing
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/767.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/473.ts
-#EXTINF:-1,IT: SKY Disney XD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1376.ts
-#EXTINF:-1,IT: Sky Disney Channel +1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1576.ts
-#EXTINF:-1,IT: RAI YOYO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1531.ts
-#EXTINF:-1,++++ FILM ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1544.ts
-#EXTINF:-1,IT: PRIMAFILA 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/246.ts
-#EXTINF:-1,IT: PRIMAFILA 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/247.ts
-#EXTINF:-1,IT: PRIMAFILA 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/248.ts
-#EXTINF:-1,IT: PRIMAFILA 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/372.ts
-#EXTINF:-1,IT: PRIMAFILA 5 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/373.ts
-#EXTINF:-1,IT: PRIMAFILA  6 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/374.ts
-#EXTINF:-1,IT: PRIMAFILA 7 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/757.ts
-#EXTINF:-1,IT: PRIMAFILA 8 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/287.ts
-#EXTINF:-1,IT: PRIMAFILA  9 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/375.ts
-#EXTINF:-1,IT: PRIMAFILA 10 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/788.ts
-#EXTINF:-1,IT: PRIMAFILA 11 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/366.ts
-#EXTINF:-1,IT: PRIMAFILA 12 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/367.ts
-#EXTINF:-1,IT: PRIMAFILA 13 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/368.ts
-#EXTINF:-1,IT: PRIMAFILA 14 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/369.ts
-#EXTINF:-1,IT: PRIMAFILA 15 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/370.ts
-#EXTINF:-1,IT: PRIMAFILA 16 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/371.ts
-#EXTINF:-1,IT: PRIMAFILA 17 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1378.ts
-#EXTINF:-1,IT: PRIMAFILA 18 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1379.ts
-#EXTINF:-1,IT: PRIMAFILA 19 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1380.ts
-#EXTINF:-1,IT:Sky Cinema Family HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/484.ts
-#EXTINF:-1,IT:Sky Cinema Cult HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/485.ts
-#EXTINF:-1,IT:Sky Cinema Comedy HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/486.ts
-#EXTINF:-1,IT:CINEMA-COMEDY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/252.ts
-#EXTINF:-1,IT:Sky Cinema Classic HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/487.ts
-#EXTINF:-1,IT:Sky Cinema Passion HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/482.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/524.ts
-#EXTINF:-1,IT:Sky Cinema 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/488.ts
-#EXTINF:-1,IT:SKY Cinema Max 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/481.ts
-#EXTINF:-1,IT:Sky Fox HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/284.ts
-#EXTINF:-1,IT:fox.Crime
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/686.ts
-#EXTINF:-1,IT: Sky Cinema +1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/526.ts
-#EXTINF:-1,IT: Sky Cinema  +24 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/525.ts
-#EXTINF:-1,IT:Sky Cinema Hits HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/483.ts
-#EXTINF:-1,IT:SKY-CINEMA-MAX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/251.ts
-#EXTINF:-1,IT: Dmax
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/777.ts
-#EXTINF:-1,IT:Sky Atlantic HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/491.ts
-#EXTINF:-1,IT: Fox Life HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/523.ts
-#EXTINF:-1,++++ PREMIUM ++++
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1549.ts
-#EXTINF:-1,VIP: IT Premium  Extra 2 ( Grande Fratello )
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/778.ts
-#EXTINF:-1,VIP: IT Premium  Extra 1 ( Grande Fratello )
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/779.ts
-#EXTINF:-1,IT:PREMIUM-CINEMA-24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/258.ts
-#EXTINF:-1,IT:Premium Fox Sport HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/496.ts
-#EXTINF:-1,IT:Premium Carton Network HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/502.ts
-#EXTINF:-1,IT: Premium Crime   24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/609.ts
-#EXTINF:-1,IT: Premium BBC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/407.ts
-#EXTINF:-1,IT: Rai Premium
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/163.ts
-#EXTINF:-1,IT: Premium Stories
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/321.ts
-#EXTINF:-1,IT: Premium Calcio 7
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/776.ts
-#EXTINF:-1,IT: Premium Cinema  +24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/323.ts
-#EXTINF:-1,IT: Premium Action  +24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/322.ts
-#EXTINF:-1,IT:Premium.Emotion
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/589.ts
-#EXTINF:-1,IT:PREMIUM-ENERGY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/254.ts
-#EXTINF:-1,IT:PREMIUM-EMOTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/255.ts
-#EXTINF:-1,IT:PREMIUM-CRIME HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/256.ts
-#EXTINF:-1,IT:PREMIUM-COMEDY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/257.ts
-#EXTINF:-1,IT:PREMIUM-CALCIO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/259.ts
-#EXTINF:-1,IT:PREMIUM-ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/253.ts
-#EXTINF:-1,IT:Premium Studio Universal HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/495.ts
-#EXTINF:-1,IT:Premium Energy HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/497.ts
-#EXTINF:-1,IT:Premium Emotion HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/498.ts
-#EXTINF:-1,IT:Premium Disney Channel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/499.ts
-#EXTINF:-1,IT:Premium Discovery World
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/500.ts
-#EXTINF:-1,IT:Premium Crime HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/501.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/612.ts
-#EXTINF:-1,IT: Premium Joy
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/365.ts
-#EXTINF:-1,IT: Premium EuroSport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/613.ts
-#EXTINF:-1,IT: Premium Disney Junior HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/610.ts
-#EXTINF:-1,IT: PREMIUM CINEMA HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/291.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/607.ts
-#EXTINF:-1,IT: Premium Cinema 2   24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/608.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/611.ts
-#EXTINF:-1,IT: Premium Action HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/504.ts
-#EXTINF:-1,IT-PREMIUM COMEDY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/646.ts
-#EXTINF:-1,IT: Premium Calcio 5 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/317.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/334.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/226.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/401.ts
-#EXTINF:-1,IT: Premium Calcio HD 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/626.ts
-#EXTINF:-1,IT: Premium Calcio 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/503.ts
-#EXTINF:-1,IT: Premium Calcio HD 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/640.ts
-#EXTINF:-1,***** TURKISH *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1524.ts
-#EXTINF:-1,TURKISH |  ATV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/984.ts
-#EXTINF:-1,TURKISH |  TV8 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/990.ts
-#EXTINF:-1,TURKISH |  TRT HABER
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/988.ts
-#EXTINF:-1,TURKISH |  TRT COCUK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/999.ts
-#EXTINF:-1,TURKISH |  TRT1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/983.ts
-#EXTINF:-1,TURKISH |   MINIKA COCUK HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/981.ts
-#EXTINF:-1,TURKISH |  SINEMA 3D
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1589.ts
-#EXTINF:-1,TURKISH |  NAT GEO WILD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1581.ts
-#EXTINF:-1,TURKISH |  NAT GEO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1580.ts
-#EXTINF:-1,TURKISH |  MOVIE SMART GOLD 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1583.ts
-#EXTINF:-1,TURKISH |  MOVIE MAX FESTIVAL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1587.ts
-#EXTINF:-1,TURKISH |  KRAL POP
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1582.ts
-#EXTINF:-1,TURKISH |  CINEBOX 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1586.ts
-#EXTINF:-1,TURKISH |  CINEBOX 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1585.ts
-#EXTINF:-1,TURKISH |  CINEBOX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1584.ts
-#EXTINF:-1,TURKISH |  STAR TV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/980.ts
-#EXTINF:-1,TURKISH |  SHOW TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/982.ts
-#EXTINF:-1,TURKISH |  POWER TURK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/997.ts
-#EXTINF:-1,TURKISH |  PLANET COCUK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/996.ts
-#EXTINF:-1,TURKISH |  NTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/992.ts
-#EXTINF:-1,TURKISH |  MINIKA GO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/994.ts
-#EXTINF:-1,TURKISH |  MINIKA COCUK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/995.ts
-#EXTINF:-1,TURKISH |  KRAL TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/998.ts
-#EXTINF:-1,TURKISH |  KANAL A
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/993.ts
-#EXTINF:-1,TURKISH |  KANAL D
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/985.ts
-#EXTINF:-1,TURKISH |  KANAL 7
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/991.ts
-#EXTINF:-1,TURKISH |  KANALD HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1577.ts
-#EXTINF:-1,TURKISH |  KANAL TURK
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/986.ts
-#EXTINF:-1,TURKISH |  FOX TV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1403.ts
-#EXTINF:-1,TURKISH |  BEYAZ TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/987.ts
-#EXTINF:-1,TURKISH |  TRIVIBU SPOR 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1367.ts
-#EXTINF:-1,TURKISH |  DISNEY CHANNEL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1373.ts
-#EXTINF:-1,TURKISH |  CNN 4 TR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1374.ts
-#EXTINF:-1,AL: Top Kanal
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1412.ts
-#EXTINF:-1,TURKISH |  TRT SPOR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/879.ts
-#EXTINF:-1,TURKISH |  TIVIBUSPOR-SMART SPOR DONUSUMLU
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/877.ts
-#EXTINF:-1,TURKISH |  TIVIBUSPOR 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/878.ts
-#EXTINF:-1,TURKISH |  SPORTS TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/881.ts
-#EXTINF:-1,TURKISH |  SINEMA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/887.ts
-#EXTINF:-1,TURKISH |  SINEMA KORKU 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/895.ts
-#EXTINF:-1,TURKISH |  SINEMA KORKU 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/894.ts
-#EXTINF:-1,TURKISH |  SINEMA KOMEDI 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/901.ts
-#EXTINF:-1,TURKISH |  SINEMA KOMEDI 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/900.ts
-#EXTINF:-1,TURKISH |  BLOOMBERG
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/903.ts
-#EXTINF:-1,TURKISH |  DISCOVERY SCIENCE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/902.ts
-#EXTINF:-1,TURKISH |  SINEMA AKSIYON 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/899.ts
-#EXTINF:-1,TURKISH |  SINEMA AKSIYON 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/898.ts
-#EXTINF:-1,TURKISH |  SINEMA AILE 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/897.ts
-#EXTINF:-1,TURKISH |  SINEMA AILE 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/896.ts
-#EXTINF:-1,TURKISH |  Salon 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/890.ts
-#EXTINF:-1,TURKISH |  Salon 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/889.ts
-#EXTINF:-1,TURKISH |  SALON 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/888.ts
-#EXTINF:-1,TURKISH |  NTV SPOR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/880.ts
-#EXTINF:-1,TURKISH |  MOVIESMART PREMIUM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/886.ts
-#EXTINF:-1,TURKISH |  MOVIESMART FEST
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/885.ts
-#EXTINF:-1,TURKISH |  MOVIEMAX FAMILY HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/884.ts
-#EXTINF:-1,TURKISH |  LOCA 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/893.ts
-#EXTINF:-1,TURKISH |  LOCA 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/892.ts
-#EXTINF:-1,TURKISH |  LOCA 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/891.ts
-#EXTINF:-1,TURKISH |  LIGTV 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/875.ts
-#EXTINF:-1,TURKISH |  LIGTV 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/876.ts
-#EXTINF:-1,TURKISH |  LIGTV4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1551.ts
-#EXTINF:-1,TURKISH |  A SPOR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/882.ts
-#EXTINF:-1,TURKISH |  7/24 TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/883.ts
-#EXTINF:-1,TURKISH |  LIGTV1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/826.ts
-#EXTINF:-1,Smash TV Malta
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/979.ts
-#EXTINF:-1,TVM Malta
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/977.ts
-#EXTINF:-1,TVM 2 Malta
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/978.ts
-#EXTINF:-1,***** SPANISH *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1528.ts
-#EXTINF:-1,ES;C Deportes
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/588.ts
-#EXTINF:-1,ES:Canal.Estrenos
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/587.ts
-#EXTINF:-1,ES: Telecinco
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/269.ts
-#EXTINF:-1,ES: NAT GEO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/267.ts
-#EXTINF:-1,ES: Hollywood
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/263.ts
-#EXTINF:-1,ES: FOX HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/264.ts
-#EXTINF:-1,ES: Canal_DEPORTES
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/618.ts
-#EXTINF:-1,ES: Canal Series
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/268.ts
-#EXTINF:-1,ES: Canal Futbol
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/265.ts
-#EXTINF:-1,ES: Canal  Liga
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/274.ts
-#EXTINF:-1,ES: Canal  DCine
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/261.ts
-#EXTINF:-1,ES: Canal  Comedia
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/275.ts
-#EXTINF:-1,ES: Canal  Accion
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/262.ts
-#EXTINF:-1,ES: Canal
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/272.ts
-#EXTINF:-1,BeIN Sports Ã‘
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/847.ts
-#EXTINF:-1,ES: Calle 13
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/276.ts
-#EXTINF:-1,ES.Canal Xtra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/586.ts
-#EXTINF:-1,Canal  Partidazo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/858.ts
-#EXTINF:-1,Canal  Deportes
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/856.ts
-#EXTINF:-1,Canal  Liga 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/854.ts
-#EXTINF:-1,Canal  Futbol
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/857.ts
-#EXTINF:-1,***** PORTUGUESE *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1532.ts
-#EXTINF:-1,PT: TVCine 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1357.ts
-#EXTINF:-1,PT: TVCine 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1358.ts
-#EXTINF:-1,PT: TVCine 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1359.ts
-#EXTINF:-1,PT: TVCine 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1360.ts
-#EXTINF:-1,PT: Sporting TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1028.ts
-#EXTINF:-1,PT: Sport.TV1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/820.ts
-#EXTINF:-1,PT: Sport.TV1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/819.ts
-#EXTINF:-1,PT: Sport.TV2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/821.ts
-#EXTINF:-1,PT: Sport.TV3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/822.ts
-#EXTINF:-1,PT: Sport.TV4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/823.ts
-#EXTINF:-1,PT: Sport.TV5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/824.ts
-#EXTINF:-1,PT: Sport.TV Americas
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/825.ts
-#EXTINF:-1,PT: sport fuel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1029.ts
-#EXTINF:-1,PT: CHELSEA TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1024.ts
-#EXTINF:-1,PT: BTV2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1027.ts
-#EXTINF:-1,PT: BTV1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1026.ts
-#EXTINF:-1,PT: BTV1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1025.ts
-#EXTINF:-1,/// India ///
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1492.ts
-#EXTINF:-1,IN:Zing
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1512.ts
-#EXTINF:-1,IN:Zee World
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1493.ts
-#EXTINF:-1,IN:Zee Telegu
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1494.ts
-#EXTINF:-1,IN:Zee Tamil
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1495.ts
-#EXTINF:-1,IN:Zee Talkies
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1496.ts
-#EXTINF:-1,IN:Zee Purvaiya
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1498.ts
-#EXTINF:-1,IN:Zee Punjabi
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1497.ts
-#EXTINF:-1,IN:Zee News
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1513.ts
-#EXTINF:-1,IN:Zee Magic
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1499.ts
-#EXTINF:-1,IN:Zee Classic
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1500.ts
-#EXTINF:-1,IN:Zee Cinema
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1511.ts
-#EXTINF:-1,IN:Zee Business
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1501.ts
-#EXTINF:-1,IN:Zee Bollowood HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1502.ts
-#EXTINF:-1,IN:Zee Bangla
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1503.ts
-#EXTINF:-1,IN:Zee Anmol
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1504.ts
-#EXTINF:-1,IN:Star sport 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1514.ts
-#EXTINF:-1,IN:Star Plus
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1521.ts
-#EXTINF:-1,IN:Sony MIX S
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1508.ts
-#EXTINF:-1,IN:Sony Max 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1516.ts
-#EXTINF:-1,IN:Music India
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1517.ts
-#EXTINF:-1,IN:Colors
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1518.ts
-#EXTINF:-1,IN:B4U moives
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1519.ts
-#EXTINF:-1,IN: Zee_Smile
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1505.ts
-#EXTINF:-1,IN: zee Salam
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1506.ts
-#EXTINF:-1,IN: ZEE AFLAM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1507.ts
-#EXTINF:-1,IN: Star Sports 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1520.ts
-#EXTINF:-1,IN: Sony
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1509.ts
-#EXTINF:-1,IN: Boollywood Film
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1515.ts
-#EXTINF:-1,IN-zee TV HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1510.ts
-#EXTINF:-1,***** GERMAN *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1527.ts
-#EXTINF:-1,DE:Sky.Select1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/577.ts
-#EXTINF:-1,DE:sky.select2.HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/578.ts
-#EXTINF:-1,DE:sky.select3.HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/579.ts
-#EXTINF:-1,DE:sky_select4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/718.ts
-#EXTINF:-1,DE:sky.select5.HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/580.ts
-#EXTINF:-1,DE_Sky_Select_6HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/581.ts
-#EXTINF:-1,DE_Sky_Select_7HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/582.ts
-#EXTINF:-1,DE_Sky_Select_8HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/583.ts
-#EXTINF:-1,DE_Sky_Select_9HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/584.ts
-#EXTINF:-1,DE:SPORT TIME TV 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/466.ts
-#EXTINF:-1,DE:SPORT TIME TV 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/465.ts
-#EXTINF:-1,DE:SPORT TIME TV 3 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/464.ts
-#EXTINF:-1,DE:SPORT TIME TV 4 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/463.ts
-#EXTINF:-1,DE:SPORT TIME TV 5 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/462.ts
-#EXTINF:-1,DE:SPORT TIME TV 6 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/461.ts
-#EXTINF:-1,DE:SPORT TIME TV 7 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/460.ts
-#EXTINF:-1,DE: Sky AtlanticHD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/574.ts
-#EXTINF:-1,DE: SKY GERMANY TNT FILM HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1613.ts
-#EXTINF:-1,DE: SKY FAMILY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1611.ts
-#EXTINF:-1,DE: SERVUS TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1612.ts
-#EXTINF:-1,DE: NICKLODEON HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1614.ts
-#EXTINF:-1,DE |  DISNEY XD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1615.ts
-#EXTINF:-1,DE: VOX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1347.ts
-#EXTINF:-1,DE: SUPER-RTL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1348.ts
-#EXTINF:-1,DE: Sky Krimi
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1355.ts
-#EXTINF:-1,DE: RTL Nitro
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1351.ts
-#EXTINF:-1,DE: PRO7
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1344.ts
-#EXTINF:-1,DE: Phoenix
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1352.ts
-#EXTINF:-1,DE: NTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1342.ts
-#EXTINF:-1,DE: N24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1349.ts
-#EXTINF:-1,DE: KABEL-1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1350.ts
-#EXTINF:-1,DE: Eurosport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1343.ts
-#EXTINF:-1,DE: Dmax
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1354.ts
-#EXTINF:-1,DE: Disney Channel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1353.ts
-#EXTINF:-1,DE:WDR
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/459.ts
-#EXTINF:-1,DE:Sky.National.GeographicHD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/576.ts
-#EXTINF:-1,DE:Sky Sport 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/297.ts
-#EXTINF:-1,DE:Sky Germany Cinema  1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/719.ts
-#EXTINF:-1,DE:sky cinema HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/467.ts
-#EXTINF:-1,DE:RTL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/786.ts
-#EXTINF:-1,DE: SKY Comedy HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/714.ts
-#EXTINF:-1,DE: ZDF
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/133.ts
-#EXTINF:-1,DE: RTL2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/787.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/296.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/468.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/469.ts
-#EXTINF:-1,DE: Sky Action HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/470.ts
-#EXTINF:-1,DE: Sky 13 Street HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/619.ts
-#EXTINF:-1,DE: BOOMERANG
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/134.ts
-#EXTINF:-1,DE: ARTE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/135.ts
-#EXTINF:-1,DE: ARD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/82.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/620.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/621.ts
-#EXTINF:-1,DE: ORF Eins
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/131.ts
-#EXTINF:-1,DE: Kika HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/622.ts
-#EXTINF:-1,DE: FOX
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/471.ts
-#EXTINF:-1,DE: DISCOVERY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/591.ts
-#EXTINF:-1,DE: Sky.Discovery.Channel.HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/575.ts
-#EXTINF:-1,DE:Sky Hits
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/715.ts
-#EXTINF:-1,DE-SKY EMOTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/713.ts
-#EXTINF:-1,DE: SAT 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/717.ts
-#EXTINF:-1,***** ALBANIAN *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1533.ts
-#EXTINF:-1,Alb Junior - Alb Junior
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1418.ts
-#EXTINF:-1,ALB FolkLorit - ALB FolkLorit
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1420.ts
-#EXTINF:-1,ALB FIRST 1 - ALB FIRST 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1417.ts
-#EXTINF:-1,AL: Supersport Kosova 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/848.ts
-#EXTINF:-1,AL: Supersport Kosova 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/849.ts
-#EXTINF:-1,AL: Supersport 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/850.ts
-#EXTINF:-1,AL: Supersport 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/851.ts
-#EXTINF:-1,AL: Supersport 2 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/852.ts
-#EXTINF:-1,AL: Supersport 1 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/853.ts
-#EXTINF:-1,AL: Explorer Shkence
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1435.ts
-#EXTINF:-1,AL Tring Shqip - AL Tring Shqip
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1427.ts
-#EXTINF:-1,AL: Tring Planet
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1430.ts
-#EXTINF:-1,AL Tring History - AL Tring History
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1431.ts
-#EXTINF:-1,Al Tring Fantazy - Al Tring Fantazy
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1428.ts
-#EXTINF:-1,Al Tring Comedy - Al Tring Comedy
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1429.ts
-#EXTINF:-1,AL Top News - AL Top News
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1411.ts
-#EXTINF:-1,AL Top Channel - AL Top Channel
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1433.ts
-#EXTINF:-1,AL: KTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1408.ts
-#EXTINF:-1,AL Klan Kosova - AL Klan Kosova
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1414.ts
-#EXTINF:-1,AL Klan - AL Klan
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1413.ts
-#EXTINF:-1,AL: FOLK PLUS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1421.ts
-#EXTINF:-1,AL: FILM DY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1423.ts
-#EXTINF:-1,AL: Film Thriller
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1425.ts
-#EXTINF:-1,AL: Film Komedi
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1426.ts
-#EXTINF:-1,AL: Film Hits
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1424.ts
-#EXTINF:-1,AL Film Drame - AL Film Drame
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1422.ts
-#EXTINF:-1,AL Explorer Natyra - AL Explorer Natyra
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1434.ts
-#EXTINF:-1,AL: Explorer History
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1432.ts
-#EXTINF:-1,AL: Cufo TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1419.ts
-#EXTINF:-1,AL: Alsat M
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1416.ts
-#EXTINF:-1,AL: 21 HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1410.ts
-#EXTINF:-1,***** SWIDISH *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1530.ts
-#EXTINF:-1,C MORE SPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1200.ts
-#EXTINF:-1,C MORE SERIES
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1201.ts
-#EXTINF:-1,C MORE LIVE 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1202.ts
-#EXTINF:-1,C MORE LIVE 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1203.ts
-#EXTINF:-1,C MORE LIVE 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1204.ts
-#EXTINF:-1,C MORE LIVE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1205.ts
-#EXTINF:-1,C MORE HITS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1206.ts
-#EXTINF:-1,C MORE FOOTBAL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1207.ts
-#EXTINF:-1,C MORE FIRST
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1208.ts
-#EXTINF:-1,C MORE ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1209.ts
-#EXTINF:-1,SE: TV4 FAKTA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1017.ts
-#EXTINF:-1,SE: NAT GEO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1018.ts
-#EXTINF:-1,SE: KUNSKAPSKANALEN
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1019.ts
-#EXTINF:-1,SE: KANAL 11
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1020.ts
-#EXTINF:-1,SE: EUROSPORT
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1021.ts
-#EXTINF:-1,SE: DISCOVERY CHANNEL
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1022.ts
-#EXTINF:-1,SPORT: dolcesport2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/843.ts
-#EXTINF:-1,SPORT: dolcesport1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/842.ts
-#EXTINF:-1,SE: VIASAT Sport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1006.ts
-#EXTINF:-1,SE: VIASAT PREMIERE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1368.ts
-#EXTINF:-1,SE: VIASAT NATURE
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1016.ts
-#EXTINF:-1,SE: VIASAT HITS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1369.ts
-#EXTINF:-1,SE: VIASAT FILM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1007.ts
-#EXTINF:-1,SE: VIASAT COMEDY
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1370.ts
-#EXTINF:-1,SE: TV8 SW
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1008.ts
-#EXTINF:-1,SE: TV6
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1009.ts
-#EXTINF:-1,SE: TV4 GULD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1010.ts
-#EXTINF:-1,SE: SVT24/B
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1013.ts
-#EXTINF:-1,SE: SVIASAT ACTION
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1023.ts
-#EXTINF:-1,SE: Kanal 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1011.ts
-#EXTINF:-1,SE: Canal 8 sport
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1015.ts
-#EXTINF:-1,SE: C MORE FOOTBAL NO
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1012.ts
-#EXTINF:-1,SE: 6Eren
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1014.ts
-#EXTINF:-1,ARENA SPORT 1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/515.ts
-#EXTINF:-1,ARENA SPORT 2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/516.ts
-#EXTINF:-1,ARENA SPORT 3
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/517.ts
-#EXTINF:-1,ARENA SPORT 4
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/518.ts
-#EXTINF:-1,ARENA SPORT 5
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/519.ts
-#EXTINF:-1,Sport_Klub_1_HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/510.ts
-#EXTINF:-1,Sport_Klub_2_HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/511.ts
-#EXTINF:-1,Sport_Klub_3_HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/512.ts
-#EXTINF:-1,***** AFRICAN *****
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1534.ts
-#EXTINF:-1,Africa-TV ///
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1436.ts
-#EXTINF:-1,AFR-Weo HD
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1437.ts
-#EXTINF:-1,AFR-Weo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1438.ts
-#EXTINF:-1,AFR-VISION 4 (CMR)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1439.ts
-#EXTINF:-1,AFR-vicatv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1440.ts
-#EXTINF:-1,AFR-TVC News NIGERIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1441.ts
-#EXTINF:-1,AFR-TVC NEWS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1442.ts
-#EXTINF:-1,AFR-TV CONTINENTAL NIGERIA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1443.ts
-#EXTINF:-1,AFR-TV Africa
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1444.ts
-#EXTINF:-1,AFR-SEN TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1579.ts
-#EXTINF:-1,AFR-2STV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1578.ts
-#EXTINF:-1,AFR-tfmroku
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1445.ts
-#EXTINF:-1,AFR-TFM
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1446.ts
-#EXTINF:-1,AFR-teleprogreso
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1447.ts
-#EXTINF:-1,AFR-telecongo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1448.ts
-#EXTINF:-1,AFR-teleceiba
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1449.ts
-#EXTINF:-1,AFR-TELEBASICA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1450.ts
-#EXTINF:-1,AFR-sulavision
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1451.ts
-#EXTINF:-1,AFR-Rouge TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1452.ts
-#EXTINF:-1,AFR-RADIO MONTE CARLO TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1453.ts
-#EXTINF:-1,AFR-RADIO Corcas.com
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1454.ts
-#EXTINF:-1,AFR-RADIO 105 TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1455.ts
-#EXTINF:-1,AFR-PTC
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1456.ts
-#EXTINF:-1,AFR-NTA 24
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1457.ts
-#EXTINF:-1,AFR-mystream2
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1458.ts
-#EXTINF:-1,AFR-mystream1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1459.ts
-#EXTINF:-1,AFR-MONACO INFOS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1460.ts
-#EXTINF:-1,AFR-mayatv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1461.ts
-#EXTINF:-1,AFR-mauritania
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1462.ts
-#EXTINF:-1,AFR-La Tele
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1463.ts
-#EXTINF:-1,AFR-imedi
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1464.ts
-#EXTINF:-1,AFR-IL TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1465.ts
-#EXTINF:-1,AFR-hctvgermany
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1466.ts
-#EXTINF:-1,AFR-hchtv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1467.ts
-#EXTINF:-1,AFR-GTV Ghana
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1468.ts
-#EXTINF:-1,AFR-Grand Lille TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1469.ts
-#EXTINF:-1,AFR-GONG
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1470.ts
-#EXTINF:-1,AFR-globotv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1471.ts
-#EXTINF:-1,AFR-fashionone
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1472.ts
-#EXTINF:-1,AFR-Euronews
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1473.ts
-#EXTINF:-1,AFR-Enorme TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1474.ts
-#EXTINF:-1,AFR-CTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1475.ts
-#EXTINF:-1,AFR-CNBC Africa
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1476.ts
-#EXTINF:-1,AFR-CNA
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1477.ts
-#EXTINF:-1,AFR-Canal 2 Info (CMR)
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1478.ts
-#EXTINF:-1,AFR-BENIE TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1479.ts
-#EXTINF:-1,AFR-AssemblÂ¨Â¦e Nationale
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1480.ts
-#EXTINF:-1,AF: Walf TV Senegal
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1610.ts
-#EXTINF:-1,AFR-arte
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1481.ts
-#EXTINF:-1,AFR-Antenne Centre TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1483.ts
-#EXTINF:-1,AFR-alquraan
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1484.ts
-#EXTINF:-1,AFR-Afrique media TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1485.ts
-#EXTINF:-1,AFR-Africa:TV ManÂ¨Â¢-Maputo
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1486.ts
-#EXTINF:-1,AFR-ADTV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1487.ts
-#EXTINF:-1,AFR-ADOME TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1488.ts
-#EXTINF:-1,AFR-1tv
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1489.ts
-#EXTINF:-1,AFR-1 CORCAS
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1490.ts
-#EXTINF:-1,AFR-1
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1491.ts
-#EXTINF:-1,AF-ESPACE-TV
-http://boxiptv.noip.us:9998/live/jaimes/jaimes/1482.ts
-#EXTINF:-1,Legend 2015
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2008.mp4
-#EXTINF:-1,How to Be Single 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2005.avi
-#EXTINF:-1,London Has Fallen 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2002.mkv
-#EXTINF:-1,Kung Fu Panda 3 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2003.avi
-#EXTINF:-1,13 Hours The Secret Soldiers of Benghazi 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2004.mp4
-#EXTINF:-1,London Has Fallen 2016 FRENCH
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1999.avi
-#EXTINF:-1,Deadpool 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2001.mp4
-#EXTINF:-1,Captain America Civil WAR 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2000.mkv
-#EXTINF:-1,Batman v Superman Dawn of Justice 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1972.mkv
-#EXTINF:-1,Batman Bad Blood 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1971.mkv
-#EXTINF:-1,Barbie Spy Squad 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1970.mkv
-#EXTINF:-1,Arrowhead 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1969.mp4
-#EXTINF:-1,Airlift 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1967.mkv
-#EXTINF:-1,Against the Wild 2 Survive the Serengeti 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1965.mkv
-#EXTINF:-1,Adventures on the Red Plane 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1964.mkv
-#EXTINF:-1,Abducted 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1963.mkv
-#EXTINF:-1,MTV Movie Awards 2016
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/1962.mkv
-#EXTINF:-1,The Big Short 2015
-http://boxiptv.noip.us:9998/movie/jaimes/jaimes/2007.avi
+#EXTINF:-1,AR_TUNISIA_NATIONAL_1
+http://www.q7t1.com:8000/live/2020/2020/1.ts
+#EXTINF:-1,AR_TUNISIA_NATIONAL_2
+http://www.q7t1.com:8000/live/2020/2020/2.ts
+#EXTINF:-1,AR_EL_HIWAR_ETTOUNSI
+http://www.q7t1.com:8000/live/2020/2020/3.ts
+#EXTINF:-1,AR_NESSMA
+http://www.q7t1.com:8000/live/2020/2020/4.ts
+#EXTINF:-1,AR_HANIBAL
+http://www.q7t1.com:8000/live/2020/2020/12.ts
+#EXTINF:-1,AR_TOUNESNA
+http://www.q7t1.com:8000/live/2020/2020/5.ts
+#EXTINF:-1,AR_ZAYTOONA
+http://www.q7t1.com:8000/live/2020/2020/9.ts
+#EXTINF:-1,AR_ZITOUNA_HEDAYA
+http://www.q7t1.com:8000/live/2020/2020/69.ts
+#EXTINF:-1,AR_ATTASSIA_TV
+http://www.q7t1.com:8000/live/2020/2020/99.ts
+#EXTINF:-1,AR_TNN_TUNISIA
+http://www.q7t1.com:8000/live/2020/2020/1231.ts
+#EXTINF:-1,AR_TELVZA_TV
+http://www.q7t1.com:8000/live/2020/2020/8.ts
+#EXTINF:-1,AR_AL_INSEN
+http://www.q7t1.com:8000/live/2020/2020/1278.ts
+#EXTINF:-1,AR_FIRST_TV
+http://www.q7t1.com:8000/live/2020/2020/176.ts
+#EXTINF:-1,AR_JAWHARA_FM
+http://www.q7t1.com:8000/live/2020/2020/4117.ts
+#EXTINF:-1,AR_AL_JANOUBIA
+http://www.q7t1.com:8000/live/2020/2020/7.ts
+#EXTINF:-1,AR_AL_MOUTAWASIT
+http://www.q7t1.com:8000/live/2020/2020/13.ts
+#EXTINF:-1,AR_AL_MOUSTAKILLA
+http://www.q7t1.com:8000/live/2020/2020/237.ts
+#EXTINF:-1,AR_AL_AOULA_MAROC
+http://www.q7t1.com:8000/live/2020/2020/77.ts
+#EXTINF:-1,AR_2M_MAROC
+http://www.q7t1.com:8000/live/2020/2020/14.ts
+#EXTINF:-1,AR_MAROC_3
+http://www.q7t1.com:8000/live/2020/2020/1815.ts
+#EXTINF:-1,AR_MAROC_8
+http://www.q7t1.com:8000/live/2020/2020/1816.ts
+#EXTINF:-1,AR_AL_MAGHRIBIA
+http://www.q7t1.com:8000/live/2020/2020/78.ts
+#EXTINF:-1,AR_ASSADISSA
+http://www.q7t1.com:8000/live/2020/2020/43.ts
+#EXTINF:-1,AR_MEDI_1_SAT
+http://www.q7t1.com:8000/live/2020/2020/174.ts
+#EXTINF:-1,AR_SAMIRA_TV
+http://www.q7t1.com:8000/live/2020/2020/152.ts
+#EXTINF:-1,AR_ARRABIA
+http://www.q7t1.com:8000/live/2020/2020/11.ts
+#EXTINF:-1,AR_DZAIR_TV
+http://www.q7t1.com:8000/live/2020/2020/33.ts
+#EXTINF:-1,AR_ALGERIE_TV
+http://www.q7t1.com:8000/live/2020/2020/24.ts
+#EXTINF:-1,AR_ALGERIA_3
+http://www.q7t1.com:8000/live/2020/2020/62.ts
+#EXTINF:-1,AR_4_ALGERIE
+http://www.q7t1.com:8000/live/2020/2020/4103.ts
+#EXTINF:-1,AR_5_ALGERIE
+http://www.q7t1.com:8000/live/2020/2020/4102.ts
+#EXTINF:-1,AR_Benna Tv_ALGERIE
+http://www.q7t1.com:8000/live/2020/2020/4101.ts
+#EXTINF:-1,AR_EL_DJAZAIRIA
+http://www.q7t1.com:8000/live/2020/2020/26.ts
+#EXTINF:-1,AR_CANAL_ALGERIE
+http://www.q7t1.com:8000/live/2020/2020/4104.ts
+#EXTINF:-1,AR_KBC_ALGERIA
+http://www.q7t1.com:8000/live/2020/2020/23.ts
+#EXTINF:-1,AR_AL_JAZEERA_DOC
+http://www.q7t1.com:8000/live/2020/2020/936.ts
+#EXTINF:-1,AR_PROGNATIONAL_ALGERIE
+http://www.q7t1.com:8000/live/2020/2020/4100.ts
+#EXTINF:-1,AR_ALHEDDAF_TV
+http://www.q7t1.com:8000/live/2020/2020/1813.ts
+#EXTINF:-1,AR_ECHOUROUK_TV
+http://www.q7t1.com:8000/live/2020/2020/110.ts
+#EXTINF:-1,AR_ECHOUROUK_NEWS
+http://www.q7t1.com:8000/live/2020/2020/4105.ts
+#EXTINF:-1,AR_ENNAHAR_TV
+http://www.q7t1.com:8000/live/2020/2020/105.ts
+#EXTINF:-1,AR_BZAF_LIFE
+http://www.q7t1.com:8000/live/2020/2020/4106.ts
+#EXTINF:-1,AR_MBC_1
+http://www.q7t1.com:8000/live/2020/2020/155.ts
+#EXTINF:-1,AR_MBC_2
+http://www.q7t1.com:8000/live/2020/2020/136.ts
+#EXTINF:-1,AR_MBC_3
+http://www.q7t1.com:8000/live/2020/2020/131.ts
+#EXTINF:-1,AR_MBC_4
+http://www.q7t1.com:8000/live/2020/2020/55.ts
+#EXTINF:-1,AR_MBC_MAX
+http://www.q7t1.com:8000/live/2020/2020/135.ts
+#EXTINF:-1,AR_MBC_MASR
+http://www.q7t1.com:8000/live/2020/2020/133.ts
+#EXTINF:-1,AR_MBC_ACTION
+http://www.q7t1.com:8000/live/2020/2020/53.ts
+#EXTINF:-1,AR_MBC_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/54.ts
+#EXTINF:-1,AR_MBC_MASR_2
+http://www.q7t1.com:8000/live/2020/2020/134.ts
+#EXTINF:-1,AR_MBC_BOLLYWOOD
+http://www.q7t1.com:8000/live/2020/2020/132.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_1
+http://www.q7t1.com:8000/live/2020/2020/115.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_2
+http://www.q7t1.com:8000/live/2020/2020/63.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_3
+http://www.q7t1.com:8000/live/2020/2020/942.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_4
+http://www.q7t1.com:8000/live/2020/2020/1357.ts
+#EXTINF:-1,AR_Kuwait_1
+http://www.q7t1.com:8000/live/2020/2020/4696.ts
+#EXTINF:-1,AR_Kuwait_2
+http://www.q7t1.com:8000/live/2020/2020/4697.ts
+#EXTINF:-1,AR_Kuwait_EXTRA
+http://www.q7t1.com:8000/live/2020/2020/4698.ts
+#EXTINF:-1,AR_Kuwait_Ethraa
+http://www.q7t1.com:8000/live/2020/2020/4699.ts
+#EXTINF:-1,AR_Kuwait_Al_arabi
+http://www.q7t1.com:8000/live/2020/2020/4701.ts
+#EXTINF:-1,AR_Kuwait_Almajlis
+http://www.q7t1.com:8000/live/2020/2020/4700.ts
+#EXTINF:-1,AR_Kuwait_Sport_HD
+http://www.q7t1.com:8000/live/2020/2020/4702.ts
+#EXTINF:-1,AR_Kuwait_sport_EXTRA
+http://www.q7t1.com:8000/live/2020/2020/4703.ts
+#EXTINF:-1,AR_DUBAI_TV
+http://www.q7t1.com:8000/live/2020/2020/125.ts
+#EXTINF:-1,AR_DUBAI_ONE
+http://www.q7t1.com:8000/live/2020/2020/45.ts
+#EXTINF:-1,AR_DUBAI_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/1829.ts
+#EXTINF:-1,AR_SAMA_DUBAI
+http://www.q7t1.com:8000/live/2020/2020/1828.ts
+#EXTINF:-1,AR_DUBAI_SPORT_HD
+http://www.q7t1.com:8000/live/2020/2020/46.ts
+#EXTINF:-1,AR_ABU_DHABI
+http://www.q7t1.com:8000/live/2020/2020/50.ts
+#EXTINF:-1,AR_ABU_DHABI_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/107.ts
+#EXTINF:-1,AR_EL_mouritaniya
+http://www.q7t1.com:8000/live/2020/2020/4704.ts
+#EXTINF:-1,AR_NAT_GEO_AD
+http://www.q7t1.com:8000/live/2020/2020/146.ts
+#EXTINF:-1,AR_ABU_DHABI_SPORTS_1
+http://www.q7t1.com:8000/live/2020/2020/17.ts
+#EXTINF:-1,AR_ABU_DHABI_SPORTS_2
+http://www.q7t1.com:8000/live/2020/2020/945.ts
+#EXTINF:-1,AR_LBC
+http://www.q7t1.com:8000/live/2020/2020/1831.ts
+#EXTINF:-1,AR_LBC_SAT
+http://www.q7t1.com:8000/live/2020/2020/104.ts
+#EXTINF:-1,AR_ALJADID
+http://www.q7t1.com:8000/live/2020/2020/1832.ts
+#EXTINF:-1,AR_ALJADEED
+http://www.q7t1.com:8000/live/2020/2020/1354.ts
+#EXTINF:-1,AR_FUTURE_TV
+http://www.q7t1.com:8000/live/2020/2020/1426.ts
+#EXTINF:-1,AR_NBN
+http://www.q7t1.com:8000/live/2020/2020/1833.ts
+#EXTINF:-1,AR_LDC
+http://www.q7t1.com:8000/live/2020/2020/1834.ts
+#EXTINF:-1,AR_CBC_TV
+http://www.q7t1.com:8000/live/2020/2020/40.ts
+#EXTINF:-1,AR_CBC+_2
+http://www.q7t1.com:8000/live/2020/2020/123.ts
+#EXTINF:-1,AR_CBC_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/183.ts
+#EXTINF:-1,AR_CBC_EXTRA
+http://www.q7t1.com:8000/live/2020/2020/4118.ts
+#EXTINF:-1,AR_CBC_SOFRA
+http://www.q7t1.com:8000/live/2020/2020/122.ts
+#EXTINF:-1,AR_MTV_LEBANON
+http://www.q7t1.com:8000/live/2020/2020/946.ts
+#EXTINF:-1,AR_OTV_LEBANON
+http://www.q7t1.com:8000/live/2020/2020/1358.ts
+#EXTINF:-1,AR_SYRIA_TV
+http://www.q7t1.com:8000/live/2020/2020/147.ts
+#EXTINF:-1,AR_SYRIA_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/1827.ts
+#EXTINF:-1,AR_NOUR_EL_SHAM
+http://www.q7t1.com:8000/live/2020/2020/4111.ts
+#EXTINF:-1,AR_BEIN_MOVIES_1HD
+http://www.q7t1.com:8000/live/2020/2020/1279.ts
+#EXTINF:-1,AR_BEIN_MOVIES_2HD
+http://www.q7t1.com:8000/live/2020/2020/28.ts
+#EXTINF:-1,AR_BEIN_MOVIES_3HD
+http://www.q7t1.com:8000/live/2020/2020/1284.ts
+#EXTINF:-1,AR_BEIN_MOVIES_4HD
+http://www.q7t1.com:8000/live/2020/2020/1287.ts
+#EXTINF:-1,AR_ART_AFLAM_1
+http://www.q7t1.com:8000/live/2020/2020/37.ts
+#EXTINF:-1,AR_ART_AFLAM_2
+http://www.q7t1.com:8000/live/2020/2020/38.ts
+#EXTINF:-1,AR_ART_CINEMA
+http://www.q7t1.com:8000/live/2020/2020/116.ts
+#EXTINF:-1,AR_ART_HEKAYAT_1
+http://www.q7t1.com:8000/live/2020/2020/117.ts
+#EXTINF:-1,AR_ART_HEKAYAT_2
+http://www.q7t1.com:8000/live/2020/2020/118.ts
+#EXTINF:-1,AR_NILE_LIFE
+http://www.q7t1.com:8000/live/2020/2020/29.ts
+#EXTINF:-1,AR_NILE_FAMILY
+http://www.q7t1.com:8000/live/2020/2020/16.ts
+#EXTINF:-1,AR_NILE_CULTURE
+http://www.q7t1.com:8000/live/2020/2020/178.ts
+#EXTINF:-1,AR_NILE_CINEMA
+http://www.q7t1.com:8000/live/2020/2020/177.ts
+#EXTINF:-1,AR_NILE_COMEDY
+http://www.q7t1.com:8000/live/2020/2020/58.ts
+#EXTINF:-1,AR_NILE_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/79.ts
+#EXTINF:-1,AR_DREAM_1
+http://www.q7t1.com:8000/live/2020/2020/44.ts
+#EXTINF:-1,AR_DREAM_2
+http://www.q7t1.com:8000/live/2020/2020/165.ts
+#EXTINF:-1,AR_AL_MEHWAR
+http://www.q7t1.com:8000/live/2020/2020/4693.ts
+#EXTINF:-1,AR_TEN
+http://www.q7t1.com:8000/live/2020/2020/4694.ts
+#EXTINF:-1,AR_TEN_2
+http://www.q7t1.com:8000/live/2020/2020/4695.ts
+#EXTINF:-1,AR_ALNAS
+http://www.q7t1.com:8000/live/2020/2020/4689.ts
+#EXTINF:-1,AR_SADA_EL_BALAD
+http://www.q7t1.com:8000/live/2020/2020/4684.ts
+#EXTINF:-1,AR_SADA_EL_BALAD_2
+http://www.q7t1.com:8000/live/2020/2020/4685.ts
+#EXTINF:-1,AR_SADA_EL_BALAD_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/4686.ts
+#EXTINF:-1,AR_ON_TV
+http://www.q7t1.com:8000/live/2020/2020/4690.ts
+#EXTINF:-1,AR_ON_TV_+
+http://www.q7t1.com:8000/live/2020/2020/4692.ts
+#EXTINF:-1,AR_ON_TV_LIVE
+http://www.q7t1.com:8000/live/2020/2020/4691.ts
+#EXTINF:-1,AR_AL_KAHERA_WAL_NAS_1
+http://www.q7t1.com:8000/live/2020/2020/4687.ts
+#EXTINF:-1,AR_AL_KAHERA_WAL_NAS_2
+http://www.q7t1.com:8000/live/2020/2020/4688.ts
+#EXTINF:-1,AR_ZEE_ALWAN
+http://www.q7t1.com:8000/live/2020/2020/1229.ts
+#EXTINF:-1,AR_NOOR_DUBAI
+http://www.q7t1.com:8000/live/2020/2020/101.ts
+#EXTINF:-1,AR_ZEE_AFLAM
+http://www.q7t1.com:8000/live/2020/2020/130.ts
+#EXTINF:-1,AR_ALHAYAT
+http://www.q7t1.com:8000/live/2020/2020/60.ts
+#EXTINF:-1,AR_ALHAYAT_2
+http://www.q7t1.com:8000/live/2020/2020/153.ts
+#EXTINF:-1,AR_AL_HAYAT_2
+http://www.q7t1.com:8000/live/2020/2020/4123.ts
+#EXTINF:-1,AR_AL_HAYAT_MUSALSALET
+http://www.q7t1.com:8000/live/2020/2020/4124.ts
+#EXTINF:-1,AR_AL_NAHAR
+http://www.q7t1.com:8000/live/2020/2020/4121.ts
+#EXTINF:-1,AR_ELNAHAR_MASR
+http://www.q7t1.com:8000/live/2020/2020/51.ts
+#EXTINF:-1,AR_AL_NAHAR_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/61.ts
+#EXTINF:-1,AR_CAIRO_CINEMA
+http://www.q7t1.com:8000/live/2020/2020/36.ts
+#EXTINF:-1,AR_CAIRO_Aflam
+http://www.q7t1.com:8000/live/2020/2020/4119.ts
+#EXTINF:-1,AR_CAIRO_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/143.ts
+#EXTINF:-1,AR_NOUR_ECHAM_SYRIA_TV
+http://www.q7t1.com:8000/live/2020/2020/4112.ts
+#EXTINF:-1,AR_AL_GHAD_AL_ARABY
+http://www.q7t1.com:8000/live/2020/2020/4126.ts
+#EXTINF:-1,AR_FATAFEAT
+http://www.q7t1.com:8000/live/2020/2020/144.ts
+#EXTINF:-1,AR_AJYAL
+http://www.q7t1.com:8000/live/2020/2020/185.ts
+#EXTINF:-1,AR_TAHA
+http://www.q7t1.com:8000/live/2020/2020/4110.ts
+#EXTINF:-1,AR_NILE_SPORT
+http://www.q7t1.com:8000/live/2020/2020/75.ts
+#EXTINF:-1,AR_CIMA
+http://www.q7t1.com:8000/live/2020/2020/42.ts
+#EXTINF:-1,AR_TIME_COMEDY
+http://www.q7t1.com:8000/live/2020/2020/114.ts
+#EXTINF:-1,AR_FOX_MOVIES
+http://www.q7t1.com:8000/live/2020/2020/48.ts
+#EXTINF:-1,AR_TOP_MOVIES
+http://www.q7t1.com:8000/live/2020/2020/1025.ts
+#EXTINF:-1,AR_AL_OULA_MISR
+http://www.q7t1.com:8000/live/2020/2020/154.ts
+#EXTINF:-1,AR_STAR_CINEMA_2
+http://www.q7t1.com:8000/live/2020/2020/182.ts
+#EXTINF:-1,AR_ROTANA_AFLAM
+http://www.q7t1.com:8000/live/2020/2020/88.ts
+#EXTINF:-1,AR_ROTANA_CINEMA
+http://www.q7t1.com:8000/live/2020/2020/15.ts
+#EXTINF:-1,AR_ROTANA_CLASSIC
+http://www.q7t1.com:8000/live/2020/2020/89.ts
+#EXTINF:-1,AR_ROTANA_CLIP
+http://www.q7t1.com:8000/live/2020/2020/90.ts
+#EXTINF:-1,AR_ROTANA_KHALIGI
+http://www.q7t1.com:8000/live/2020/2020/91.ts
+#EXTINF:-1,AR_ROTANA_MASRIYA
+http://www.q7t1.com:8000/live/2020/2020/92.ts
+#EXTINF:-1,AR_ROTANA_MUSIC
+http://www.q7t1.com:8000/live/2020/2020/93.ts
+#EXTINF:-1,AR_MAJID_KIDS
+http://www.q7t1.com:8000/live/2020/2020/4108.ts
+#EXTINF:-1,AR_BARAEM
+http://www.q7t1.com:8000/live/2020/2020/142.ts
+#EXTINF:-1,AR_SPACETOON
+http://www.q7t1.com:8000/live/2020/2020/98.ts
+#EXTINF:-1,AR_KARAMEESH
+http://www.q7t1.com:8000/live/2020/2020/4107.ts
+#EXTINF:-1,AR_TOYOR_AL_JANAH
+http://www.q7t1.com:8000/live/2020/2020/137.ts
+#EXTINF:-1,AR_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/2020/2020/66.ts
+#EXTINF:-1,AR_CARTOON_NETWORK_HD
+http://www.q7t1.com:8000/live/2020/2020/4109.ts
+#EXTINF:-1,AR_FRANCE_24_ARABIA
+http://www.q7t1.com:8000/live/2020/2020/127.ts
+#EXTINF:-1,AR_AL_JAZEERA
+http://www.q7t1.com:8000/live/2020/2020/27.ts
+#EXTINF:-1,AR_AL_ARABIA
+http://www.q7t1.com:8000/live/2020/2020/140.ts
+#EXTINF:-1,AR_AL_MANAR
+http://www.q7t1.com:8000/live/2020/2020/1835.ts
+#EXTINF:-1,AR_AL_ARABIA_HADATH
+http://www.q7t1.com:8000/live/2020/2020/19.ts
+#EXTINF:-1,AR_AL_HADATH
+http://www.q7t1.com:8000/live/2020/2020/4125.ts
+#EXTINF:-1,AR_ALMAYADEEN
+http://www.q7t1.com:8000/live/2020/2020/1830.ts
+#EXTINF:-1,AR_AL_EKHBARIA_KSA
+http://www.q7t1.com:8000/live/2020/2020/141.ts
+#EXTINF:-1,AR_ALJAZEERA_DOC
+http://www.q7t1.com:8000/live/2020/2020/150.ts
+#EXTINF:-1,AR_SKY_NEWS
+http://www.q7t1.com:8000/live/2020/2020/6.ts
+#EXTINF:-1,AR_KSA_1
+http://www.q7t1.com:8000/live/2020/2020/74.ts
+#EXTINF:-1,AR_AL_MAJD
+http://www.q7t1.com:8000/live/2020/2020/4116.ts
+#EXTINF:-1,AR_IQRAA
+http://www.q7t1.com:8000/live/2020/2020/97.ts
+#EXTINF:-1,AR_QURAN_TV
+http://www.q7t1.com:8000/live/2020/2020/100.ts
+#EXTINF:-1,AR_SAUDI_QUARAN
+http://www.q7t1.com:8000/live/2020/2020/70.ts
+#EXTINF:-1,AR_AL_RESALAH
+http://www.q7t1.com:8000/live/2020/2020/72.ts
+#EXTINF:-1,AR_AL_RAHMA
+http://www.q7t1.com:8000/live/2020/2020/1276.ts
+#EXTINF:-1,AR_B4U_AFLAM
+http://www.q7t1.com:8000/live/2020/2020/4127.ts
+#EXTINF:-1,AR_B4U_PLUS
+http://www.q7t1.com:8000/live/2020/2020/157.ts
+#EXTINF:-1,AR_AGHANI
+http://www.q7t1.com:8000/live/2020/2020/106.ts
+#EXTINF:-1,AR_OSN_ALKASS_SPORT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1285.ts
+#EXTINF:-1,AR_OSN_ALKASS_SPORT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1244.ts
+#EXTINF:-1,AR_OSN_ALKASS_SPORT_3_HD
+http://www.q7t1.com:8000/live/2020/2020/1241.ts
+#EXTINF:-1,AR_OSN_ALKASS_SPORT_4_HD
+http://www.q7t1.com:8000/live/2020/2020/1240.ts
+#EXTINF:-1,AR_OSN_SPORT_CRICKET_HD
+http://www.q7t1.com:8000/live/2020/2020/180.ts
+#EXTINF:-1,AR_OSN_FIRST_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/1222.ts
+#EXTINF:-1,AR_OSN_FIRST_HD
+http://www.q7t1.com:8000/live/2020/2020/1238.ts
+#EXTINF:-1,AR_OSN_MBC+_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/1226.ts
+#EXTINF:-1,AR_OSN_MOVIES_HD
+http://www.q7t1.com:8000/live/2020/2020/1233.ts
+#EXTINF:-1,AR_OSN_MOVIES_ACTION_HD
+http://www.q7t1.com:8000/live/2020/2020/1281.ts
+#EXTINF:-1,AR_OSN_MOVIES_ACTION+_2
+http://www.q7t1.com:8000/live/2020/2020/1283.ts
+#EXTINF:-1,AR_OSN_MOVIES_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/258.ts
+#EXTINF:-1,AR_OSN_MOVIES_FESTIVAL
+http://www.q7t1.com:8000/live/2020/2020/1214.ts
+#EXTINF:-1,AR_OSN_STAR_MOVIES_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1235.ts
+#EXTINF:-1,AR_OSN_MOVIES_PREMIERE_HD
+http://www.q7t1.com:8000/live/2020/2020/1177.ts
+#EXTINF:-1,AR_OSN_ORBIT_CINEMA_2_HD
+http://www.q7t1.com:8000/live/2020/2020/948.ts
+#EXTINF:-1,AR_OSN_YAHALA_SHABAB
+http://www.q7t1.com:8000/live/2020/2020/1209.ts
+#EXTINF:-1,AR_OSN_YAHALA_HD
+http://www.q7t1.com:8000/live/2020/2020/1207.ts
+#EXTINF:-1,AR_OSN_MOVIES_FIRST_HD
+http://www.q7t1.com:8000/live/2020/2020/810.ts
+#EXTINF:-1,AR_OSN_YAHALA_DRAMA_HD
+http://www.q7t1.com:8000/live/2020/2020/1208.ts
+#EXTINF:-1,AR_OSN_ALYOUM
+http://www.q7t1.com:8000/live/2020/2020/1286.ts
+#EXTINF:-1,AR_OSN_ORBIT_CINEMA_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1212.ts
+#EXTINF:-1,AR_OSN_MOVIES_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/947.ts
+#EXTINF:-1,AR_OSN_ON_DEMAND_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1288.ts
+#EXTINF:-1,AR_OSN_DISCOVERY_HD
+http://www.q7t1.com:8000/live/2020/2020/1225.ts
+#EXTINF:-1,AR_OSN_DISCOVERY_SCIENCE_HD
+http://www.q7t1.com:8000/live/2020/2020/1224.ts
+#EXTINF:-1,AR_OSN_ANIMAL_PLANET
+http://www.q7t1.com:8000/live/2020/2020/1245.ts
+#EXTINF:-1,AR_BEIN_SPORTS_NEWS
+http://www.q7t1.com:8000/live/2020/2020/454.ts
+#EXTINF:-1,AR_BEIN_SPORTS_1_HD
+http://www.q7t1.com:8000/live/2020/2020/186.ts
+#EXTINF:-1,AR_BEIN_SPORTS_2_HD
+http://www.q7t1.com:8000/live/2020/2020/187.ts
+#EXTINF:-1,AR_BEIN_SPORTS_3_HD
+http://www.q7t1.com:8000/live/2020/2020/188.ts
+#EXTINF:-1,AR_BEIN_SPORTS_4_HD
+http://www.q7t1.com:8000/live/2020/2020/189.ts
+#EXTINF:-1,AR_BEIN_SPORTS_5_HD
+http://www.q7t1.com:8000/live/2020/2020/190.ts
+#EXTINF:-1,AR_BEIN_SPORTS_6_HD
+http://www.q7t1.com:8000/live/2020/2020/191.ts
+#EXTINF:-1,AR_BEIN_SPORTS_7_HD
+http://www.q7t1.com:8000/live/2020/2020/192.ts
+#EXTINF:-1,AR_BEIN_SPORTS_8_HD
+http://www.q7t1.com:8000/live/2020/2020/193.ts
+#EXTINF:-1,AR_BEIN_SPORTS_9_HD
+http://www.q7t1.com:8000/live/2020/2020/194.ts
+#EXTINF:-1,AR_BEIN_SPORTS_10_HD
+http://www.q7t1.com:8000/live/2020/2020/195.ts
+#EXTINF:-1,AR_BEIN_SPORTS_11_HD
+http://www.q7t1.com:8000/live/2020/2020/196.ts
+#EXTINF:-1,AR_BEIN_SPORTS_12_HD
+http://www.q7t1.com:8000/live/2020/2020/197.ts
+#EXTINF:-1,AR_BEIN_SPORTS_13_HD
+http://www.q7t1.com:8000/live/2020/2020/451.ts
+#EXTINF:-1,AR_BEIN_SPORTS_14_HD
+http://www.q7t1.com:8000/live/2020/2020/452.ts
+#EXTINF:-1,AR_BEIN_SPORTS_15_HD
+http://www.q7t1.com:8000/live/2020/2020/453.ts
+#EXTINF:-1,AR_BEIN_SPORTS_16_HD
+http://www.q7t1.com:8000/live/2020/2020/1230.ts
+#EXTINF:-1,AR_BEIN_SPORTS_1HD
+http://www.q7t1.com:8000/live/2020/2020/1355.ts
+#EXTINF:-1,AR_BEIN_SPORTS_2HD
+http://www.q7t1.com:8000/live/2020/2020/900.ts
+#EXTINF:-1,AR_BEIN_SPORTS_3HD
+http://www.q7t1.com:8000/live/2020/2020/126.ts
+#EXTINF:-1,AR_BEIN_SPORTS_4HD
+http://www.q7t1.com:8000/live/2020/2020/139.ts
+#EXTINF:-1,AR_BEIN_SPORTS_5HD
+http://www.q7t1.com:8000/live/2020/2020/179.ts
+#EXTINF:-1,AR_BEIN_SPORTS_6HD
+http://www.q7t1.com:8000/live/2020/2020/899.ts
+#EXTINF:-1,AR_BEIN_SPORTS_7HD
+http://www.q7t1.com:8000/live/2020/2020/961.ts
+#EXTINF:-1,AR_BEIN_SPORTS_8HD
+http://www.q7t1.com:8000/live/2020/2020/1211.ts
+#EXTINF:-1,AR_BEIN_SPORTS_9HD
+http://www.q7t1.com:8000/live/2020/2020/1210.ts
+#EXTINF:-1,AR_BEIN_SPORTS_10HD
+http://www.q7t1.com:8000/live/2020/2020/1176.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1825.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1826.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_3_HD
+http://www.q7t1.com:8000/live/2020/2020/1216.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_4_HD
+http://www.q7t1.com:8000/live/2020/2020/1237.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_5_HD
+http://www.q7t1.com:8000/live/2020/2020/1215.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_6_HD
+http://www.q7t1.com:8000/live/2020/2020/1275.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_7_HD
+http://www.q7t1.com:8000/live/2020/2020/1234.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_8_HD
+http://www.q7t1.com:8000/live/2020/2020/161.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_9_HD
+http://www.q7t1.com:8000/live/2020/2020/1270.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_10_HD
+http://www.q7t1.com:8000/live/2020/2020/1817.ts
+#EXTINF:-1,BE_2BE_HD
+http://www.q7t1.com:8000/live/2020/2020/3875.ts
+#EXTINF:-1,BE_TELE_BRUXELLES
+http://www.q7t1.com:8000/live/2020/2020/3873.ts
+#EXTINF:-1,BE_TVO
+http://www.q7t1.com:8000/live/2020/2020/3872.ts
+#EXTINF:-1,BE_SERIE
+http://www.q7t1.com:8000/live/2020/2020/3867.ts
+#EXTINF:-1,BE_TVVESDRE
+http://www.q7t1.com:8000/live/2020/2020/3871.ts
+#EXTINF:-1,BE_VITAYA
+http://www.q7t1.com:8000/live/2020/2020/3870.ts
+#EXTINF:-1,BE_RTL_TVI_HD
+http://www.q7t1.com:8000/live/2020/2020/10.ts
+#EXTINF:-1,BE_LA_UNE_HD
+http://www.q7t1.com:8000/live/2020/2020/184.ts
+#EXTINF:-1,BE_LA_DEUX
+http://www.q7t1.com:8000/live/2020/2020/57.ts
+#EXTINF:-1,BE_LA_TROIS
+http://www.q7t1.com:8000/live/2020/2020/73.ts
+#EXTINF:-1,BE_PLUG_RTL
+http://www.q7t1.com:8000/live/2020/2020/119.ts
+#EXTINF:-1,BE_CLUB_RTL
+http://www.q7t1.com:8000/live/2020/2020/56.ts
+#EXTINF:-1,BE_VOO_FOOT
+http://www.q7t1.com:8000/live/2020/2020/3868.ts
+#EXTINF:-1,BE_VOO_SPORT_1
+http://www.q7t1.com:8000/live/2020/2020/3869.ts
+#EXTINF:-1,FR_TF1_HD
+http://www.q7t1.com:8000/live/2020/2020/207.ts
+#EXTINF:-1,FR_FRANCE_2_HD
+http://www.q7t1.com:8000/live/2020/2020/208.ts
+#EXTINF:-1,FR_FRANCE_3_HD
+http://www.q7t1.com:8000/live/2020/2020/209.ts
+#EXTINF:-1,FR_FRANCE_4_HD
+http://www.q7t1.com:8000/live/2020/2020/820.ts
+#EXTINF:-1,FR_FRANCE_5_HD
+http://www.q7t1.com:8000/live/2020/2020/210.ts
+#EXTINF:-1,FR_FRANCE_O
+http://www.q7t1.com:8000/live/2020/2020/228.ts
+#EXTINF:-1,FR_M6_HD
+http://www.q7t1.com:8000/live/2020/2020/216.ts
+#EXTINF:-1,FR_ARTE_HD
+http://www.q7t1.com:8000/live/2020/2020/866.ts
+#EXTINF:-1,FR_CINE_CLUB_HD
+http://www.q7t1.com:8000/live/2020/2020/882.ts
+#EXTINF:-1,FR_TMC_HD
+http://www.q7t1.com:8000/live/2020/2020/226.ts
+#EXTINF:-1,FR_RTL_9_HD
+http://www.q7t1.com:8000/live/2020/2020/845.ts
+#EXTINF:-1,FR_NT1
+http://www.q7t1.com:8000/live/2020/2020/949.ts
+#EXTINF:-1,FR_TEVA_HD
+http://www.q7t1.com:8000/live/2020/2020/870.ts
+#EXTINF:-1,FR_C8_HD
+http://www.q7t1.com:8000/live/2020/2020/234.ts
+#EXTINF:-1,FR_C_STAR
+http://www.q7t1.com:8000/live/2020/2020/819.ts
+#EXTINF:-1,FR_W9_HD
+http://www.q7t1.com:8000/live/2020/2020/224.ts
+#EXTINF:-1,FR_NRJ_12
+http://www.q7t1.com:8000/live/2020/2020/1282.ts
+#EXTINF:-1,FR_6TER HD
+http://www.q7t1.com:8000/live/2020/2020/1814.ts
+#EXTINF:-1,FR_CANAL+_HD
+http://www.q7t1.com:8000/live/2020/2020/201.ts
+#EXTINF:-1,FR_CANAL+_CINEMA_HD
+http://www.q7t1.com:8000/live/2020/2020/202.ts
+#EXTINF:-1,FR_CANAL+_FAMILY_HD
+http://www.q7t1.com:8000/live/2020/2020/204.ts
+#EXTINF:-1,FR_CANAL+_DECALE_HD
+http://www.q7t1.com:8000/live/2020/2020/203.ts
+#EXTINF:-1,FR_CANAL+_SERIES_HD
+http://www.q7t1.com:8000/live/2020/2020/868.ts
+#EXTINF:-1,FR_CINE+_FRISSON_HD
+http://www.q7t1.com:8000/live/2020/2020/877.ts
+#EXTINF:-1,FR_CINE+_PREMIER_HD
+http://www.q7t1.com:8000/live/2020/2020/878.ts
+#EXTINF:-1,FR_CINE+_FAMIZ_HD
+http://www.q7t1.com:8000/live/2020/2020/876.ts
+#EXTINF:-1,FR_CINE_CLASSIC_HD
+http://www.q7t1.com:8000/live/2020/2020/869.ts
+#EXTINF:-1,FR_CINE_POLAR
+http://www.q7t1.com:8000/live/2020/2020/950.ts
+#EXTINF:-1,FR_CINE_PREMIER
+http://www.q7t1.com:8000/live/2020/2020/874.ts
+#EXTINF:-1,FR_TMC
+http://www.q7t1.com:8000/live/2020/2020/1219.ts
+#EXTINF:-1,FR_OCS_CITY
+http://www.q7t1.com:8000/live/2020/2020/698.ts
+#EXTINF:-1,FR_OCS_CHOC_HD
+http://www.q7t1.com:8000/live/2020/2020/959.ts
+#EXTINF:-1,FR_OCS_GEANTS
+http://www.q7t1.com:8000/live/2020/2020/903.ts
+#EXTINF:-1,FR_OCS_MAX
+http://www.q7t1.com:8000/live/2020/2020/902.ts
+#EXTINF:-1,FR_ACTION
+http://www.q7t1.com:8000/live/2020/2020/863.ts
+#EXTINF:-1,FR_CINE_FX
+http://www.q7t1.com:8000/live/2020/2020/826.ts
+#EXTINF:-1,FR_CINE+_EMOTION
+http://www.q7t1.com:8000/live/2020/2020/873.ts
+#EXTINF:-1,FR_13EME_RUE_HD
+http://www.q7t1.com:8000/live/2020/2020/214.ts
+#EXTINF:-1,FR_COMEDIE+
+http://www.q7t1.com:8000/live/2020/2020/872.ts
+#EXTINF:-1,FR_PARIS_PREMIERE_HD
+http://www.q7t1.com:8000/live/2020/2020/181.ts
+#EXTINF:-1,FR_SYFY_HD
+http://www.q7t1.com:8000/live/2020/2020/95.ts
+#EXTINF:-1,FR_AB1
+http://www.q7t1.com:8000/live/2020/2020/862.ts
+#EXTINF:-1,FR_E_ENTERTAINMENT
+http://www.q7t1.com:8000/live/2020/2020/871.ts
+#EXTINF:-1,FR_SERIE_CLUB_HD
+http://www.q7t1.com:8000/live/2020/2020/225.ts
+#EXTINF:-1,FR_NUMERO_23_HD
+http://www.q7t1.com:8000/live/2020/2020/171.ts
+#EXTINF:-1,FR_BET
+http://www.q7t1.com:8000/live/2020/2020/231.ts
+#EXTINF:-1,FR_AB_1
+http://www.q7t1.com:8000/live/2020/2020/227.ts
+#EXTINF:-1,FR_ab3_HD
+http://www.q7t1.com:8000/live/2020/2020/80.ts
+#EXTINF:-1,FR_LCI
+http://www.q7t1.com:8000/live/2020/2020/1227.ts
+#EXTINF:-1,FR_tv_breizh_hd
+http://www.q7t1.com:8000/live/2020/2020/145.ts
+#EXTINF:-1,FR_france_24
+http://www.q7t1.com:8000/live/2020/2020/67.ts
+#EXTINF:-1,FR_WEO
+http://www.q7t1.com:8000/live/2020/2020/1217.ts
+#EXTINF:-1,FR_I_TELE
+http://www.q7t1.com:8000/live/2020/2020/213.ts
+#EXTINF:-1,FR_BFM_TV
+http://www.q7t1.com:8000/live/2020/2020/211.ts
+#EXTINF:-1,FR_HD_1
+http://www.q7t1.com:8000/live/2020/2020/861.ts
+#EXTINF:-1,FR_TV5_FR
+http://www.q7t1.com:8000/live/2020/2020/168.ts
+#EXTINF:-1,FR_TIJI
+http://www.q7t1.com:8000/live/2020/2020/235.ts
+#EXTINF:-1,FR_PIWI
+http://www.q7t1.com:8000/live/2020/2020/1221.ts
+#EXTINF:-1,FR_GULLI
+http://www.q7t1.com:8000/live/2020/2020/212.ts
+#EXTINF:-1,FR_BOING
+http://www.q7t1.com:8000/live/2020/2020/897.ts
+#EXTINF:-1,FR_HISTOIRE_HD
+http://www.q7t1.com:8000/live/2020/2020/1178.ts
+#EXTINF:-1,FR_TELETOON+1
+http://www.q7t1.com:8000/live/2020/2020/827.ts
+#EXTINF:-1,FR_CANAL_J_HD
+http://www.q7t1.com:8000/live/2020/2020/198.ts
+#EXTINF:-1,FR_BOOMERANG_HD
+http://www.q7t1.com:8000/live/2020/2020/867.ts
+#EXTINF:-1,FR_DISNEY_XD
+http://www.q7t1.com:8000/live/2020/2020/52.ts
+#EXTINF:-1,FR_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/236.ts
+#EXTINF:-1,FR_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/853.ts
+#EXTINF:-1,FR_DISNEY_CINEMAGIC
+http://www.q7t1.com:8000/live/2020/2020/901.ts
+#EXTINF:-1,FR_MANGA
+http://www.q7t1.com:8000/live/2020/2020/1223.ts
+#EXTINF:-1,FR_NICKELODEON_HD
+http://www.q7t1.com:8000/live/2020/2020/881.ts
+#EXTINF:-1,FR_CINE_EMOTION_HD
+http://www.q7t1.com:8000/live/2020/2020/884.ts
+#EXTINF:-1,FR_CARTOON_NETWORK_HD
+http://www.q7t1.com:8000/live/2020/2020/218.ts
+#EXTINF:-1,FR_SFR_SPORT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/112.ts
+#EXTINF:-1,FR_SFR_SPORT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/846.ts
+#EXTINF:-1,FR_SFR_SPORT_3_HD
+http://www.q7t1.com:8000/live/2020/2020/723.ts
+#EXTINF:-1,FR_CANAL+_SPORT_HD
+http://www.q7t1.com:8000/live/2020/2020/205.ts
+#EXTINF:-1,FR_BEIN_SPORTS_1_HD
+http://www.q7t1.com:8000/live/2020/2020/199.ts
+#EXTINF:-1,FR_BEIN_SPORTS_2_HD
+http://www.q7t1.com:8000/live/2020/2020/200.ts
+#EXTINF:-1,FR_BEIN_SPORTS_3_HD
+http://www.q7t1.com:8000/live/2020/2020/594.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_1_HD_FR
+http://www.q7t1.com:8000/live/2020/2020/1196.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_2_HD_FR
+http://www.q7t1.com:8000/live/2020/2020/1133.ts
+#EXTINF:-1,LOW_BEIN_SPORTS_3_HD_FR
+http://www.q7t1.com:8000/live/2020/2020/1267.ts
+#EXTINF:-1,FR_BEIN_SPORT_MAX_4
+http://www.q7t1.com:8000/live/2020/2020/1269.ts
+#EXTINF:-1,FR_BEIN_SPORT_MAX_5
+http://www.q7t1.com:8000/live/2020/2020/1268.ts
+#EXTINF:-1,FR_BEIN_SPORT_MAX_6
+http://www.q7t1.com:8000/live/2020/2020/233.ts
+#EXTINF:-1,FR_BEIN_SPORT_MAX_7
+http://www.q7t1.com:8000/live/2020/2020/232.ts
+#EXTINF:-1,FR_BEIN_SPORT_MAX_8
+http://www.q7t1.com:8000/live/2020/2020/1232.ts
+#EXTINF:-1,FR_EUROSPORT_1
+http://www.q7t1.com:8000/live/2020/2020/206.ts
+#EXTINF:-1,FR_EUROSPORT_2
+http://www.q7t1.com:8000/live/2020/2020/1256.ts
+#EXTINF:-1,FR_FOOT+_24
+http://www.q7t1.com:8000/live/2020/2020/883.ts
+#EXTINF:-1,FR_SPORT+
+http://www.q7t1.com:8000/live/2020/2020/167.ts
+#EXTINF:-1,FR_OL_TV
+http://www.q7t1.com:8000/live/2020/2020/844.ts
+#EXTINF:-1,FR_INFOSPORT+
+http://www.q7t1.com:8000/live/2020/2020/879.ts
+#EXTINF:-1,FR_L_EQUIPE_21
+http://www.q7t1.com:8000/live/2020/2020/102.ts
+#EXTINF:-1,FR_EQUIDIA_LIVE
+http://www.q7t1.com:8000/live/2020/2020/170.ts
+#EXTINF:-1,FR_PLANETE+_HD
+http://www.q7t1.com:8000/live/2020/2020/221.ts
+#EXTINF:-1,FR_PLANETE+_CI
+http://www.q7t1.com:8000/live/2020/2020/222.ts
+#EXTINF:-1,FR_PLANETE_AE_HD
+http://www.q7t1.com:8000/live/2020/2020/230.ts
+#EXTINF:-1,FR_NATIONAL_GEO_HD
+http://www.q7t1.com:8000/live/2020/2020/239.ts
+#EXTINF:-1,FR_NATIONAL_GEO_WILD_HD
+http://www.q7t1.com:8000/live/2020/2020/217.ts
+#EXTINF:-1,FR_USHUAIA_TV_HD
+http://www.q7t1.com:8000/live/2020/2020/223.ts
+#EXTINF:-1,FR_DISCOVERY_SCIENCES_HD
+http://www.q7t1.com:8000/live/2020/2020/76.ts
+#EXTINF:-1,FR_VOYAGE_HD
+http://www.q7t1.com:8000/live/2020/2020/84.ts
+#EXTINF:-1,FR_ANIMAUX_HD
+http://www.q7t1.com:8000/live/2020/2020/865.ts
+#EXTINF:-1,FR_CHASSE_ET_PECHE
+http://www.q7t1.com:8000/live/2020/2020/860.ts
+#EXTINF:-1,FR_SCIENCES_VIE_TV
+http://www.q7t1.com:8000/live/2020/2020/1220.ts
+#EXTINF:-1,FR_RMC_DECOUVERTE
+http://www.q7t1.com:8000/live/2020/2020/83.ts
+#EXTINF:-1,FR_AB_MOTEUR_HD
+http://www.q7t1.com:8000/live/2020/2020/1195.ts
+#EXTINF:-1,FR_RTS_LA_UNE_HD
+http://www.q7t1.com:8000/live/2020/2020/124.ts
+#EXTINF:-1,FR_RTS_LA_DEUX_HD
+http://www.q7t1.com:8000/live/2020/2020/121.ts
+#EXTINF:-1,FR_RTS_2_HD
+http://www.q7t1.com:8000/live/2020/2020/138.ts
+#EXTINF:-1,FR_TV5_MONDE
+http://www.q7t1.com:8000/live/2020/2020/1218.ts
+#EXTINF:-1,FR_TOUTE_L_HISTOIRE
+http://www.q7t1.com:8000/live/2020/2020/880.ts
+#EXTINF:-1,FR_PARAMOUNT_CHANNEL_HD
+http://www.q7t1.com:8000/live/2020/2020/1194.ts
+#EXTINF:-1,FR_EURO_NEWS
+http://www.q7t1.com:8000/live/2020/2020/864.ts
+#EXTINF:-1,FR_BFM_BUSNESS
+http://www.q7t1.com:8000/live/2020/2020/219.ts
+#EXTINF:-1,FR_CHERIE_25
+http://www.q7t1.com:8000/live/2020/2020/169.ts
+#EXTINF:-1,FR_NRJ
+http://www.q7t1.com:8000/live/2020/2020/220.ts
+#EXTINF:-1,FR_VH1
+http://www.q7t1.com:8000/live/2020/2020/109.ts
+#EXTINF:-1,FR_MTV_HITS
+http://www.q7t1.com:8000/live/2020/2020/103.ts
+#EXTINF:-1,FR_M6_MUSIC
+http://www.q7t1.com:8000/live/2020/2020/160.ts
+#EXTINF:-1,FR_MTV_DANCE_FR
+http://www.q7t1.com:8000/live/2020/2020/85.ts
+#EXTINF:-1,FR_CANAL_PLAY_1
+http://www.q7t1.com:8000/live/2020/2020/1266.ts
+#EXTINF:-1,FR_CANAL_PLAY_2
+http://www.q7t1.com:8000/live/2020/2020/1265.ts
+#EXTINF:-1,FR_CANAL_PLAY_3
+http://www.q7t1.com:8000/live/2020/2020/1264.ts
+#EXTINF:-1,FR_CANAL_PLAY_4
+http://www.q7t1.com:8000/live/2020/2020/1263.ts
+#EXTINF:-1,FR_CANAL_PLAY_5
+http://www.q7t1.com:8000/live/2020/2020/1262.ts
+#EXTINF:-1,FR_CANAL_PLAY_6
+http://www.q7t1.com:8000/live/2020/2020/1261.ts
+#EXTINF:-1,FR_CANAL_PLAY_7
+http://www.q7t1.com:8000/live/2020/2020/1260.ts
+#EXTINF:-1,FR_CANAL_PLAY_8
+http://www.q7t1.com:8000/live/2020/2020/1259.ts
+#EXTINF:-1,FR_CANAL_PLAY_9
+http://www.q7t1.com:8000/live/2020/2020/1258.ts
+#EXTINF:-1,FR_CANAL_PLAY_10
+http://www.q7t1.com:8000/live/2020/2020/1257.ts
+#EXTINF:-1,IT_RAI_1_HD
+http://www.q7t1.com:8000/live/2020/2020/274.ts
+#EXTINF:-1,IT_RAI_2_HD
+http://www.q7t1.com:8000/live/2020/2020/275.ts
+#EXTINF:-1,IT_RAI_3_HD
+http://www.q7t1.com:8000/live/2020/2020/276.ts
+#EXTINF:-1,IT_RAI_4_HD
+http://www.q7t1.com:8000/live/2020/2020/1292.ts
+#EXTINF:-1,IT_RAI_5_HD
+http://www.q7t1.com:8000/live/2020/2020/1308.ts
+#EXTINF:-1,IT_RAI_YOYO
+http://www.q7t1.com:8000/live/2020/2020/1329.ts
+#EXTINF:-1,IT_RAI_SCUOLA
+http://www.q7t1.com:8000/live/2020/2020/1809.ts
+#EXTINF:-1,IT_RAI_PREMIUM
+http://www.q7t1.com:8000/live/2020/2020/1297.ts
+#EXTINF:-1,IT_RAI_MOVIE
+http://www.q7t1.com:8000/live/2020/2020/1807.ts
+#EXTINF:-1,IT_RAI_NEW_24
+http://www.q7t1.com:8000/live/2020/2020/296.ts
+#EXTINF:-1,IT_RAI_GULP
+http://www.q7t1.com:8000/live/2020/2020/1298.ts
+#EXTINF:-1,IT_RAI_SPORT_1
+http://www.q7t1.com:8000/live/2020/2020/277.ts
+#EXTINF:-1,IT_RAI_SPORT_2
+http://www.q7t1.com:8000/live/2020/2020/295.ts
+#EXTINF:-1,IT_TV_2000
+http://www.q7t1.com:8000/live/2020/2020/257.ts
+#EXTINF:-1,IT_CANALE_7
+http://www.q7t1.com:8000/live/2020/2020/1810.ts
+#EXTINF:-1,IT_CANALE_5
+http://www.q7t1.com:8000/live/2020/2020/242.ts
+#EXTINF:-1,IT_LA_5
+http://www.q7t1.com:8000/live/2020/2020/1301.ts
+#EXTINF:-1,IT_IRIS
+http://www.q7t1.com:8000/live/2020/2020/1015.ts
+#EXTINF:-1,IT_LA_7D
+http://www.q7t1.com:8000/live/2020/2020/1018.ts
+#EXTINF:-1,IT_RSI_LA_1_HD
+http://www.q7t1.com:8000/live/2020/2020/920.ts
+#EXTINF:-1,IT_RSI_LA_2_HD
+http://www.q7t1.com:8000/live/2020/2020/921.ts
+#EXTINF:-1,IT_ITALIA_1_HD
+http://www.q7t1.com:8000/live/2020/2020/241.ts
+#EXTINF:-1,IT_SKY_SPORT_24_HD
+http://www.q7t1.com:8000/live/2020/2020/278.ts
+#EXTINF:-1,IT_SKY_SPORT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/298.ts
+#EXTINF:-1,IT_SKY_SPORT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/299.ts
+#EXTINF:-1,IT_ SKY_ SPORT_ 3 _HD
+http://www.q7t1.com:8000/live/2020/2020/264.ts
+#EXTINF:-1,IT_SKY_SPORTS_F1_HD
+http://www.q7t1.com:8000/live/2020/2020/294.ts
+#EXTINF:-1,IT_FOX_SPORTS_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1312.ts
+#EXTINF:-1,IT_SKY_SPORT_MOTO_GP_HD
+http://www.q7t1.com:8000/live/2020/2020/284.ts
+#EXTINF:-1,IT_SUPER_TENNIS_HD
+http://www.q7t1.com:8000/live/2020/2020/1313.ts
+#EXTINF:-1,IT_EUROSPORT_HD
+http://www.q7t1.com:8000/live/2020/2020/300.ts
+#EXTINF:-1,IT_EUROSPORT_2
+http://www.q7t1.com:8000/live/2020/2020/1311.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_HD
+http://www.q7t1.com:8000/live/2020/2020/247.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_2
+http://www.q7t1.com:8000/live/2020/2020/1293.ts
+#EXTINF:-1,IT_PREMIUM_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/248.ts
+#EXTINF:-1,IT_PREMIUM_ACTION_HD
+http://www.q7t1.com:8000/live/2020/2020/243.ts
+#EXTINF:-1,IT_PREMIUM_CRIME_HD
+http://www.q7t1.com:8000/live/2020/2020/249.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_EMOTION_HD
+http://www.q7t1.com:8000/live/2020/2020/253.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_ENERGY_HD
+http://www.q7t1.com:8000/live/2020/2020/254.ts
+#EXTINF:-1,IT_PREMIUM_JOY
+http://www.q7t1.com:8000/live/2020/2020/256.ts
+#EXTINF:-1,IT_PREMIUM_ACTION_+24
+http://www.q7t1.com:8000/live/2020/2020/1804.ts
+#EXTINF:-1,IT_PREMIUM_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/1805.ts
+#EXTINF:-1,IT_PREMIUM_CRIME_ 24
+http://www.q7t1.com:8000/live/2020/2020/1806.ts
+#EXTINF:-1,IT_SKY_CINEMA_1_HD
+http://www.q7t1.com:8000/live/2020/2020/286.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA+_24_HD
+http://www.q7t1.com:8000/live/2020/2020/285.ts
+#EXTINF:-1,IT_SKY_CINEMA_HITS_HD
+http://www.q7t1.com:8000/live/2020/2020/291.ts
+#EXTINF:-1,IT_SKY_CINEMA_PASSION_HD
+http://www.q7t1.com:8000/live/2020/2020/293.ts
+#EXTINF:-1,IT_SKY _CINEMA _FAMILY
+http://www.q7t1.com:8000/live/2020/2020/290.ts
+#EXTINF:-1,IT_SKY_CINEMA_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/289.ts
+#EXTINF:-1,IT_SKY_CINEMA_MAX_HD
+http://www.q7t1.com:8000/live/2020/2020/292.ts
+#EXTINF:-1,IT_SKY_CINEMA_CULT_HD
+http://www.q7t1.com:8000/live/2020/2020/288.ts
+#EXTINF:-1,IT_SKY_CALCIO_1_HD
+http://www.q7t1.com:8000/live/2020/2020/956.ts
+#EXTINF:-1,IT_SKY_CALCIO_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1811.ts
+#EXTINF:-1,IT_SKY_CALCIO_3_HD
+http://www.q7t1.com:8000/live/2020/2020/954.ts
+#EXTINF:-1,IT_SUPER_CALCIO_HD
+http://www.q7t1.com:8000/live/2020/2020/1314.ts
+#EXTINF:-1,IT_PREMIUM_SPORT_HD
+http://www.q7t1.com:8000/live/2020/2020/933.ts
+#EXTINF:-1,IT_PREMIUM_CALCIO_1_HD
+http://www.q7t1.com:8000/live/2020/2020/301.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_2_+24
+http://www.q7t1.com:8000/live/2020/2020/1328.ts
+#EXTINF:-1,IT_PREMIUM_CALCIO_HD
+http://www.q7t1.com:8000/live/2020/2020/1332.ts
+#EXTINF:-1,IT_PREMIUM_CALCIO_3
+http://www.q7t1.com:8000/live/2020/2020/932.ts
+#EXTINF:-1,IT_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/1808.ts
+#EXTINF:-1,IT_PREMIUM_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/2020/2020/1336.ts
+#EXTINF:-1,IT_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/960.ts
+#EXTINF:-1,IT_DISCOVERY_TRAVEL
+http://www.q7t1.com:8000/live/2020/2020/958.ts
+#EXTINF:-1,IT_PREMIUM_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/1337.ts
+#EXTINF:-1,IT_PESCA_E_CACCIA
+http://www.q7t1.com:8000/live/2020/2020/1326.ts
+#EXTINF:-1,IT_NATIONALGEO_WILD_HD
+http://www.q7t1.com:8000/live/2020/2020/1317.ts
+#EXTINF:-1,IT_NATIONALGEO_PEOPLE_HD
+http://www.q7t1.com:8000/live/2020/2020/1316.ts
+#EXTINF:-1,IT_SKY_HISTORY_HD
+http://www.q7t1.com:8000/live/2020/2020/1322.ts
+#EXTINF:-1,IT_JUVENTUS_TV
+http://www.q7t1.com:8000/live/2020/2020/1321.ts
+#EXTINF:-1,IT_DISCOVERY_SCI
+http://www.q7t1.com:8000/live/2020/2020/955.ts
+#EXTINF:-1,IT_NATIONALGEO_HD
+http://www.q7t1.com:8000/live/2020/2020/297.ts
+#EXTINF:-1,IT_DISCOVERY_HD
+http://www.q7t1.com:8000/live/2020/2020/957.ts
+#EXTINF:-1,IT_STUDIO_UNIVERSAL
+http://www.q7t1.com:8000/live/2020/2020/1327.ts
+#EXTINF:-1,IT_CARTOONITO
+http://www.q7t1.com:8000/live/2020/2020/1323.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_24
+http://www.q7t1.com:8000/live/2020/2020/1343.ts
+#EXTINF:-1,IT_PREMIUM_DISCOVERY_WORLD_HD
+http://www.q7t1.com:8000/live/2020/2020/1344.ts
+#EXTINF:-1,IT_DISNEY_XD
+http://www.q7t1.com:8000/live/2020/2020/1342.ts
+#EXTINF:-1,IT_IT_PREMIUM_STORIES
+http://www.q7t1.com:8000/live/2020/2020/1319.ts
+#EXTINF:-1,IT_DMAX_HD
+http://www.q7t1.com:8000/live/2020/2020/1318.ts
+#EXTINF:-1,IT_EURONEWS
+http://www.q7t1.com:8000/live/2020/2020/1302.ts
+#EXTINF:-1,IT_SKY_TG_24_HD
+http://www.q7t1.com:8000/live/2020/2020/1002.ts
+#EXTINF:-1,IT_SKY_UNO_HD
+http://www.q7t1.com:8000/live/2020/2020/303.ts
+#EXTINF:-1,IT_SKY_ATLANTIC_HD
+http://www.q7t1.com:8000/live/2020/2020/280.ts
+#EXTINF:-1,IT_SKY_CIELO
+http://www.q7t1.com:8000/live/2020/2020/929.ts
+#EXTINF:-1,IT_FOX_HD
+http://www.q7t1.com:8000/live/2020/2020/263.ts
+#EXTINF:-1,IT_FOX_LIFE_HD
+http://www.q7t1.com:8000/live/2020/2020/935.ts
+#EXTINF:-1,IT_TG_COM_24
+http://www.q7t1.com:8000/live/2020/2020/240.ts
+#EXTINF:-1,IT_SKY_AXN_HD
+http://www.q7t1.com:8000/live/2020/2020/261.ts
+#EXTINF:-1,IT_FOX_CRIME_HD
+http://www.q7t1.com:8000/live/2020/2020/940.ts
+#EXTINF:-1,IT_SPORT_ITALIA
+http://www.q7t1.com:8000/live/2020/2020/1016.ts
+#EXTINF:-1,IT_MEDIASET_EXTRA
+http://www.q7t1.com:8000/live/2020/2020/1017.ts
+#EXTINF:-1,IT_ANIMAL_PLANET
+http://www.q7t1.com:8000/live/2020/2020/941.ts
+#EXTINF:-1,IT_SKY_FOX_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/283.ts
+#EXTINF:-1,IT_PRIMAFILA_1_HD
+http://www.q7t1.com:8000/live/2020/2020/259.ts
+#EXTINF:-1,IT_PRIMAFILA_2_HD
+http://www.q7t1.com:8000/live/2020/2020/266.ts
+#EXTINF:-1,IT_PRIMAFILA_3_HD
+http://www.q7t1.com:8000/live/2020/2020/267.ts
+#EXTINF:-1,IT_PRIMAFILA_4_HD
+http://www.q7t1.com:8000/live/2020/2020/268.ts
+#EXTINF:-1,IT_PRIMAFILA_5_HD
+http://www.q7t1.com:8000/live/2020/2020/269.ts
+#EXTINF:-1,IT_PRIMAFILA_6_HD
+http://www.q7t1.com:8000/live/2020/2020/270.ts
+#EXTINF:-1,IT_PRIMAFILA_7_HD
+http://www.q7t1.com:8000/live/2020/2020/271.ts
+#EXTINF:-1,IT_PRIMAFILA_8_HD
+http://www.q7t1.com:8000/live/2020/2020/272.ts
+#EXTINF:-1,IT_PRIMAFILA_9_HD
+http://www.q7t1.com:8000/live/2020/2020/273.ts
+#EXTINF:-1,IT_PRIMAFILA_10_HD
+http://www.q7t1.com:8000/live/2020/2020/260.ts
+#EXTINF:-1,IT_PRIMAFILA_11
+http://www.q7t1.com:8000/live/2020/2020/1010.ts
+#EXTINF:-1,IT_PRIMAFILA_12
+http://www.q7t1.com:8000/live/2020/2020/1011.ts
+#EXTINF:-1,IT_PRIMAFILA_13_HD
+http://www.q7t1.com:8000/live/2020/2020/1012.ts
+#EXTINF:-1,IT_PRIMAFILA_14
+http://www.q7t1.com:8000/live/2020/2020/1013.ts
+#EXTINF:-1,IT_PRIMAFILA_15
+http://www.q7t1.com:8000/live/2020/2020/1014.ts
+#EXTINF:-1,DE_13TH_STREET
+http://www.q7t1.com:8000/live/2020/2020/991.ts
+#EXTINF:-1,DE_A_E
+http://www.q7t1.com:8000/live/2020/2020/1005.ts
+#EXTINF:-1,DE_3SAT
+http://www.q7t1.com:8000/live/2020/2020/1006.ts
+#EXTINF:-1,DE_ARD
+http://www.q7t1.com:8000/live/2020/2020/1004.ts
+#EXTINF:-1,DE_ORF2
+http://www.q7t1.com:8000/live/2020/2020/748.ts
+#EXTINF:-1,DE_ORF_EINS
+http://www.q7t1.com:8000/live/2020/2020/747.ts
+#EXTINF:-1,DE_ARTE
+http://www.q7t1.com:8000/live/2020/2020/1026.ts
+#EXTINF:-1,DE_WDR
+http://www.q7t1.com:8000/live/2020/2020/934.ts
+#EXTINF:-1,DE_SWR
+http://www.q7t1.com:8000/live/2020/2020/1243.ts
+#EXTINF:-1,DE_VOX
+http://www.q7t1.com:8000/live/2020/2020/1033.ts
+#EXTINF:-1,DE_PRO_7
+http://www.q7t1.com:8000/live/2020/2020/750.ts
+#EXTINF:-1,DE_PRO_7_MAX
+http://www.q7t1.com:8000/live/2020/2020/751.ts
+#EXTINF:-1,DE_SRF_1
+http://www.q7t1.com:8000/live/2020/2020/1273.ts
+#EXTINF:-1,DE_SRF_2
+http://www.q7t1.com:8000/live/2020/2020/1272.ts
+#EXTINF:-1,DE_SAT_1
+http://www.q7t1.com:8000/live/2020/2020/753.ts
+#EXTINF:-1,DE_SAT_1_GOLD
+http://www.q7t1.com:8000/live/2020/2020/754.ts
+#EXTINF:-1,DE_SRF_INFO
+http://www.q7t1.com:8000/live/2020/2020/762.ts
+#EXTINF:-1,DE_ZDF_NEO
+http://www.q7t1.com:8000/live/2020/2020/47.ts
+#EXTINF:-1,DE_ZDF_HD
+http://www.q7t1.com:8000/live/2020/2020/1001.ts
+#EXTINF:-1,DE_ZDF_KULTUR
+http://www.q7t1.com:8000/live/2020/2020/59.ts
+#EXTINF:-1,DE_ROMANCE_TV
+http://www.q7t1.com:8000/live/2020/2020/1009.ts
+#EXTINF:-1,DE_SKY_SPORT_NEWS_HD
+http://www.q7t1.com:8000/live/2020/2020/1020.ts
+#EXTINF:-1,DE_EINS_FESTIVAL
+http://www.q7t1.com:8000/live/2020/2020/990.ts
+#EXTINF:-1,DE_DELUXE_MUSIC
+http://www.q7t1.com:8000/live/2020/2020/1019.ts
+#EXTINF:-1,DE_SPIEGEL_GESCHICHTE
+http://www.q7t1.com:8000/live/2020/2020/1027.ts
+#EXTINF:-1,DE_SERVUS_TV
+http://www.q7t1.com:8000/live/2020/2020/755.ts
+#EXTINF:-1,DE_RBB_BERLIN
+http://www.q7t1.com:8000/live/2020/2020/752.ts
+#EXTINF:-1,DE_PHOENIX
+http://www.q7t1.com:8000/live/2020/2020/749.ts
+#EXTINF:-1,DE_NDR
+http://www.q7t1.com:8000/live/2020/2020/743.ts
+#EXTINF:-1,DE_N24
+http://www.q7t1.com:8000/live/2020/2020/740.ts
+#EXTINF:-1,DE_MDR
+http://www.q7t1.com:8000/live/2020/2020/737.ts
+#EXTINF:-1,DE_KIKA
+http://www.q7t1.com:8000/live/2020/2020/736.ts
+#EXTINF:-1,DE_HALLE_TV
+http://www.q7t1.com:8000/live/2020/2020/731.ts
+#EXTINF:-1,DE_HEIMAT_KANAL
+http://www.q7t1.com:8000/live/2020/2020/730.ts
+#EXTINF:-1,DE_KABEL_EINS
+http://www.q7t1.com:8000/live/2020/2020/734.ts
+#EXTINF:-1,DE_HR
+http://www.q7t1.com:8000/live/2020/2020/733.ts
+#EXTINF:-1,DE_TAGESSCHAU_24
+http://www.q7t1.com:8000/live/2020/2020/1228.ts
+#EXTINF:-1,DE_TELE_ZURI
+http://www.q7t1.com:8000/live/2020/2020/302.ts
+#EXTINF:-1,DE_EURONEWS
+http://www.q7t1.com:8000/live/2020/2020/1003.ts
+#EXTINF:-1,DE_EINS_PLUS
+http://www.q7t1.com:8000/live/2020/2020/996.ts
+#EXTINF:-1,DE_VIVA_COMEDY_CENTRAL
+http://www.q7t1.com:8000/live/2020/2020/938.ts
+#EXTINF:-1,DE_SIXX
+http://www.q7t1.com:8000/live/2020/2020/756.ts
+#EXTINF:-1,DE_MGM_HD
+http://www.q7t1.com:8000/live/2020/2020/739.ts
+#EXTINF:-1,DE_DMAX
+http://www.q7t1.com:8000/live/2020/2020/974.ts
+#EXTINF:-1,DE_AXN
+http://www.q7t1.com:8000/live/2020/2020/993.ts
+#EXTINF:-1,DE_SYFY
+http://www.q7t1.com:8000/live/2020/2020/1029.ts
+#EXTINF:-1,DE_FOX
+http://www.q7t1.com:8000/live/2020/2020/1000.ts
+#EXTINF:-1,DE_FOX_LIFE
+http://www.q7t1.com:8000/live/2020/2020/729.ts
+#EXTINF:-1,DE_TNT_FILM
+http://www.q7t1.com:8000/live/2020/2020/1030.ts
+#EXTINF:-1,DE_TNT_SERIE
+http://www.q7t1.com:8000/live/2020/2020/1031.ts
+#EXTINF:-1,DE_RTL_HD
+http://www.q7t1.com:8000/live/2020/2020/1032.ts
+#EXTINF:-1,DE_RTL_2
+http://www.q7t1.com:8000/live/2020/2020/989.ts
+#EXTINF:-1,DE_RTL_NITRO
+http://www.q7t1.com:8000/live/2020/2020/1021.ts
+#EXTINF:-1,DE_RTL_PASSION
+http://www.q7t1.com:8000/live/2020/2020/1008.ts
+#EXTINF:-1,DE_SUPER_RTL
+http://www.q7t1.com:8000/live/2020/2020/1028.ts
+#EXTINF:-1,DE_SKY_3D
+http://www.q7t1.com:8000/live/2020/2020/757.ts
+#EXTINF:-1,DE_SKY_CINEMA_HD
+http://www.q7t1.com:8000/live/2020/2020/1280.ts
+#EXTINF:-1,DE_SKY_CINEMA
+http://www.q7t1.com:8000/live/2020/2020/975.ts
+#EXTINF:-1,DE_SKY_CINEMA_HD_1
+http://www.q7t1.com:8000/live/2020/2020/976.ts
+#EXTINF:-1,DE_SKY_EMOTION_HD
+http://www.q7t1.com:8000/live/2020/2020/979.ts
+#EXTINF:-1,DE_SKY_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/978.ts
+#EXTINF:-1,DE_SKY_ACTION_HD
+http://www.q7t1.com:8000/live/2020/2020/973.ts
+#EXTINF:-1,DE_SKY_CINEMA_24_HD
+http://www.q7t1.com:8000/live/2020/2020/977.ts
+#EXTINF:-1,DE_SKY_ATLANTIC_HD
+http://www.q7t1.com:8000/live/2020/2020/1022.ts
+#EXTINF:-1,DE_SKY_HITS
+http://www.q7t1.com:8000/live/2020/2020/760.ts
+#EXTINF:-1,DE_SKY_FAMALY_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/759.ts
+#EXTINF:-1,DE_SKY_KRIMI
+http://www.q7t1.com:8000/live/2020/2020/1024.ts
+#EXTINF:-1,DE_SKY_BUNDESLIGA_1
+http://www.q7t1.com:8000/live/2020/2020/1023.ts
+#EXTINF:-1,DE_SKY_CHAMPIONS
+http://www.q7t1.com:8000/live/2020/2020/758.ts
+#EXTINF:-1,DE_EUROSPORT
+http://www.q7t1.com:8000/live/2020/2020/728.ts
+#EXTINF:-1,DE_SPORT1
+http://www.q7t1.com:8000/live/2020/2020/761.ts
+#EXTINF:-1,DE_SPORTTIME_TV_1_HD
+http://www.q7t1.com:8000/live/2020/2020/982.ts
+#EXTINF:-1,DE_SPORTTIME_TV_2_HD
+http://www.q7t1.com:8000/live/2020/2020/983.ts
+#EXTINF:-1,DE_SPORTTIME_TV_3_HD
+http://www.q7t1.com:8000/live/2020/2020/984.ts
+#EXTINF:-1,DE_SPORTTIME_TV_4_HD
+http://www.q7t1.com:8000/live/2020/2020/985.ts
+#EXTINF:-1,DE_SPORTTIME_TV_5_HD
+http://www.q7t1.com:8000/live/2020/2020/986.ts
+#EXTINF:-1,DE_SPORTTIME_TV_6_HD
+http://www.q7t1.com:8000/live/2020/2020/987.ts
+#EXTINF:-1,DE_SPORTTIME_TV_7_HD
+http://www.q7t1.com:8000/live/2020/2020/988.ts
+#EXTINF:-1,DE_SKY_SPORT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/981.ts
+#EXTINF:-1,DE_SKY_SPORT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/980.ts
+#EXTINF:-1,DE_NAT_GEO_WILD
+http://www.q7t1.com:8000/live/2020/2020/992.ts
+#EXTINF:-1,DE_DISCOVERY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/997.ts
+#EXTINF:-1,DE_NATIONAL_GEOGRAPHIC_HD
+http://www.q7t1.com:8000/live/2020/2020/1007.ts
+#EXTINF:-1,DE_HISTORY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/732.ts
+#EXTINF:-1,DE_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/2020/2020/995.ts
+#EXTINF:-1,DE_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/998.ts
+#EXTINF:-1,DE_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/999.ts
+#EXTINF:-1,DE_ORF_1
+http://www.q7t1.com:8000/live/2020/2020/746.ts
+#EXTINF:-1,DE_BOOMERANG
+http://www.q7t1.com:8000/live/2020/2020/994.ts
+#EXTINF:-1,DE_SKY_SELECT_HD
+http://www.q7t1.com:8000/live/2020/2020/972.ts
+#EXTINF:-1,DE_SKY_SELECT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/962.ts
+#EXTINF:-1,DE_SKY_SELECT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/963.ts
+#EXTINF:-1,DE_SKY_SELECT_3_HD
+http://www.q7t1.com:8000/live/2020/2020/964.ts
+#EXTINF:-1,DE_SKY_SELECT_4_HD
+http://www.q7t1.com:8000/live/2020/2020/965.ts
+#EXTINF:-1,DE_SKY_SELECT_5_HD
+http://www.q7t1.com:8000/live/2020/2020/966.ts
+#EXTINF:-1,DE_SKY_SELECT_6_HD
+http://www.q7t1.com:8000/live/2020/2020/967.ts
+#EXTINF:-1,DE_SKY_SELECT_7_HD
+http://www.q7t1.com:8000/live/2020/2020/968.ts
+#EXTINF:-1,DE_SKY_SELECT_8_HD
+http://www.q7t1.com:8000/live/2020/2020/969.ts
+#EXTINF:-1,DE_SKY_SELECT_9_HD
+http://www.q7t1.com:8000/live/2020/2020/970.ts
+#EXTINF:-1,UK_MOTORS_TV
+http://www.q7t1.com:8000/live/2020/2020/1711.ts
+#EXTINF:-1,UK_EUROSPORT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1050.ts
+#EXTINF:-1,UK_EUROSPORT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1113.ts
+#EXTINF:-1,UK_SKY_SPORT_F1
+http://www.q7t1.com:8000/live/2020/2020/1039.ts
+#EXTINF:-1,UK_SKY_SPORTS_NEWS_HD
+http://www.q7t1.com:8000/live/2020/2020/1112.ts
+#EXTINF:-1,UK_SKY_SPORT_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1104.ts
+#EXTINF:-1,UK_SKY_SPORTS_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1044.ts
+#EXTINF:-1,UK_SKY_SPORTS_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1043.ts
+#EXTINF:-1,UK_SKY_SPORTS_3_HD
+http://www.q7t1.com:8000/live/2020/2020/1042.ts
+#EXTINF:-1,UK_SKY_SPORTS_4_HD
+http://www.q7t1.com:8000/live/2020/2020/1041.ts
+#EXTINF:-1,UK_SKY_SPORTS_5_HD
+http://www.q7t1.com:8000/live/2020/2020/1040.ts
+#EXTINF:-1,UK_SKY_SPORT_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1097.ts
+#EXTINF:-1,UK_SKY_SPORT_3_HD
+http://www.q7t1.com:8000/live/2020/2020/1096.ts
+#EXTINF:-1,UK_SKY_SPORT_4_HD
+http://www.q7t1.com:8000/live/2020/2020/1094.ts
+#EXTINF:-1,UK_SKY_SPORT_5_HD
+http://www.q7t1.com:8000/live/2020/2020/1093.ts
+#EXTINF:-1,UK_SPORT_TIME_1_HD
+http://www.q7t1.com:8000/live/2020/2020/3944.ts
+#EXTINF:-1,UK_SPORT_TIME_3_HD
+http://www.q7t1.com:8000/live/2020/2020/3945.ts
+#EXTINF:-1,UK_SPORT_KLUB_1
+http://www.q7t1.com:8000/live/2020/2020/3946.ts
+#EXTINF:-1,UK_SPORT_KLUB_3
+http://www.q7t1.com:8000/live/2020/2020/3947.ts
+#EXTINF:-1,UK_BT_SPORT_1
+http://www.q7t1.com:8000/live/2020/2020/1118.ts
+#EXTINF:-1,UK_BT_SPORT_2
+http://www.q7t1.com:8000/live/2020/2020/1117.ts
+#EXTINF:-1,UK_SKY_ONE
+http://www.q7t1.com:8000/live/2020/2020/1095.ts
+#EXTINF:-1,UK_SKY_DRAMA_HD
+http://www.q7t1.com:8000/live/2020/2020/1055.ts
+#EXTINF:-1,UK_SKY_ART_1
+http://www.q7t1.com:8000/live/2020/2020/1075.ts
+#EXTINF:-1,UK_SKY_MOVIES_DISNEY
+http://www.q7t1.com:8000/live/2020/2020/1056.ts
+#EXTINF:-1,UK_SKY_MOVIES_SELECT_HD
+http://www.q7t1.com:8000/live/2020/2020/1114.ts
+#EXTINF:-1,UK_SKY_MOVIES_PREMIERE_HD
+http://www.q7t1.com:8000/live/2020/2020/1054.ts
+#EXTINF:-1,UK_SKY_MOVIES_MODEM_GREATS
+http://www.q7t1.com:8000/live/2020/2020/1045.ts
+#EXTINF:-1,UK_SKY_MOVIES_COMEDY_HD
+http://www.q7t1.com:8000/live/2020/2020/1038.ts
+#EXTINF:-1,UK_SKY_MOVIES_ACTION_HD
+http://www.q7t1.com:8000/live/2020/2020/1035.ts
+#EXTINF:-1,UK_SKY_MOVIES_ATLANTIC_HD
+http://www.q7t1.com:8000/live/2020/2020/1115.ts
+#EXTINF:-1,UK_SKY_MOVIES_SHOWCASE
+http://www.q7t1.com:8000/live/2020/2020/1062.ts
+#EXTINF:-1,UK_SKY_MOVIES_THRILLER
+http://www.q7t1.com:8000/live/2020/2020/1061.ts
+#EXTINF:-1,UK_SKY_MOVIES_SCI_FI
+http://www.q7t1.com:8000/live/2020/2020/1105.ts
+#EXTINF:-1,UK_MOVIES_FAMILY
+http://www.q7t1.com:8000/live/2020/2020/1064.ts
+#EXTINF:-1,UK_MOVIES_4_MEN
+http://www.q7t1.com:8000/live/2020/2020/1107.ts
+#EXTINF:-1,UK_FILM_4
+http://www.q7t1.com:8000/live/2020/2020/1714.ts
+#EXTINF:-1,UK_CTH_STADIUM_1
+http://www.q7t1.com:8000/live/2020/2020/1087.ts
+#EXTINF:-1,UK_CTH_STADIUM_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1086.ts
+#EXTINF:-1,UK_CTH_STADIUM_3_HD
+http://www.q7t1.com:8000/live/2020/2020/1069.ts
+#EXTINF:-1,UK_CTH_STADIUM_4_HD
+http://www.q7t1.com:8000/live/2020/2020/1070.ts
+#EXTINF:-1,UK_CTH_STADIUM_5
+http://www.q7t1.com:8000/live/2020/2020/1085.ts
+#EXTINF:-1,UK_CTH_STADIUM_6
+http://www.q7t1.com:8000/live/2020/2020/1100.ts
+#EXTINF:-1,UK_BBC_1
+http://www.q7t1.com:8000/live/2020/2020/1081.ts
+#EXTINF:-1,UK_BBC_2
+http://www.q7t1.com:8000/live/2020/2020/1080.ts
+#EXTINF:-1,UK_BBC_3
+http://www.q7t1.com:8000/live/2020/2020/1079.ts
+#EXTINF:-1,UK_BBC_4
+http://www.q7t1.com:8000/live/2020/2020/1078.ts
+#EXTINF:-1,UK_RTE_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1710.ts
+#EXTINF:-1,UK_RTE_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1709.ts
+#EXTINF:-1,UK_ITV_1_HD
+http://www.q7t1.com:8000/live/2020/2020/1099.ts
+#EXTINF:-1,UK_ITV_2_HD
+http://www.q7t1.com:8000/live/2020/2020/1098.ts
+#EXTINF:-1,UK_ITV_3
+http://www.q7t1.com:8000/live/2020/2020/1719.ts
+#EXTINF:-1,UK_ITV_4
+http://www.q7t1.com:8000/live/2020/2020/1718.ts
+#EXTINF:-1,UK_GOLD
+http://www.q7t1.com:8000/live/2020/2020/1712.ts
+#EXTINF:-1,UK_GOOD_FOOD
+http://www.q7t1.com:8000/live/2020/2020/1713.ts
+#EXTINF:-1,UK_CBS_DRAMA
+http://www.q7t1.com:8000/live/2020/2020/1108.ts
+#EXTINF:-1,UK_CBS_REALITY
+http://www.q7t1.com:8000/live/2020/2020/1715.ts
+#EXTINF:-1,UK_CBS_ACTION
+http://www.q7t1.com:8000/live/2020/2020/1716.ts
+#EXTINF:-1,UK_MTV_HITS
+http://www.q7t1.com:8000/live/2020/2020/1083.ts
+#EXTINF:-1,UK_MTV_MUSIC
+http://www.q7t1.com:8000/live/2020/2020/1084.ts
+#EXTINF:-1,UK_MTV_ROCKS
+http://www.q7t1.com:8000/live/2020/2020/1077.ts
+#EXTINF:-1,UK_NICK_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/1101.ts
+#EXTINF:-1,UK_DISNEY_XD
+http://www.q7t1.com:8000/live/2020/2020/1090.ts
+#EXTINF:-1,UK_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/1088.ts
+#EXTINF:-1,UK_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/1111.ts
+#EXTINF:-1,UK_DISCOVERY_ID
+http://www.q7t1.com:8000/live/2020/2020/1089.ts
+#EXTINF:-1,UK_DISCOVERY
+http://www.q7t1.com:8000/live/2020/2020/1046.ts
+#EXTINF:-1,UK_DISCOVERY_SCIENCE
+http://www.q7t1.com:8000/live/2020/2020/1103.ts
+#EXTINF:-1,UK_DISCOVERY_TURBO
+http://www.q7t1.com:8000/live/2020/2020/1058.ts
+#EXTINF:-1,UK_DISCOVERY_INVESTIGATION
+http://www.q7t1.com:8000/live/2020/2020/1037.ts
+#EXTINF:-1,UK_DISCOVERY_HOME_HEALTH
+http://www.q7t1.com:8000/live/2020/2020/1063.ts
+#EXTINF:-1,UK_DISCOVERY_HISTORY
+http://www.q7t1.com:8000/live/2020/2020/1076.ts
+#EXTINF:-1,UK_HISTORY
+http://www.q7t1.com:8000/live/2020/2020/1071.ts
+#EXTINF:-1,UK_ANIMAL_PLANET
+http://www.q7t1.com:8000/live/2020/2020/1082.ts
+#EXTINF:-1,UK_NATIONAL_GEOGRAPHY_WILD
+http://www.q7t1.com:8000/live/2020/2020/1102.ts
+#EXTINF:-1,UK_COMEDY_CENTRAL
+http://www.q7t1.com:8000/live/2020/2020/1065.ts
+#EXTINF:-1,UK_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/2020/2020/1092.ts
+#EXTINF:-1,UK_COLORS
+http://www.q7t1.com:8000/live/2020/2020/1091.ts
+#EXTINF:-1,UK_FIVE
+http://www.q7t1.com:8000/live/2020/2020/1106.ts
+#EXTINF:-1,UK_CHELSEA_TV
+http://www.q7t1.com:8000/live/2020/2020/1074.ts
+#EXTINF:-1,UK_BOXNATION_HD
+http://www.q7t1.com:8000/live/2020/2020/1717.ts
+#EXTINF:-1,UK_ESPN_HD
+http://www.q7t1.com:8000/live/2020/2020/1059.ts
+#EXTINF:-1,ES_SYFY
+http://www.q7t1.com:8000/live/2020/2020/842.ts
+#EXTINF:-1,ES_CANAL+_SERIES
+http://www.q7t1.com:8000/live/2020/2020/885.ts
+#EXTINF:-1,ES_ANTENA_3_HD
+http://www.q7t1.com:8000/live/2020/2020/502.ts
+#EXTINF:-1,ES_EUROSPORT_1
+http://www.q7t1.com:8000/live/2020/2020/855.ts
+#EXTINF:-1,ES_TELECINCO
+http://www.q7t1.com:8000/live/2020/2020/508.ts
+#EXTINF:-1,ES_LA_SEXTATA
+http://www.q7t1.com:8000/live/2020/2020/790.ts
+#EXTINF:-1,ES_CLAN_TVE
+http://www.q7t1.com:8000/live/2020/2020/849.ts
+#EXTINF:-1,ES_NOVA_SPAIN
+http://www.q7t1.com:8000/live/2020/2020/788.ts
+#EXTINF:-1,ES_NICKELODEON
+http://www.q7t1.com:8000/live/2020/2020/797.ts
+#EXTINF:-1,ES_NEOX
+http://www.q7t1.com:8000/live/2020/2020/839.ts
+#EXTINF:-1,ES_SERIES_EXTRA
+http://www.q7t1.com:8000/live/2020/2020/840.ts
+#EXTINF:-1,ES_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/2020/2020/784.ts
+#EXTINF:-1,ES_AMC
+http://www.q7t1.com:8000/live/2020/2020/1775.ts
+#EXTINF:-1,ES_EURO_NEWS
+http://www.q7t1.com:8000/live/2020/2020/1773.ts
+#EXTINF:-1,ES_DISNEY_JR
+http://www.q7t1.com:8000/live/2020/2020/1772.ts
+#EXTINF:-1,ES_PANDA
+http://www.q7t1.com:8000/live/2020/2020/843.ts
+#EXTINF:-1,ES_CANAL+_GOLF
+http://www.q7t1.com:8000/live/2020/2020/738.ts
+#EXTINF:-1,ES_DISCOVERY
+http://www.q7t1.com:8000/live/2020/2020/742.ts
+#EXTINF:-1,ES_FDF_SPAIN
+http://www.q7t1.com:8000/live/2020/2020/801.ts
+#EXTINF:-1,ES_DISNEY_XD
+http://www.q7t1.com:8000/live/2020/2020/741.ts
+#EXTINF:-1,ES_MEGA
+http://www.q7t1.com:8000/live/2020/2020/764.ts
+#EXTINF:-1,ES_40_TV
+http://www.q7t1.com:8000/live/2020/2020/763.ts
+#EXTINF:-1,ES_MOVIESTAR_MOTOGP
+http://www.q7t1.com:8000/live/2020/2020/765.ts
+#EXTINF:-1,ES_MTV_ROCKS
+http://www.q7t1.com:8000/live/2020/2020/1776.ts
+#EXTINF:-1,ES_NICK_JR
+http://www.q7t1.com:8000/live/2020/2020/1777.ts
+#EXTINF:-1,ES_CANAL+_HD
+http://www.q7t1.com:8000/live/2020/2020/766.ts
+#EXTINF:-1,ES_CANAL+_1
+http://www.q7t1.com:8000/live/2020/2020/787.ts
+#EXTINF:-1,ES_CANAL_2
+http://www.q7t1.com:8000/live/2020/2020/745.ts
+#EXTINF:-1,ES_CANAL+_ESTRENOS HD
+http://www.q7t1.com:8000/live/2020/2020/776.ts
+#EXTINF:-1,ES_CANAL+_DCINE
+http://www.q7t1.com:8000/live/2020/2020/785.ts
+#EXTINF:-1,ES_CANAL+_COMEDIA
+http://www.q7t1.com:8000/live/2020/2020/792.ts
+#EXTINF:-1,ES_CANAL_ACTION
+http://www.q7t1.com:8000/live/2020/2020/791.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://www.q7t1.com:8000/live/2020/2020/799.ts
+#EXTINF:-1,ES_#0
+http://www.q7t1.com:8000/live/2020/2020/794.ts
+#EXTINF:-1,ES_TNT_ES
+http://www.q7t1.com:8000/live/2020/2020/847.ts
+#EXTINF:-1,ES_HOLLYWOOD
+http://www.q7t1.com:8000/live/2020/2020/802.ts
+#EXTINF:-1,ES_LA_RED_EN_VIVO
+http://www.q7t1.com:8000/live/2020/2020/1397.ts
+#EXTINF:-1,ES_FOX_LIFE
+http://www.q7t1.com:8000/live/2020/2020/789.ts
+#EXTINF:-1,ES_CALLE_13
+http://www.q7t1.com:8000/live/2020/2020/1400.ts
+#EXTINF:-1,ES_AXN
+http://www.q7t1.com:8000/live/2020/2020/778.ts
+#EXTINF:-1,ES_TVE_LA_2
+http://www.q7t1.com:8000/live/2020/2020/3934.ts
+#EXTINF:-1,ES_AXN_WHITE
+http://www.q7t1.com:8000/live/2020/2020/777.ts
+#EXTINF:-1,ES_FOX
+http://www.q7t1.com:8000/live/2020/2020/856.ts
+#EXTINF:-1,ES_TVE_LA_1
+http://www.q7t1.com:8000/live/2020/2020/3932.ts
+#EXTINF:-1,ES_CANAL+_LIGA_HD
+http://www.q7t1.com:8000/live/2020/2020/795.ts
+#EXTINF:-1,ES_CANAL+_FUTBOL
+http://www.q7t1.com:8000/live/2020/2020/793.ts
+#EXTINF:-1,ES_C+_DEPORTES
+http://www.q7t1.com:8000/live/2020/2020/504.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://www.q7t1.com:8000/live/2020/2020/851.ts
+#EXTINF:-1,ES_BARCA_TV
+http://www.q7t1.com:8000/live/2020/2020/775.ts
+#EXTINF:-1,ES_TELEDEPORTE
+http://www.q7t1.com:8000/live/2020/2020/848.ts
+#EXTINF:-1,ES_CANAL+_TOROS
+http://www.q7t1.com:8000/live/2020/2020/796.ts
+#EXTINF:-1,ES_A_E_SPAIN
+http://www.q7t1.com:8000/live/2020/2020/779.ts
+#EXTINF:-1,ES_NATIONAL_GEO
+http://www.q7t1.com:8000/live/2020/2020/804.ts
+#EXTINF:-1,ES_CANAL_DEPORTES_2
+http://www.q7t1.com:8000/live/2020/2020/3935.ts
+#EXTINF:-1,ES_NATIONAL_GEO_WILD
+http://www.q7t1.com:8000/live/2020/2020/836.ts
+#EXTINF:-1,ES_CANAL_DEPORTES
+http://www.q7t1.com:8000/live/2020/2020/3937.ts
+#EXTINF:-1,ES_BEIN_SPORTS
+http://www.q7t1.com:8000/live/2020/2020/3938.ts
+#EXTINF:-1,ES_CUATRO
+http://www.q7t1.com:8000/live/2020/2020/837.ts
+#EXTINF:-1,ES_HISTORIA
+http://www.q7t1.com:8000/live/2020/2020/841.ts
+#EXTINF:-1,ES_CANAL+_SERIES_XTRA
+http://www.q7t1.com:8000/live/2020/2020/850.ts
+#EXTINF:-1,ES_CAZA_Y_PESCA
+http://www.q7t1.com:8000/live/2020/2020/857.ts
+#EXTINF:-1,ES_BOING
+http://www.q7t1.com:8000/live/2020/2020/774.ts
+#EXTINF:-1,ES_LA_1
+http://www.q7t1.com:8000/live/2020/2020/816.ts
+#EXTINF:-1,ES_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/2020/2020/817.ts
+#EXTINF:-1,ES_CANAL+_XTRA
+http://www.q7t1.com:8000/live/2020/2020/1419.ts
+#EXTINF:-1,ES_MOVIESTAR_F1
+http://www.q7t1.com:8000/live/2020/2020/803.ts
+#EXTINF:-1,ES_LA_2
+http://www.q7t1.com:8000/live/2020/2020/800.ts
+#EXTINF:-1,ES_TAQUILLA_1
+http://www.q7t1.com:8000/live/2020/2020/890.ts
+#EXTINF:-1,ES_TAQUILLA_2
+http://www.q7t1.com:8000/live/2020/2020/423.ts
+#EXTINF:-1,ES_TAQUILLA_3
+http://www.q7t1.com:8000/live/2020/2020/282.ts
+#EXTINF:-1,ES_TAQUILLA_4
+http://www.q7t1.com:8000/live/2020/2020/265.ts
+#EXTINF:-1,ES_TAQUILLA_5
+http://www.q7t1.com:8000/live/2020/2020/904.ts
+#EXTINF:-1,ES_TAQUILLA_6
+http://www.q7t1.com:8000/live/2020/2020/858.ts
+#EXTINF:-1,ES_TAQUILLA_7
+http://www.q7t1.com:8000/live/2020/2020/854.ts
+#EXTINF:-1,ES_EUROSPORT_2
+http://www.q7t1.com:8000/live/2020/2020/852.ts
+#EXTINF:-1,ADULTRI_1
+http://www.q7t1.com:8000/live/2020/2020/811.ts
+#EXTINF:-1,ADULTRI_2
+http://www.q7t1.com:8000/live/2020/2020/812.ts
+#EXTINF:-1,ADULTRI_3
+http://www.q7t1.com:8000/live/2020/2020/813.ts
+#EXTINF:-1,ADULTRI_4
+http://www.q7t1.com:8000/live/2020/2020/814.ts
+#EXTINF:-1,ADULTRI_5
+http://www.q7t1.com:8000/live/2020/2020/783.ts
+#EXTINF:-1,ADULTRI_6
+http://www.q7t1.com:8000/live/2020/2020/782.ts
+#EXTINF:-1,ADULTRI_8
+http://www.q7t1.com:8000/live/2020/2020/773.ts
+#EXTINF:-1,ADULTRI_9
+http://www.q7t1.com:8000/live/2020/2020/772.ts
+#EXTINF:-1,ADULTRI_10
+http://www.q7t1.com:8000/live/2020/2020/771.ts
+#EXTINF:-1,ADULTRI_11
+http://www.q7t1.com:8000/live/2020/2020/770.ts
+#EXTINF:-1,ADULTRI_12
+http://www.q7t1.com:8000/live/2020/2020/906.ts
+#EXTINF:-1,ADULTRI_13
+http://www.q7t1.com:8000/live/2020/2020/907.ts
+#EXTINF:-1,ADULTRI_14
+http://www.q7t1.com:8000/live/2020/2020/908.ts
+#EXTINF:-1,ADULTRI_15
+http://www.q7t1.com:8000/live/2020/2020/1197.ts
+#EXTINF:-1,ADULTRI_16
+http://www.q7t1.com:8000/live/2020/2020/1198.ts
+#EXTINF:-1,ADULTRI_17
+http://www.q7t1.com:8000/live/2020/2020/1199.ts
+#EXTINF:-1,ADULTRI_18
+http://www.q7t1.com:8000/live/2020/2020/1200.ts
+#EXTINF:-1,ADULTRI_19
+http://www.q7t1.com:8000/live/2020/2020/1201.ts
+#EXTINF:-1,ADULTRI_20
+http://www.q7t1.com:8000/live/2020/2020/1202.ts
+#EXTINF:-1,ADULTRI_21
+http://www.q7t1.com:8000/live/2020/2020/1203.ts
+#EXTINF:-1,ADULTRI_22
+http://www.q7t1.com:8000/live/2020/2020/1204.ts
+#EXTINF:-1,ADULTRI_23
+http://www.q7t1.com:8000/live/2020/2020/1205.ts
+#EXTINF:-1,ADULTRI_24
+http://www.q7t1.com:8000/live/2020/2020/1206.ts
+#EXTINF:-1,ADULTRI_25
+http://www.q7t1.com:8000/live/2020/2020/1345.ts
+#EXTINF:-1,ADULTRI_26
+http://www.q7t1.com:8000/live/2020/2020/1346.ts
+#EXTINF:-1,ADULTRI_27
+http://www.q7t1.com:8000/live/2020/2020/1347.ts
+#EXTINF:-1,ADULTRI_28
+http://www.q7t1.com:8000/live/2020/2020/1271.ts
