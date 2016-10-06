@@ -1,2137 +1,2003 @@
 #EXTM3U
-#EXTINF:-1,BEIN_SPORTS_1_HD_AR
-http://185.2.83.34:8000/live/elf/elf/186.ts
-#EXTINF:-1,BEIN_SPORTS_2_HD_AR
-http://185.2.83.34:8000/live/elf/elf/188.ts
-#EXTINF:-1,BEIN_SPORTS_3_HD_AR
-http://185.2.83.34:8000/live/elf/elf/189.ts
-#EXTINF:-1,BEIN_SPORTS_4_HD_AR
-http://185.2.83.34:8000/live/elf/elf/266.ts
-#EXTINF:-1,BEIN_SPORTS_5_HD_AR
-http://185.2.83.34:8000/live/elf/elf/267.ts
-#EXTINF:-1,BEIN_SPORTS_6_HD_AR
-http://185.2.83.34:8000/live/elf/elf/268.ts
-#EXTINF:-1,BEIN_SPORTS_HD7_AR
-http://185.2.83.34:8000/live/elf/elf/7.ts
-#EXTINF:-1,BEIN_SPORTS_HD8_AR
-http://185.2.83.34:8000/live/elf/elf/8.ts
-#EXTINF:-1,BEIN_SPORTS_HD9_AR
-http://185.2.83.34:8000/live/elf/elf/9.ts
-#EXTINF:-1,BEIN_SPORTS_HD10_AR
-http://185.2.83.34:8000/live/elf/elf/10.ts
-#EXTINF:-1,BEINSPORT_NEWS_ARABIC
-http://185.2.83.34:8000/live/elf/elf/685.ts
-#EXTINF:-1,BEINSPORT1_SD
-http://185.2.83.34:8000/live/elf/elf/388.ts
-#EXTINF:-1,BEINSPORT_2SD
-http://185.2.83.34:8000/live/elf/elf/389.ts
-#EXTINF:-1,BEINSPORT_3SD
-http://185.2.83.34:8000/live/elf/elf/390.ts
-#EXTINF:-1,BEINSPORT_4SD
-http://185.2.83.34:8000/live/elf/elf/391.ts
-#EXTINF:-1,BEINSPORT_5SD
-http://185.2.83.34:8000/live/elf/elf/392.ts
-#EXTINF:-1,BEINSPORT_6SD
-http://185.2.83.34:8000/live/elf/elf/393.ts
-#EXTINF:-1,BEINSPORT_7SD
-http://185.2.83.34:8000/live/elf/elf/394.ts
-#EXTINF:-1,BEINSPORT_8SD
-http://185.2.83.34:8000/live/elf/elf/395.ts
-#EXTINF:-1,BEINSPORT9_SD
-http://185.2.83.34:8000/live/elf/elf/396.ts
-#EXTINF:-1,BEINSPORT_10SD
-http://185.2.83.34:8000/live/elf/elf/397.ts
-#EXTINF:-1,====BEINSPORT====
-http://185.2.83.34:8000/live/elf/elf/1739.ts
-#EXTINF:-1,BEIN_MOVIES_1_HD
-http://185.2.83.34:8000/live/elf/elf/2773.ts
-#EXTINF:-1,BEIN_MOVIES_2_HD
-http://185.2.83.34:8000/live/elf/elf/2776.ts
-#EXTINF:-1,BEIN_MOVIES_3_HD
-http://185.2.83.34:8000/live/elf/elf/2777.ts
-#EXTINF:-1,BEIN_MOVIES_4_HD
-http://185.2.83.34:8000/live/elf/elf/2778.ts
-#EXTINF:-1,BEIN AMC MOVIES
-http://185.2.83.34:8000/live/elf/elf/2893.ts
-#EXTINF:-1,BEIN_FATAFEAT_HD
-http://185.2.83.34:8000/live/elf/elf/2780.ts
-#EXTINF:-1,BEIN STAR WORLD
-http://185.2.83.34:8000/live/elf/elf/2866.ts
-#EXTINF:-1,BEIN_DREAMWORKS_HD
-http://185.2.83.34:8000/live/elf/elf/2779.ts
-#EXTINF:-1,BEIN_JEEM
-http://185.2.83.34:8000/live/elf/elf/2775.ts
-#EXTINF:-1,BEIN_BARRAEM
-http://185.2.83.34:8000/live/elf/elf/2774.ts
-#EXTINF:-1,BEIN DISCOVERY LIFE
-http://185.2.83.34:8000/live/elf/elf/2892.ts
-#EXTINF:-1,BEIN_SPORTS_1_HDS
-http://185.2.83.34:8000/live/elf/elf/2788.ts
-#EXTINF:-1,BEIN_SPORTS_2_HDS
-http://185.2.83.34:8000/live/elf/elf/2789.ts
-#EXTINF:-1,BEIN_SPORTS_3_HDS
-http://185.2.83.34:8000/live/elf/elf/2790.ts
-#EXTINF:-1,BEIN_SPORTS_4_HDS
-http://185.2.83.34:8000/live/elf/elf/2839.ts
-#EXTINF:-1,BEIN_SPORTS_5_HDS
-http://185.2.83.34:8000/live/elf/elf/2840.ts
-#EXTINF:-1,BEIN_SPORTS_6_HDS
-http://185.2.83.34:8000/live/elf/elf/2841.ts
-#EXTINF:-1,BEIN_SPORTS_7_HDS
-http://185.2.83.34:8000/live/elf/elf/2889.ts
-#EXTINF:-1,BEIN_SPORTS_8_HDS
-http://185.2.83.34:8000/live/elf/elf/2890.ts
-#EXTINF:-1,BEIN_SPORTS_9_HDS
-http://185.2.83.34:8000/live/elf/elf/2891.ts
-#EXTINF:-1,beINSPORT11_HD
-http://185.2.83.34:8000/live/elf/elf/1798.ts
-#EXTINF:-1,beINSPORT12_HD
-http://185.2.83.34:8000/live/elf/elf/1799.ts
-#EXTINF:-1,OSN_Abu-Dhabi-Sports_3HD
-http://185.2.83.34:8000/live/elf/elf/2546.ts
-#EXTINF:-1,OSN_Discovery_Science_HD
-http://185.2.83.34:8000/live/elf/elf/2544.ts
-#EXTINF:-1,OSN_Animal-Planet_HD
-http://185.2.83.34:8000/live/elf/elf/2545.ts
-#EXTINF:-1,OSN_FOX_ACTION_Channel
-http://185.2.83.34:8000/live/elf/elf/1748.ts
-#EXTINF:-1,OSN_FOX_FAMILY_Channel
-http://185.2.83.34:8000/live/elf/elf/2543.ts
-#EXTINF:-1,OSN_MBC_P_Variety_HD
-http://185.2.83.34:8000/live/elf/elf/2547.ts
-#EXTINF:-1,OSN_ON_DEMAND_EXTRA
-http://185.2.83.34:8000/live/elf/elf/2883.ts
-#EXTINF:-1,OSN_MOVIES_HD
-http://185.2.83.34:8000/live/elf/elf/2881.ts
-#EXTINF:-1,OSN_Movies_Box_Office_3
-http://185.2.83.34:8000/live/elf/elf/2887.ts
-#EXTINF:-1,OSN_Movies_Box_Office_2
-http://185.2.83.34:8000/live/elf/elf/2886.ts
-#EXTINF:-1,OSN_Movies_Box_Office_1
-http://185.2.83.34:8000/live/elf/elf/2885.ts
-#EXTINF:-1,OSN_MOVIES_ACTION_2 HD
-http://185.2.83.34:8000/live/elf/elf/2882.ts
-#EXTINF:-1,OSN Movies Festilval HD
-http://185.2.83.34:8000/live/elf/elf/2884.ts
-#EXTINF:-1,====ARAB NILESAT====
-http://185.2.83.34:8000/live/elf/elf/1734.ts
-#EXTINF:-1,AL OULA MAROC
-http://185.2.83.34:8000/live/elf/elf/32.ts
-#EXTINF:-1,2M MAROC
-http://185.2.83.34:8000/live/elf/elf/31.ts
-#EXTINF:-1,AR: Medi1 TV
-http://185.2.83.34:8000/live/elf/elf/931.ts
-#EXTINF:-1,AL OULA LAAYOUNE
-http://185.2.83.34:8000/live/elf/elf/666.ts
-#EXTINF:-1,ARRIADIA MAROC
-http://185.2.83.34:8000/live/elf/elf/33.ts
-#EXTINF:-1,ARRABIA MAROC
-http://185.2.83.34:8000/live/elf/elf/34.ts
-#EXTINF:-1,ALMAGHRIBIA MAROC
-http://185.2.83.34:8000/live/elf/elf/35.ts
-#EXTINF:-1,ASSADISA
-http://185.2.83.34:8000/live/elf/elf/415.ts
-#EXTINF:-1,AR ALGERIE  Tamazight
-http://185.2.83.34:8000/live/elf/elf/941.ts
-#EXTINF:-1,AL ARABIYA
-http://185.2.83.34:8000/live/elf/elf/402.ts
-#EXTINF:-1,AL ARABIYA ALHADATH
-http://185.2.83.34:8000/live/elf/elf/404.ts
-#EXTINF:-1,France24 ARABIC
-http://185.2.83.34:8000/live/elf/elf/405.ts
-#EXTINF:-1,France24 FR
-http://185.2.83.34:8000/live/elf/elf/403.ts
-#EXTINF:-1,Al JAZEERA ARABIC
-http://185.2.83.34:8000/live/elf/elf/398.ts
-#EXTINF:-1,BBC ARABIC
-http://185.2.83.34:8000/live/elf/elf/660.ts
-#EXTINF:-1,Al JAZEERA DOCUMENTARY
-http://185.2.83.34:8000/live/elf/elf/399.ts
-#EXTINF:-1,Al JAZEERA MUBASHER
-http://185.2.83.34:8000/live/elf/elf/401.ts
-#EXTINF:-1,Al JAZEERA ENGLISH
-http://185.2.83.34:8000/live/elf/elf/400.ts
-#EXTINF:-1,DW ARABIC
-http://185.2.83.34:8000/live/elf/elf/2838.ts
-#EXTINF:-1,SKY NEWS ARABIC
-http://185.2.83.34:8000/live/elf/elf/411.ts
-#EXTINF:-1,ART HEKAYAT ZAMANE
-http://185.2.83.34:8000/live/elf/elf/21.ts
-#EXTINF:-1,ART HEKAYAT 2
-http://185.2.83.34:8000/live/elf/elf/22.ts
-#EXTINF:-1,ART CINEMA
-http://185.2.83.34:8000/live/elf/elf/20.ts
-#EXTINF:-1,ART AFLAM 1
-http://185.2.83.34:8000/live/elf/elf/18.ts
-#EXTINF:-1,ART AFLAM 2
-http://185.2.83.34:8000/live/elf/elf/19.ts
-#EXTINF:-1,AR Zaytoona - AR Zaytoona
-http://185.2.83.34:8000/live/elf/elf/2033.ts
-#EXTINF:-1,AR_Wesal
-http://185.2.83.34:8000/live/elf/elf/2398.ts
-#EXTINF:-1,AR TV Coran
-http://185.2.83.34:8000/live/elf/elf/2027.ts
-#EXTINF:-1,AR Tunisna
-http://185.2.83.34:8000/live/elf/elf/2029.ts
-#EXTINF:-1,AR Tunisia National 2 - AR Tunisia National 2
-http://185.2.83.34:8000/live/elf/elf/2038.ts
-#EXTINF:-1,AR Tunisia National 1 - AR Tunisia National 1
-http://185.2.83.34:8000/live/elf/elf/2037.ts
-#EXTINF:-1,Abu_Dhabi_Sports_1HD
-http://185.2.83.34:8000/live/elf/elf/579.ts
-#EXTINF:-1,ARABIC_MEKAMILIN
-http://185.2.83.34:8000/live/elf/elf/2888.ts
-#EXTINF:-1,AR Top Cinema
-http://185.2.83.34:8000/live/elf/elf/2280.ts
-#EXTINF:-1,AR Tok Tok Cinema
-http://185.2.83.34:8000/live/elf/elf/2077.ts
-#EXTINF:-1,AR Tok Tok Aflam
-http://185.2.83.34:8000/live/elf/elf/2076.ts
-#EXTINF:-1,AR Time Quran
-http://185.2.83.34:8000/live/elf/elf/2279.ts
-#EXTINF:-1,AR Time Film
-http://185.2.83.34:8000/live/elf/elf/2278.ts
-#EXTINF:-1,AR_Time_Comedy
-http://185.2.83.34:8000/live/elf/elf/2446.ts
-#EXTINF:-1,AR Time Cinema
-http://185.2.83.34:8000/live/elf/elf/2277.ts
-#EXTINF:-1,AR Ten
-http://185.2.83.34:8000/live/elf/elf/2069.ts
-#EXTINF:-1,AR_Tayba_TV
-http://185.2.83.34:8000/live/elf/elf/2337.ts
-#EXTINF:-1,AR_Talaqie
-http://185.2.83.34:8000/live/elf/elf/2325.ts
-#EXTINF:-1,AR_Syria_Education
-http://185.2.83.34:8000/live/elf/elf/2313.ts
-#EXTINF:-1,AR_Syria_Drama
-http://185.2.83.34:8000/live/elf/elf/2312.ts
-#EXTINF:-1,AR Star Cinema 2
-http://185.2.83.34:8000/live/elf/elf/2075.ts
-#EXTINF:-1,AR Star Cinema 1
-http://185.2.83.34:8000/live/elf/elf/2074.ts
-#EXTINF:-1,AR_Semsem
-http://185.2.83.34:8000/live/elf/elf/2393.ts
-#EXTINF:-1,AR Saudi Sunnah - AR Saudi Sunnah
-http://185.2.83.34:8000/live/elf/elf/2046.ts
-#EXTINF:-1,AR Saudi Quran - AR Saudi Quran
-http://185.2.83.34:8000/live/elf/elf/2045.ts
-#EXTINF:-1,AR_Saudi_Channel2
-http://185.2.83.34:8000/live/elf/elf/2324.ts
-#EXTINF:-1,AR_Saudi_Anti
-http://185.2.83.34:8000/live/elf/elf/2323.ts
-#EXTINF:-1,AR_Saudi24
-http://185.2.83.34:8000/live/elf/elf/2322.ts
-#EXTINF:-1,AR_Saudi1
-http://185.2.83.34:8000/live/elf/elf/2321.ts
-#EXTINF:-1,AR_Sat_7Plus
-http://185.2.83.34:8000/live/elf/elf/2362.ts
-#EXTINF:-1,AR_Sat_7Kids
-http://185.2.83.34:8000/live/elf/elf/2363.ts
-#EXTINF:-1,AR_Sat7
-http://185.2.83.34:8000/live/elf/elf/2361.ts
-#EXTINF:-1,AR_Sama_TV
-http://185.2.83.34:8000/live/elf/elf/2317.ts
-#EXTINF:-1,AR_Sama_Dubai
-http://185.2.83.34:8000/live/elf/elf/2458.ts
-#EXTINF:-1,AR_Sadr_Al_Iraq
-http://185.2.83.34:8000/live/elf/elf/2357.ts
-#EXTINF:-1,AR Sada El Balad Drama
-http://185.2.83.34:8000/live/elf/elf/2068.ts
-#EXTINF:-1,AR Sada El Balad
-http://185.2.83.34:8000/live/elf/elf/2067.ts
-#EXTINF:-1,AR Rotana Cinema Ksa
-http://185.2.83.34:8000/live/elf/elf/2026.ts
-#EXTINF:-1,AR Rotana - AR Rotana
-http://185.2.83.34:8000/live/elf/elf/2025.ts
-#EXTINF:-1,AR Resalat Al Islam
-http://185.2.83.34:8000/live/elf/elf/2047.ts
-#EXTINF:-1,AR_Quran_TV
-http://185.2.83.34:8000/live/elf/elf/2441.ts
-#EXTINF:-1,AR_Qatar_Today
-http://185.2.83.34:8000/live/elf/elf/2432.ts
-#EXTINF:-1,AR Otv
-http://185.2.83.34:8000/live/elf/elf/2056.ts
-#EXTINF:-1,AR_Oman_TV
-http://185.2.83.34:8000/live/elf/elf/2400.ts
-#EXTINF:-1,AR_Noursat
-http://185.2.83.34:8000/live/elf/elf/2284.ts
-#EXTINF:-1,AR_Nour_El_Sham
-http://185.2.83.34:8000/live/elf/elf/2302.ts
-#EXTINF:-1,AR_Noor_Dubai
-http://185.2.83.34:8000/live/elf/elf/2457.ts
-#EXTINF:-1,AR_Neelain_Sport
-http://185.2.83.34:8000/live/elf/elf/2450.ts
-#EXTINF:-1,AR_Naba_TV
-http://185.2.83.34:8000/live/elf/elf/2298.ts
-#EXTINF:-1,AR Mtv Lebanon - AR Mtv Lebanon
-http://185.2.83.34:8000/live/elf/elf/2058.ts
-#EXTINF:-1,AR Mta Muslim TV
-http://185.2.83.34:8000/live/elf/elf/2051.ts
-#EXTINF:-1,AR Mta Arabic
-http://185.2.83.34:8000/live/elf/elf/2052.ts
-#EXTINF:-1,AR_Mouritania_TV
-http://185.2.83.34:8000/live/elf/elf/2451.ts
-#EXTINF:-1,AR_Modern_Sport
-http://185.2.83.34:8000/live/elf/elf/2437.ts
-#EXTINF:-1,AR_Misr_Alzera3ia
-http://185.2.83.34:8000/live/elf/elf/2281.ts
-#EXTINF:-1,AR_Menara_TV
-http://185.2.83.34:8000/live/elf/elf/2433.ts
-#EXTINF:-1,AR Mazazikh
-http://185.2.83.34:8000/live/elf/elf/2060.ts
-#EXTINF:-1,AR_Masdar
-http://185.2.83.34:8000/live/elf/elf/2385.ts
-#EXTINF:-1,AR_Majestick_Cinema
-http://185.2.83.34:8000/live/elf/elf/2384.ts
-#EXTINF:-1,AR_Maan_TV
-http://185.2.83.34:8000/live/elf/elf/2310.ts
-#EXTINF:-1,AR_Ltc
-http://185.2.83.34:8000/live/elf/elf/2299.ts
-#EXTINF:-1,AR Ldc - AR Ldc
-http://185.2.83.34:8000/live/elf/elf/2055.ts
-#EXTINF:-1,AR Lbc Libanon - AR Lbc Libanon
-http://185.2.83.34:8000/live/elf/elf/2054.ts
-#EXTINF:-1,AR_Kuwait_Deretna
-http://185.2.83.34:8000/live/elf/elf/2341.ts
-#EXTINF:-1,AR_Kuwait
-http://185.2.83.34:8000/live/elf/elf/2339.ts
-#EXTINF:-1,AR_Ktv_Sport
-http://185.2.83.34:8000/live/elf/elf/2473.ts
-#EXTINF:-1,A_Ktv_2
-http://185.2.83.34:8000/live/elf/elf/2472.ts
-#EXTINF:-1,AR_Ktv_1
-http://185.2.83.34:8000/live/elf/elf/2471.ts
-#EXTINF:-1,AR_Karbala
-http://185.2.83.34:8000/live/elf/elf/2365.ts
-#EXTINF:-1,AR karameesh
-http://185.2.83.34:8000/live/elf/elf/2062.ts
-#EXTINF:-1,AR_Kanal_Hayat
-http://185.2.83.34:8000/live/elf/elf/2364.ts
-#EXTINF:-1,AR_Jordan_TV
-http://185.2.83.34:8000/live/elf/elf/2410.ts
-#EXTINF:-1,AR_Jordan_Sport
-http://185.2.83.34:8000/live/elf/elf/2414.ts
-#EXTINF:-1,AR_Jordan_Manaseer
-http://185.2.83.34:8000/live/elf/elf/2419.ts
-#EXTINF:-1,AR_Jordan_Jood
-http://185.2.83.34:8000/live/elf/elf/2417.ts
-#EXTINF:-1,AR_Jordan_Amen
-http://185.2.83.34:8000/live/elf/elf/2418.ts
-#EXTINF:-1,AR_Jordan_Alwastalbalad
-http://185.2.83.34:8000/live/elf/elf/2420.ts
-#EXTINF:-1,AR Jannah
-http://185.2.83.34:8000/live/elf/elf/2049.ts
-#EXTINF:-1,AR i24 News Arabic
-http://185.2.83.34:8000/live/elf/elf/2043.ts
-#EXTINF:-1,AR_I_Film
-http://185.2.83.34:8000/live/elf/elf/2318.ts
-#EXTINF:-1,AR_Hona_Al_Quds
-http://185.2.83.34:8000/live/elf/elf/2394.ts
-#EXTINF:-1,AR Hod Hod TV
-http://185.2.83.34:8000/live/elf/elf/2061.ts
-#EXTINF:-1,AR Hannibal
-http://185.2.83.34:8000/live/elf/elf/2030.ts
-#EXTINF:-1,AR Future
-http://185.2.83.34:8000/live/elf/elf/2059.ts
-#EXTINF:-1,AR Euronews Arabic
-http://185.2.83.34:8000/live/elf/elf/2041.ts
-#EXTINF:-1,AR Esc
-http://185.2.83.34:8000/live/elf/elf/2063.ts
-#EXTINF:-1,AR_Eladjwaa
-http://185.2.83.34:8000/live/elf/elf/2333.ts
-#EXTINF:-1,AR El Hiwar Ettounsi - AR El Hiwar Ettounsi
-http://185.2.83.34:8000/live/elf/elf/2032.ts
-#EXTINF:-1,AR_El_Heya_TV
-http://185.2.83.34:8000/live/elf/elf/2293.ts
-#EXTINF:-1,AR_Dubai_Zaman
-http://185.2.83.34:8000/live/elf/elf/2459.ts
-#EXTINF:-1,AR_Dubai_Sport_HD
-http://185.2.83.34:8000/live/elf/elf/2463.ts
-#EXTINF:-1,AR_Dubai_Sport_4
-http://185.2.83.34:8000/live/elf/elf/2466.ts
-#EXTINF:-1,AR_Dubai_Sport_3
-http://185.2.83.34:8000/live/elf/elf/2465.ts
-#EXTINF:-1,AR_Dubai_Drama_AR
-http://185.2.83.34:8000/live/elf/elf/2460.ts
-#EXTINF:-1,AR_Dubai_AlOula_HD
-http://185.2.83.34:8000/live/elf/elf/2462.ts
-#EXTINF:-1,AR_Dawan_TV
-http://185.2.83.34:8000/live/elf/elf/2383.ts
-#EXTINF:-1,AR_Daloaa
-http://185.2.83.34:8000/live/elf/elf/2331.ts
-#EXTINF:-1,AR_Cinema_Pro
-http://185.2.83.34:8000/live/elf/elf/2282.ts
-#EXTINF:-1,AR Cbc 2
-http://185.2.83.34:8000/live/elf/elf/2064.ts
-#EXTINF:-1,AR Cairo Drama
-http://185.2.83.34:8000/live/elf/elf/2276.ts
-#EXTINF:-1,AR_Blue_Nile
-http://185.2.83.34:8000/live/elf/elf/2455.ts
-#EXTINF:-1,AR_Belad_Haramen
-http://185.2.83.34:8000/live/elf/elf/2456.ts
-#EXTINF:-1,AR_Bahrain_Quran
-http://185.2.83.34:8000/live/elf/elf/2453.ts
-#EXTINF:-1,AR_Bahia_TV
-http://185.2.83.34:8000/live/elf/elf/2328.ts
-#EXTINF:-1,AR_Baghdad_TV
-http://185.2.83.34:8000/live/elf/elf/2352.ts
-#EXTINF:-1,AR_Azhari
-http://185.2.83.34:8000/live/elf/elf/2405.ts
-#EXTINF:-1,AR Attasia TV - AR Attasia TV
-http://185.2.83.34:8000/live/elf/elf/2031.ts
-#EXTINF:-1,AR_Ashorooq
-http://185.2.83.34:8000/live/elf/elf/2447.ts
-#EXTINF:-1,AR_Arabica
-http://185.2.83.34:8000/live/elf/elf/2343.ts
-#EXTINF:-1,AR_Annajaf
-http://185.2.83.34:8000/live/elf/elf/2439.ts
-#EXTINF:-1,AR_Ann
-http://185.2.83.34:8000/live/elf/elf/2286.ts
-#EXTINF:-1,AR_Althaqafiah
-http://185.2.83.34:8000/live/elf/elf/2452.ts
-#EXTINF:-1,AR Al Zitouna Hedaya - AR Al Zitouna Hedaya
-http://185.2.83.34:8000/live/elf/elf/2034.ts
-#EXTINF:-1,AR_Al_Waad
-http://185.2.83.34:8000/live/elf/elf/2319.ts
-#EXTINF:-1,AR_Al_Thabat
-http://185.2.83.34:8000/live/elf/elf/2347.ts
-#EXTINF:-1,AR_Al_Teeb
-http://185.2.83.34:8000/live/elf/elf/2382.ts
-#EXTINF:-1,AR_Al_Sirat
-http://185.2.83.34:8000/live/elf/elf/2399.ts
-#EXTINF:-1,AR_Al_Sharqia_News_HD
-http://185.2.83.34:8000/live/elf/elf/2360.ts
-#EXTINF:-1,AR_Al_Sharqia_HD
-http://185.2.83.34:8000/live/elf/elf/2358.ts
-#EXTINF:-1,AR_Al_Sharq
-http://185.2.83.34:8000/live/elf/elf/2294.ts
-#EXTINF:-1,AR_Al_Shareyyah
-http://185.2.83.34:8000/live/elf/elf/2335.ts
-#EXTINF:-1,AR_Al_Shallal
-http://185.2.83.34:8000/live/elf/elf/2348.ts
-#EXTINF:-1,AR_Al_Shahed
-http://185.2.83.34:8000/live/elf/elf/2349.ts
-#EXTINF:-1,AR_Al_Shababtv
-http://185.2.83.34:8000/live/elf/elf/2344.ts
-#EXTINF:-1,AR_Al_Sahraa_Aalebel
-http://185.2.83.34:8000/live/elf/elf/2373.ts
-#EXTINF:-1,AR_Al_Rayyan
-http://185.2.83.34:8000/live/elf/elf/2401.ts
-#EXTINF:-1,AR_Al_Rasheed
-http://185.2.83.34:8000/live/elf/elf/2316.ts
-#EXTINF:-1,AR Al Rahma
-http://185.2.83.34:8000/live/elf/elf/2048.ts
-#EXTINF:-1,AR_Al_Quds
-http://185.2.83.34:8000/live/elf/elf/2392.ts
-#EXTINF:-1,AR_Al_Qanat
-http://185.2.83.34:8000/live/elf/elf/2379.ts
-#EXTINF:-1,AR_Al_Qamar
-http://185.2.83.34:8000/live/elf/elf/2376.ts
-#EXTINF:-1,AR Al Omah
-http://185.2.83.34:8000/live/elf/elf/2050.ts
-#EXTINF:-1,AR_Al_Noujaba
-http://185.2.83.34:8000/live/elf/elf/2332.ts
-#EXTINF:-1,AR Al Nahar One
-http://185.2.83.34:8000/live/elf/elf/2070.ts
-#EXTINF:-1,AR Al Nahar Cinema
-http://185.2.83.34:8000/live/elf/elf/2071.ts
-#EXTINF:-1,AR Al Nahar Alyoum
-http://185.2.83.34:8000/live/elf/elf/2072.ts
-#EXTINF:-1,AR_Al_Naeem
-http://185.2.83.34:8000/live/elf/elf/2338.ts
-#EXTINF:-1,AR_Al_Nada
-http://185.2.83.34:8000/live/elf/elf/2377.ts
-#EXTINF:-1,AR_Al_Mustakila
-http://185.2.83.34:8000/live/elf/elf/2329.ts
-#EXTINF:-1,AR_Al_Mergab
-http://185.2.83.34:8000/live/elf/elf/2381.ts
-#EXTINF:-1,AR Al Mayadeen
-http://185.2.83.34:8000/live/elf/elf/2042.ts
-#EXTINF:-1,AR Al Masrawia
-http://185.2.83.34:8000/live/elf/elf/2387.ts
-#EXTINF:-1,AR_Al_Maaref
-http://185.2.83.34:8000/live/elf/elf/2330.ts
-#EXTINF:-1,AR_Al_Kawthar
-http://185.2.83.34:8000/live/elf/elf/2444.ts
-#EXTINF:-1,AR_Al_Karma_TV
-http://185.2.83.34:8000/live/elf/elf/2296.ts
-#EXTINF:-1,AR Al Kahera Wel Nas
-http://185.2.83.34:8000/live/elf/elf/2066.ts
-#EXTINF:-1,AR Al Kahera
-http://185.2.83.34:8000/live/elf/elf/2065.ts
-#EXTINF:-1,AR Al Jazeera HD
-http://185.2.83.34:8000/live/elf/elf/2039.ts
-#EXTINF:-1,AR Al Janoubia - AR Al Janoubia
-http://185.2.83.34:8000/live/elf/elf/2035.ts
-#EXTINF:-1,AR_Al_Itejah
-http://185.2.83.34:8000/live/elf/elf/2327.ts
-#EXTINF:-1,AR_Al_InsenTV
-http://185.2.83.34:8000/live/elf/elf/2295.ts
-#EXTINF:-1,AR Al Hiwar
-http://185.2.83.34:8000/live/elf/elf/2073.ts
-#EXTINF:-1,AR Al Haqiqa
-http://185.2.83.34:8000/live/elf/elf/2053.ts
-#EXTINF:-1,AR_Al_Ghad_Alarbiya
-http://185.2.83.34:8000/live/elf/elf/2283.ts
-#EXTINF:-1,AR_Al_Gamaiya
-http://185.2.83.34:8000/live/elf/elf/2305.ts
-#EXTINF:-1,AR_Al_Forat2
-http://185.2.83.34:8000/live/elf/elf/2351.ts
-#EXTINF:-1,AR_Al_Fayhaa
-http://185.2.83.34:8000/live/elf/elf/2320.ts
-#EXTINF:-1,AR_Al_Eshraq
-http://185.2.83.34:8000/live/elf/elf/2380.ts
-#EXTINF:-1,AR_Al_Embrator_Cinema
-http://185.2.83.34:8000/live/elf/elf/2372.ts
-#EXTINF:-1,AR_Al_Ekhbaria_Al_Soriya
-http://185.2.83.34:8000/live/elf/elf/2315.ts
-#EXTINF:-1,AR_Al_Diyar
-http://185.2.83.34:8000/live/elf/elf/2378.ts
-#EXTINF:-1,AR_Al_Bawadi
-http://185.2.83.34:8000/live/elf/elf/2409.ts
-#EXTINF:-1,AR_Al_Basira_2
-http://185.2.83.34:8000/live/elf/elf/2356.ts
-#EXTINF:-1,AR_Al_Basira
-http://185.2.83.34:8000/live/elf/elf/2355.ts
-#EXTINF:-1,AR_Al_Bait_Baitak_Cinema
-http://185.2.83.34:8000/live/elf/elf/2309.ts
-#EXTINF:-1,AR_Al_Baghdadia
-http://185.2.83.34:8000/live/elf/elf/2353.ts
-#EXTINF:-1,AR_Al_Awhad
-http://185.2.83.34:8000/live/elf/elf/2370.ts
-#EXTINF:-1,AR_Al_Atrja
-http://185.2.83.34:8000/live/elf/elf/2396.ts
-#EXTINF:-1,AR_Al_Asrar_TV
-http://185.2.83.34:8000/live/elf/elf/2297.ts
-#EXTINF:-1,AR_Al_Asr_TV
-http://185.2.83.34:8000/live/elf/elf/2406.ts
-#EXTINF:-1,AR_Al_Araby
-http://185.2.83.34:8000/live/elf/elf/2350.ts
-#EXTINF:-1,AR_Al_Anis_TV
-http://185.2.83.34:8000/live/elf/elf/2340.ts
-#EXTINF:-1,AR Al Alam News Channel
-http://185.2.83.34:8000/live/elf/elf/2040.ts
-#EXTINF:-1,AR_Akh_TV
-http://185.2.83.34:8000/live/elf/elf/2291.ts
-#EXTINF:-1,AR_Ajyal
-http://185.2.83.34:8000/live/elf/elf/2445.ts
-#EXTINF:-1,AR_Ahel_Al_Quran
-http://185.2.83.34:8000/live/elf/elf/2395.ts
-#EXTINF:-1,AR_Aghanina
-http://185.2.83.34:8000/live/elf/elf/2334.ts
-#EXTINF:-1,AR_Aghani
-http://185.2.83.34:8000/live/elf/elf/2287.ts
-#EXTINF:-1,AR_Afrah_TV
-http://185.2.83.34:8000/live/elf/elf/2285.ts
-#EXTINF:-1,AR_Abu_Dhabi_Sport_1
-http://185.2.83.34:8000/live/elf/elf/2469.ts
-#EXTINF:-1,AR_Abalfadhl_Allabas_Tv
-http://185.2.83.34:8000/live/elf/elf/2367.ts
-#EXTINF:-1,AL HURRA
-http://185.2.83.34:8000/live/elf/elf/1913.ts
-#EXTINF:-1,AL AAN TV
-http://185.2.83.34:8000/live/elf/elf/1901.ts
-#EXTINF:-1,AR_MBC1_HD
-http://185.2.83.34:8000/live/elf/elf/2527.ts
-#EXTINF:-1,AR_MBC2_HD
-http://185.2.83.34:8000/live/elf/elf/2528.ts
-#EXTINF:-1,AR_MBC3_HD
-http://185.2.83.34:8000/live/elf/elf/2529.ts
-#EXTINF:-1,AR_MBC_4_HD
-http://185.2.83.34:8000/live/elf/elf/2530.ts
-#EXTINF:-1,AR_MBC_MAX_HD
-http://185.2.83.34:8000/live/elf/elf/2531.ts
-#EXTINF:-1,AR_MBC_DRAMA_HD
-http://185.2.83.34:8000/live/elf/elf/2533.ts
-#EXTINF:-1,AR_MBC_ACTION_HD
-http://185.2.83.34:8000/live/elf/elf/2532.ts
-#EXTINF:-1,AR_MBC_PRO_SPORT_3_HD
-http://185.2.83.34:8000/live/elf/elf/2536.ts
-#EXTINF:-1,AR_MBC_PRO_SPORT_ 2_HD
-http://185.2.83.34:8000/live/elf/elf/2535.ts
-#EXTINF:-1,AR_MBC_PRO_SPORT_1_HD
-http://185.2.83.34:8000/live/elf/elf/2534.ts
-#EXTINF:-1,MBC 1 ARABIC
-http://185.2.83.34:8000/live/elf/elf/24.ts
-#EXTINF:-1,MBC 2 ARABIC
-http://185.2.83.34:8000/live/elf/elf/25.ts
-#EXTINF:-1,MBC 3 ARABIC
-http://185.2.83.34:8000/live/elf/elf/26.ts
-#EXTINF:-1,MBC 4 ARABIC
-http://185.2.83.34:8000/live/elf/elf/27.ts
-#EXTINF:-1,MBC DRAMA ARABIC
-http://185.2.83.34:8000/live/elf/elf/360.ts
-#EXTINF:-1,MBC  MAX ARABIC
-http://185.2.83.34:8000/live/elf/elf/28.ts
-#EXTINF:-1,MBC ACTION ARABIC
-http://185.2.83.34:8000/live/elf/elf/29.ts
-#EXTINF:-1,MBC BOLLYWOOD ARABIC
-http://185.2.83.34:8000/live/elf/elf/30.ts
-#EXTINF:-1,MBC_MASR
-http://185.2.83.34:8000/live/elf/elf/386.ts
-#EXTINF:-1,MBC_MASR2
-http://185.2.83.34:8000/live/elf/elf/385.ts
-#EXTINF:-1,WANASAH
-http://185.2.83.34:8000/live/elf/elf/1902.ts
-#EXTINF:-1,ROTANA_CINEMA
-http://185.2.83.34:8000/live/elf/elf/148.ts
-#EXTINF:-1,ROTANA_MASRIYA
-http://185.2.83.34:8000/live/elf/elf/147.ts
-#EXTINF:-1,ROTANA CLIP ARABIC
-http://185.2.83.34:8000/live/elf/elf/144.ts
-#EXTINF:-1,ROTANA_CLASSIC
-http://185.2.83.34:8000/live/elf/elf/146.ts
-#EXTINF:-1,ROTANA MUSIC ARABIC
-http://185.2.83.34:8000/live/elf/elf/145.ts
-#EXTINF:-1,ROTANA_KHALIJIA
-http://185.2.83.34:8000/live/elf/elf/352.ts
-#EXTINF:-1,AR Panorama film
-http://185.2.83.34:8000/live/elf/elf/1673.ts
-#EXTINF:-1,AR B4U Plus
-http://185.2.83.34:8000/live/elf/elf/1469.ts
-#EXTINF:-1,AR B4U Aflam
-http://185.2.83.34:8000/live/elf/elf/1470.ts
-#EXTINF:-1,ZEE ALWAN
-http://185.2.83.34:8000/live/elf/elf/1903.ts
-#EXTINF:-1,ZEE AFLAM
-http://185.2.83.34:8000/live/elf/elf/1919.ts
-#EXTINF:-1,PSC
-http://185.2.83.34:8000/live/elf/elf/1914.ts
-#EXTINF:-1,PALESTINE TODAY
-http://185.2.83.34:8000/live/elf/elf/1916.ts
-#EXTINF:-1,NILE NEWS
-http://185.2.83.34:8000/live/elf/elf/1900.ts
-#EXTINF:-1,NILE FAMILY
-http://185.2.83.34:8000/live/elf/elf/1893.ts
-#EXTINF:-1,MEHWAR
-http://185.2.83.34:8000/live/elf/elf/1917.ts
-#EXTINF:-1,FUNOON
-http://185.2.83.34:8000/live/elf/elf/1896.ts
-#EXTINF:-1,DREAM 2
-http://185.2.83.34:8000/live/elf/elf/1897.ts
-#EXTINF:-1,CNBC ARABIC
-http://185.2.83.34:8000/live/elf/elf/1912.ts
-#EXTINF:-1,CBC TV
-http://185.2.83.34:8000/live/elf/elf/535.ts
-#EXTINF:-1,CBC Sofra
-http://185.2.83.34:8000/live/elf/elf/536.ts
-#EXTINF:-1,CBC EXtra
-http://185.2.83.34:8000/live/elf/elf/537.ts
-#EXTINF:-1,CBC Drama
-http://185.2.83.34:8000/live/elf/elf/538.ts
-#EXTINF:-1,DUBAI TV
-http://185.2.83.34:8000/live/elf/elf/413.ts
-#EXTINF:-1,DUBAI ONE
-http://185.2.83.34:8000/live/elf/elf/414.ts
-#EXTINF:-1,DUBAI SPORTS
-http://185.2.83.34:8000/live/elf/elf/429.ts
-#EXTINF:-1,SAMA DUBAI
-http://185.2.83.34:8000/live/elf/elf/425.ts
-#EXTINF:-1,ASHARIQAH
-http://185.2.83.34:8000/live/elf/elf/424.ts
-#EXTINF:-1,AR AL Hayat
-http://185.2.83.34:8000/live/elf/elf/1716.ts
-#EXTINF:-1,AR Al Hayat Musalsalat
-http://185.2.83.34:8000/live/elf/elf/1715.ts
-#EXTINF:-1,AR Nile Cinema
-http://185.2.83.34:8000/live/elf/elf/1679.ts
-#EXTINF:-1,AR Nile Comedy
-http://185.2.83.34:8000/live/elf/elf/1678.ts
-#EXTINF:-1,AR Nile Sport
-http://185.2.83.34:8000/live/elf/elf/1677.ts
-#EXTINF:-1,AR Cima
-http://185.2.83.34:8000/live/elf/elf/1686.ts
-#EXTINF:-1,AR.Cairo.Universal
-http://185.2.83.34:8000/live/elf/elf/1689.ts
-#EXTINF:-1,AR Cairo Cinema
-http://185.2.83.34:8000/live/elf/elf/1690.ts
-#EXTINF:-1,AR Bzaf ALGERIE
-http://185.2.83.34:8000/live/elf/elf/1691.ts
-#EXTINF:-1,AR AL Nahar Sport
-http://185.2.83.34:8000/live/elf/elf/1706.ts
-#EXTINF:-1,AR AL Nahar Nour
-http://185.2.83.34:8000/live/elf/elf/1707.ts
-#EXTINF:-1,AR Al Nahar Drama
-http://185.2.83.34:8000/live/elf/elf/1710.ts
-#EXTINF:-1,IQRAA
-http://185.2.83.34:8000/live/elf/elf/430.ts
-#EXTINF:-1,AL RESALAH
-http://185.2.83.34:8000/live/elf/elf/383.ts
-#EXTINF:-1,MEKKA TV
-http://185.2.83.34:8000/live/elf/elf/422.ts
-#EXTINF:-1,AL MAJD QURAN AR
-http://185.2.83.34:8000/live/elf/elf/677.ts
-#EXTINF:-1,AL MAJD ISLAM AR
-http://185.2.83.34:8000/live/elf/elf/676.ts
-#EXTINF:-1,AR Al Majd 3
-http://185.2.83.34:8000/live/elf/elf/1713.ts
-#EXTINF:-1,AR Canal Algerie
-http://185.2.83.34:8000/live/elf/elf/1688.ts
-#EXTINF:-1,ENTV ALGERIE NATIONAL
-http://185.2.83.34:8000/live/elf/elf/36.ts
-#EXTINF:-1,EL CHOUROUK HD ALGERIE
-http://185.2.83.34:8000/live/elf/elf/592.ts
-#EXTINF:-1,ALGERIE3
-http://185.2.83.34:8000/live/elf/elf/380.ts
-#EXTINF:-1,KBC ALGERIE
-http://185.2.83.34:8000/live/elf/elf/42.ts
-#EXTINF:-1,SAMIRA TV ALGERIE
-http://185.2.83.34:8000/live/elf/elf/47.ts
-#EXTINF:-1,ENNAHAR TV ALGERIE
-http://185.2.83.34:8000/live/elf/elf/48.ts
-#EXTINF:-1,ELHADDAF ALGERIE
-http://185.2.83.34:8000/live/elf/elf/40.ts
-#EXTINF:-1,BENNA TV  ALGERIE
-http://185.2.83.34:8000/live/elf/elf/41.ts
-#EXTINF:-1,ELCHOUROUK ALGERIE NEWS
-http://185.2.83.34:8000/live/elf/elf/45.ts
-#EXTINF:-1,NUMEDIA NEWS ALGERIE
-http://185.2.83.34:8000/live/elf/elf/594.ts
-#EXTINF:-1,DZAIR NEWS ALGERIE
-http://185.2.83.34:8000/live/elf/elf/37.ts
-#EXTINF:-1,DZAIR TV ALGERIE
-http://185.2.83.34:8000/live/elf/elf/46.ts
-#EXTINF:-1,AR Cartoon network
-http://185.2.83.34:8000/live/elf/elf/1687.ts
-#EXTINF:-1,AR: Toyor Al Janah
-http://185.2.83.34:8000/live/elf/elf/932.ts
-#EXTINF:-1,AR: Spacetoon
-http://185.2.83.34:8000/live/elf/elf/934.ts
-#EXTINF:-1,HONA BAGHDAD IRAQ
-http://185.2.83.34:8000/live/elf/elf/593.ts
-#EXTINF:-1,AL FORAT IRAQ
-http://185.2.83.34:8000/live/elf/elf/614.ts
-#EXTINF:-1,AL IRAQIA IRAQ
-http://185.2.83.34:8000/live/elf/elf/672.ts
-#EXTINF:-1,RUDAW KURDISTAN
-http://185.2.83.34:8000/live/elf/elf/669.ts
-#EXTINF:-1,KURDMAX KURDISTAN
-http://185.2.83.34:8000/live/elf/elf/662.ts
-#EXTINF:-1,ALJALEYA TV ARABIC
-http://185.2.83.34:8000/live/elf/elf/661.ts
-#EXTINF:-1,MAJLISS TV ARABIC
-http://185.2.83.34:8000/live/elf/elf/683.ts
-#EXTINF:-1,IFILM ARABIC
-http://185.2.83.34:8000/live/elf/elf/680.ts
-#EXTINF:-1,AL QHARIQA SPORT
-http://185.2.83.34:8000/live/elf/elf/682.ts
-#EXTINF:-1,AL JAMEELA ARABIC
-http://185.2.83.34:8000/live/elf/elf/664.ts
-#EXTINF:-1,AR CNA
-http://185.2.83.34:8000/live/elf/elf/1684.ts
-#EXTINF:-1,AR Beur TV
-http://185.2.83.34:8000/live/elf/elf/1692.ts
-#EXTINF:-1,AR Al Waha
-http://185.2.83.34:8000/live/elf/elf/1701.ts
-#EXTINF:-1,AR AL Sumaira
-http://185.2.83.34:8000/live/elf/elf/1702.ts
-#EXTINF:-1,AR YAS Sports HD
-http://185.2.83.34:8000/live/elf/elf/1671.ts
-#EXTINF:-1,AR AL Shallal TV
-http://185.2.83.34:8000/live/elf/elf/1703.ts
-#EXTINF:-1,AR AL Nahar
-http://185.2.83.34:8000/live/elf/elf/1711.ts
-#EXTINF:-1,AR Al Magharibia Two
-http://185.2.83.34:8000/live/elf/elf/1708.ts
-#EXTINF:-1,AR Al Magharibia
-http://185.2.83.34:8000/live/elf/elf/1709.ts
-#EXTINF:-1,MOURIDIYAH SENEGAL
-http://185.2.83.34:8000/live/elf/elf/684.ts
-#EXTINF:-1,====SUISSE====
-http://185.2.83.34:8000/live/elf/elf/1742.ts
-#EXTINF:-1,RTS_UN
-http://185.2.83.34:8000/live/elf/elf/2864.ts
-#EXTINF:-1,RTS_DEUX
-http://185.2.83.34:8000/live/elf/elf/2865.ts
-#EXTINF:-1,====CanalSat_Canal+====
-http://185.2.83.34:8000/live/elf/elf/1731.ts
+#EXTINF:-1,=====VIP-beINSPORTS-ARAB=====
+http://163.172.37.71:8789/live/andrea/andrea/829.ts
+#EXTINF:-1,beINSPORTS News HD
+http://163.172.37.71:8789/live/andrea/andrea/135.ts
+#EXTINF:-1,beINSPORTS
+http://163.172.37.71:8789/live/andrea/andrea/136.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1HD
+http://163.172.37.71:8789/live/andrea/andrea/815.ts
+#EXTINF:-1,BEIN_SPORTS_1HD.265
+http://163.172.37.71:8789/live/andrea/andrea/1074.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2HD
+http://163.172.37.71:8789/live/andrea/andrea/818.ts
+#EXTINF:-1,BEIN_SPORTS_2HD.265
+http://163.172.37.71:8789/live/andrea/andrea/1075.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3HD
+http://163.172.37.71:8789/live/andrea/andrea/819.ts
+#EXTINF:-1,BEIN_SPORTS_3HD.265
+http://163.172.37.71:8789/live/andrea/andrea/1076.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4HD
+http://163.172.37.71:8789/live/andrea/andrea/820.ts
+#EXTINF:-1,AR:BEIN_SPORTS_5HD
+http://163.172.37.71:8789/live/andrea/andrea/821.ts
+#EXTINF:-1,AR:BEIN_SPORTS_6HD
+http://163.172.37.71:8789/live/andrea/andrea/822.ts
+#EXTINF:-1,AR:BEIN_SPORTS_7HD
+http://163.172.37.71:8789/live/andrea/andrea/823.ts
+#EXTINF:-1,AR:BEIN_SPORTS_8HD
+http://163.172.37.71:8789/live/andrea/andrea/824.ts
+#EXTINF:-1,AR:BEIN_SPORTS_9HD
+http://163.172.37.71:8789/live/andrea/andrea/825.ts
+#EXTINF:-1,AR:BEIN_SPORTS_10HD
+http://163.172.37.71:8789/live/andrea/andrea/826.ts
+#EXTINF:-1,AR:BEIN_SPORTS_11HD
+http://163.172.37.71:8789/live/andrea/andrea/827.ts
+#EXTINF:-1,AR:BEIN_SPORTS_12HD
+http://163.172.37.71:8789/live/andrea/andrea/828.ts
+#EXTINF:-1,beINSPORTS-USA
+http://163.172.37.71:8789/live/andrea/andrea/292.ts
+#EXTINF:-1,=====BeIN-Arabia=====
+http://163.172.37.71:8789/live/andrea/andrea/191.ts
+#EXTINF:-1,beINSPORTS-1HD
+http://163.172.37.71:8789/live/andrea/andrea/116.ts
+#EXTINF:-1,beINSPORTS-2HD
+http://163.172.37.71:8789/live/andrea/andrea/117.ts
+#EXTINF:-1,beINSPORTS-3HD
+http://163.172.37.71:8789/live/andrea/andrea/118.ts
+#EXTINF:-1,beINSPORTS-4HD
+http://163.172.37.71:8789/live/andrea/andrea/119.ts
+#EXTINF:-1,beINSPORTS-5HD
+http://163.172.37.71:8789/live/andrea/andrea/120.ts
+#EXTINF:-1,beINSPORTS-6HD
+http://163.172.37.71:8789/live/andrea/andrea/121.ts
+#EXTINF:-1,beINSPORTS-7HD
+http://163.172.37.71:8789/live/andrea/andrea/122.ts
+#EXTINF:-1,beINSPORTS-8HD
+http://163.172.37.71:8789/live/andrea/andrea/123.ts
+#EXTINF:-1,beINSPORTS-9HD
+http://163.172.37.71:8789/live/andrea/andrea/124.ts
+#EXTINF:-1,beINSPORTS-10HD
+http://163.172.37.71:8789/live/andrea/andrea/125.ts
+#EXTINF:-1,beINSPORTS-11HD
+http://163.172.37.71:8789/live/andrea/andrea/126.ts
+#EXTINF:-1,beINSPORTS-12HD
+http://163.172.37.71:8789/live/andrea/andrea/127.ts
+#EXTINF:-1,beINSPORTS-13HD
+http://163.172.37.71:8789/live/andrea/andrea/128.ts
+#EXTINF:-1,beINSPORTS-14HD
+http://163.172.37.71:8789/live/andrea/andrea/129.ts
+#EXTINF:-1,beINSPORTS-15HD
+http://163.172.37.71:8789/live/andrea/andrea/130.ts
+#EXTINF:-1,beINSPORTS-16HD
+http://163.172.37.71:8789/live/andrea/andrea/131.ts
+#EXTINF:-1,beINMOVIES-1HD
+http://163.172.37.71:8789/live/andrea/andrea/132.ts
+#EXTINF:-1,beINMOVIES-2HD
+http://163.172.37.71:8789/live/andrea/andrea/133.ts
+#EXTINF:-1,beINMOVIES-3HD
+http://163.172.37.71:8789/live/andrea/andrea/134.ts
+#EXTINF:-1,beINMOVIES-4HD
+http://163.172.37.71:8789/live/andrea/andrea/484.ts
+#EXTINF:-1,=====AD_SPORT=====
+http://163.172.37.71:8789/live/andrea/andrea/1080.ts
+#EXTINF:-1,AD_SPORT_1HD
+http://163.172.37.71:8789/live/andrea/andrea/385.ts
+#EXTINF:-1,AD_SPORT_2HD
+http://163.172.37.71:8789/live/andrea/andrea/386.ts
+#EXTINF:-1,AD_SPORT_3HD
+http://163.172.37.71:8789/live/andrea/andrea/1077.ts
+#EXTINF:-1,AD_SPORT_4HD
+http://163.172.37.71:8789/live/andrea/andrea/1078.ts
+#EXTINF:-1,AD_SPORT_5HD
+http://163.172.37.71:8789/live/andrea/andrea/1079.ts
+#EXTINF:-1,=====CanalSat France=====
+http://163.172.37.71:8789/live/andrea/andrea/83.ts
+#EXTINF:-1,TF1_HD
+http://163.172.37.71:8789/live/andrea/andrea/156.ts
 #EXTINF:-1,TF1
-http://185.2.83.34:8000/live/elf/elf/58.ts
-#EXTINF:-1,FRANCE 2
-http://185.2.83.34:8000/live/elf/elf/137.ts
-#EXTINF:-1,FRANCE 3
-http://185.2.83.34:8000/live/elf/elf/61.ts
-#EXTINF:-1,FRANCE 4
-http://185.2.83.34:8000/live/elf/elf/60.ts
-#EXTINF:-1,FRANCE 5
-http://185.2.83.34:8000/live/elf/elf/59.ts
-#EXTINF:-1,France O
-http://185.2.83.34:8000/live/elf/elf/345.ts
+http://163.172.37.71:8789/live/andrea/andrea/84.ts
+#EXTINF:-1,FRANCE_2_HD
+http://163.172.37.71:8789/live/andrea/andrea/160.ts
+#EXTINF:-1,FRANCE_3_HD
+http://163.172.37.71:8789/live/andrea/andrea/159.ts
+#EXTINF:-1,FRANCE_4_HD
+http://163.172.37.71:8789/live/andrea/andrea/158.ts
+#EXTINF:-1,FRANCE_5_HD
+http://163.172.37.71:8789/live/andrea/andrea/157.ts
+#EXTINF:-1,FRANCE_O_HD
+http://163.172.37.71:8789/live/andrea/andrea/161.ts
+#EXTINF:-1,FRANCE_O
+http://163.172.37.71:8789/live/andrea/andrea/89.ts
+#EXTINF:-1,M6_HD
+http://163.172.37.71:8789/live/andrea/andrea/235.ts
 #EXTINF:-1,M6
-http://185.2.83.34:8000/live/elf/elf/138.ts
-#EXTINF:-1,W9HD
-http://185.2.83.34:8000/live/elf/elf/337.ts
+http://163.172.37.71:8789/live/andrea/andrea/90.ts
+#EXTINF:-1,PARIS_PREMIERE.HD
+http://163.172.37.71:8789/live/andrea/andrea/243.ts
+#EXTINF:-1,Paris_premiere.SD
+http://163.172.37.71:8789/live/andrea/andrea/1030.ts
 #EXTINF:-1,TMC
-http://185.2.83.34:8000/live/elf/elf/2570.ts
-#EXTINF:-1,NRJ_12
-http://185.2.83.34:8000/live/elf/elf/2560.ts
-#EXTINF:-1,Arte
-http://185.2.83.34:8000/live/elf/elf/338.ts
-#EXTINF:-1,CANAL+
-http://185.2.83.34:8000/live/elf/elf/52.ts
-#EXTINF:-1,CANAL+ CINEMA
-http://185.2.83.34:8000/live/elf/elf/56.ts
-#EXTINF:-1,CANAL+ FAMILY
-http://185.2.83.34:8000/live/elf/elf/53.ts
-#EXTINF:-1,CANAL+ DECALE
-http://185.2.83.34:8000/live/elf/elf/54.ts
-#EXTINF:-1,CANAL+ SERIE
-http://185.2.83.34:8000/live/elf/elf/55.ts
-#EXTINF:-1,CANAL+ SPORT
-http://185.2.83.34:8000/live/elf/elf/57.ts
-#EXTINF:-1,CINE PREMIER
-http://185.2.83.34:8000/live/elf/elf/135.ts
-#EXTINF:-1,CINE+ FAMIZ
-http://185.2.83.34:8000/live/elf/elf/65.ts
-#EXTINF:-1,CINE+ FRISSON FR
-http://185.2.83.34:8000/live/elf/elf/64.ts
-#EXTINF:-1,TEVA
-http://185.2.83.34:8000/live/elf/elf/2637.ts
-#EXTINF:-1,CINE+ CLASSIC FR
-http://185.2.83.34:8000/live/elf/elf/67.ts
-#EXTINF:-1,CINE EMOTION
-http://185.2.83.34:8000/live/elf/elf/136.ts
-#EXTINF:-1,OCS_Choc
-http://185.2.83.34:8000/live/elf/elf/2561.ts
-#EXTINF:-1,Cherie_25
-http://185.2.83.34:8000/live/elf/elf/133.ts
-#EXTINF:-1,OCS_CITY
-http://185.2.83.34:8000/live/elf/elf/134.ts
-#EXTINF:-1,FR: Action
-http://185.2.83.34:8000/live/elf/elf/611.ts
-#EXTINF:-1,13_Eme_Rue
-http://185.2.83.34:8000/live/elf/elf/2548.ts
-#EXTINF:-1,Paris_Premiere
-http://185.2.83.34:8000/live/elf/elf/2562.ts
-#EXTINF:-1,SyFy
-http://185.2.83.34:8000/live/elf/elf/2569.ts
-#EXTINF:-1,Serie_Club
-http://185.2.83.34:8000/live/elf/elf/2568.ts
-#EXTINF:-1,RMC_Decouverte
-http://185.2.83.34:8000/live/elf/elf/2565.ts
-#EXTINF:-1,RTL_9HD
-http://185.2.83.34:8000/live/elf/elf/2566.ts
-#EXTINF:-1,FR.Planet_A&E_HD
-http://185.2.83.34:8000/live/elf/elf/2689.ts
-#EXTINF:-1,FR.Paramount_Channel_HD
-http://185.2.83.34:8000/live/elf/elf/2690.ts
-#EXTINF:-1,FR.OL_TV
-http://185.2.83.34:8000/live/elf/elf/2691.ts
-#EXTINF:-1,Ocs_Geants
-http://185.2.83.34:8000/live/elf/elf/2682.ts
-#EXTINF:-1,OCS_MAX
-http://185.2.83.34:8000/live/elf/elf/2693.ts
-#EXTINF:-1,Numero_23
-http://185.2.83.34:8000/live/elf/elf/2683.ts
-#EXTINF:-1,FR.Histoire_HD
-http://185.2.83.34:8000/live/elf/elf/2686.ts
-#EXTINF:-1,FR.Cine_Polar_HD
-http://185.2.83.34:8000/live/elf/elf/2685.ts
-#EXTINF:-1,HD1
-http://185.2.83.34:8000/live/elf/elf/2538.ts
-#EXTINF:-1,FR_AB1
-http://185.2.83.34:8000/live/elf/elf/2537.ts
-#EXTINF:-1,TV5
-http://185.2.83.34:8000/live/elf/elf/2611.ts
-#EXTINF:-1,C8HD
-http://185.2.83.34:8000/live/elf/elf/2551.ts
-#EXTINF:-1,D17
-http://185.2.83.34:8000/live/elf/elf/2550.ts
-#EXTINF:-1,Comedie
-http://185.2.83.34:8000/live/elf/elf/2549.ts
+http://163.172.37.71:8789/live/andrea/andrea/109.ts
+#EXTINF:-1,TMC_SD
+http://163.172.37.71:8789/live/andrea/andrea/1014.ts
+#EXTINF:-1,TV_BREIZH
+http://163.172.37.71:8789/live/andrea/andrea/244.ts
+#EXTINF:-1,TV.BREIZH_SD
+http://163.172.37.71:8789/live/andrea/andrea/1032.ts
 #EXTINF:-1,6TER
-http://185.2.83.34:8000/live/elf/elf/673.ts
-#EXTINF:-1,LCI
-http://185.2.83.34:8000/live/elf/elf/334.ts
-#EXTINF:-1,I_Tele
-http://185.2.83.34:8000/live/elf/elf/336.ts
-#EXTINF:-1,EURONEWS FR
-http://185.2.83.34:8000/live/elf/elf/674.ts
-#EXTINF:-1,BFM_TV
-http://185.2.83.34:8000/live/elf/elf/2541.ts
-#EXTINF:-1,Planet+
-http://185.2.83.34:8000/live/elf/elf/2563.ts
-#EXTINF:-1,Planet+ci
-http://185.2.83.34:8000/live/elf/elf/2564.ts
-#EXTINF:-1,NATIONAL GEO
-http://185.2.83.34:8000/live/elf/elf/139.ts
-#EXTINF:-1,National_Geo_Wild_FR
-http://185.2.83.34:8000/live/elf/elf/2559.ts
-#EXTINF:-1,DISCOVERY
-http://185.2.83.34:8000/live/elf/elf/63.ts
-#EXTINF:-1,DISCOVERY SCIENCE FR
-http://185.2.83.34:8000/live/elf/elf/62.ts
-#EXTINF:-1,USHUAIA
-http://185.2.83.34:8000/live/elf/elf/372.ts
-#EXTINF:-1,Chasse et peche
-http://185.2.83.34:8000/live/elf/elf/471.ts
-#EXTINF:-1,FR ANIMAUX
-http://185.2.83.34:8000/live/elf/elf/478.ts
-#EXTINF:-1,Voyage_HD
-http://185.2.83.34:8000/live/elf/elf/2571.ts
-#EXTINF:-1,Science_et_Vie
-http://185.2.83.34:8000/live/elf/elf/2567.ts
-#EXTINF:-1,BEINSPORT_1_HD
-http://185.2.83.34:8000/live/elf/elf/49.ts
-#EXTINF:-1,BEINSPORT _2_HD
-http://185.2.83.34:8000/live/elf/elf/50.ts
-#EXTINF:-1,BEINSPORT 3 HD FR
-http://185.2.83.34:8000/live/elf/elf/51.ts
-#EXTINF:-1,SFR_SPORT_1_HD
-http://185.2.83.34:8000/live/elf/elf/2803.ts
-#EXTINF:-1,SFR_SPORT_2_HD
-http://185.2.83.34:8000/live/elf/elf/2804.ts
-#EXTINF:-1,SFR_SPORT_3_HD
-http://185.2.83.34:8000/live/elf/elf/2880.ts
-#EXTINF:-1,INFOSPORT+
-http://185.2.83.34:8000/live/elf/elf/1809.ts
-#EXTINF:-1,Foot+
-http://185.2.83.34:8000/live/elf/elf/2556.ts
-#EXTINF:-1,FR.Foot_24
-http://185.2.83.34:8000/live/elf/elf/2684.ts
-#EXTINF:-1,EUROSPORT 1
-http://185.2.83.34:8000/live/elf/elf/377.ts
-#EXTINF:-1,EUROSPORT_2
-http://185.2.83.34:8000/live/elf/elf/2555.ts
-#EXTINF:-1,Equipe21
-http://185.2.83.34:8000/live/elf/elf/2554.ts
-#EXTINF:-1,Equidia
-http://185.2.83.34:8000/live/elf/elf/2552.ts
-#EXTINF:-1,Equidia_Live
-http://185.2.83.34:8000/live/elf/elf/2553.ts
-#EXTINF:-1,FR_NICKELODEON_JUNIOR
-http://185.2.83.34:8000/live/elf/elf/2867.ts
-#EXTINF:-1,FR.Zouzou_Tv_HD
-http://185.2.83.34:8000/live/elf/elf/2688.ts
-#EXTINF:-1,Game_One
-http://185.2.83.34:8000/live/elf/elf/2557.ts
-#EXTINF:-1,FR:_Disney_XD
-http://185.2.83.34:8000/live/elf/elf/2635.ts
-#EXTINF:-1,Tiji
-http://185.2.83.34:8000/live/elf/elf/2680.ts
-#EXTINF:-1,teletoon
-http://185.2.83.34:8000/live/elf/elf/2681.ts
-#EXTINF:-1,MANGAS
-http://185.2.83.34:8000/live/elf/elf/375.ts
-#EXTINF:-1,FR:_Disney_Cinemagic
-http://185.2.83.34:8000/live/elf/elf/2634.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://185.2.83.34:8000/live/elf/elf/376.ts
-#EXTINF:-1,FR: Disney Junior
-http://185.2.83.34:8000/live/elf/elf/472.ts
-#EXTINF:-1,FR:_Canal_J
-http://185.2.83.34:8000/live/elf/elf/2636.ts
-#EXTINF:-1,Gulli
-http://185.2.83.34:8000/live/elf/elf/335.ts
+http://163.172.37.71:8789/live/andrea/andrea/110.ts
+#EXTINF:-1,ARTE
+http://163.172.37.71:8789/live/andrea/andrea/114.ts
+#EXTINF:-1,<<<<<< Cinema France>>>>>>
+http://163.172.37.71:8789/live/andrea/andrea/111.ts
+#EXTINF:-1,CANAL+HD
+http://163.172.37.71:8789/live/andrea/andrea/154.ts
+#EXTINF:-1,CANAL+
+http://163.172.37.71:8789/live/andrea/andrea/112.ts
+#EXTINF:-1,CANAL+DECALE_HD
+http://163.172.37.71:8789/live/andrea/andrea/153.ts
+#EXTINF:-1,CANAL+FAMILY_HD
+http://163.172.37.71:8789/live/andrea/andrea/115.ts
+#EXTINF:-1,CANAL+FAMILY
+http://163.172.37.71:8789/live/andrea/andrea/163.ts
+#EXTINF:-1,CANAL+CINEMA_HD
+http://163.172.37.71:8789/live/andrea/andrea/164.ts
+#EXTINF:-1,CANAL+CINEMA
+http://163.172.37.71:8789/live/andrea/andrea/113.ts
+#EXTINF:-1,OCS_MAX
+http://163.172.37.71:8789/live/andrea/andrea/409.ts
+#EXTINF:-1,OCS_GEANTS
+http://163.172.37.71:8789/live/andrea/andrea/313.ts
+#EXTINF:-1,OCS_CITY_HD
+http://163.172.37.71:8789/live/andrea/andrea/410.ts
+#EXTINF:-1,OCS_CHOC_HD
+http://163.172.37.71:8789/live/andrea/andrea/239.ts
+#EXTINF:-1,OCS_CHOC
+http://163.172.37.71:8789/live/andrea/andrea/68.ts
+#EXTINF:-1,CINE+PREMIER-HD
+http://163.172.37.71:8789/live/andrea/andrea/312.ts
+#EXTINF:-1,CINE+FRISSON
+http://163.172.37.71:8789/live/andrea/andrea/196.ts
+#EXTINF:-1,CINE+FAMIZ_HD
+http://163.172.37.71:8789/live/andrea/andrea/238.ts
+#EXTINF:-1,CINE+EMOTION-HD
+http://163.172.37.71:8789/live/andrea/andrea/195.ts
+#EXTINF:-1,ACTION
+http://163.172.37.71:8789/live/andrea/andrea/270.ts
+#EXTINF:-1,CINE_POLAR
+http://163.172.37.71:8789/live/andrea/andrea/311.ts
+#EXTINF:-1,CINE_FX
+http://163.172.37.71:8789/live/andrea/andrea/305.ts
+#EXTINF:-1,Cine_Classic-HD
+http://163.172.37.71:8789/live/andrea/andrea/307.ts
+#EXTINF:-1,PARAMOUNT_CHANNEL_HD
+http://163.172.37.71:8789/live/andrea/andrea/62.ts
+#EXTINF:-1,CANALPLAY-1
+http://163.172.37.71:8789/live/andrea/andrea/165.ts
+#EXTINF:-1,CANALPLAY-2
+http://163.172.37.71:8789/live/andrea/andrea/166.ts
+#EXTINF:-1,CANALPLAY-3
+http://163.172.37.71:8789/live/andrea/andrea/167.ts
+#EXTINF:-1,CANALPLAY-4
+http://163.172.37.71:8789/live/andrea/andrea/168.ts
+#EXTINF:-1,CANALPLAY-5
+http://163.172.37.71:8789/live/andrea/andrea/169.ts
+#EXTINF:-1,CANALPLAY-6
+http://163.172.37.71:8789/live/andrea/andrea/170.ts
+#EXTINF:-1,CANALPLAY-7
+http://163.172.37.71:8789/live/andrea/andrea/171.ts
+#EXTINF:-1,CANALPLAY-8
+http://163.172.37.71:8789/live/andrea/andrea/172.ts
+#EXTINF:-1,CANALPLAY-9
+http://163.172.37.71:8789/live/andrea/andrea/173.ts
+#EXTINF:-1,CANALPLAY-10
+http://163.172.37.71:8789/live/andrea/andrea/174.ts
+#EXTINF:-1,CANALPLAY-11
+http://163.172.37.71:8789/live/andrea/andrea/175.ts
+#EXTINF:-1,CANALPLAY-12
+http://163.172.37.71:8789/live/andrea/andrea/176.ts
+#EXTINF:-1,CANALPLAY-13
+http://163.172.37.71:8789/live/andrea/andrea/177.ts
+#EXTINF:-1,CANALPLAY-14
+http://163.172.37.71:8789/live/andrea/andrea/178.ts
+#EXTINF:-1,CANALPLAY-15
+http://163.172.37.71:8789/live/andrea/andrea/179.ts
+#EXTINF:-1,CANALPLAY-16
+http://163.172.37.71:8789/live/andrea/andrea/352.ts
+#EXTINF:-1,ALACARTE-1
+http://163.172.37.71:8789/live/andrea/andrea/185.ts
+#EXTINF:-1,ALACARTE-2
+http://163.172.37.71:8789/live/andrea/andrea/184.ts
+#EXTINF:-1,ALACARTE-3
+http://163.172.37.71:8789/live/andrea/andrea/183.ts
+#EXTINF:-1,ALACARTE-4
+http://163.172.37.71:8789/live/andrea/andrea/199.ts
+#EXTINF:-1,ALACARTE_5
+http://163.172.37.71:8789/live/andrea/andrea/200.ts
+#EXTINF:-1,ALACARTE_6
+http://163.172.37.71:8789/live/andrea/andrea/209.ts
+#EXTINF:-1,ALACARTE_7
+http://163.172.37.71:8789/live/andrea/andrea/210.ts
+#EXTINF:-1,ALACARTE_8
+http://163.172.37.71:8789/live/andrea/andrea/211.ts
+#EXTINF:-1,ALACARTE_9
+http://163.172.37.71:8789/live/andrea/andrea/212.ts
+#EXTINF:-1,ALACARTE-10
+http://163.172.37.71:8789/live/andrea/andrea/213.ts
+#EXTINF:-1,<<<<<< Sport France>>>>>>
+http://163.172.37.71:8789/live/andrea/andrea/91.ts
+#EXTINF:-1,SFR_SPORT.1
+http://163.172.37.71:8789/live/andrea/andrea/985.ts
+#EXTINF:-1,SFR_SPORT2
+http://163.172.37.71:8789/live/andrea/andrea/420.ts
+#EXTINF:-1,SFR_SPORT3
+http://163.172.37.71:8789/live/andrea/andrea/1012.ts
+#EXTINF:-1,SFR_SPORT5
+http://163.172.37.71:8789/live/andrea/andrea/1065.ts
+#EXTINF:-1,CANAL+SPORT
+http://163.172.37.71:8789/live/andrea/andrea/100.ts
+#EXTINF:-1,FOOT+
+http://163.172.37.71:8789/live/andrea/andrea/381.ts
+#EXTINF:-1,FR:BEINSPORT.1HD
+http://163.172.37.71:8789/live/andrea/andrea/886.ts
+#EXTINF:-1,FR:BEINSPORT.2HD
+http://163.172.37.71:8789/live/andrea/andrea/887.ts
+#EXTINF:-1,FR:BEINSPORT.3HD
+http://163.172.37.71:8789/live/andrea/andrea/888.ts
+#EXTINF:-1,FR:beINSPORT-1-SD
+http://163.172.37.71:8789/live/andrea/andrea/92.ts
+#EXTINF:-1,FR:beINSPORT-2-SD
+http://163.172.37.71:8789/live/andrea/andrea/93.ts
+#EXTINF:-1,FR:beINSPORT-3-SD
+http://163.172.37.71:8789/live/andrea/andrea/94.ts
+#EXTINF:-1,INFOSPORT
+http://163.172.37.71:8789/live/andrea/andrea/245.ts
+#EXTINF:-1,L'EQUIPE_HD
+http://163.172.37.71:8789/live/andrea/andrea/152.ts
+#EXTINF:-1,L'EQUIPE_21_HD
+http://163.172.37.71:8789/live/andrea/andrea/70.ts
+#EXTINF:-1,AB_Moteur
+http://163.172.37.71:8789/live/andrea/andrea/781.ts
+#EXTINF:-1,Nautical_HD
+http://163.172.37.71:8789/live/andrea/andrea/749.ts
+#EXTINF:-1,EUROSPORT1
+http://163.172.37.71:8789/live/andrea/andrea/142.ts
+#EXTINF:-1,EUROSPORT2_FR
+http://163.172.37.71:8789/live/andrea/andrea/87.ts
+#EXTINF:-1,EQUIDIA_LIVE
+http://163.172.37.71:8789/live/andrea/andrea/1036.ts
+#EXTINF:-1,EQUIDIA-LIFE
+http://163.172.37.71:8789/live/andrea/andrea/85.ts
+#EXTINF:-1,=====SPORT_GOLF=====
+http://163.172.37.71:8789/live/andrea/andrea/854.ts
+#EXTINF:-1,FR:GOLF
+http://163.172.37.71:8789/live/andrea/andrea/852.ts
+#EXTINF:-1,FR:Golf+
+http://163.172.37.71:8789/live/andrea/andrea/859.ts
+#EXTINF:-1,USA:NBC-GOLF
+http://163.172.37.71:8789/live/andrea/andrea/853.ts
+#EXTINF:-1,<<<<<< Divertissement>>>>>>
+http://163.172.37.71:8789/live/andrea/andrea/138.ts
+#EXTINF:-1,SERIE_CLUB
+http://163.172.37.71:8789/live/andrea/andrea/193.ts
+#EXTINF:-1,CANAL+SERIES_HD
+http://163.172.37.71:8789/live/andrea/andrea/69.ts
+#EXTINF:-1,13EME_RUE
+http://163.172.37.71:8789/live/andrea/andrea/242.ts
+#EXTINF:-1,SYFY
+http://163.172.37.71:8789/live/andrea/andrea/194.ts
+#EXTINF:-1,SYFY_HD
+http://163.172.37.71:8789/live/andrea/andrea/240.ts
+#EXTINF:-1,TEVA
+http://163.172.37.71:8789/live/andrea/andrea/189.ts
+#EXTINF:-1,Téva_SD
+http://163.172.37.71:8789/live/andrea/andrea/1031.ts
+#EXTINF:-1,RTS_UN-HD
+http://163.172.37.71:8789/live/andrea/andrea/259.ts
+#EXTINF:-1,RTS-DEUX-HD
+http://163.172.37.71:8789/live/andrea/andrea/260.ts
+#EXTINF:-1,COMEDIE
+http://163.172.37.71:8789/live/andrea/andrea/192.ts
+#EXTINF:-1,E!_ENTERTAINEMENT
+http://163.172.37.71:8789/live/andrea/andrea/289.ts
+#EXTINF:-1,BET
+http://163.172.37.71:8789/live/andrea/andrea/449.ts
+#EXTINF:-1,HD1
+http://163.172.37.71:8789/live/andrea/andrea/108.ts
+#EXTINF:-1,AB1
+http://163.172.37.71:8789/live/andrea/andrea/390.ts
+#EXTINF:-1,AB3
+http://163.172.37.71:8789/live/andrea/andrea/785.ts
+#EXTINF:-1,D8
+http://163.172.37.71:8789/live/andrea/andrea/188.ts
+#EXTINF:-1,D17
+http://163.172.37.71:8789/live/andrea/andrea/187.ts
+#EXTINF:-1,WEO
+http://163.172.37.71:8789/live/andrea/andrea/503.ts
+#EXTINF:-1,TVA
+http://163.172.37.71:8789/live/andrea/andrea/613.ts
+#EXTINF:-1,TV7
+http://163.172.37.71:8789/live/andrea/andrea/455.ts
+#EXTINF:-1,MIRABELLE_TV
+http://163.172.37.71:8789/live/andrea/andrea/722.ts
+#EXTINF:-1,TROPIC.TV
+http://163.172.37.71:8789/live/andrea/andrea/1057.ts
+#EXTINF:-1,RTL9
+http://163.172.37.71:8789/live/andrea/andrea/197.ts
+#EXTINF:-1,NUMERO-23
+http://163.172.37.71:8789/live/andrea/andrea/308.ts
+#EXTINF:-1,NT1
+http://163.172.37.71:8789/live/andrea/andrea/442.ts
+#EXTINF:-1,W9
+http://163.172.37.71:8789/live/andrea/andrea/776.ts
+#EXTINF:-1,MEN'S_UP
+http://163.172.37.71:8789/live/andrea/andrea/1053.ts
+#EXTINF:-1,Luxe.Tv
+http://163.172.37.71:8789/live/andrea/andrea/1054.ts
+#EXTINF:-1,<<<<<< Enfants>>>>>>
+http://163.172.37.71:8789/live/andrea/andrea/139.ts
+#EXTINF:-1,DISNEY_CHANNEL
+http://163.172.37.71:8789/live/andrea/andrea/198.ts
+#EXTINF:-1,Disney-Channel+1
+http://163.172.37.71:8789/live/andrea/andrea/1041.ts
+#EXTINF:-1,DISNEY_CHANNEL+1
+http://163.172.37.71:8789/live/andrea/andrea/88.ts
+#EXTINF:-1,Disney_XD
+http://163.172.37.71:8789/live/andrea/andrea/532.ts
+#EXTINF:-1,DISNEY_JUNIOR_HD
+http://163.172.37.71:8789/live/andrea/andrea/64.ts
+#EXTINF:-1,Disney_cinema
+http://163.172.37.71:8789/live/andrea/andrea/453.ts
+#EXTINF:-1,NICKELODEON
+http://163.172.37.71:8789/live/andrea/andrea/181.ts
+#EXTINF:-1,NICKELODEON_JUNIOR
+http://163.172.37.71:8789/live/andrea/andrea/182.ts
+#EXTINF:-1,TELETOON+1
+http://163.172.37.71:8789/live/andrea/andrea/765.ts
+#EXTINF:-1,TELETOON
+http://163.172.37.71:8789/live/andrea/andrea/994.ts
 #EXTINF:-1,PIWI
-http://185.2.83.34:8000/live/elf/elf/374.ts
-#EXTINF:-1,A.LA.CARTE.1
-http://185.2.83.34:8000/live/elf/elf/544.ts
-#EXTINF:-1,A.LA.CARTE.2
-http://185.2.83.34:8000/live/elf/elf/545.ts
-#EXTINF:-1,A.LA.CARTE.3
-http://185.2.83.34:8000/live/elf/elf/546.ts
-#EXTINF:-1,A.LA.CARTE.4
-http://185.2.83.34:8000/live/elf/elf/539.ts
-#EXTINF:-1,A_LA_CARTE_5
-http://185.2.83.34:8000/live/elf/elf/2612.ts
-#EXTINF:-1,A_LA_CARTE_6
-http://185.2.83.34:8000/live/elf/elf/2613.ts
-#EXTINF:-1,A_LA_CARTE_7
-http://185.2.83.34:8000/live/elf/elf/2653.ts
-#EXTINF:-1,A_LA_CARTE_8
-http://185.2.83.34:8000/live/elf/elf/2654.ts
-#EXTINF:-1,A_LA_CARTE_9
-http://185.2.83.34:8000/live/elf/elf/2655.ts
-#EXTINF:-1,A_LA_CARTE_10
-http://185.2.83.34:8000/live/elf/elf/2644.ts
-#EXTINF:-1,A_LA_CARTE_11
-http://185.2.83.34:8000/live/elf/elf/2645.ts
-#EXTINF:-1,A_LA_CARTE_12
-http://185.2.83.34:8000/live/elf/elf/2646.ts
-#EXTINF:-1,A_LA_CARTE_13
-http://185.2.83.34:8000/live/elf/elf/2647.ts
-#EXTINF:-1,A_LA_CARTE_14
-http://185.2.83.34:8000/live/elf/elf/2657.ts
-#EXTINF:-1,A_LA_CARTE_15
-http://185.2.83.34:8000/live/elf/elf/2656.ts
-#EXTINF:-1,A_LA_CARTE_16
-http://185.2.83.34:8000/live/elf/elf/2648.ts
-#EXTINF:-1,A_LA_CARTE_17
-http://185.2.83.34:8000/live/elf/elf/2649.ts
-#EXTINF:-1,A_LA_CARTE_18
-http://185.2.83.34:8000/live/elf/elf/2650.ts
-#EXTINF:-1,A_LA_CARTE_19
-http://185.2.83.34:8000/live/elf/elf/2651.ts
-#EXTINF:-1,A_LA_CARTE_20
-http://185.2.83.34:8000/live/elf/elf/2652.ts
-#EXTINF:-1,===MUSIC====
-http://185.2.83.34:8000/live/elf/elf/1746.ts
-#EXTINF:-1,VEVO 1
-http://185.2.83.34:8000/live/elf/elf/572.ts
-#EXTINF:-1,VEVO 2
-http://185.2.83.34:8000/live/elf/elf/571.ts
-#EXTINF:-1,VEVO 3
-http://185.2.83.34:8000/live/elf/elf/570.ts
-#EXTINF:-1,VEVO4
-http://185.2.83.34:8000/live/elf/elf/2842.ts
-#EXTINF:-1,VEVO5
-http://185.2.83.34:8000/live/elf/elf/2843.ts
-#EXTINF:-1,VEVO6
-http://185.2.83.34:8000/live/elf/elf/2844.ts
-#EXTINF:-1,VEVO7
-http://185.2.83.34:8000/live/elf/elf/2845.ts
-#EXTINF:-1,VEVO8
-http://185.2.83.34:8000/live/elf/elf/2846.ts
-#EXTINF:-1,VEVO9
-http://185.2.83.34:8000/live/elf/elf/2847.ts
-#EXTINF:-1,VEVO10
-http://185.2.83.34:8000/live/elf/elf/2848.ts
-#EXTINF:-1,VEVO11
-http://185.2.83.34:8000/live/elf/elf/2849.ts
-#EXTINF:-1,VEVO12
-http://185.2.83.34:8000/live/elf/elf/2850.ts
-#EXTINF:-1,VEVO13
-http://185.2.83.34:8000/live/elf/elf/2851.ts
-#EXTINF:-1,VEVO14
-http://185.2.83.34:8000/live/elf/elf/2852.ts
-#EXTINF:-1,VEVO15
-http://185.2.83.34:8000/live/elf/elf/2853.ts
-#EXTINF:-1,VEVO16
-http://185.2.83.34:8000/live/elf/elf/2854.ts
-#EXTINF:-1,VEVO17
-http://185.2.83.34:8000/live/elf/elf/2855.ts
-#EXTINF:-1,VEVO18
-http://185.2.83.34:8000/live/elf/elf/2856.ts
-#EXTINF:-1,====BELGIQUE_TELESAT====
-http://185.2.83.34:8000/live/elf/elf/1741.ts
-#EXTINF:-1,LA UNE HD
-http://185.2.83.34:8000/live/elf/elf/541.ts
-#EXTINF:-1,LA.DEUX
-http://185.2.83.34:8000/live/elf/elf/542.ts
-#EXTINF:-1,LA.TROIS
-http://185.2.83.34:8000/live/elf/elf/543.ts
-#EXTINF:-1,RTL_TVI
-http://185.2.83.34:8000/live/elf/elf/2639.ts
-#EXTINF:-1,PLUG_RTL
-http://185.2.83.34:8000/live/elf/elf/2640.ts
-#EXTINF:-1,BE:RTL_TVI
-http://185.2.83.34:8000/live/elf/elf/2641.ts
-#EXTINF:-1,BE:Plug_RTL
-http://185.2.83.34:8000/live/elf/elf/2643.ts
-#EXTINF:-1,BE:Club_RTL
-http://185.2.83.34:8000/live/elf/elf/2642.ts
-#EXTINF:-1,BE:VTM HD
-http://185.2.83.34:8000/live/elf/elf/905.ts
-#EXTINF:-1,BE:Vijf TV HD
-http://185.2.83.34:8000/live/elf/elf/906.ts
-#EXTINF:-1,BE:Vier HD
-http://185.2.83.34:8000/live/elf/elf/907.ts
-#EXTINF:-1,BE:EEN HD
-http://185.2.83.34:8000/live/elf/elf/908.ts
-#EXTINF:-1,BE:Canvas HD
-http://185.2.83.34:8000/live/elf/elf/909.ts
-#EXTINF:-1,BE:2BE HD
-http://185.2.83.34:8000/live/elf/elf/910.ts
-#EXTINF:-1,====PORTUGAL====
-http://185.2.83.34:8000/live/elf/elf/1747.ts
-#EXTINF:-1,PORTUGAL:TVCINE 1 HD
-http://185.2.83.34:8000/live/elf/elf/511.ts
-#EXTINF:-1,PORTUGAL:TVCINE 2 HD
-http://185.2.83.34:8000/live/elf/elf/512.ts
-#EXTINF:-1,PORTUGAL:TVCINE 3 HD
-http://185.2.83.34:8000/live/elf/elf/513.ts
-#EXTINF:-1,PORTUGAL:TVCINE 4 HD
-http://185.2.83.34:8000/live/elf/elf/514.ts
-#EXTINF:-1,PORTUGAL:TLC
-http://185.2.83.34:8000/live/elf/elf/604.ts
-#EXTINF:-1,PORTUGAL:SPORT TV1
-http://185.2.83.34:8000/live/elf/elf/515.ts
-#EXTINF:-1,PORTUGAL:SPORT TV2
-http://185.2.83.34:8000/live/elf/elf/516.ts
-#EXTINF:-1,PORTUGAL:SPORT TV3
-http://185.2.83.34:8000/live/elf/elf/517.ts
-#EXTINF:-1,PORTUGAL:SPORT TV4
-http://185.2.83.34:8000/live/elf/elf/518.ts
-#EXTINF:-1,PORTUGAL:SPORT TV5
-http://185.2.83.34:8000/live/elf/elf/519.ts
-#EXTINF:-1,PORTUGAL:Sic Radical
-http://185.2.83.34:8000/live/elf/elf/609.ts
-#EXTINF:-1,PORTUGAL:SIC
-http://185.2.83.34:8000/live/elf/elf/596.ts
-#EXTINF:-1,PORTUGAL:RTP1
-http://185.2.83.34:8000/live/elf/elf/606.ts
-#EXTINF:-1,PORTUGAL:RTP 2
-http://185.2.83.34:8000/live/elf/elf/607.ts
-#EXTINF:-1,PORTUGAL:RTP 3
-http://185.2.83.34:8000/live/elf/elf/608.ts
-#EXTINF:-1,PORTUGAL:PANDA
-http://185.2.83.34:8000/live/elf/elf/597.ts
-#EXTINF:-1,PORTUGAL:CMTV
-http://185.2.83.34:8000/live/elf/elf/598.ts
-#EXTINF:-1,PORTUGAL:BENFICA TV 1 HD
-http://185.2.83.34:8000/live/elf/elf/520.ts
-#EXTINF:-1,PORTUGAL:BENFICA TV 2 HD
-http://185.2.83.34:8000/live/elf/elf/599.ts
-#EXTINF:-1,Cartoon Network
-http://185.2.83.34:8000/live/elf/elf/373.ts
-#EXTINF:-1,PORTUGAL:_TVsÃ©ries HD
-http://185.2.83.34:8000/live/elf/elf/600.ts
-#EXTINF:-1,PORTUGAL:_TVI
-http://185.2.83.34:8000/live/elf/elf/601.ts
-#EXTINF:-1,PORTUGAL: TV record
-http://185.2.83.34:8000/live/elf/elf/602.ts
+http://163.172.37.71:8789/live/andrea/andrea/249.ts
+#EXTINF:-1,Baby_TV
+http://163.172.37.71:8789/live/andrea/andrea/748.ts
+#EXTINF:-1,zouzous
+http://163.172.37.71:8789/live/andrea/andrea/777.ts
+#EXTINF:-1,Canal_J
+http://163.172.37.71:8789/live/andrea/andrea/454.ts
+#EXTINF:-1,TIJI
+http://163.172.37.71:8789/live/andrea/andrea/456.ts
 #EXTINF:-1,BOOMERANG
-http://185.2.83.34:8000/live/elf/elf/378.ts
-#EXTINF:-1,PORTUGAL: TV GLOBO PREMIUM
-http://185.2.83.34:8000/live/elf/elf/603.ts
-#EXTINF:-1,PORTUGAL: SPORTING TV HD
-http://185.2.83.34:8000/live/elf/elf/605.ts
-#EXTINF:-1,PORTUGAL: SIC Mulher
-http://185.2.83.34:8000/live/elf/elf/610.ts
-#EXTINF:-1,====NETHERLAND====
-http://185.2.83.34:8000/live/elf/elf/1738.ts
-#EXTINF:-1,NL Veronica HD
-http://185.2.83.34:8000/live/elf/elf/732.ts
-#EXTINF:-1,NL TLC
-http://185.2.83.34:8000/live/elf/elf/740.ts
-#EXTINF:-1,NL Syfy
-http://185.2.83.34:8000/live/elf/elf/747.ts
-#EXTINF:-1,NL Sport1 Voetbal HD
-http://185.2.83.34:8000/live/elf/elf/757.ts
-#EXTINF:-1,NL Sport1 Select HD
-http://185.2.83.34:8000/live/elf/elf/756.ts
-#EXTINF:-1,NL Sport 1 Extra 2
-http://185.2.83.34:8000/live/elf/elf/761.ts
-#EXTINF:-1,NL SBS6 HD
-http://185.2.83.34:8000/live/elf/elf/725.ts
-#EXTINF:-1,NL SBS9 HD
-http://185.2.83.34:8000/live/elf/elf/728.ts
-#EXTINF:-1,NL RTL4 HD
-http://185.2.83.34:8000/live/elf/elf/723.ts
-#EXTINF:-1,NL RTL5 HD
-http://185.2.83.34:8000/live/elf/elf/724.ts
-#EXTINF:-1,NL RTL7 HD
-http://185.2.83.34:8000/live/elf/elf/726.ts
-#EXTINF:-1,NL RTL8 HD
-http://185.2.83.34:8000/live/elf/elf/727.ts
-#EXTINF:-1,NL Rtl Lounge
-http://185.2.83.34:8000/live/elf/elf/730.ts
-#EXTINF:-1,NL NPO1 HD
-http://185.2.83.34:8000/live/elf/elf/720.ts
-#EXTINF:-1,NL NPO2 HD
-http://185.2.83.34:8000/live/elf/elf/721.ts
-#EXTINF:-1,NL NPO3 HD
-http://185.2.83.34:8000/live/elf/elf/722.ts
-#EXTINF:-1,NL Nickelodeon
-http://185.2.83.34:8000/live/elf/elf/731.ts
-#EXTINF:-1,NL NGC HD
-http://185.2.83.34:8000/live/elf/elf/745.ts
-#EXTINF:-1,NL NET5 HD
-http://185.2.83.34:8000/live/elf/elf/729.ts
-#EXTINF:-1,NL MTV
-http://185.2.83.34:8000/live/elf/elf/738.ts
-#EXTINF:-1,NL HBO1 HD
-http://185.2.83.34:8000/live/elf/elf/753.ts
-#EXTINF:-1,NL HBO2 HD
-http://185.2.83.34:8000/live/elf/elf/754.ts
-#EXTINF:-1,NL HBO3 HD
-http://185.2.83.34:8000/live/elf/elf/755.ts
-#EXTINF:-1,NL Fox Sports 1
-http://185.2.83.34:8000/live/elf/elf/762.ts
-#EXTINF:-1,NL Fox Sports 2
-http://185.2.83.34:8000/live/elf/elf/763.ts
-#EXTINF:-1,NL Fox Sports 3
-http://185.2.83.34:8000/live/elf/elf/764.ts
-#EXTINF:-1,NL Fox Sports 4
-http://185.2.83.34:8000/live/elf/elf/765.ts
-#EXTINF:-1,NL Fox Sports 5
-http://185.2.83.34:8000/live/elf/elf/766.ts
-#EXTINF:-1,NL Fox
-http://185.2.83.34:8000/live/elf/elf/741.ts
-#EXTINF:-1,NL Film1 Sundance
-http://185.2.83.34:8000/live/elf/elf/750.ts
-#EXTINF:-1,NL Film1 Premiere HD
-http://185.2.83.34:8000/live/elf/elf/749.ts
-#EXTINF:-1,NL Film1 Comedy
-http://185.2.83.34:8000/live/elf/elf/751.ts
-#EXTINF:-1,NL Film1 Action
-http://185.2.83.34:8000/live/elf/elf/752.ts
-#EXTINF:-1,NL Eurosport HD
-http://185.2.83.34:8000/live/elf/elf/742.ts
-#EXTINF:-1,NL Disney Junior
-http://185.2.83.34:8000/live/elf/elf/736.ts
-#EXTINF:-1,NL Disney Channel
-http://185.2.83.34:8000/live/elf/elf/735.ts
-#EXTINF:-1,NL Discovery Investigation
-http://185.2.83.34:8000/live/elf/elf/744.ts
-#EXTINF:-1,NL Discovery
-http://185.2.83.34:8000/live/elf/elf/743.ts
-#EXTINF:-1,NL Comedy Central
-http://185.2.83.34:8000/live/elf/elf/734.ts
-#EXTINF:-1,NL Cartoon Network
-http://185.2.83.34:8000/live/elf/elf/737.ts
-#EXTINF:-1,NL Boomerang
-http://185.2.83.34:8000/live/elf/elf/733.ts
-#EXTINF:-1,NL 24Kitchen
-http://185.2.83.34:8000/live/elf/elf/739.ts
-#EXTINF:-1,NL 13th Street
-http://185.2.83.34:8000/live/elf/elf/746.ts
-#EXTINF:-1,====Albania====
-http://185.2.83.34:8000/live/elf/elf/2665.ts
-#EXTINF:-1,ALB:_Vizion_Plus
-http://185.2.83.34:8000/live/elf/elf/2667.ts
-#EXTINF:-1,ALB:_Tring_24_News
-http://185.2.83.34:8000/live/elf/elf/2678.ts
-#EXTINF:-1,ALB:_Tirng_Life
-http://185.2.83.34:8000/live/elf/elf/2677.ts
-#EXTINF:-1,ALB:_Plus_HD
-http://185.2.83.34:8000/live/elf/elf/2672.ts
-#EXTINF:-1,ALB:_Ora_News
-http://185.2.83.34:8000/live/elf/elf/2674.ts
-#EXTINF:-1,ALB:_Bbf_Music
-http://185.2.83.34:8000/live/elf/elf/2675.ts
-#EXTINF:-1,ALB:_Music_Al
-http://185.2.83.34:8000/live/elf/elf/2676.ts
-#EXTINF:-1,====SPAIN====
-http://185.2.83.34:8000/live/elf/elf/1735.ts
-#EXTINF:-1,SP Viajar - SP Viajar
-http://185.2.83.34:8000/live/elf/elf/1829.ts
-#EXTINF:-1,SP TVI Inter - SP TVI Inter
-http://185.2.83.34:8000/live/elf/elf/1825.ts
-#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
-http://185.2.83.34:8000/live/elf/elf/1824.ts
-#EXTINF:-1,SP TNT - SP TNT
-http://185.2.83.34:8000/live/elf/elf/1823.ts
-#EXTINF:-1,SP Teledeporte - SP Teledeporte
-http://185.2.83.34:8000/live/elf/elf/1822.ts
-#EXTINF:-1,SP Telecino - SP Telecino
-http://185.2.83.34:8000/live/elf/elf/1821.ts
-#EXTINF:-1,TCM_SPAIN
-http://185.2.83.34:8000/live/elf/elf/1890.ts
-#EXTINF:-1,SyFy_SPAIN
-http://185.2.83.34:8000/live/elf/elf/1889.ts
-#EXTINF:-1,Sol_Musica_SPAIN
-http://185.2.83.34:8000/live/elf/elf/1888.ts
-#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
-http://185.2.83.34:8000/live/elf/elf/1827.ts
-#EXTINF:-1,SP NGC Wild - SP NGC Wild
-http://185.2.83.34:8000/live/elf/elf/1851.ts
-#EXTINF:-1,SP NGC - SP NGC
-http://185.2.83.34:8000/live/elf/elf/1852.ts
-#EXTINF:-1,SP Neox - SP Neox
-http://185.2.83.34:8000/live/elf/elf/1830.ts
-#EXTINF:-1,SP MTV Espana - SP MTV Espana
-http://185.2.83.34:8000/live/elf/elf/1850.ts
-#EXTINF:-1,SP Moto GP - SP Moto GP
-http://185.2.83.34:8000/live/elf/elf/1867.ts
-#EXTINF:-1,SP Mezzo - SP Mezzo
-http://185.2.83.34:8000/live/elf/elf/1861.ts
-#EXTINF:-1,SP Ltc - SP Ltc
-http://185.2.83.34:8000/live/elf/elf/1866.ts
-#EXTINF:-1,SP La Sexta - SP La Sexta
-http://185.2.83.34:8000/live/elf/elf/1846.ts
-#EXTINF:-1,SP La 2 - SP La 2
-http://185.2.83.34:8000/live/elf/elf/1847.ts
-#EXTINF:-1,SP La 1 - SP La 1
-http://185.2.83.34:8000/live/elf/elf/1854.ts
-#EXTINF:-1,SP Hollywood - SP Hollywood
-http://185.2.83.34:8000/live/elf/elf/1855.ts
-#EXTINF:-1,SP Historia - SP Historia
-http://185.2.83.34:8000/live/elf/elf/1856.ts
-#EXTINF:-1,SP Fox News - SP Fox News
-http://185.2.83.34:8000/live/elf/elf/1857.ts
-#EXTINF:-1,SP FDF - SP FDF
-http://185.2.83.34:8000/live/elf/elf/1858.ts
-#EXTINF:-1,SP Energy - SP Energy
-http://185.2.83.34:8000/live/elf/elf/1864.ts
-#EXTINF:-1,SP Divinity - SP Divinity
-http://185.2.83.34:8000/live/elf/elf/1863.ts
-#EXTINF:-1,SP Disney xd - SP Disney xd
-http://185.2.83.34:8000/live/elf/elf/1862.ts
-#EXTINF:-1,SP Disney Ch - SP Disney Ch
-http://185.2.83.34:8000/live/elf/elf/1820.ts
-#EXTINF:-1,SP Discovery - SP Discovery
-http://185.2.83.34:8000/live/elf/elf/1837.ts
-#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
-http://185.2.83.34:8000/live/elf/elf/1840.ts
-#EXTINF:-1,SP Cuatro - SP Cuatro
-http://185.2.83.34:8000/live/elf/elf/1871.ts
-#EXTINF:-1,SP Comedy Central - SP Comedy Central
-http://185.2.83.34:8000/live/elf/elf/1833.ts
-#EXTINF:-1,SP Comedia HD - SP Comedia HD
-http://185.2.83.34:8000/live/elf/elf/1859.ts
-#EXTINF:-1,SP Classica - SP Classica
-http://185.2.83.34:8000/live/elf/elf/1836.ts
-#EXTINF:-1,SP Clan TVe - SP Clan TVe
-http://185.2.83.34:8000/live/elf/elf/1848.ts
-#EXTINF:-1,SP Canal Sur - SP Canal Sur
-http://185.2.83.34:8000/live/elf/elf/1841.ts
-#EXTINF:-1,SP Canal Panda - SP Canal Panda
-http://185.2.83.34:8000/live/elf/elf/1839.ts
-#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
-http://185.2.83.34:8000/live/elf/elf/1842.ts
-#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
-http://185.2.83.34:8000/live/elf/elf/1870.ts
-#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
-http://185.2.83.34:8000/live/elf/elf/1869.ts
-#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
-http://185.2.83.34:8000/live/elf/elf/1868.ts
-#EXTINF:-1,SP Calle 13 - SP Calle 13
-http://185.2.83.34:8000/live/elf/elf/1843.ts
-#EXTINF:-1,SP C  Toros - SP C  Toros
-http://185.2.83.34:8000/live/elf/elf/1828.ts
-#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
-http://185.2.83.34:8000/live/elf/elf/1874.ts
-#EXTINF:-1,SP C  Series - SP C  Series
-http://185.2.83.34:8000/live/elf/elf/1834.ts
-#EXTINF:-1,SP C  Liga - SP C  Liga
-http://185.2.83.34:8000/live/elf/elf/1878.ts
-#EXTINF:-1,C+Golf _SPAIN
-http://185.2.83.34:8000/live/elf/elf/1887.ts
-#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
-http://185.2.83.34:8000/live/elf/elf/1832.ts
-#EXTINF:-1,C+Footbol_SPAIN
-http://185.2.83.34:8000/live/elf/elf/1886.ts
-#EXTINF:-1,C+Estrenos_SPAIN
-http://185.2.83.34:8000/live/elf/elf/1885.ts
-#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
-http://185.2.83.34:8000/live/elf/elf/1882.ts
-#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
-http://185.2.83.34:8000/live/elf/elf/1883.ts
-#EXTINF:-1,SP C  Deportes - SP C  Deportes
-http://185.2.83.34:8000/live/elf/elf/1884.ts
-#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
-http://185.2.83.34:8000/live/elf/elf/1838.ts
-#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
-http://185.2.83.34:8000/live/elf/elf/1831.ts
-#EXTINF:-1,SP Boing - SP Boing
-http://185.2.83.34:8000/live/elf/elf/1881.ts
-#EXTINF:-1,SP Bein Sports - SP Bein Sports
-http://185.2.83.34:8000/live/elf/elf/1826.ts
-#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
-http://185.2.83.34:8000/live/elf/elf/1845.ts
-#EXTINF:-1,SP Barca Tv - SP Barca Tv
-http://185.2.83.34:8000/live/elf/elf/1860.ts
-#EXTINF:-1,SP Baby Tv - SP Baby Tv
-http://185.2.83.34:8000/live/elf/elf/1844.ts
-#EXTINF:-1,SP AXN HD - SP AXN HD
-http://185.2.83.34:8000/live/elf/elf/1853.ts
-#EXTINF:-1,SP Antena 3 - SP Antena 3
-http://185.2.83.34:8000/live/elf/elf/1872.ts
-#EXTINF:-1,SP AMC - SP AMC
-http://185.2.83.34:8000/live/elf/elf/1880.ts
-#EXTINF:-1,SP AE - SP AE
-http://185.2.83.34:8000/live/elf/elf/1875.ts
-#EXTINF:-1,SP 40 TV - SP 40 TV
-http://185.2.83.34:8000/live/elf/elf/1877.ts
-#EXTINF:-1,SP 24 Horas - SP 24 Horas
-http://185.2.83.34:8000/live/elf/elf/1876.ts
-#EXTINF:-1,SP_TAQUILLA_1
-http://185.2.83.34:8000/live/elf/elf/2621.ts
-#EXTINF:-1,SP_TAQUILLA_2
-http://185.2.83.34:8000/live/elf/elf/2622.ts
-#EXTINF:-1,SP-TAQUILLA-3
-http://185.2.83.34:8000/live/elf/elf/2623.ts
-#EXTINF:-1,SP_TAQUILLA_4
-http://185.2.83.34:8000/live/elf/elf/2624.ts
-#EXTINF:-1,SP_TAQUILLA_5
-http://185.2.83.34:8000/live/elf/elf/2625.ts
-#EXTINF:-1,SP_TAQUILLA_6
-http://185.2.83.34:8000/live/elf/elf/2626.ts
-#EXTINF:-1,SP_TAQUILLA_7
-http://185.2.83.34:8000/live/elf/elf/2627.ts
-#EXTINF:-1,SP_TAQUILLA_8
-http://185.2.83.34:8000/live/elf/elf/2628.ts
-#EXTINF:-1,SP_TAQUILLA_9
-http://185.2.83.34:8000/live/elf/elf/2629.ts
-#EXTINF:-1,SP_TAQUILLA_10
-http://185.2.83.34:8000/live/elf/elf/2630.ts
-#EXTINF:-1,TAQUILLA_11_HD
-http://185.2.83.34:8000/live/elf/elf/2658.ts
-#EXTINF:-1,TAQUILLA_12_HD
-http://185.2.83.34:8000/live/elf/elf/2659.ts
-#EXTINF:-1,TAQUILLA_13_HD
-http://185.2.83.34:8000/live/elf/elf/2660.ts
-#EXTINF:-1,TAQUILLA_14_HD
-http://185.2.83.34:8000/live/elf/elf/2661.ts
-#EXTINF:-1,TAQUILLA_15_HD
-http://185.2.83.34:8000/live/elf/elf/2662.ts
-#EXTINF:-1,TAQUILLA_16_HD
-http://185.2.83.34:8000/live/elf/elf/2663.ts
-#EXTINF:-1,====TURKISH====
-http://185.2.83.34:8000/live/elf/elf/1745.ts
-#EXTINF:-1,TR_Ulke_TV
-http://185.2.83.34:8000/live/elf/elf/2477.ts
-#EXTINF:-1,TR_TV_2
-http://185.2.83.34:8000/live/elf/elf/2498.ts
-#EXTINF:-1,TR_Trt_Muzik_HD
-http://185.2.83.34:8000/live/elf/elf/2474.ts
-#EXTINF:-1,TR _trt_Cocuk_HD
-http://185.2.83.34:8000/live/elf/elf/2475.ts
-#EXTINF:-1,TR_Saudi_Sunnah
-http://185.2.83.34:8000/live/elf/elf/2491.ts
-#EXTINF:-1,TR_Powerturk
-http://185.2.83.34:8000/live/elf/elf/2497.ts
-#EXTINF:-1,TR_Power_TURK
-http://185.2.83.34:8000/live/elf/elf/2502.ts
-#EXTINF:-1,TR_Planet_Turk
-http://185.2.83.34:8000/live/elf/elf/2482.ts
-#EXTINF:-1,TR_Number_1
-http://185.2.83.34:8000/live/elf/elf/2484.ts
-#EXTINF:-1,TR_Ngc_Wild
-http://185.2.83.34:8000/live/elf/elf/2488.ts
-#EXTINF:-1,TR_Ngc_People
-http://185.2.83.34:8000/live/elf/elf/2489.ts
-#EXTINF:-1,TR_Ngc
-http://185.2.83.34:8000/live/elf/elf/2487.ts
-#EXTINF:-1,TR_Net_TV
-http://185.2.83.34:8000/live/elf/elf/2478.ts
-#EXTINF:-1,TR_Minika_GO
-http://185.2.83.34:8000/live/elf/elf/2504.ts
-#EXTINF:-1,TR_Minika_Cocuk
-http://185.2.83.34:8000/live/elf/elf/2505.ts
-#EXTINF:-1,TR_M_Belgesel
-http://185.2.83.34:8000/live/elf/elf/2501.ts
-#EXTINF:-1,TR_Kral_TV
-http://185.2.83.34:8000/live/elf/elf/2506.ts
-#EXTINF:-1,TR_Kral_Pop
-http://185.2.83.34:8000/live/elf/elf/2507.ts
-#EXTINF:-1,TR_Kanal_Avrupa
-http://185.2.83.34:8000/live/elf/elf/2492.ts
-#EXTINF:-1,TR_Kanal_24
-http://185.2.83.34:8000/live/elf/elf/2476.ts
-#EXTINF:-1,TR_Filmbox_Türk_HD
-http://185.2.83.34:8000/live/elf/elf/2516.ts
-#EXTINF:-1,TR_Filmbox_Premier_HD
-http://185.2.83.34:8000/live/elf/elf/2512.ts
-#EXTINF:-1,TR_Filmbox_Korku_HD
-http://185.2.83.34:8000/live/elf/elf/2514.ts
-#EXTINF:-1,TR_Filmbox_Aile_HD
-http://185.2.83.34:8000/live/elf/elf/2513.ts
-#EXTINF:-1,TR_Fil_TV
-http://185.2.83.34:8000/live/elf/elf/2500.ts
-#EXTINF:-1,TR_Dream_TV
-http://185.2.83.34:8000/live/elf/elf/2495.ts
-#EXTINF:-1,TR_Dream_Turk
-http://185.2.83.34:8000/live/elf/elf/2496.ts
-#EXTINF:-1,TR_Discovery_Channel
-http://185.2.83.34:8000/live/elf/elf/2486.ts
-#EXTINF:-1,TR_Cartoon_Network
-http://185.2.83.34:8000/live/elf/elf/2481.ts
-#EXTINF:-1,TR_Bloomberg
-http://185.2.83.34:8000/live/elf/elf/2503.ts
-#EXTINF:-1,TR_Al_quran
-http://185.2.83.34:8000/live/elf/elf/2490.ts
-#EXTINF:-1,TR TRT 1 HD
-http://185.2.83.34:8000/live/elf/elf/706.ts
-#EXTINF:-1,TR STAR TV
-http://185.2.83.34:8000/live/elf/elf/711.ts
-#EXTINF:-1,TR SHOW TV hd
-http://185.2.83.34:8000/live/elf/elf/710.ts
-#EXTINF:-1,TR NTV SmartSpor
-http://185.2.83.34:8000/live/elf/elf/717.ts
-#EXTINF:-1,TR KANAL D HD
-http://185.2.83.34:8000/live/elf/elf/713.ts
-#EXTINF:-1,TR KANAL 7 HD
-http://185.2.83.34:8000/live/elf/elf/714.ts
-#EXTINF:-1,TR FOX
-http://185.2.83.34:8000/live/elf/elf/709.ts
-#EXTINF:-1,TR ATV HD
-http://185.2.83.34:8000/live/elf/elf/708.ts
-#EXTINF:-1,TR TV 8 HD
-http://185.2.83.34:8000/live/elf/elf/1755.ts
-#EXTINF:-1,TR TRT Spor HD
-http://185.2.83.34:8000/live/elf/elf/1764.ts
-#EXTINF:-1,TR TRT HD
-http://185.2.83.34:8000/live/elf/elf/1751.ts
-#EXTINF:-1,TR TRT Haber HD
-http://185.2.83.34:8000/live/elf/elf/1752.ts
-#EXTINF:-1,TR TRT planet  Cocuk
-http://185.2.83.34:8000/live/elf/elf/1753.ts
-#EXTINF:-1,TR TRT Belgesel
-http://185.2.83.34:8000/live/elf/elf/1750.ts
-#EXTINF:-1,TR TGRT Haber
-http://185.2.83.34:8000/live/elf/elf/1756.ts
-#EXTINF:-1,TR Semerkand HD
-http://185.2.83.34:8000/live/elf/elf/1760.ts
-#EXTINF:-1,TR NTV Spor
-http://185.2.83.34:8000/live/elf/elf/1763.ts
-#EXTINF:-1,TR NTV
-http://185.2.83.34:8000/live/elf/elf/1762.ts
-#EXTINF:-1,TR Halk TV
-http://185.2.83.34:8000/live/elf/elf/1766.ts
-#EXTINF:-1,TR Flash TV
-http://185.2.83.34:8000/live/elf/elf/1767.ts
-#EXTINF:-1,TR CNN Turk
-http://185.2.83.34:8000/live/elf/elf/1761.ts
-#EXTINF:-1,TR Beyaz TV HD
-http://185.2.83.34:8000/live/elf/elf/1768.ts
-#EXTINF:-1,TR A Spor HD
-http://185.2.83.34:8000/live/elf/elf/1765.ts
-#EXTINF:-1,TR A Haber HD
-http://185.2.83.34:8000/live/elf/elf/1770.ts
-#EXTINF:-1,TR:Salon 1
-http://185.2.83.34:8000/live/elf/elf/902.ts
-#EXTINF:-1,TR:Salon 2
-http://185.2.83.34:8000/live/elf/elf/903.ts
-#EXTINF:-1,TR:Salon 3
-http://185.2.83.34:8000/live/elf/elf/904.ts
-#EXTINF:-1,TR:Ligtv2 HD
-http://185.2.83.34:8000/live/elf/elf/900.ts
-#EXTINF:-1,====SKY DE====
-http://185.2.83.34:8000/live/elf/elf/1732.ts
+http://163.172.37.71:8789/live/andrea/andrea/63.ts
+#EXTINF:-1,BOiNg
+http://163.172.37.71:8789/live/andrea/andrea/794.ts
+#EXTINF:-1,CARTOON_NETWORK
+http://163.172.37.71:8789/live/andrea/andrea/65.ts
+#EXTINF:-1,GAME_ONE
+http://163.172.37.71:8789/live/andrea/andrea/180.ts
+#EXTINF:-1,GULLI
+http://163.172.37.71:8789/live/andrea/andrea/297.ts
+#EXTINF:-1,GONG
+http://163.172.37.71:8789/live/andrea/andrea/248.ts
+#EXTINF:-1,MANGAS
+http://163.172.37.71:8789/live/andrea/andrea/66.ts
+#EXTINF:-1,<<<<<< Culture>>>>>>
+http://163.172.37.71:8789/live/andrea/andrea/137.ts
+#EXTINF:-1,PLANET+
+http://163.172.37.71:8789/live/andrea/andrea/271.ts
+#EXTINF:-1,PLANETE_CI
+http://163.172.37.71:8789/live/andrea/andrea/246.ts
+#EXTINF:-1,PLANETE_A&E
+http://163.172.37.71:8789/live/andrea/andrea/247.ts
+#EXTINF:-1,DISCOVERY-FR
+http://163.172.37.71:8789/live/andrea/andrea/269.ts
+#EXTINF:-1,DISCOVERY-SCIENCE
+http://163.172.37.71:8789/live/andrea/andrea/286.ts
+#EXTINF:-1,NATIONAL-GEO
+http://163.172.37.71:8789/live/andrea/andrea/285.ts
+#EXTINF:-1,NAT_GEO_WILD
+http://163.172.37.71:8789/live/andrea/andrea/143.ts
+#EXTINF:-1,Scienc&Vie
+http://163.172.37.71:8789/live/andrea/andrea/288.ts
+#EXTINF:-1,ANIMAUX_HD
+http://163.172.37.71:8789/live/andrea/andrea/33.ts
+#EXTINF:-1,USHUAIA
+http://163.172.37.71:8789/live/andrea/andrea/272.ts
+#EXTINF:-1,USHUAIA_TV
+http://163.172.37.71:8789/live/andrea/andrea/1055.ts
+#EXTINF:-1,RMC_SD
+http://163.172.37.71:8789/live/andrea/andrea/1026.ts
+#EXTINF:-1,VOYAGE
+http://163.172.37.71:8789/live/andrea/andrea/458.ts
+#EXTINF:-1,RMC_Decouvert
+http://163.172.37.71:8789/live/andrea/andrea/310.ts
+#EXTINF:-1,TREK
+http://163.172.37.71:8789/live/andrea/andrea/389.ts
+#EXTINF:-1,CHASSE-PECHE
+http://163.172.37.71:8789/live/andrea/andrea/287.ts
+#EXTINF:-1,SEASONS
+http://163.172.37.71:8789/live/andrea/andrea/703.ts
+#EXTINF:-1,toute_L'Hisoire
+http://163.172.37.71:8789/live/andrea/andrea/296.ts
+#EXTINF:-1,HISTOIRE
+http://163.172.37.71:8789/live/andrea/andrea/306.ts
+#EXTINF:-1,Histoir_SD
+http://163.172.37.71:8789/live/andrea/andrea/1056.ts
+#EXTINF:-1,CHERIE_25
+http://163.172.37.71:8789/live/andrea/andrea/298.ts
+#EXTINF:-1,<<<<<<News>>>>>>
+http://163.172.37.71:8789/live/andrea/andrea/190.ts
+#EXTINF:-1,EuroNews-FR
+http://163.172.37.71:8789/live/andrea/andrea/412.ts
+#EXTINF:-1,EURONEWS_FR
+http://163.172.37.71:8789/live/andrea/andrea/300.ts
+#EXTINF:-1,France-24
+http://163.172.37.71:8789/live/andrea/andrea/1044.ts
+#EXTINF:-1,FRANCE_24
+http://163.172.37.71:8789/live/andrea/andrea/162.ts
+#EXTINF:-1,BFM_TV_HD
+http://163.172.37.71:8789/live/andrea/andrea/155.ts
+#EXTINF:-1,BFM_BUISINESS
+http://163.172.37.71:8789/live/andrea/andrea/1045.ts
+#EXTINF:-1,LCI
+http://163.172.37.71:8789/live/andrea/andrea/1042.ts
+#EXTINF:-1,LCP
+http://163.172.37.71:8789/live/andrea/andrea/1016.ts
+#EXTINF:-1,iTELE
+http://163.172.37.71:8789/live/andrea/andrea/186.ts
+#EXTINF:-1,TV5_MONDE
+http://163.172.37.71:8789/live/andrea/andrea/309.ts
+#EXTINF:-1,TV-5monde
+http://163.172.37.71:8789/live/andrea/andrea/1033.ts
+#EXTINF:-1,i24
+http://163.172.37.71:8789/live/andrea/andrea/1050.ts
+#EXTINF:-1,Africa.24
+http://163.172.37.71:8789/live/andrea/andrea/1047.ts
+#EXTINF:-1,=====MUSIC=====
+http://163.172.37.71:8789/live/andrea/andrea/268.ts
+#EXTINF:-1,M6_Music_Club
+http://163.172.37.71:8789/live/andrea/andrea/422.ts
+#EXTINF:-1,MTV-PULSE
+http://163.172.37.71:8789/live/andrea/andrea/264.ts
+#EXTINF:-1,MTV-MUSIC
+http://163.172.37.71:8789/live/andrea/andrea/265.ts
+#EXTINF:-1,MTV-BASE
+http://163.172.37.71:8789/live/andrea/andrea/266.ts
+#EXTINF:-1,MTV
+http://163.172.37.71:8789/live/andrea/andrea/267.ts
+#EXTINF:-1,MCM
+http://163.172.37.71:8789/live/andrea/andrea/1037.ts
+#EXTINF:-1,MCM_POP_MUSIC
+http://163.172.37.71:8789/live/andrea/andrea/992.ts
+#EXTINF:-1,NRJ12
+http://163.172.37.71:8789/live/andrea/andrea/241.ts
+#EXTINF:-1,Ofive.tv
+http://163.172.37.71:8789/live/andrea/andrea/1038.ts
+#EXTINF:-1,Clubbing.Tv
+http://163.172.37.71:8789/live/andrea/andrea/1039.ts
+#EXTINF:-1,VIRGIN-TV
+http://163.172.37.71:8789/live/andrea/andrea/86.ts
+#EXTINF:-1,Djazz_tv
+http://163.172.37.71:8789/live/andrea/andrea/716.ts
+#EXTINF:-1,TF1_ByTel_TEST
+http://163.172.37.71:8789/live/andrea/andrea/1062.ts
+#EXTINF:-1,VH1_Classic
+http://163.172.37.71:8789/live/andrea/andrea/842.ts
+#EXTINF:-1,•??--- OCS_GO ----??•
+http://163.172.37.71:8789/live/andrea/andrea/786.ts
+#EXTINF:-1,Orange enquete exclusive
+http://163.172.37.71:8789/live/andrea/andrea/290.ts
+#EXTINF:-1,Orange_Cine
+http://163.172.37.71:8789/live/andrea/andrea/782.ts
+#EXTINF:-1,Orange_Cine+1
+http://163.172.37.71:8789/live/andrea/andrea/730.ts
+#EXTINF:-1,Orange_Cine+2
+http://163.172.37.71:8789/live/andrea/andrea/729.ts
+#EXTINF:-1,Orange_Cine+3
+http://163.172.37.71:8789/live/andrea/andrea/67.ts
+#EXTINF:-1,Orange_Cine+4
+http://163.172.37.71:8789/live/andrea/andrea/693.ts
+#EXTINF:-1,Orange_Cine+5
+http://163.172.37.71:8789/live/andrea/andrea/732.ts
+#EXTINF:-1,Orange_Cine+6
+http://163.172.37.71:8789/live/andrea/andrea/99.ts
+#EXTINF:-1,Orange_Cine+7
+http://163.172.37.71:8789/live/andrea/andrea/98.ts
+#EXTINF:-1,Orange_Cine+8
+http://163.172.37.71:8789/live/andrea/andrea/388.ts
+#EXTINF:-1,=====Belgique=====
+http://163.172.37.71:8789/live/andrea/andrea/273.ts
+#EXTINF:-1,La-Une
+http://163.172.37.71:8789/live/andrea/andrea/277.ts
+#EXTINF:-1,La-Deux
+http://163.172.37.71:8789/live/andrea/andrea/278.ts
+#EXTINF:-1,La-Trois
+http://163.172.37.71:8789/live/andrea/andrea/279.ts
+#EXTINF:-1,CLUB-RTL
+http://163.172.37.71:8789/live/andrea/andrea/293.ts
+#EXTINF:-1,BRUXELLES-TV
+http://163.172.37.71:8789/live/andrea/andrea/276.ts
+#EXTINF:-1,RTC_Tele_Liege
+http://163.172.37.71:8789/live/andrea/andrea/261.ts
+#EXTINF:-1,RTVI-be
+http://163.172.37.71:8789/live/andrea/andrea/380.ts
+#EXTINF:-1,BE1
+http://163.172.37.71:8789/live/andrea/andrea/275.ts
+#EXTINF:-1,BE-CINE
+http://163.172.37.71:8789/live/andrea/andrea/274.ts
+#EXTINF:-1,=====HBO=====
+http://163.172.37.71:8789/live/andrea/andrea/766.ts
+#EXTINF:-1,NL:HBO
+http://163.172.37.71:8789/live/andrea/andrea/767.ts
+#EXTINF:-1,NL:HBO2
+http://163.172.37.71:8789/live/andrea/andrea/768.ts
+#EXTINF:-1,NL:HBO3
+http://163.172.37.71:8789/live/andrea/andrea/769.ts
+#EXTINF:-1,USA:HBO-Family
+http://163.172.37.71:8789/live/andrea/andrea/771.ts
+#EXTINF:-1,HBO-Comedy
+http://163.172.37.71:8789/live/andrea/andrea/775.ts
+#EXTINF:-1,Ex-Yu:HBO
+http://163.172.37.71:8789/live/andrea/andrea/770.ts
+#EXTINF:-1,ALB:HBO-Comedy
+http://163.172.37.71:8789/live/andrea/andrea/778.ts
+#EXTINF:-1,ALB:HBO
+http://163.172.37.71:8789/live/andrea/andrea/779.ts
+#EXTINF:-1,Uk:SyFy
+http://163.172.37.71:8789/live/andrea/andrea/291.ts
+#EXTINF:-1,NL:SyFy
+http://163.172.37.71:8789/live/andrea/andrea/582.ts
+#EXTINF:-1,=====OSN arabia=====
+http://163.172.37.71:8789/live/andrea/andrea/104.ts
+#EXTINF:-1,OSN_Movies_HD
+http://163.172.37.71:8789/live/andrea/andrea/105.ts
+#EXTINF:-1,OSN_Movies_Action_HD
+http://163.172.37.71:8789/live/andrea/andrea/106.ts
+#EXTINF:-1,OSN_Movies_Action+2
+http://163.172.37.71:8789/live/andrea/andrea/813.ts
+#EXTINF:-1,OSN_Mov_Premiere_HD
+http://163.172.37.71:8789/live/andrea/andrea/107.ts
+#EXTINF:-1,OSN_Mov_Festival
+http://163.172.37.71:8789/live/andrea/andrea/262.ts
+#EXTINF:-1,OSN_MOVIES_FAMILY
+http://163.172.37.71:8789/live/andrea/andrea/944.ts
+#EXTINF:-1,OSN_Mov_Drama
+http://163.172.37.71:8789/live/andrea/andrea/581.ts
+#EXTINF:-1,OSN_Mov_Com_HD
+http://163.172.37.71:8789/live/andrea/andrea/140.ts
+#EXTINF:-1,OSN_Movies_Kids
+http://163.172.37.71:8789/live/andrea/andrea/583.ts
+#EXTINF:-1,OSN_Star_Movies
+http://163.172.37.71:8789/live/andrea/andrea/793.ts
+#EXTINF:-1,OSN_Movie_Box 1
+http://163.172.37.71:8789/live/andrea/andrea/791.ts
+#EXTINF:-1,OSN_MOVIEBOX_2
+http://163.172.37.71:8789/live/andrea/andrea/784.ts
+#EXTINF:-1,OSN_BOX_OFFICE.1
+http://163.172.37.71:8789/live/andrea/andrea/281.ts
+#EXTINF:-1,OSN_BOX_OFFICE.2
+http://163.172.37.71:8789/live/andrea/andrea/282.ts
+#EXTINF:-1,OSN_BOX_OFFICE.3
+http://163.172.37.71:8789/live/andrea/andrea/283.ts
+#EXTINF:-1,OSN_FIRST_HBO
+http://163.172.37.71:8789/live/andrea/andrea/97.ts
+#EXTINF:-1,OSN_Discovery_ID
+http://163.172.37.71:8789/live/andrea/andrea/141.ts
+#EXTINF:-1,OSN_Discovery SC
+http://163.172.37.71:8789/live/andrea/andrea/792.ts
+#EXTINF:-1,OSN_ANIMAL_PLANET
+http://163.172.37.71:8789/live/andrea/andrea/695.ts
+#EXTINF:-1,OSN_Nat_Geo_wILD
+http://163.172.37.71:8789/live/andrea/andrea/884.ts
+#EXTINF:-1,OSN_E!
+http://163.172.37.71:8789/live/andrea/andrea/667.ts
+#EXTINF:-1,KTV_kohavision
+http://163.172.37.71:8789/live/andrea/andrea/1028.ts
+#EXTINF:-1,OSN_Alyawm
+http://163.172.37.71:8789/live/andrea/andrea/993.ts
+#EXTINF:-1,OSN-Ya_Hela_HD
+http://163.172.37.71:8789/live/andrea/andrea/576.ts
+#EXTINF:-1,OSN-YaHela_Drama_HD
+http://163.172.37.71:8789/live/andrea/andrea/577.ts
+#EXTINF:-1,OSN-YaHela_Chabeb_HD
+http://163.172.37.71:8789/live/andrea/andrea/578.ts
+#EXTINF:-1,OSN-YaHela_Cinema_HD
+http://163.172.37.71:8789/live/andrea/andrea/814.ts
+#EXTINF:-1,OSN ORBITCINEMA 1
+http://163.172.37.71:8789/live/andrea/andrea/294.ts
+#EXTINF:-1,OSN ORBITCINEMA 2
+http://163.172.37.71:8789/live/andrea/andrea/295.ts
+#EXTINF:-1,OSN_ONDEMAND.1HD
+http://163.172.37.71:8789/live/andrea/andrea/855.ts
+#EXTINF:-1,OSN_ONDEMAND.2HD
+http://163.172.37.71:8789/live/andrea/andrea/856.ts
+#EXTINF:-1,OSN_ONDEMAND-EXTRA.2HD
+http://163.172.37.71:8789/live/andrea/andrea/858.ts
+#EXTINF:-1,OSN_ONDEMAND-EXTRA.1HD
+http://163.172.37.71:8789/live/andrea/andrea/857.ts
+#EXTINF:-1,*******ARABIC*******
+http://163.172.37.71:8789/live/andrea/andrea/75.ts
+#EXTINF:-1,Cinema_1
+http://163.172.37.71:8789/live/andrea/andrea/653.ts
+#EXTINF:-1,Cinema_2
+http://163.172.37.71:8789/live/andrea/andrea/652.ts
+#EXTINF:-1,Cinema_3
+http://163.172.37.71:8789/live/andrea/andrea/651.ts
+#EXTINF:-1,Cinema_4
+http://163.172.37.71:8789/live/andrea/andrea/650.ts
+#EXTINF:-1,Cinema_5
+http://163.172.37.71:8789/live/andrea/andrea/647.ts
+#EXTINF:-1,Cinema_6
+http://163.172.37.71:8789/live/andrea/andrea/648.ts
+#EXTINF:-1,Cinema_7
+http://163.172.37.71:8789/live/andrea/andrea/655.ts
+#EXTINF:-1,Cinema_8
+http://163.172.37.71:8789/live/andrea/andrea/657.ts
+#EXTINF:-1,Cinema_9
+http://163.172.37.71:8789/live/andrea/andrea/658.ts
+#EXTINF:-1,Cinema_10
+http://163.172.37.71:8789/live/andrea/andrea/659.ts
+#EXTINF:-1,CINEMA_11
+http://163.172.37.71:8789/live/andrea/andrea/832.ts
+#EXTINF:-1,CINEMA_12
+http://163.172.37.71:8789/live/andrea/andrea/833.ts
+#EXTINF:-1,CINEMA_13
+http://163.172.37.71:8789/live/andrea/andrea/834.ts
+#EXTINF:-1,CINEMA_14
+http://163.172.37.71:8789/live/andrea/andrea/835.ts
+#EXTINF:-1,CINEMA_15
+http://163.172.37.71:8789/live/andrea/andrea/836.ts
+#EXTINF:-1,CINEMA_16
+http://163.172.37.71:8789/live/andrea/andrea/837.ts
+#EXTINF:-1,CINEMA_17
+http://163.172.37.71:8789/live/andrea/andrea/838.ts
+#EXTINF:-1,CINEMA_18
+http://163.172.37.71:8789/live/andrea/andrea/839.ts
+#EXTINF:-1,CINEMA_19
+http://163.172.37.71:8789/live/andrea/andrea/840.ts
+#EXTINF:-1,CINEMA_20
+http://163.172.37.71:8789/live/andrea/andrea/841.ts
+#EXTINF:-1,=====RTM=====
+http://163.172.37.71:8789/live/andrea/andrea/202.ts
+#EXTINF:-1,ARRIADIA_TV_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/39.ts
+#EXTINF:-1,2M_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/40.ts
+#EXTINF:-1,Medi1TV
+http://163.172.37.71:8789/live/andrea/andrea/204.ts
+#EXTINF:-1,ASSADISSA_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/72.ts
+#EXTINF:-1,ARRABIA_TV_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/38.ts
+#EXTINF:-1,ALMAGHRIBIA_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/73.ts
+#EXTINF:-1,ALAOULA_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/42.ts
+#EXTINF:-1,TAMAZIGHT_MAROC
+http://163.172.37.71:8789/live/andrea/andrea/74.ts
+#EXTINF:-1,=====Algerie=====
+http://163.172.37.71:8789/live/andrea/andrea/214.ts
+#EXTINF:-1,Algeria
+http://163.172.37.71:8789/live/andrea/andrea/725.ts
+#EXTINF:-1,ENTV 1
+http://163.172.37.71:8789/live/andrea/andrea/215.ts
+#EXTINF:-1,KBCAlgeria
+http://163.172.37.71:8789/live/andrea/andrea/220.ts
+#EXTINF:-1,ALGERIE_3
+http://163.172.37.71:8789/live/andrea/andrea/216.ts
+#EXTINF:-1,Dzair_Tv
+http://163.172.37.71:8789/live/andrea/andrea/217.ts
+#EXTINF:-1,Dzair_News
+http://163.172.37.71:8789/live/andrea/andrea/218.ts
+#EXTINF:-1,ELDJAZAIRIA
+http://163.172.37.71:8789/live/andrea/andrea/219.ts
+#EXTINF:-1,EnnaharTv
+http://163.172.37.71:8789/live/andrea/andrea/223.ts
+#EXTINF:-1,Ennahar_Laki
+http://163.172.37.71:8789/live/andrea/andrea/727.ts
+#EXTINF:-1,AlHaddaf
+http://163.172.37.71:8789/live/andrea/andrea/221.ts
+#EXTINF:-1,Echourouktv
+http://163.172.37.71:8789/live/andrea/andrea/224.ts
+#EXTINF:-1,ECHOUROUK_NEWS
+http://163.172.37.71:8789/live/andrea/andrea/726.ts
+#EXTINF:-1,Echourouktv_Benna
+http://163.172.37.71:8789/live/andrea/andrea/579.ts
+#EXTINF:-1,Samira_TV
+http://163.172.37.71:8789/live/andrea/andrea/208.ts
+#EXTINF:-1,FATAFEAT
+http://163.172.37.71:8789/live/andrea/andrea/790.ts
+#EXTINF:-1,Beur_tv_DZ
+http://163.172.37.71:8789/live/andrea/andrea/222.ts
+#EXTINF:-1,=====TUNISIE=====
+http://163.172.37.71:8789/live/andrea/andrea/502.ts
+#EXTINF:-1,TUNISNA
+http://163.172.37.71:8789/live/andrea/andrea/496.ts
+#EXTINF:-1,TUNISIA_FIRST_TV
+http://163.172.37.71:8789/live/andrea/andrea/499.ts
+#EXTINF:-1,TUNISIA_NAT1
+http://163.172.37.71:8789/live/andrea/andrea/489.ts
+#EXTINF:-1,TUNISIA_NAT2
+http://163.172.37.71:8789/live/andrea/andrea/490.ts
+#EXTINF:-1,TN_M_Tunisia
+http://163.172.37.71:8789/live/andrea/andrea/501.ts
+#EXTINF:-1,NESMA_TV
+http://163.172.37.71:8789/live/andrea/andrea/492.ts
+#EXTINF:-1,ZAYTOUNA_TV
+http://163.172.37.71:8789/live/andrea/andrea/497.ts
+#EXTINF:-1,ZAYTOUNA_HIDAYA_TV
+http://163.172.37.71:8789/live/andrea/andrea/498.ts
+#EXTINF:-1,ATTESIA_TV
+http://163.172.37.71:8789/live/andrea/andrea/494.ts
+#EXTINF:-1,ALJANOUBIA
+http://163.172.37.71:8789/live/andrea/andrea/495.ts
+#EXTINF:-1,HANIBAL
+http://163.172.37.71:8789/live/andrea/andrea/493.ts
+#EXTINF:-1,TNN
+http://163.172.37.71:8789/live/andrea/andrea/500.ts
+#EXTINF:-1,ElHiwar_Ettounsi_TV
+http://163.172.37.71:8789/live/andrea/andrea/491.ts
+#EXTINF:-1,=====Islamic_Channels=====
+http://163.172.37.71:8789/live/andrea/andrea/416.ts
+#EXTINF:-1,IQRAA
+http://163.172.37.71:8789/live/andrea/andrea/59.ts
+#EXTINF:-1,MADINA
+http://163.172.37.71:8789/live/andrea/andrea/614.ts
+#EXTINF:-1,Mecca
+http://163.172.37.71:8789/live/andrea/andrea/702.ts
+#EXTINF:-1,Al_Sunna
+http://163.172.37.71:8789/live/andrea/andrea/519.ts
+#EXTINF:-1,AL_RESALAH
+http://163.172.37.71:8789/live/andrea/andrea/417.ts
+#EXTINF:-1,Alnas
+http://163.172.37.71:8789/live/andrea/andrea/535.ts
+#EXTINF:-1,Saudi_Quran
+http://163.172.37.71:8789/live/andrea/andrea/953.ts
+#EXTINF:-1,SAUDI_ARABIA.1
+http://163.172.37.71:8789/live/andrea/andrea/954.ts
+#EXTINF:-1,SAUDI_ARABIA.2
+http://163.172.37.71:8789/live/andrea/andrea/955.ts
+#EXTINF:-1,=====ALMAJD=====
+http://163.172.37.71:8789/live/andrea/andrea/696.ts
+#EXTINF:-1,Al_Majd
+http://163.172.37.71:8789/live/andrea/andrea/517.ts
+#EXTINF:-1,ALMAJD_QURAN
+http://163.172.37.71:8789/live/andrea/andrea/485.ts
+#EXTINF:-1,Almajd_Holy_Hadeeth
+http://163.172.37.71:8789/live/andrea/andrea/700.ts
+#EXTINF:-1,Almajd_Educational
+http://163.172.37.71:8789/live/andrea/andrea/704.ts
+#EXTINF:-1,Almajd_Tagharid
+http://163.172.37.71:8789/live/andrea/andrea/706.ts
+#EXTINF:-1,Almajd_Rawdha
+http://163.172.37.71:8789/live/andrea/andrea/707.ts
+#EXTINF:-1,Almajd_Kids
+http://163.172.37.71:8789/live/andrea/andrea/699.ts
+#EXTINF:-1,Almajd_Basma
+http://163.172.37.71:8789/live/andrea/andrea/705.ts
+#EXTINF:-1,=====Arab_News=====
+http://163.172.37.71:8789/live/andrea/andrea/423.ts
+#EXTINF:-1,ALARBIA_ALHADATH
+http://163.172.37.71:8789/live/andrea/andrea/488.ts
+#EXTINF:-1,ALARABIA
+http://163.172.37.71:8789/live/andrea/andrea/304.ts
+#EXTINF:-1,ALJADEED-SAT
+http://163.172.37.71:8789/live/andrea/andrea/452.ts
+#EXTINF:-1,RT_Arab
+http://163.172.37.71:8789/live/andrea/andrea/301.ts
+#EXTINF:-1,DW_AR
+http://163.172.37.71:8789/live/andrea/andrea/610.ts
+#EXTINF:-1,BBC_Arab
+http://163.172.37.71:8789/live/andrea/andrea/302.ts
+#EXTINF:-1,SKYNEWS_ARABIA
+http://163.172.37.71:8789/live/andrea/andrea/448.ts
+#EXTINF:-1,Euronews-AR
+http://163.172.37.71:8789/live/andrea/andrea/411.ts
+#EXTINF:-1,ALAZEERA ENGLISH
+http://163.172.37.71:8789/live/andrea/andrea/414.ts
+#EXTINF:-1,Aljazeera_ar
+http://163.172.37.71:8789/live/andrea/andrea/303.ts
+#EXTINF:-1,ALJAZEERA
+http://163.172.37.71:8789/live/andrea/andrea/415.ts
+#EXTINF:-1,ANN
+http://163.172.37.71:8789/live/andrea/andrea/586.ts
+#EXTINF:-1,Al_yawm
+http://163.172.37.71:8789/live/andrea/andrea/588.ts
+#EXTINF:-1,ALRAI-TV
+http://163.172.37.71:8789/live/andrea/andrea/451.ts
+#EXTINF:-1,AlNabaa
+http://163.172.37.71:8789/live/andrea/andrea/587.ts
+#EXTINF:-1,TRT_ARABIC
+http://163.172.37.71:8789/live/andrea/andrea/486.ts
+#EXTINF:-1,MAAN_NEWS
+http://163.172.37.71:8789/live/andrea/andrea/649.ts
+#EXTINF:-1,SHARQIYA_NEWS
+http://163.172.37.71:8789/live/andrea/andrea/487.ts
+#EXTINF:-1,Future_TV_News
+http://163.172.37.71:8789/live/andrea/andrea/642.ts
+#EXTINF:-1,Sharjah-TV
+http://163.172.37.71:8789/live/andrea/andrea/643.ts
+#EXTINF:-1,ROAYA-TV
+http://163.172.37.71:8789/live/andrea/andrea/656.ts
+#EXTINF:-1,FRANCE.24
+http://163.172.37.71:8789/live/andrea/andrea/617.ts
+#EXTINF:-1,=====ATFAL=====
+http://163.172.37.71:8789/live/andrea/andrea/225.ts
+#EXTINF:-1,Jeem
+http://163.172.37.71:8789/live/andrea/andrea/772.ts
+#EXTINF:-1,Jeem_europe
+http://163.172.37.71:8789/live/andrea/andrea/49.ts
+#EXTINF:-1,BARAEM
+http://163.172.37.71:8789/live/andrea/andrea/694.ts
+#EXTINF:-1,CartoonNetwork_ar
+http://163.172.37.71:8789/live/andrea/andrea/227.ts
+#EXTINF:-1,TOYOR_Baby
+http://163.172.37.71:8789/live/andrea/andrea/226.ts
+#EXTINF:-1,TOYOR-ALJANAH
+http://163.172.37.71:8789/live/andrea/andrea/299.ts
+#EXTINF:-1,KARAMEESH
+http://163.172.37.71:8789/live/andrea/andrea/419.ts
+#EXTINF:-1,Spacetoon
+http://163.172.37.71:8789/live/andrea/andrea/228.ts
+#EXTINF:-1,=====MBC.HD=====
+http://163.172.37.71:8789/live/andrea/andrea/466.ts
+#EXTINF:-1,MBC1.HD
+http://163.172.37.71:8789/live/andrea/andrea/459.ts
+#EXTINF:-1,MBC2.HD
+http://163.172.37.71:8789/live/andrea/andrea/460.ts
+#EXTINF:-1,MBC3.HD
+http://163.172.37.71:8789/live/andrea/andrea/461.ts
+#EXTINF:-1,MBC4.HD
+http://163.172.37.71:8789/live/andrea/andrea/462.ts
+#EXTINF:-1,MBC.Action.HD
+http://163.172.37.71:8789/live/andrea/andrea/464.ts
+#EXTINF:-1,MBC.Max.HD
+http://163.172.37.71:8789/live/andrea/andrea/463.ts
+#EXTINF:-1,MBC.Drama.HD
+http://163.172.37.71:8789/live/andrea/andrea/465.ts
+#EXTINF:-1,=====Mbc=====
+http://163.172.37.71:8789/live/andrea/andrea/201.ts
+#EXTINF:-1,MBC_1
+http://163.172.37.71:8789/live/andrea/andrea/205.ts
+#EXTINF:-1,MBC_2
+http://163.172.37.71:8789/live/andrea/andrea/56.ts
+#EXTINF:-1,MBC_3
+http://163.172.37.71:8789/live/andrea/andrea/206.ts
+#EXTINF:-1,MBC_4
+http://163.172.37.71:8789/live/andrea/andrea/55.ts
+#EXTINF:-1,MBC_ACTION
+http://163.172.37.71:8789/live/andrea/andrea/54.ts
+#EXTINF:-1,MBC_MAX
+http://163.172.37.71:8789/live/andrea/andrea/52.ts
+#EXTINF:-1,MBC_Drama
+http://163.172.37.71:8789/live/andrea/andrea/207.ts
+#EXTINF:-1,MBC_MASR
+http://163.172.37.71:8789/live/andrea/andrea/250.ts
+#EXTINF:-1,MBC_MASR_2
+http://163.172.37.71:8789/live/andrea/andrea/251.ts
+#EXTINF:-1,MBC_BOLLYWOOD
+http://163.172.37.71:8789/live/andrea/andrea/53.ts
+#EXTINF:-1,MBC_PRO_1
+http://163.172.37.71:8789/live/andrea/andrea/252.ts
+#EXTINF:-1,MBC_PRO_2
+http://163.172.37.71:8789/live/andrea/andrea/253.ts
+#EXTINF:-1,MBC_PRO_3
+http://163.172.37.71:8789/live/andrea/andrea/254.ts
+#EXTINF:-1,MBC_PRO_SPORT_4
+http://163.172.37.71:8789/live/andrea/andrea/319.ts
+#EXTINF:-1,MBC test
+http://163.172.37.71:8789/live/andrea/andrea/444.ts
+#EXTINF:-1,=====art=====
+http://163.172.37.71:8789/live/andrea/andrea/203.ts
+#EXTINF:-1,ART_CINEMA
+http://163.172.37.71:8789/live/andrea/andrea/35.ts
+#EXTINF:-1,ART_AFLAM_1
+http://163.172.37.71:8789/live/andrea/andrea/32.ts
+#EXTINF:-1,ART_AFLAM_2
+http://163.172.37.71:8789/live/andrea/andrea/36.ts
+#EXTINF:-1,ART_HEKAYAT
+http://163.172.37.71:8789/live/andrea/andrea/34.ts
+#EXTINF:-1,ART_HEKAYAT_2
+http://163.172.37.71:8789/live/andrea/andrea/41.ts
+#EXTINF:-1,===ABU-DHABI_FULLHD===
+http://163.172.37.71:8789/live/andrea/andrea/382.ts
+#EXTINF:-1,NAT_GEO_ABUDAHABI
+http://163.172.37.71:8789/live/andrea/andrea/232.ts
+#EXTINF:-1,Abu_Dhabi_HD
+http://163.172.37.71:8789/live/andrea/andrea/723.ts
+#EXTINF:-1,AD_Al_EMARAT
+http://163.172.37.71:8789/live/andrea/andrea/384.ts
+#EXTINF:-1,AD_Drama_FullHD
+http://163.172.37.71:8789/live/andrea/andrea/383.ts
+#EXTINF:-1,AD_MajidKids_FullHD
+http://163.172.37.71:8789/live/andrea/andrea/387.ts
+#EXTINF:-1,=====Rotana=====
+http://163.172.37.71:8789/live/andrea/andrea/336.ts
+#EXTINF:-1,ROTANA_MUSIC
+http://163.172.37.71:8789/live/andrea/andrea/57.ts
+#EXTINF:-1,ROTANA_MASRIYA
+http://163.172.37.71:8789/live/andrea/andrea/58.ts
+#EXTINF:-1,ROTANA_KHALIJI
+http://163.172.37.71:8789/live/andrea/andrea/71.ts
+#EXTINF:-1,ROTANA_CLIP
+http://163.172.37.71:8789/live/andrea/andrea/51.ts
+#EXTINF:-1,ROTANA_CLASSIC
+http://163.172.37.71:8789/live/andrea/andrea/229.ts
+#EXTINF:-1,ROTANA_CINEMA
+http://163.172.37.71:8789/live/andrea/andrea/230.ts
+#EXTINF:-1,ROTANA_AFLAM
+http://163.172.37.71:8789/live/andrea/andrea/231.ts
+#EXTINF:-1,KUWAIT_SPORT
+http://163.172.37.71:8789/live/andrea/andrea/604.ts
+#EXTINF:-1,KUWAIT2-TV
+http://163.172.37.71:8789/live/andrea/andrea/603.ts
+#EXTINF:-1,KUWAIT-TV
+http://163.172.37.71:8789/live/andrea/andrea/602.ts
+#EXTINF:-1,KTV_Sport_Plus
+http://163.172.37.71:8789/live/andrea/andrea/607.ts
+#EXTINF:-1,KTV_Plus
+http://163.172.37.71:8789/live/andrea/andrea/606.ts
+#EXTINF:-1,KTV_Ethraa
+http://163.172.37.71:8789/live/andrea/andrea/605.ts
+#EXTINF:-1,KTV_Al_Majlis
+http://163.172.37.71:8789/live/andrea/andrea/608.ts
+#EXTINF:-1,Star_Cinema
+http://163.172.37.71:8789/live/andrea/andrea/533.ts
+#EXTINF:-1,Star_Cinema2
+http://163.172.37.71:8789/live/andrea/andrea/534.ts
+#EXTINF:-1,Alfajertv
+http://163.172.37.71:8789/live/andrea/andrea/427.ts
+#EXTINF:-1,=====DUBAI=====
+http://163.172.37.71:8789/live/andrea/andrea/728.ts
+#EXTINF:-1,SAMA_DUBAI
+http://163.172.37.71:8789/live/andrea/andrea/48.ts
+#EXTINF:-1,DUBAI_ZAMAN
+http://163.172.37.71:8789/live/andrea/andrea/47.ts
+#EXTINF:-1,DUBAI_SPORTS
+http://163.172.37.71:8789/live/andrea/andrea/609.ts
+#EXTINF:-1,Dubai_Racing-2
+http://163.172.37.71:8789/live/andrea/andrea/662.ts
+#EXTINF:-1,DUBAI_RACING
+http://163.172.37.71:8789/live/andrea/andrea/661.ts
+#EXTINF:-1,DUBAI_ONE
+http://163.172.37.71:8789/live/andrea/andrea/43.ts
+#EXTINF:-1,DUBAI_NOOR
+http://163.172.37.71:8789/live/andrea/andrea/37.ts
+#EXTINF:-1,DUBAI_DARAMA
+http://163.172.37.71:8789/live/andrea/andrea/45.ts
+#EXTINF:-1,DUBAI_ALOULA
+http://163.172.37.71:8789/live/andrea/andrea/46.ts
+#EXTINF:-1,DubaiTV
+http://163.172.37.71:8789/live/andrea/andrea/445.ts
+#EXTINF:-1,Ten_Tv
+http://163.172.37.71:8789/live/andrea/andrea/780.ts
+#EXTINF:-1,ALJAZEERA DOC
+http://163.172.37.71:8789/live/andrea/andrea/413.ts
+#EXTINF:-1,ZEE_LIVING
+http://163.172.37.71:8789/live/andrea/andrea/233.ts
+#EXTINF:-1,ZEE_ALWAN
+http://163.172.37.71:8789/live/andrea/andrea/234.ts
+#EXTINF:-1,NILE_CINEMA
+http://163.172.37.71:8789/live/andrea/andrea/60.ts
+#EXTINF:-1,LBC
+http://163.172.37.71:8789/live/andrea/andrea/721.ts
+#EXTINF:-1,MTV_LIBAN
+http://163.172.37.71:8789/live/andrea/andrea/50.ts
+#EXTINF:-1,AL_QUDS
+http://163.172.37.71:8789/live/andrea/andrea/61.ts
+#EXTINF:-1,CBC
+http://163.172.37.71:8789/live/andrea/andrea/482.ts
+#EXTINF:-1,CBC_TWO
+http://163.172.37.71:8789/live/andrea/andrea/483.ts
+#EXTINF:-1,CBC_Sofra
+http://163.172.37.71:8789/live/andrea/andrea/479.ts
+#EXTINF:-1,CBC_EXTRA
+http://163.172.37.71:8789/live/andrea/andrea/480.ts
+#EXTINF:-1,CBC_DRAMA
+http://163.172.37.71:8789/live/andrea/andrea/481.ts
+#EXTINF:-1,OTV
+http://163.172.37.71:8789/live/andrea/andrea/615.ts
+#EXTINF:-1,OMAN-TV.4
+http://163.172.37.71:8789/live/andrea/andrea/644.ts
+#EXTINF:-1,LIBYA
+http://163.172.37.71:8789/live/andrea/andrea/616.ts
+#EXTINF:-1,AL_MOUSKILA
+http://163.172.37.71:8789/live/andrea/andrea/654.ts
+#EXTINF:-1,RT-ARABIC
+http://163.172.37.71:8789/live/andrea/andrea/446.ts
+#EXTINF:-1,ALMIHWAR
+http://163.172.37.71:8789/live/andrea/andrea/646.ts
+#EXTINF:-1,ALKASS_1
+http://163.172.37.71:8789/live/andrea/andrea/255.ts
+#EXTINF:-1,ALKASS_2
+http://163.172.37.71:8789/live/andrea/andrea/256.ts
+#EXTINF:-1,ALKASS_3
+http://163.172.37.71:8789/live/andrea/andrea/257.ts
+#EXTINF:-1,ALKASS_4
+http://163.172.37.71:8789/live/andrea/andrea/258.ts
+#EXTINF:-1,=====Movistar+=====
+http://163.172.37.71:8789/live/andrea/andrea/315.ts
+#EXTINF:-1,TV1
+http://163.172.37.71:8789/live/andrea/andrea/612.ts
+#EXTINF:-1,TV2
+http://163.172.37.71:8789/live/andrea/andrea/611.ts
+#EXTINF:-1,Antena.3-ES
+http://163.172.37.71:8789/live/andrea/andrea/885.ts
+#EXTINF:-1,Cuatro_HD
+http://163.172.37.71:8789/live/andrea/andrea/831.ts
+#EXTINF:-1,TELECINCO
+http://163.172.37.71:8789/live/andrea/andrea/761.ts
+#EXTINF:-1,LA_SEXTA-HD
+http://163.172.37.71:8789/live/andrea/andrea/429.ts
+#EXTINF:-1,ENERGY
+http://163.172.37.71:8789/live/andrea/andrea/988.ts
+#EXTINF:-1,----------Noticias----------
+http://163.172.37.71:8789/live/andrea/andrea/882.ts
+#EXTINF:-1,CANAL_24_HORAS
+http://163.172.37.71:8789/live/andrea/andrea/621.ts
+#EXTINF:-1,FOX_NEWS_ESP
+http://163.172.37.71:8789/live/andrea/andrea/620.ts
+#EXTINF:-1,----------Deportes-----------
+http://163.172.37.71:8789/live/andrea/andrea/618.ts
+#EXTINF:-1,FOX_SPORT
+http://163.172.37.71:8789/live/andrea/andrea/685.ts
+#EXTINF:-1,FOX_SPORT2
+http://163.172.37.71:8789/live/andrea/andrea/686.ts
+#EXTINF:-1,CANAL+DEPORTES_HD
+http://163.172.37.71:8789/live/andrea/andrea/375.ts
+#EXTINF:-1,CANAL+DEPORTES_2.HD
+http://163.172.37.71:8789/live/andrea/andrea/668.ts
+#EXTINF:-1,CANAL+LIGA
+http://163.172.37.71:8789/live/andrea/andrea/374.ts
+#EXTINF:-1,Barca.TV
+http://163.172.37.71:8789/live/andrea/andrea/981.ts
+#EXTINF:-1,beINSPORT_ES
+http://163.172.37.71:8789/live/andrea/andrea/457.ts
+#EXTINF:-1,BEIN_LA_LIGA
+http://163.172.37.71:8789/live/andrea/andrea/984.ts
+#EXTINF:-1,C+Partidazo_HD
+http://163.172.37.71:8789/live/andrea/andrea/619.ts
+#EXTINF:-1,C+LIGA HD
+http://163.172.37.71:8789/live/andrea/andrea/316.ts
+#EXTINF:-1,C+FUTBALHD
+http://163.172.37.71:8789/live/andrea/andrea/317.ts
+#EXTINF:-1,REAL-MADRID_TV
+http://163.172.37.71:8789/live/andrea/andrea/318.ts
+#EXTINF:-1,CANAL+GOLF
+http://163.172.37.71:8789/live/andrea/andrea/376.ts
+#EXTINF:-1,MOVISTAR_F1
+http://163.172.37.71:8789/live/andrea/andrea/622.ts
+#EXTINF:-1,M.MOTOGP
+http://163.172.37.71:8789/live/andrea/andrea/623.ts
+#EXTINF:-1,EUROSPORT.1
+http://163.172.37.71:8789/live/andrea/andrea/990.ts
+#EXTINF:-1,----------Cine----------
+http://163.172.37.71:8789/live/andrea/andrea/624.ts
+#EXTINF:-1,CANAL+ESTRENOS
+http://163.172.37.71:8789/live/andrea/andrea/521.ts
+#EXTINF:-1,Canal+Comedia
+http://163.172.37.71:8789/live/andrea/andrea/520.ts
+#EXTINF:-1,NON_STOP_PEOPLE
+http://163.172.37.71:8789/live/andrea/andrea/982.ts
+#EXTINF:-1,MOVISTAR_COMEDIA.HD
+http://163.172.37.71:8789/live/andrea/andrea/983.ts
+#EXTINF:-1,CANAL+ACCION_HD
+http://163.172.37.71:8789/live/andrea/andrea/627.ts
+#EXTINF:-1,CANAL+ACCION
+http://163.172.37.71:8789/live/andrea/andrea/377.ts
+#EXTINF:-1,FOX_ACTION
+http://163.172.37.71:8789/live/andrea/andrea/684.ts
+#EXTINF:-1,DCINE_ESPANOL
+http://163.172.37.71:8789/live/andrea/andrea/626.ts
+#EXTINF:-1,CANAL+DCINE.HD
+http://163.172.37.71:8789/live/andrea/andrea/663.ts
+#EXTINF:-1,CANAL+DCINE
+http://163.172.37.71:8789/live/andrea/andrea/378.ts
+#EXTINF:-1,HOLLYWOOD
+http://163.172.37.71:8789/live/andrea/andrea/428.ts
+#EXTINF:-1,TNT_ESP_HD
+http://163.172.37.71:8789/live/andrea/andrea/629.ts
+#EXTINF:-1,AMC_ESP
+http://163.172.37.71:8789/live/andrea/andrea/628.ts
+#EXTINF:-1,----------Entretenimiento----------
+http://163.172.37.71:8789/live/andrea/andrea/630.ts
+#EXTINF:-1,ES:#O_HD
+http://163.172.37.71:8789/live/andrea/andrea/625.ts
+#EXTINF:-1,CANAL+XTRA.HD
+http://163.172.37.71:8789/live/andrea/andrea/666.ts
+#EXTINF:-1,CANAL+SERIES_Xtra.HD
+http://163.172.37.71:8789/live/andrea/andrea/665.ts
+#EXTINF:-1,CANA+SERIES.HD
+http://163.172.37.71:8789/live/andrea/andrea/664.ts
+#EXTINF:-1,A3SERIES
+http://163.172.37.71:8789/live/andrea/andrea/674.ts
+#EXTINF:-1,CALLE13
+http://163.172.37.71:8789/live/andrea/andrea/526.ts
+#EXTINF:-1,CANAL+AXN_HD
+http://163.172.37.71:8789/live/andrea/andrea/379.ts
+#EXTINF:-1,AXN_WHITE-ESP_HD
+http://163.172.37.71:8789/live/andrea/andrea/632.ts
+#EXTINF:-1,TV_GALICIA
+http://163.172.37.71:8789/live/andrea/andrea/987.ts
+#EXTINF:-1,BE_MAD.HD
+http://163.172.37.71:8789/live/andrea/andrea/989.ts
+#EXTINF:-1,CANAL_ANDALUCIA
+http://163.172.37.71:8789/live/andrea/andrea/986.ts
+#EXTINF:-1,AXN-ESP_hd
+http://163.172.37.71:8789/live/andrea/andrea/631.ts
+#EXTINF:-1,SYFY-ESP_HD
+http://163.172.37.71:8789/live/andrea/andrea/633.ts
+#EXTINF:-1,FOX.Life
+http://163.172.37.71:8789/live/andrea/andrea/513.ts
+#EXTINF:-1,FOX
+http://163.172.37.71:8789/live/andrea/andrea/514.ts
+#EXTINF:-1,----------Cultura----------
+http://163.172.37.71:8789/live/andrea/andrea/640.ts
+#EXTINF:-1,CANAL_ODISEA
+http://163.172.37.71:8789/live/andrea/andrea/634.ts
+#EXTINF:-1,Nat_Geographic_HD
+http://163.172.37.71:8789/live/andrea/andrea/635.ts
+#EXTINF:-1,NG_WILD-ESP_HD
+http://163.172.37.71:8789/live/andrea/andrea/636.ts
+#EXTINF:-1,NAT.GEO.WILD
+http://163.172.37.71:8789/live/andrea/andrea/512.ts
+#EXTINF:-1,DISCOVERY_CI
+http://163.172.37.71:8789/live/andrea/andrea/669.ts
+#EXTINF:-1,DISCOVERY_CHANNEL.HD
+http://163.172.37.71:8789/live/andrea/andrea/671.ts
+#EXTINF:-1,IBERALIA_TV
+http://163.172.37.71:8789/live/andrea/andrea/682.ts
+#EXTINF:-1,A&E_ES
+http://163.172.37.71:8789/live/andrea/andrea/670.ts
+#EXTINF:-1,CANAL_COCINA
+http://163.172.37.71:8789/live/andrea/andrea/672.ts
+#EXTINF:-1,VIAJAR_HD
+http://163.172.37.71:8789/live/andrea/andrea/637.ts
+#EXTINF:-1,CAZA_Y_PESCA.HD
+http://163.172.37.71:8789/live/andrea/andrea/991.ts
+#EXTINF:-1,----------NiÃ±os----------
+http://163.172.37.71:8789/live/andrea/andrea/641.ts
+#EXTINF:-1,NICKELODEON.HD
+http://163.172.37.71:8789/live/andrea/andrea/673.ts
+#EXTINF:-1,NICKELODEON-ESP_HD
+http://163.172.37.71:8789/live/andrea/andrea/678.ts
+#EXTINF:-1,NICK_Jr
+http://163.172.37.71:8789/live/andrea/andrea/675.ts
+#EXTINF:-1,DISNEY-ESP_XD
+http://163.172.37.71:8789/live/andrea/andrea/679.ts
+#EXTINF:-1,DISNEY.JR
+http://163.172.37.71:8789/live/andrea/andrea/516.ts
+#EXTINF:-1,Disney.Channel
+http://163.172.37.71:8789/live/andrea/andrea/518.ts
+#EXTINF:-1,CANAL_PANDA-ESP
+http://163.172.37.71:8789/live/andrea/andrea/677.ts
+#EXTINF:-1,BOING-ESP
+http://163.172.37.71:8789/live/andrea/andrea/681.ts
+#EXTINF:-1,BABY-ESP
+http://163.172.37.71:8789/live/andrea/andrea/680.ts
+#EXTINF:-1,40_TV
+http://163.172.37.71:8789/live/andrea/andrea/683.ts
+#EXTINF:-1,=====TAQUILLA=====
+http://163.172.37.71:8789/live/andrea/andrea/372.ts
+#EXTINF:-1,Taquilla_1
+http://163.172.37.71:8789/live/andrea/andrea/362.ts
+#EXTINF:-1,Taquilla_2
+http://163.172.37.71:8789/live/andrea/andrea/363.ts
+#EXTINF:-1,Taquilla_3
+http://163.172.37.71:8789/live/andrea/andrea/364.ts
+#EXTINF:-1,Taquilla_4
+http://163.172.37.71:8789/live/andrea/andrea/365.ts
+#EXTINF:-1,Taquilla_5
+http://163.172.37.71:8789/live/andrea/andrea/366.ts
+#EXTINF:-1,Taquilla_6
+http://163.172.37.71:8789/live/andrea/andrea/367.ts
+#EXTINF:-1,Taquilla_7
+http://163.172.37.71:8789/live/andrea/andrea/370.ts
+#EXTINF:-1,Taquilla_8
+http://163.172.37.71:8789/live/andrea/andrea/369.ts
+#EXTINF:-1,Taquilla_9
+http://163.172.37.71:8789/live/andrea/andrea/368.ts
+#EXTINF:-1,Taquilla_10
+http://163.172.37.71:8789/live/andrea/andrea/371.ts
+#EXTINF:-1,===== SKY-UK =====
+http://163.172.37.71:8789/live/andrea/andrea/943.ts
+#EXTINF:-1,==== Sky-Uk-Sport ====
+http://163.172.37.71:8789/live/andrea/andrea/1066.ts
+#EXTINF:-1,UK:SKY_SPORT.1
+http://163.172.37.71:8789/live/andrea/andrea/938.ts
+#EXTINF:-1,UK:SKY_SPORT.2
+http://163.172.37.71:8789/live/andrea/andrea/939.ts
+#EXTINF:-1,UK:SKY_SPORT.3
+http://163.172.37.71:8789/live/andrea/andrea/940.ts
+#EXTINF:-1,UK:SKY_SPORT.4
+http://163.172.37.71:8789/live/andrea/andrea/941.ts
+#EXTINF:-1,UK:SKY_SPORT.5
+http://163.172.37.71:8789/live/andrea/andrea/942.ts
+#EXTINF:-1,BT_Sport1
+http://163.172.37.71:8789/live/andrea/andrea/1052.ts
+#EXTINF:-1,BT_Sport2
+http://163.172.37.71:8789/live/andrea/andrea/1048.ts
+#EXTINF:-1,BT_Sport3
+http://163.172.37.71:8789/live/andrea/andrea/1049.ts
+#EXTINF:-1,BT_Sport_espn
+http://163.172.37.71:8789/live/andrea/andrea/1058.ts
+#EXTINF:-1,Sky_Sport_F1
+http://163.172.37.71:8789/live/andrea/andrea/1043.ts
+#EXTINF:-1,Eurosport_Uk
+http://163.172.37.71:8789/live/andrea/andrea/1051.ts
+#EXTINF:-1,==== Sky-Uk-Movies ====
+http://163.172.37.71:8789/live/andrea/andrea/1067.ts
+#EXTINF:-1,==== Sky-Uk-Kids ====
+http://163.172.37.71:8789/live/andrea/andrea/1069.ts
+#EXTINF:-1,==== Sky-Uk-Entertainment ====
+http://163.172.37.71:8789/live/andrea/andrea/1070.ts
+#EXTINF:-1,SKY_ONE
+http://163.172.37.71:8789/live/andrea/andrea/1073.ts
+#EXTINF:-1,SKY_TWO
+http://163.172.37.71:8789/live/andrea/andrea/1072.ts
+#EXTINF:-1,BBC.1
+http://163.172.37.71:8789/live/andrea/andrea/1071.ts
+#EXTINF:-1,==== Sky-Uk-Culture ====
+http://163.172.37.71:8789/live/andrea/andrea/1068.ts
+#EXTINF:-1,=====Portugal=====
+http://163.172.37.71:8789/live/andrea/andrea/321.ts
+#EXTINF:-1,RTP-1
+http://163.172.37.71:8789/live/andrea/andrea/322.ts
+#EXTINF:-1,RTP-2
+http://163.172.37.71:8789/live/andrea/andrea/323.ts
+#EXTINF:-1,RTP-3
+http://163.172.37.71:8789/live/andrea/andrea/353.ts
+#EXTINF:-1,RTP_International
+http://163.172.37.71:8789/live/andrea/andrea/1011.ts
+#EXTINF:-1,SIC
+http://163.172.37.71:8789/live/andrea/andrea/324.ts
+#EXTINF:-1,SIC-RADICAL
+http://163.172.37.71:8789/live/andrea/andrea/808.ts
+#EXTINF:-1,SIC-MULHER
+http://163.172.37.71:8789/live/andrea/andrea/809.ts
+#EXTINF:-1,SIC_CARAS
+http://163.172.37.71:8789/live/andrea/andrea/44.ts
+#EXTINF:-1,SIC_Noticias
+http://163.172.37.71:8789/live/andrea/andrea/1059.ts
+#EXTINF:-1,TVI
+http://163.172.37.71:8789/live/andrea/andrea/325.ts
+#EXTINF:-1,TVI_FICCAO
+http://163.172.37.71:8789/live/andrea/andrea/1010.ts
+#EXTINF:-1,TVI24
+http://163.172.37.71:8789/live/andrea/andrea/450.ts
+#EXTINF:-1,PORTO_CANAL
+http://163.172.37.71:8789/live/andrea/andrea/807.ts
+#EXTINF:-1,CM-TV
+http://163.172.37.71:8789/live/andrea/andrea/326.ts
+#EXTINF:-1,RECORD_NEWS
+http://163.172.37.71:8789/live/andrea/andrea/1061.ts
+#EXTINF:-1,ECONOMICO
+http://163.172.37.71:8789/live/andrea/andrea/774.ts
+#EXTINF:-1,----------Desporto----------
+http://163.172.37.71:8789/live/andrea/andrea/689.ts
+#EXTINF:-1,SPORT_TV+
+http://163.172.37.71:8789/live/andrea/andrea/263.ts
+#EXTINF:-1,SPORT_TV-1HD
+http://163.172.37.71:8789/live/andrea/andrea/320.ts
+#EXTINF:-1,SPORT-TV1
+http://163.172.37.71:8789/live/andrea/andrea/645.ts
+#EXTINF:-1,SPORT-TV2-HD
+http://163.172.37.71:8789/live/andrea/andrea/332.ts
+#EXTINF:-1,SPORT-TV2
+http://163.172.37.71:8789/live/andrea/andrea/638.ts
+#EXTINF:-1,SPORT-TV3
+http://163.172.37.71:8789/live/andrea/andrea/337.ts
+#EXTINF:-1,SPORT-TV4
+http://163.172.37.71:8789/live/andrea/andrea/338.ts
+#EXTINF:-1,SPORT-TV5
+http://163.172.37.71:8789/live/andrea/andrea/339.ts
+#EXTINF:-1,BENIFICA1-HD
+http://163.172.37.71:8789/live/andrea/andrea/342.ts
+#EXTINF:-1,BENIFICA-TV1
+http://163.172.37.71:8789/live/andrea/andrea/343.ts
+#EXTINF:-1,BENIFICA-TV2
+http://163.172.37.71:8789/live/andrea/andrea/344.ts
+#EXTINF:-1,SPORTING-TV
+http://163.172.37.71:8789/live/andrea/andrea/340.ts
+#EXTINF:-1,A-BOLA-TV
+http://163.172.37.71:8789/live/andrea/andrea/341.ts
+#EXTINF:-1,PFC
+http://163.172.37.71:8789/live/andrea/andrea/345.ts
+#EXTINF:-1,KOMBAT_SPORT_PT
+http://163.172.37.71:8789/live/andrea/andrea/441.ts
+#EXTINF:-1,EUROSPORT_PT
+http://163.172.37.71:8789/live/andrea/andrea/805.ts
+#EXTINF:-1,EUROSPORT2_PT
+http://163.172.37.71:8789/live/andrea/andrea/806.ts
+#EXTINF:-1,FUEL TV
+http://163.172.37.71:8789/live/andrea/andrea/812.ts
+#EXTINF:-1,Motors_TV
+http://163.172.37.71:8789/live/andrea/andrea/575.ts
+#EXTINF:-1,MOTORVISION
+http://163.172.37.71:8789/live/andrea/andrea/803.ts
+#EXTINF:-1,TOROS-TV
+http://163.172.37.71:8789/live/andrea/andrea/804.ts
+#EXTINF:-1,----------INFANTIL----------
+http://163.172.37.71:8789/live/andrea/andrea/797.ts
+#EXTINF:-1,JIM-JAM
+http://163.172.37.71:8789/live/andrea/andrea/798.ts
+#EXTINF:-1,PT:BABY_FIRST
+http://163.172.37.71:8789/live/andrea/andrea/1004.ts
+#EXTINF:-1,PT:BABY_TV
+http://163.172.37.71:8789/live/andrea/andrea/1006.ts
+#EXTINF:-1,CANAL_PANDA
+http://163.172.37.71:8789/live/andrea/andrea/799.ts
+#EXTINF:-1,PANDA_BIGGS
+http://163.172.37.71:8789/live/andrea/andrea/697.ts
+#EXTINF:-1,NICKELODEON-PT
+http://163.172.37.71:8789/live/andrea/andrea/811.ts
+#EXTINF:-1,DISNEY_JUNIOR_PT
+http://163.172.37.71:8789/live/andrea/andrea/800.ts
+#EXTINF:-1,DISNEY_CHANNEL_PT
+http://163.172.37.71:8789/live/andrea/andrea/801.ts
+#EXTINF:-1,CartoonNetwork_PT
+http://163.172.37.71:8789/live/andrea/andrea/810.ts
+#EXTINF:-1,SIC-K
+http://163.172.37.71:8789/live/andrea/andrea/354.ts
+#EXTINF:-1,----------Filmes----------
+http://163.172.37.71:8789/live/andrea/andrea/688.ts
+#EXTINF:-1,TVCine1-HD
+http://163.172.37.71:8789/live/andrea/andrea/327.ts
+#EXTINF:-1,TVCine2
+http://163.172.37.71:8789/live/andrea/andrea/328.ts
+#EXTINF:-1,TVCine3
+http://163.172.37.71:8789/live/andrea/andrea/334.ts
+#EXTINF:-1,TVCine4
+http://163.172.37.71:8789/live/andrea/andrea/335.ts
+#EXTINF:-1,HOLLYWOOD_PT
+http://163.172.37.71:8789/live/andrea/andrea/580.ts
+#EXTINF:-1,MOV
+http://163.172.37.71:8789/live/andrea/andrea/96.ts
+#EXTINF:-1,FOX_MOVIES
+http://163.172.37.71:8789/live/andrea/andrea/783.ts
+#EXTINF:-1,AMC_PT
+http://163.172.37.71:8789/live/andrea/andrea/438.ts
+#EXTINF:-1,CINEMUNDO
+http://163.172.37.71:8789/live/andrea/andrea/436.ts
+#EXTINF:-1,----------Cult-Por----------
+http://163.172.37.71:8789/live/andrea/andrea/690.ts
+#EXTINF:-1,ODISSEIA
+http://163.172.37.71:8789/live/andrea/andrea/350.ts
+#EXTINF:-1,NatGeo-Wild
+http://163.172.37.71:8789/live/andrea/andrea/347.ts
+#EXTINF:-1,DISCOVERY
+http://163.172.37.71:8789/live/andrea/andrea/349.ts
+#EXTINF:-1,TRAVEL_CHANNEL
+http://163.172.37.71:8789/live/andrea/andrea/883.ts
+#EXTINF:-1,CANAL_HISTORIA
+http://163.172.37.71:8789/live/andrea/andrea/698.ts
+#EXTINF:-1,CAÃ‡A-E-PESCA
+http://163.172.37.71:8789/live/andrea/andrea/346.ts
+#EXTINF:-1,PT: FOOD
+http://163.172.37.71:8789/live/andrea/andrea/802.ts
+#EXTINF:-1,NatGeo
+http://163.172.37.71:8789/live/andrea/andrea/348.ts
+#EXTINF:-1,CASAVISION
+http://163.172.37.71:8789/live/andrea/andrea/830.ts
+#EXTINF:-1,----------Series----------
+http://163.172.37.71:8789/live/andrea/andrea/691.ts
+#EXTINF:-1,GLOBO-PREM
+http://163.172.37.71:8789/live/andrea/andrea/351.ts
+#EXTINF:-1,TV_GLOBO
+http://163.172.37.71:8789/live/andrea/andrea/1003.ts
+#EXTINF:-1,TV_RECORD
+http://163.172.37.71:8789/live/andrea/andrea/1005.ts
+#EXTINF:-1,FOX-HD
+http://163.172.37.71:8789/live/andrea/andrea/331.ts
+#EXTINF:-1,FOX-CRIME
+http://163.172.37.71:8789/live/andrea/andrea/329.ts
+#EXTINF:-1,FOX-COMEDY
+http://163.172.37.71:8789/live/andrea/andrea/330.ts
+#EXTINF:-1,FOX_LIFE
+http://163.172.37.71:8789/live/andrea/andrea/701.ts
+#EXTINF:-1,AXN-WHITE
+http://163.172.37.71:8789/live/andrea/andrea/355.ts
+#EXTINF:-1,AXN-HD
+http://163.172.37.71:8789/live/andrea/andrea/333.ts
+#EXTINF:-1,AXN-Black
+http://163.172.37.71:8789/live/andrea/andrea/356.ts
+#EXTINF:-1,Syfy_PT
+http://163.172.37.71:8789/live/andrea/andrea/1001.ts
+#EXTINF:-1,TLC
+http://163.172.37.71:8789/live/andrea/andrea/358.ts
+#EXTINF:-1,TV_SERIES
+http://163.172.37.71:8789/live/andrea/andrea/439.ts
+#EXTINF:-1,TVI_REALITY
+http://163.172.37.71:8789/live/andrea/andrea/440.ts
+#EXTINF:-1,E!
+http://163.172.37.71:8789/live/andrea/andrea/357.ts
+#EXTINF:-1,A&E
+http://163.172.37.71:8789/live/andrea/andrea/359.ts
+#EXTINF:-1,24 KITCHEN
+http://163.172.37.71:8789/live/andrea/andrea/437.ts
+#EXTINF:-1,-----------MÃºsic-----------
+http://163.172.37.71:8789/live/andrea/andrea/692.ts
+#EXTINF:-1,MTV-PORTUGAL
+http://163.172.37.71:8789/live/andrea/andrea/361.ts
+#EXTINF:-1,AFRO-MUSIC
+http://163.172.37.71:8789/live/andrea/andrea/360.ts
+#EXTINF:-1,---------Cinema_ita----------
+http://163.172.37.71:8789/live/andrea/andrea/433.ts
+#EXTINF:-1,Sky-CinemaMax-HD
+http://163.172.37.71:8789/live/andrea/andrea/373.ts
+#EXTINF:-1,Sky-Cinema1
+http://163.172.37.71:8789/live/andrea/andrea/280.ts
+#EXTINF:-1,Sky_ComedyHD
+http://163.172.37.71:8789/live/andrea/andrea/523.ts
+#EXTINF:-1,SKY_CINEMA_PASSION_ HD
+http://163.172.37.71:8789/live/andrea/andrea/507.ts
+#EXTINF:-1,Sky_Cinema_Cult_HD
+http://163.172.37.71:8789/live/andrea/andrea/508.ts
+#EXTINF:-1,---------Sport----------
+http://163.172.37.71:8789/live/andrea/andrea/434.ts
+#EXTINF:-1,Sky_Sport24_HD
+http://163.172.37.71:8789/live/andrea/andrea/510.ts
+#EXTINF:-1,SKYIT_SUPERCALCIO
+http://163.172.37.71:8789/live/andrea/andrea/396.ts
+#EXTINF:-1,Sky_Sport_1-IT
+http://163.172.37.71:8789/live/andrea/andrea/522.ts
+#EXTINF:-1,Sky_Sport_2IT
+http://163.172.37.71:8789/live/andrea/andrea/528.ts
+#EXTINF:-1,Sky_F1
+http://163.172.37.71:8789/live/andrea/andrea/531.ts
+#EXTINF:-1,Eurosport-it_HD
+http://163.172.37.71:8789/live/andrea/andrea/584.ts
+#EXTINF:-1,Eurosport2-it_HD
+http://163.172.37.71:8789/live/andrea/andrea/585.ts
+#EXTINF:-1,++++Calcio++++
+http://163.172.37.71:8789/live/andrea/andrea/524.ts
+#EXTINF:-1,SKY_CALCIO_1
+http://163.172.37.71:8789/live/andrea/andrea/30.ts
+#EXTINF:-1,SKY_CALCIO_2
+http://163.172.37.71:8789/live/andrea/andrea/31.ts
+#EXTINF:-1,SKY_CALCIO-3-HD
+http://163.172.37.71:8789/live/andrea/andrea/391.ts
+#EXTINF:-1,SKY_CALCIO-4-HD
+http://163.172.37.71:8789/live/andrea/andrea/392.ts
+#EXTINF:-1,Sky_Calcio-5-HD
+http://163.172.37.71:8789/live/andrea/andrea/393.ts
+#EXTINF:-1,Sky_Calcio-6-HD
+http://163.172.37.71:8789/live/andrea/andrea/394.ts
+#EXTINF:-1,Sky_Calcio-7-HD
+http://163.172.37.71:8789/live/andrea/andrea/395.ts
+#EXTINF:-1,++++Cultura++++
+http://163.172.37.71:8789/live/andrea/andrea/525.ts
+#EXTINF:-1,ANIMAL_PLANETE
+http://163.172.37.71:8789/live/andrea/andrea/1.ts
+#EXTINF:-1,SKY_Discovery_HD
+http://163.172.37.71:8789/live/andrea/andrea/509.ts
+#EXTINF:-1,Sky_Discovery_Travel
+http://163.172.37.71:8789/live/andrea/andrea/527.ts
+#EXTINF:-1,NAT-GEO-WILD
+http://163.172.37.71:8789/live/andrea/andrea/4.ts
+#EXTINF:-1,NAT_GEO_PEOPLE
+http://163.172.37.71:8789/live/andrea/andrea/511.ts
+#EXTINF:-1,Sky_Fox_HD
+http://163.172.37.71:8789/live/andrea/andrea/529.ts
+#EXTINF:-1,Sky_Fox_Crime.HD
+http://163.172.37.71:8789/live/andrea/andrea/530.ts
+#EXTINF:-1,SKY_ARTE
+http://163.172.37.71:8789/live/andrea/andrea/28.ts
+#EXTINF:-1,RETE_4
+http://163.172.37.71:8789/live/andrea/andrea/787.ts
+#EXTINF:-1,ITALIA.1
+http://163.172.37.71:8789/live/andrea/andrea/789.ts
+#EXTINF:-1,=====PRIMAFILA=====
+http://163.172.37.71:8789/live/andrea/andrea/407.ts
+#EXTINF:-1,PRIMAFILA_1
+http://163.172.37.71:8789/live/andrea/andrea/19.ts
+#EXTINF:-1,PRIMAFILA_2
+http://163.172.37.71:8789/live/andrea/andrea/20.ts
+#EXTINF:-1,PRIMAFILA_3
+http://163.172.37.71:8789/live/andrea/andrea/21.ts
+#EXTINF:-1,PRIMAFILA_4
+http://163.172.37.71:8789/live/andrea/andrea/22.ts
+#EXTINF:-1,PRIMAFILA_5
+http://163.172.37.71:8789/live/andrea/andrea/23.ts
+#EXTINF:-1,PRIMAFILA_6
+http://163.172.37.71:8789/live/andrea/andrea/24.ts
+#EXTINF:-1,PRIMAFILA_7
+http://163.172.37.71:8789/live/andrea/andrea/25.ts
+#EXTINF:-1,PRIMAFILA_8
+http://163.172.37.71:8789/live/andrea/andrea/26.ts
+#EXTINF:-1,PRIMAFILA_9
+http://163.172.37.71:8789/live/andrea/andrea/27.ts
+#EXTINF:-1,PRIMAFILA_10
+http://163.172.37.71:8789/live/andrea/andrea/400.ts
+#EXTINF:-1,PRIMAFILA_11
+http://163.172.37.71:8789/live/andrea/andrea/401.ts
+#EXTINF:-1,PRIMAFILA_12
+http://163.172.37.71:8789/live/andrea/andrea/402.ts
+#EXTINF:-1,PRIMAFILA_13
+http://163.172.37.71:8789/live/andrea/andrea/403.ts
+#EXTINF:-1,PRIMAFILA_14
+http://163.172.37.71:8789/live/andrea/andrea/404.ts
+#EXTINF:-1,PRIMAFILA_15
+http://163.172.37.71:8789/live/andrea/andrea/405.ts
+#EXTINF:-1,PRIMAFILA_16
+http://163.172.37.71:8789/live/andrea/andrea/406.ts
+#EXTINF:-1,=====PREMIUM=====
+http://163.172.37.71:8789/live/andrea/andrea/408.ts
+#EXTINF:-1,PREMIUM_STUDIO_UNIVERSAL
+http://163.172.37.71:8789/live/andrea/andrea/18.ts
+#EXTINF:-1,PREMIUM_STORIES
+http://163.172.37.71:8789/live/andrea/andrea/17.ts
+#EXTINF:-1,PREMIUM_JOY
+http://163.172.37.71:8789/live/andrea/andrea/16.ts
+#EXTINF:-1,PREMIUM_FOX_SPORT
+http://163.172.37.71:8789/live/andrea/andrea/15.ts
+#EXTINF:-1,PREMIUM_EUROSPORT-2
+http://163.172.37.71:8789/live/andrea/andrea/14.ts
+#EXTINF:-1,PREMIUM_EUROSPORT-1
+http://163.172.37.71:8789/live/andrea/andrea/13.ts
+#EXTINF:-1,PREMIUM_DISNEY_JUNIOR
+http://163.172.37.71:8789/live/andrea/andrea/12.ts
+#EXTINF:-1,PREMIUM_CINEMA+24
+http://163.172.37.71:8789/live/andrea/andrea/11.ts
+#EXTINF:-1,PREMIUM_CARTOON_NETWORK
+http://163.172.37.71:8789/live/andrea/andrea/10.ts
+#EXTINF:-1,CARTOONITO
+http://163.172.37.71:8789/live/andrea/andrea/77.ts
+#EXTINF:-1,PREMIUM_CALCIO-7
+http://163.172.37.71:8789/live/andrea/andrea/399.ts
+#EXTINF:-1,PREMIUM_CALCIO-6-HD
+http://163.172.37.71:8789/live/andrea/andrea/398.ts
+#EXTINF:-1,PREMIUM_CALCIO-5-HD
+http://163.172.37.71:8789/live/andrea/andrea/397.ts
+#EXTINF:-1,PREMIUM_ACTION
+http://163.172.37.71:8789/live/andrea/andrea/2.ts
+#EXTINF:-1,PREMIUM-CINEMA_2
+http://163.172.37.71:8789/live/andrea/andrea/3.ts
+#EXTINF:-1,PREMIUM-CALCIO-4
+http://163.172.37.71:8789/live/andrea/andrea/9.ts
+#EXTINF:-1,PREMIUM-CALCIO-3
+http://163.172.37.71:8789/live/andrea/andrea/8.ts
+#EXTINF:-1,PREMIUM-CALCIO-2
+http://163.172.37.71:8789/live/andrea/andrea/7.ts
+#EXTINF:-1,PREMIUM-CALCIO-1
+http://163.172.37.71:8789/live/andrea/andrea/6.ts
+#EXTINF:-1,PREMIUM-ACTION+24
+http://163.172.37.71:8789/live/andrea/andrea/5.ts
+#EXTINF:-1,RAI_YOYO
+http://163.172.37.71:8789/live/andrea/andrea/597.ts
+#EXTINF:-1,RAI_PREMIUM
+http://163.172.37.71:8789/live/andrea/andrea/149.ts
+#EXTINF:-1,RAI_NEWS_24
+http://163.172.37.71:8789/live/andrea/andrea/150.ts
+#EXTINF:-1,RAI_GULP
+http://163.172.37.71:8789/live/andrea/andrea/151.ts
+#EXTINF:-1,RAI_5
+http://163.172.37.71:8789/live/andrea/andrea/148.ts
+#EXTINF:-1,RAI_4
+http://163.172.37.71:8789/live/andrea/andrea/147.ts
+#EXTINF:-1,RAI_3
+http://163.172.37.71:8789/live/andrea/andrea/146.ts
+#EXTINF:-1,RAI_2
+http://163.172.37.71:8789/live/andrea/andrea/145.ts
+#EXTINF:-1,RAI_1
+http://163.172.37.71:8789/live/andrea/andrea/144.ts
+#EXTINF:-1,CANALE_5.HD
+http://163.172.37.71:8789/live/andrea/andrea/788.ts
+#EXTINF:-1,CANALE_5
+http://163.172.37.71:8789/live/andrea/andrea/78.ts
+#EXTINF:-1,SKYTG-24
+http://163.172.37.71:8789/live/andrea/andrea/598.ts
+#EXTINF:-1,=====Sky_Deutschland=====
+http://163.172.37.71:8789/live/andrea/andrea/435.ts
+#EXTINF:-1,ARD
+http://163.172.37.71:8789/live/andrea/andrea/590.ts
 #EXTINF:-1,ZDF
-http://185.2.83.34:8000/live/elf/elf/2618.ts
+http://163.172.37.71:8789/live/andrea/andrea/468.ts
+#EXTINF:-1,ProSieben
+http://163.172.37.71:8789/live/andrea/andrea/471.ts
 #EXTINF:-1,SAT_1
-http://185.2.83.34:8000/live/elf/elf/2620.ts
-#EXTINF:-1,Vox - Germany
-http://185.2.83.34:8000/live/elf/elf/2807.ts
-#EXTINF:-1,Syfy - Germany
-http://185.2.83.34:8000/live/elf/elf/2808.ts
-#EXTINF:-1,Sport 1 HD - Germany
-http://185.2.83.34:8000/live/elf/elf/2809.ts
-#EXTINF:-1,Spiegel Geschichte
-http://185.2.83.34:8000/live/elf/elf/2810.ts
-#EXTINF:-1,Sky TNT Serie - Germany
-http://185.2.83.34:8000/live/elf/elf/2811.ts
-#EXTINF:-1,Sky RTL Passion - Germany
-http://185.2.83.34:8000/live/elf/elf/2812.ts
-#EXTINF:-1,Sky Nostalgie - Germany
-http://185.2.83.34:8000/live/elf/elf/2813.ts
-#EXTINF:-1,Sky Krimi - Germany
-http://185.2.83.34:8000/live/elf/elf/2814.ts
-#EXTINF:-1,Sky Disney XD - Germany
-http://185.2.83.34:8000/live/elf/elf/2815.ts
-#EXTINF:-1,Sky Comedy - Germany
-http://185.2.83.34:8000/live/elf/elf/2816.ts
-#EXTINF:-1,Sky Cinema HD - Germany
-http://185.2.83.34:8000/live/elf/elf/2817.ts
-#EXTINF:-1,Sky Cinema 1 - Germany
-http://185.2.83.34:8000/live/elf/elf/2818.ts
-#EXTINF:-1,Sky Cinema  24 - Germany
-http://185.2.83.34:8000/live/elf/elf/2819.ts
-#EXTINF:-1,Sat 1 Gold - Germany
-http://185.2.83.34:8000/live/elf/elf/2820.ts
-#EXTINF:-1,Rtl Nitro - Germany
-http://185.2.83.34:8000/live/elf/elf/2821.ts
-#EXTINF:-1,Rtl Living - Germany
-http://185.2.83.34:8000/live/elf/elf/2822.ts
-#EXTINF:-1,Rtl Crime - Germany
-http://185.2.83.34:8000/live/elf/elf/2823.ts
-#EXTINF:-1,Prosieben Maxx - Germany
-http://185.2.83.34:8000/live/elf/elf/2824.ts
-#EXTINF:-1,Prosieben - Germany
-http://185.2.83.34:8000/live/elf/elf/2825.ts
-#EXTINF:-1,National Geographic Wild HD - Germany
-http://185.2.83.34:8000/live/elf/elf/2826.ts
-#EXTINF:-1,National Geographic  - Germany
-http://185.2.83.34:8000/live/elf/elf/2827.ts
-#EXTINF:-1,N24 - Germany
-http://185.2.83.34:8000/live/elf/elf/2828.ts
-#EXTINF:-1,Motorvision TV - Germany
-http://185.2.83.34:8000/live/elf/elf/2805.ts
-#EXTINF:-1,Junior - Germany
-http://185.2.83.34:8000/live/elf/elf/2829.ts
-#EXTINF:-1,Jukebox - Germany
-http://185.2.83.34:8000/live/elf/elf/2830.ts
-#EXTINF:-1,Heimat Kanal - Germany
-http://185.2.83.34:8000/live/elf/elf/2831.ts
-#EXTINF:-1,Fox Serie - Germany
-http://185.2.83.34:8000/live/elf/elf/2832.ts
-#EXTINF:-1,Disney Junior - Germany
-http://185.2.83.34:8000/live/elf/elf/2833.ts
-#EXTINF:-1,Disney Cinemagic - Germany
-http://185.2.83.34:8000/live/elf/elf/2806.ts
-#EXTINF:-1,Disney Channel HD - Germany
-http://185.2.83.34:8000/live/elf/elf/2834.ts
-#EXTINF:-1,Discovery HD - Germany
-http://185.2.83.34:8000/live/elf/elf/2835.ts
-#EXTINF:-1,Classica - Germany
-http://185.2.83.34:8000/live/elf/elf/2836.ts
-#EXTINF:-1,13th Street - Germany
-http://185.2.83.34:8000/live/elf/elf/2837.ts
-#EXTINF:-1,DE_ARD
-http://185.2.83.34:8000/live/elf/elf/2619.ts
-#EXTINF:-1,SKYDE:_cinema HD
-http://185.2.83.34:8000/live/elf/elf/554.ts
-#EXTINF:-1,SKYDE: Cinema24HD
-http://185.2.83.34:8000/live/elf/elf/555.ts
-#EXTINF:-1,SKYDE: 13StreetHD
-http://185.2.83.34:8000/live/elf/elf/557.ts
-#EXTINF:-1,DE:RTL HD
-http://185.2.83.34:8000/live/elf/elf/1003.ts
-#EXTINF:-1,DE TNT Film HD
-http://185.2.83.34:8000/live/elf/elf/1014.ts
-#EXTINF:-1,DE Super RTL
-http://185.2.83.34:8000/live/elf/elf/1015.ts
-#EXTINF:-1,DE Sky Hits
-http://185.2.83.34:8000/live/elf/elf/1016.ts
-#EXTINF:-1,DE Sky Emotion
-http://185.2.83.34:8000/live/elf/elf/1017.ts
-#EXTINF:-1,DE Sky Atlantic
-http://185.2.83.34:8000/live/elf/elf/1019.ts
-#EXTINF:-1,DE: Sky Germany Action HD
-http://185.2.83.34:8000/live/elf/elf/1729.ts
-#EXTINF:-1,DE Sky Action
-http://185.2.83.34:8000/live/elf/elf/1020.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://185.2.83.34:8000/live/elf/elf/1730.ts
-#EXTINF:-1,DE: Sky Germany MGM HD
-http://185.2.83.34:8000/live/elf/elf/1728.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://185.2.83.34:8000/live/elf/elf/1721.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://185.2.83.34:8000/live/elf/elf/1722.ts
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://185.2.83.34:8000/live/elf/elf/1726.ts
-#EXTINF:-1,DE: SKY Bundesliga HD
-http://185.2.83.34:8000/live/elf/elf/1723.ts
-#EXTINF:-1,DE Sat 1 HD
-http://185.2.83.34:8000/live/elf/elf/1007.ts
-#EXTINF:-1,DE RTL 2
-http://185.2.83.34:8000/live/elf/elf/1006.ts
-#EXTINF:-1,DE Kika HD
-http://185.2.83.34:8000/live/elf/elf/1008.ts
-#EXTINF:-1,DE Kabel 1
-http://185.2.83.34:8000/live/elf/elf/1009.ts
-#EXTINF:-1,DE Sky Select 1
-http://185.2.83.34:8000/live/elf/elf/1778.ts
-#EXTINF:-1,DE Sky Select 2
-http://185.2.83.34:8000/live/elf/elf/1779.ts
-#EXTINF:-1,DE Sky Select 3
-http://185.2.83.34:8000/live/elf/elf/1780.ts
-#EXTINF:-1,DE Sky Select 4
-http://185.2.83.34:8000/live/elf/elf/1781.ts
-#EXTINF:-1,DE Sky Select 5
-http://185.2.83.34:8000/live/elf/elf/1782.ts
-#EXTINF:-1,DE Sky Select 6
-http://185.2.83.34:8000/live/elf/elf/1783.ts
-#EXTINF:-1,DE Sky Select 7
-http://185.2.83.34:8000/live/elf/elf/1784.ts
-#EXTINF:-1,DE Sky Select 8
-http://185.2.83.34:8000/live/elf/elf/1785.ts
-#EXTINF:-1,====INDIAN====
-http://185.2.83.34:8000/live/elf/elf/1740.ts
-#EXTINF:-1,IN Zing
-http://185.2.83.34:8000/live/elf/elf/696.ts
-#EXTINF:-1,IN Zee TV
-http://185.2.83.34:8000/live/elf/elf/693.ts
-#EXTINF:-1,IN Zee Punjabi
-http://185.2.83.34:8000/live/elf/elf/695.ts
-#EXTINF:-1,IN Zee cinema
-http://185.2.83.34:8000/live/elf/elf/694.ts
-#EXTINF:-1,IN UMP Movies
-http://185.2.83.34:8000/live/elf/elf/917.ts
-#EXTINF:-1,IN Star Plus
-http://185.2.83.34:8000/live/elf/elf/918.ts
-#EXTINF:-1,IN Star Gold
-http://185.2.83.34:8000/live/elf/elf/919.ts
-#EXTINF:-1,IN Sony TV Asia
-http://185.2.83.34:8000/live/elf/elf/700.ts
-#EXTINF:-1,IN Sony Max
-http://185.2.83.34:8000/live/elf/elf/701.ts
-#EXTINF:-1,IN Samaa
-http://185.2.83.34:8000/live/elf/elf/702.ts
-#EXTINF:-1,IN Rishtey
-http://185.2.83.34:8000/live/elf/elf/920.ts
-#EXTINF:-1,IN PTV Prime
-http://185.2.83.34:8000/live/elf/elf/921.ts
-#EXTINF:-1,IN Life OK
-http://185.2.83.34:8000/live/elf/elf/922.ts
-#EXTINF:-1,IN Hum TV
-http://185.2.83.34:8000/live/elf/elf/923.ts
-#EXTINF:-1,IN Geo TV
-http://185.2.83.34:8000/live/elf/elf/924.ts
-#EXTINF:-1,IN Geo News
-http://185.2.83.34:8000/live/elf/elf/703.ts
-#EXTINF:-1,IN Dunya
-http://185.2.83.34:8000/live/elf/elf/925.ts
-#EXTINF:-1,IN Colors
-http://185.2.83.34:8000/live/elf/elf/704.ts
-#EXTINF:-1,IN B4you Music
-http://185.2.83.34:8000/live/elf/elf/697.ts
-#EXTINF:-1,IN B4U Movies
-http://185.2.83.34:8000/live/elf/elf/698.ts
-#EXTINF:-1,IN Ary Q TV
-http://185.2.83.34:8000/live/elf/elf/926.ts
-#EXTINF:-1,IN Ary Digital
-http://185.2.83.34:8000/live/elf/elf/705.ts
-#EXTINF:-1,IN AND TV
-http://185.2.83.34:8000/live/elf/elf/699.ts
-#EXTINF:-1,IN Akaal channel
-http://185.2.83.34:8000/live/elf/elf/927.ts
-#EXTINF:-1,IN ABP News
-http://185.2.83.34:8000/live/elf/elf/928.ts
-#EXTINF:-1,IN Aajtak
-http://185.2.83.34:8000/live/elf/elf/929.ts
-#EXTINF:-1,====SKY UK====
-http://185.2.83.34:8000/live/elf/elf/1733.ts
-#EXTINF:-1,UK True Movies1
-http://185.2.83.34:8000/live/elf/elf/89.ts
-#EXTINF:-1,UK True Movies 2
-http://185.2.83.34:8000/live/elf/elf/74.ts
-#EXTINF:-1,UK Syfy UK
-http://185.2.83.34:8000/live/elf/elf/96.ts
-#EXTINF:-1,UK SKYArt 1
-http://185.2.83.34:8000/live/elf/elf/106.ts
-#EXTINF:-1,UK Sky Two
-http://185.2.83.34:8000/live/elf/elf/76.ts
-#EXTINF:-1,UK Sky Sport News HD
-http://185.2.83.34:8000/live/elf/elf/107.ts
-#EXTINF:-1,UK Sky Sport 1 UK
-http://185.2.83.34:8000/live/elf/elf/112.ts
-#EXTINF:-1,UK Sky Sport 2 UK
-http://185.2.83.34:8000/live/elf/elf/111.ts
-#EXTINF:-1,UK Sky Sport 3 UK
-http://185.2.83.34:8000/live/elf/elf/110.ts
-#EXTINF:-1,UK:_CBS_Reality
-http://185.2.83.34:8000/live/elf/elf/2638.ts
-#EXTINF:-1,UK sky sport 4
-http://185.2.83.34:8000/live/elf/elf/109.ts
-#EXTINF:-1,UK Sky Sport 5 UK
-http://185.2.83.34:8000/live/elf/elf/108.ts
-#EXTINF:-1,UK Sky Sports F1 UK
-http://185.2.83.34:8000/live/elf/elf/68.ts
-#EXTINF:-1,UK Setantasport
-http://185.2.83.34:8000/live/elf/elf/915.ts
-#EXTINF:-1,UK ESPN
-http://185.2.83.34:8000/live/elf/elf/914.ts
-#EXTINF:-1,UK BT Sport Europe
-http://185.2.83.34:8000/live/elf/elf/913.ts
-#EXTINF:-1,UK BT Sport 1
-http://185.2.83.34:8000/live/elf/elf/911.ts
-#EXTINF:-1,UK BT Sport 2
-http://185.2.83.34:8000/live/elf/elf/912.ts
-#EXTINF:-1,UK British Muslim
-http://185.2.83.34:8000/live/elf/elf/916.ts
-#EXTINF:-1,UK Sky One
-http://185.2.83.34:8000/live/elf/elf/69.ts
-#EXTINF:-1,UK Sky Movies Thriller
-http://185.2.83.34:8000/live/elf/elf/95.ts
-#EXTINF:-1,UK Sky Movies Sci-Fi & Horror
-http://185.2.83.34:8000/live/elf/elf/114.ts
-#EXTINF:-1,UK Sky Movies Premiere UK
-http://185.2.83.34:8000/live/elf/elf/115.ts
-#EXTINF:-1,UK Sky Movies Modern HD
-http://185.2.83.34:8000/live/elf/elf/116.ts
-#EXTINF:-1,UK Sky Movies Family UK
-http://185.2.83.34:8000/live/elf/elf/79.ts
-#EXTINF:-1,UK Sky Movies Comedy HD
-http://185.2.83.34:8000/live/elf/elf/118.ts
-#EXTINF:-1,UK Sky Movies Action & Adventure
-http://185.2.83.34:8000/live/elf/elf/119.ts
-#EXTINF:-1,UK Sky Family UK
-http://185.2.83.34:8000/live/elf/elf/121.ts
-#EXTINF:-1,UK Sky Atlantic
-http://185.2.83.34:8000/live/elf/elf/70.ts
-#EXTINF:-1,UK Rte One UK
-http://185.2.83.34:8000/live/elf/elf/88.ts
-#EXTINF:-1,UK National Geographic UK
-http://185.2.83.34:8000/live/elf/elf/102.ts
-#EXTINF:-1,UK Movies-4men Uk
-http://185.2.83.34:8000/live/elf/elf/98.ts
-#EXTINF:-1,UK ITV 1
-http://185.2.83.34:8000/live/elf/elf/84.ts
-#EXTINF:-1,UK ITV 2
-http://185.2.83.34:8000/live/elf/elf/83.ts
-#EXTINF:-1,UK ITV 3
-http://185.2.83.34:8000/live/elf/elf/82.ts
-#EXTINF:-1,UK ITV 4
-http://185.2.83.34:8000/live/elf/elf/81.ts
-#EXTINF:-1,UK Five
-http://185.2.83.34:8000/live/elf/elf/99.ts
-#EXTINF:-1,UKCBS Reality UK
-http://185.2.83.34:8000/live/elf/elf/78.ts
-#EXTINF:-1,UK Film4 UK
-http://185.2.83.34:8000/live/elf/elf/100.ts
-#EXTINF:-1,UK Eurosport 1 UK
-http://185.2.83.34:8000/live/elf/elf/92.ts
-#EXTINF:-1,UK Eurosport 2 UK
-http://185.2.83.34:8000/live/elf/elf/91.ts
-#EXTINF:-1,UK Discovery Science UK
-http://185.2.83.34:8000/live/elf/elf/104.ts
-#EXTINF:-1,UK DISCOVERY HOME & HEALTH
-http://185.2.83.34:8000/live/elf/elf/123.ts
-#EXTINF:-1,UK Discovery History UK
-http://185.2.83.34:8000/live/elf/elf/124.ts
-#EXTINF:-1,UK Discovery Channel UK
-http://185.2.83.34:8000/live/elf/elf/125.ts
-#EXTINF:-1,UK cbs drama
-http://185.2.83.34:8000/live/elf/elf/75.ts
-#EXTINF:-1,UK Box Nation UK
-http://185.2.83.34:8000/live/elf/elf/94.ts
-#EXTINF:-1,UK BBC One
-http://185.2.83.34:8000/live/elf/elf/130.ts
-#EXTINF:-1,UK BBC Two
-http://185.2.83.34:8000/live/elf/elf/86.ts
-#EXTINF:-1,UK BBC Three
-http://185.2.83.34:8000/live/elf/elf/85.ts
-#EXTINF:-1,UK BBC Four
-http://185.2.83.34:8000/live/elf/elf/101.ts
-#EXTINF:-1,UK B4U Movies
-http://185.2.83.34:8000/live/elf/elf/71.ts
-#EXTINF:-1,UK Animal Planet UK
-http://185.2.83.34:8000/live/elf/elf/105.ts
-#EXTINF:-1,====SKY IT====
-http://185.2.83.34:8000/live/elf/elf/573.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://185.2.83.34:8000/live/elf/elf/493.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://185.2.83.34:8000/live/elf/elf/492.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://185.2.83.34:8000/live/elf/elf/569.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://185.2.83.34:8000/live/elf/elf/567.ts
-#EXTINF:-1,IT: Sky Sport 24
-http://185.2.83.34:8000/live/elf/elf/491.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://185.2.83.34:8000/live/elf/elf/568.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://185.2.83.34:8000/live/elf/elf/501.ts
-#EXTINF:-1,IT: Sky Calcio 2
-http://185.2.83.34:8000/live/elf/elf/500.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://185.2.83.34:8000/live/elf/elf/566.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://185.2.83.34:8000/live/elf/elf/631.ts
-#EXTINF:-1,IT: Sky Super tennis HD
-http://185.2.83.34:8000/live/elf/elf/490.ts
-#EXTINF:-1,IT: SKY CINEMA 1 HD
-http://185.2.83.34:8000/live/elf/elf/498.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://185.2.83.34:8000/live/elf/elf/495.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://185.2.83.34:8000/live/elf/elf/497.ts
-#EXTINF:-1,IT: Sky Cinema Hits
-http://185.2.83.34:8000/live/elf/elf/628.ts
-#EXTINF:-1,IT: Sky Cinema Classics HD
-http://185.2.83.34:8000/live/elf/elf/629.ts
-#EXTINF:-1,IT:Premium Studio Universal
-http://185.2.83.34:8000/live/elf/elf/779.ts
-#EXTINF:-1,IT:Premium Sport HD
-http://185.2.83.34:8000/live/elf/elf/778.ts
-#EXTINF:-1,IT:Premium Joi
-http://185.2.83.34:8000/live/elf/elf/780.ts
-#EXTINF:-1,IT:Premium EuroSport 1 HD
-http://185.2.83.34:8000/live/elf/elf/786.ts
-#EXTINF:-1,IT:Premium EuroSport 2 HD
-http://185.2.83.34:8000/live/elf/elf/787.ts
-#EXTINF:-1,IT:Premium Energy
-http://185.2.83.34:8000/live/elf/elf/788.ts
-#EXTINF:-1,IT:Premium Emotion
-http://185.2.83.34:8000/live/elf/elf/789.ts
-#EXTINF:-1,IT:Premium Disney Junior
-http://185.2.83.34:8000/live/elf/elf/791.ts
-#EXTINF:-1,IT:Premium Disney Channel
-http://185.2.83.34:8000/live/elf/elf/792.ts
-#EXTINF:-1,IT:Premium Discovery World
-http://185.2.83.34:8000/live/elf/elf/801.ts
-#EXTINF:-1,IT:Premium Crime
-http://185.2.83.34:8000/live/elf/elf/793.ts
-#EXTINF:-1,IT:Premium Comedy
-http://185.2.83.34:8000/live/elf/elf/794.ts
-#EXTINF:-1,IT:Premium Cinema 2 HD
-http://185.2.83.34:8000/live/elf/elf/797.ts
-#EXTINF:-1,IT:Premium Cinema Plus 24
-http://185.2.83.34:8000/live/elf/elf/795.ts
-#EXTINF:-1,IT:Premium Cinema
-http://185.2.83.34:8000/live/elf/elf/796.ts
-#EXTINF:-1,IT:Premium Cartoon Network
-http://185.2.83.34:8000/live/elf/elf/790.ts
-#EXTINF:-1,IT:Premium Calcio HD
-http://185.2.83.34:8000/live/elf/elf/782.ts
-#EXTINF:-1,IT:Premium Calcio 1 HD
-http://185.2.83.34:8000/live/elf/elf/783.ts
-#EXTINF:-1,IT:Premium Calcio 2
-http://185.2.83.34:8000/live/elf/elf/784.ts
-#EXTINF:-1,IT:Premium Calcio 3
-http://185.2.83.34:8000/live/elf/elf/785.ts
-#EXTINF:-1,IT:Premium Calcio
-http://185.2.83.34:8000/live/elf/elf/781.ts
-#EXTINF:-1,IT:Premium BBC Knowledge
-http://185.2.83.34:8000/live/elf/elf/798.ts
-#EXTINF:-1,IT:Premium BBC
-http://185.2.83.34:8000/live/elf/elf/799.ts
-#EXTINF:-1,IT:Premium Action HD
-http://185.2.83.34:8000/live/elf/elf/800.ts
-#EXTINF:-1,IT: RSI La 1 HD
-http://185.2.83.34:8000/live/elf/elf/633.ts
-#EXTINF:-1,IT: RSI La 2
-http://185.2.83.34:8000/live/elf/elf/632.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://185.2.83.34:8000/live/elf/elf/627.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://185.2.83.34:8000/live/elf/elf/630.ts
-#EXTINF:-1,IT: RAI PREMIUM
-http://185.2.83.34:8000/live/elf/elf/626.ts
-#EXTINF:-1,IT: Rai 1
-http://185.2.83.34:8000/live/elf/elf/510.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://185.2.83.34:8000/live/elf/elf/623.ts
-#EXTINF:-1,IT: RAI 3 HD
-http://185.2.83.34:8000/live/elf/elf/624.ts
-#EXTINF:-1,IT: Rai 4
-http://185.2.83.34:8000/live/elf/elf/625.ts
-#EXTINF:-1,IT: National Geo HD
-http://185.2.83.34:8000/live/elf/elf/634.ts
-#EXTINF:-1,IT: NatGeo Wild HD
-http://185.2.83.34:8000/live/elf/elf/635.ts
-#EXTINF:-1,IT: NatGeo People HD
-http://185.2.83.34:8000/live/elf/elf/636.ts
-#EXTINF:-1,IT: Milan Channel
-http://185.2.83.34:8000/live/elf/elf/637.ts
-#EXTINF:-1,IT: Mediaset Italia due
-http://185.2.83.34:8000/live/elf/elf/638.ts
-#EXTINF:-1,IT: JUVE CHANNEL
-http://185.2.83.34:8000/live/elf/elf/639.ts
-#EXTINF:-1,IT: Italia 1
-http://185.2.83.34:8000/live/elf/elf/640.ts
-#EXTINF:-1,IT: Inter
-http://185.2.83.34:8000/live/elf/elf/641.ts
-#EXTINF:-1,IT: FOX SPORT
-http://185.2.83.34:8000/live/elf/elf/643.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://185.2.83.34:8000/live/elf/elf/645.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://185.2.83.34:8000/live/elf/elf/646.ts
-#EXTINF:-1,IT: Disney Juniour
-http://185.2.83.34:8000/live/elf/elf/648.ts
-#EXTINF:-1,IT: Discovery World
-http://185.2.83.34:8000/live/elf/elf/649.ts
-#EXTINF:-1,IT: Discovery Sci HD
-http://185.2.83.34:8000/live/elf/elf/650.ts
-#EXTINF:-1,IT: Discovery HD
-http://185.2.83.34:8000/live/elf/elf/651.ts
-#EXTINF:-1,IT: CARTOONITO
-http://185.2.83.34:8000/live/elf/elf/652.ts
-#EXTINF:-1,IT: CARTOON NETWORK
-http://185.2.83.34:8000/live/elf/elf/653.ts
-#EXTINF:-1,IT: Canale 5
-http://185.2.83.34:8000/live/elf/elf/654.ts
-#EXTINF:-1,IT: Boing
-http://185.2.83.34:8000/live/elf/elf/655.ts
-#EXTINF:-1,IT: AXN
-http://185.2.83.34:8000/live/elf/elf/656.ts
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://185.2.83.34:8000/live/elf/elf/618.ts
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://185.2.83.34:8000/live/elf/elf/619.ts
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://185.2.83.34:8000/live/elf/elf/620.ts
-#EXTINF:-1,PRIMAFILA 6 HD
-http://185.2.83.34:8000/live/elf/elf/560.ts
-#EXTINF:-1,PRIMAFILA 7 HD
-http://185.2.83.34:8000/live/elf/elf/559.ts
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://185.2.83.34:8000/live/elf/elf/621.ts
-#EXTINF:-1,IT: Prima Fila 9 HD
-http://185.2.83.34:8000/live/elf/elf/622.ts
-#EXTINF:-1,IT:_Prima_Fila_10
-http://185.2.83.34:8000/live/elf/elf/2631.ts
-#EXTINF:-1,IT:_Prima_Fila_12
-http://185.2.83.34:8000/live/elf/elf/2632.ts
-#EXTINF:-1,====BALKAN====
-http://185.2.83.34:8000/live/elf/elf/1737.ts
-#EXTINF:-1,BK:VIASAT HISTORY
-http://185.2.83.34:8000/live/elf/elf/866.ts
-#EXTINF:-1,BK:VIASAT sport
-http://185.2.83.34:8000/live/elf/elf/867.ts
-#EXTINF:-1,BK:TV TK
-http://185.2.83.34:8000/live/elf/elf/852.ts
-#EXTINF:-1,BK:TV 1
-http://185.2.83.34:8000/live/elf/elf/848.ts
-#EXTINF:-1,BK:SPORT KLUB 1
-http://185.2.83.34:8000/live/elf/elf/773.ts
-#EXTINF:-1,BK:SPORT KLUB 1 SR
-http://185.2.83.34:8000/live/elf/elf/776.ts
-#EXTINF:-1,BK:SPORT KLUB 2
-http://185.2.83.34:8000/live/elf/elf/774.ts
-#EXTINF:-1,BK:SPORT KLUB 3 SR
-http://185.2.83.34:8000/live/elf/elf/777.ts
-#EXTINF:-1,BK:RTS SAT
-http://185.2.83.34:8000/live/elf/elf/862.ts
-#EXTINF:-1,BK:RTS 2
-http://185.2.83.34:8000/live/elf/elf/861.ts
-#EXTINF:-1,BK:RTRS
-http://185.2.83.34:8000/live/elf/elf/839.ts
-#EXTINF:-1,BK:RTL 2
-http://185.2.83.34:8000/live/elf/elf/857.ts
-#EXTINF:-1,BK:RTL
-http://185.2.83.34:8000/live/elf/elf/856.ts
-#EXTINF:-1,BK:PINK ZABAVA
-http://185.2.83.34:8000/live/elf/elf/876.ts
-#EXTINF:-1,BK:PINK WESTERN
-http://185.2.83.34:8000/live/elf/elf/896.ts
-#EXTINF:-1,BK:PINK THRILLER
-http://185.2.83.34:8000/live/elf/elf/887.ts
-#EXTINF:-1,BK:PINK SERIJE
-http://185.2.83.34:8000/live/elf/elf/884.ts
-#EXTINF:-1,BK:PINK SCIFI
-http://185.2.83.34:8000/live/elf/elf/891.ts
-#EXTINF:-1,BK:PINK ROMANCE
-http://185.2.83.34:8000/live/elf/elf/890.ts
-#EXTINF:-1,BK:PINK REALITY
-http://185.2.83.34:8000/live/elf/elf/874.ts
-#EXTINF:-1,BK:PINK PREMIUM
-http://185.2.83.34:8000/live/elf/elf/892.ts
-#EXTINF:-1,BK:PINK PLUS
-http://185.2.83.34:8000/live/elf/elf/850.ts
-#EXTINF:-1,BK:PINK MOVIES
-http://185.2.83.34:8000/live/elf/elf/889.ts
-#EXTINF:-1,BK:PINK HORROR
-http://185.2.83.34:8000/live/elf/elf/894.ts
-#EXTINF:-1,BK:PINK FOLK
-http://185.2.83.34:8000/live/elf/elf/875.ts
-#EXTINF:-1,BK:PINK FILM
-http://185.2.83.34:8000/live/elf/elf/885.ts
-#EXTINF:-1,BK:PINK EXTRA
-http://185.2.83.34:8000/live/elf/elf/851.ts
-#EXTINF:-1,BK:PINK CRIME
-http://185.2.83.34:8000/live/elf/elf/888.ts
-#EXTINF:-1,BK:PINK COMEDY
-http://185.2.83.34:8000/live/elf/elf/893.ts
-#EXTINF:-1,BK:PINK CLASSIC
-http://185.2.83.34:8000/live/elf/elf/895.ts
-#EXTINF:-1,BK:PINK BH
-http://185.2.83.34:8000/live/elf/elf/841.ts
-#EXTINF:-1,BK:PINK ACTIOn
-http://185.2.83.34:8000/live/elf/elf/886.ts
-#EXTINF:-1,BK:PINK 3
-http://185.2.83.34:8000/live/elf/elf/843.ts
-#EXTINF:-1,BK:PINK 2
-http://185.2.83.34:8000/live/elf/elf/842.ts
-#EXTINF:-1,BK:PINK
-http://185.2.83.34:8000/live/elf/elf/849.ts
-#EXTINF:-1,BK:OBN
-http://185.2.83.34:8000/live/elf/elf/840.ts
-#EXTINF:-1,BK:NOVA TV
-http://185.2.83.34:8000/live/elf/elf/858.ts
-#EXTINF:-1,BK:NGC
-http://185.2.83.34:8000/live/elf/elf/864.ts
-#EXTINF:-1,BK:KCN 1
-http://185.2.83.34:8000/live/elf/elf/880.ts
-#EXTINF:-1,BK:KCN 2
-http://185.2.83.34:8000/live/elf/elf/879.ts
-#EXTINF:-1,BK:IZVORNA TV
-http://185.2.83.34:8000/live/elf/elf/872.ts
-#EXTINF:-1,BK:HRT 2
-http://185.2.83.34:8000/live/elf/elf/855.ts
-#EXTINF:-1,BK:HRT 1
-http://185.2.83.34:8000/live/elf/elf/854.ts
-#EXTINF:-1,BK:HAYATOVCI
-http://185.2.83.34:8000/live/elf/elf/881.ts
-#EXTINF:-1,BK:HAYAT PLUS
-http://185.2.83.34:8000/live/elf/elf/845.ts
-#EXTINF:-1,BK:HAYAT MUSIC
-http://185.2.83.34:8000/live/elf/elf/868.ts
-#EXTINF:-1,BK:HAYAT FOLK
-http://185.2.83.34:8000/live/elf/elf/877.ts
-#EXTINF:-1,BK:HAYAT
-http://185.2.83.34:8000/live/elf/elf/844.ts
-#EXTINF:-1,BK:FTV
-http://185.2.83.34:8000/live/elf/elf/837.ts
-#EXTINF:-1,BK:FOX
-http://185.2.83.34:8000/live/elf/elf/882.ts
-#EXTINF:-1,BK:FACE TV
-http://185.2.83.34:8000/live/elf/elf/847.ts
-#EXTINF:-1,BK:EUROSPORT 2
-http://185.2.83.34:8000/live/elf/elf/883.ts
-#EXTINF:-1,BK:DUGA TV
-http://185.2.83.34:8000/live/elf/elf/878.ts
-#EXTINF:-1,BK:DOMA TV
-http://185.2.83.34:8000/live/elf/elf/859.ts
-#EXTINF:-1,BK:DM SAT
-http://185.2.83.34:8000/live/elf/elf/873.ts
-#EXTINF:-1,BK:BN TV
-http://185.2.83.34:8000/live/elf/elf/846.ts
-#EXTINF:-1,BK:BN MUSIC
-http://185.2.83.34:8000/live/elf/elf/869.ts
-#EXTINF:-1,BK:BHT
-http://185.2.83.34:8000/live/elf/elf/838.ts
-#EXTINF:-1,BK:ARENA SPORT 1
-http://185.2.83.34:8000/live/elf/elf/769.ts
-#EXTINF:-1,BK:ARENA SPORT 2
-http://185.2.83.34:8000/live/elf/elf/770.ts
-#EXTINF:-1,BK:ARENA SPORT 3
-http://185.2.83.34:8000/live/elf/elf/771.ts
-#EXTINF:-1,BK ARENA SPORT 4
-http://185.2.83.34:8000/live/elf/elf/772.ts
-#EXTINF:-1,BK POSAVINA TV
-http://185.2.83.34:8000/live/elf/elf/871.ts
-#EXTINF:-1,BK PINK WORLD
-http://185.2.83.34:8000/live/elf/elf/898.ts
-#EXTINF:-1,BK PINK FAMILY
-http://185.2.83.34:8000/live/elf/elf/897.ts
-#EXTINF:-1,BK AL JAZEERA
-http://185.2.83.34:8000/live/elf/elf/853.ts
-#EXTINF:-1,====AFRICAIN====
-http://185.2.83.34:8000/live/elf/elf/1736.ts
-#EXTINF:-1,atv
-http://185.2.83.34:8000/live/elf/elf/2003.ts
-#EXTINF:-1,AF:Walf_TV
-http://185.2.83.34:8000/live/elf/elf/2520.ts
-#EXTINF:-1,AF:TFM.OLE
-http://185.2.83.34:8000/live/elf/elf/2524.ts
-#EXTINF:-1,AF:TFM.INFO
-http://185.2.83.34:8000/live/elf/elf/2525.ts
-#EXTINF:-1,AF:tfm
-http://185.2.83.34:8000/live/elf/elf/2523.ts
-#EXTINF:-1,AF:SenTV.HD
-http://185.2.83.34:8000/live/elf/elf/2521.ts
-#EXTINF:-1,AF:RTS1.Africa
-http://185.2.83.34:8000/live/elf/elf/2526.ts
-#EXTINF:-1,AF:RTI2
-http://185.2.83.34:8000/live/elf/elf/2519.ts
-#EXTINF:-1,AF:RTI1
-http://185.2.83.34:8000/live/elf/elf/2518.ts
-#EXTINF:-1,AF:2STV
-http://185.2.83.34:8000/live/elf/elf/2522.ts
-#EXTINF:-1,AF Universal TV (Somalia) - AF Universal TV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1993.ts
-#EXTINF:-1,AF Sudan TV (Sudan) - AF Sudan TV (Sudan)
-http://185.2.83.34:8000/live/elf/elf/1984.ts
-#EXTINF:-1,AF Sudan Dabanga (Sudan)
-http://185.2.83.34:8000/live/elf/elf/1995.ts
-#EXTINF:-1,AF Somaliland TV (Somalia) - AF Somaliland TV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1992.ts
-#EXTINF:-1,AF Somali Cable (Somalia) - AF Somali Cable (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1991.ts
-#EXTINF:-1,AF SNTV (Somalia) - AF SNTV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1994.ts
-#EXTINF:-1,AF Sbc Somali TV (Somalia) - AF Sbc Somali TV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1985.ts
-#EXTINF:-1,AF Rti (Cote D)
-http://185.2.83.34:8000/live/elf/elf/2001.ts
-#EXTINF:-1,AF Rtd (Djibouti)
-http://185.2.83.34:8000/live/elf/elf/2000.ts
-#EXTINF:-1,AF Royal TV (Somalia) - AF Royal TV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1983.ts
-#EXTINF:-1,AF_Nollywood_French_TV
-http://185.2.83.34:8000/live/elf/elf/2575.ts
-#EXTINF:-1,AF Nollywood (Nigiria) - AF Nollywood (Nigiria)
-http://185.2.83.34:8000/live/elf/elf/1980.ts
-#EXTINF:-1,AF Love World (Nigiria High)
-http://185.2.83.34:8000/live/elf/elf/1997.ts
-#EXTINF:-1,AF Kalsan TV (Somalia) - AF Kalsan TV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1990.ts
-#EXTINF:-1,AF Horn Cable TV (Somalia) - AF Horn Cable TV (Somalia)
-http://185.2.83.34:8000/live/elf/elf/1989.ts
-#EXTINF:-1,AF Etv (Eritria)
-http://185.2.83.34:8000/live/elf/elf/1996.ts
-#EXTINF:-1,AF Es TV (Eritrea) - AF Es TV (Eritrea)
-http://185.2.83.34:8000/live/elf/elf/1988.ts
-#EXTINF:-1,AF Eritrea TV (Eritrea) - AF Eritrea TV (Eritrea)
-http://185.2.83.34:8000/live/elf/elf/1987.ts
-#EXTINF:-1,AF Ebc TV (Ethiopia) - AF Ebc TV (Ethiopia)
-http://185.2.83.34:8000/live/elf/elf/1998.ts
-#EXTINF:-1,AF E TV (Eritrea) - AF E TV (Eritrea)
-http://185.2.83.34:8000/live/elf/elf/1982.ts
-#EXTINF:-1,AF Djibouti (Djibouti) - AF Djibouti (Djibouti)
-http://185.2.83.34:8000/live/elf/elf/1986.ts
-#EXTINF:-1,AF Ait Inter  (Nigiria) - AF Ait Inter (Nigiria)
-http://185.2.83.34:8000/live/elf/elf/1981.ts
-#EXTINF:-1,AF Africa 24
-http://185.2.83.34:8000/live/elf/elf/1999.ts
-#EXTINF:-1,AF:NollyWood Movies
-http://185.2.83.34:8000/live/elf/elf/819.ts
+http://163.172.37.71:8789/live/andrea/andrea/472.ts
+#EXTINF:-1,RTL.HD
+http://163.172.37.71:8789/live/andrea/andrea/469.ts
+#EXTINF:-1,RTL2
+http://163.172.37.71:8789/live/andrea/andrea/470.ts
+#EXTINF:-1,Kabel_eins
+http://163.172.37.71:8789/live/andrea/andrea/474.ts
+#EXTINF:-1,VOX
+http://163.172.37.71:8789/live/andrea/andrea/473.ts
+#EXTINF:-1,VEVO
+http://163.172.37.71:8789/live/andrea/andrea/589.ts
+#EXTINF:-1,PUNKTUM
+http://163.172.37.71:8789/live/andrea/andrea/596.ts
+#EXTINF:-1,Das_Erst_HD
+http://163.172.37.71:8789/live/andrea/andrea/467.ts
+#EXTINF:-1,DAS_NEUE-TV
+http://163.172.37.71:8789/live/andrea/andrea/591.ts
+#EXTINF:-1,Virgin_Radio-TV
+http://163.172.37.71:8789/live/andrea/andrea/599.ts
+#EXTINF:-1,MUNCHEN-TV
+http://163.172.37.71:8789/live/andrea/andrea/594.ts
+#EXTINF:-1,AXN.HD
+http://163.172.37.71:8789/live/andrea/andrea/544.ts
+#EXTINF:-1,FOX_DE_HD
+http://163.172.37.71:8789/live/andrea/andrea/550.ts
+#EXTINF:-1,ANIXE
+http://163.172.37.71:8789/live/andrea/andrea/592.ts
+#EXTINF:-1,=====KINO=====
+http://163.172.37.71:8789/live/andrea/andrea/475.ts
+#EXTINF:-1,SKY_CINEMA.HD
+http://163.172.37.71:8789/live/andrea/andrea/745.ts
+#EXTINF:-1,Sky_Cinema
+http://163.172.37.71:8789/live/andrea/andrea/476.ts
+#EXTINF:-1,Sky-Cinema+24
+http://163.172.37.71:8789/live/andrea/andrea/477.ts
+#EXTINF:-1,Sky_Cinema+1
+http://163.172.37.71:8789/live/andrea/andrea/773.ts
+#EXTINF:-1,SKY_ACTION.HD
+http://163.172.37.71:8789/live/andrea/andrea/747.ts
+#EXTINF:-1,Sky-Action
+http://163.172.37.71:8789/live/andrea/andrea/478.ts
+#EXTINF:-1,AXN_ACTION.HD
+http://163.172.37.71:8789/live/andrea/andrea/746.ts
+#EXTINF:-1,Sky_Comedy
+http://163.172.37.71:8789/live/andrea/andrea/708.ts
+#EXTINF:-1,MGM_DE
+http://163.172.37.71:8789/live/andrea/andrea/710.ts
+#EXTINF:-1,Sky_Emotion
+http://163.172.37.71:8789/live/andrea/andrea/547.ts
+#EXTINF:-1,Sky_Hits_de
+http://163.172.37.71:8789/live/andrea/andrea/709.ts
+#EXTINF:-1,Sky_Hits
+http://163.172.37.71:8789/live/andrea/andrea/536.ts
+#EXTINF:-1,TNT_Film
+http://163.172.37.71:8789/live/andrea/andrea/548.ts
+#EXTINF:-1,----------PPV-----------
+http://163.172.37.71:8789/live/andrea/andrea/563.ts
+#EXTINF:-1,Sky-Select.HD1
+http://163.172.37.71:8789/live/andrea/andrea/554.ts
+#EXTINF:-1,Sky-Select.HD2
+http://163.172.37.71:8789/live/andrea/andrea/556.ts
+#EXTINF:-1,Sky-Select.HD3
+http://163.172.37.71:8789/live/andrea/andrea/557.ts
+#EXTINF:-1,Sky-Select.HD4
+http://163.172.37.71:8789/live/andrea/andrea/558.ts
+#EXTINF:-1,Sky-Select.HD5
+http://163.172.37.71:8789/live/andrea/andrea/560.ts
+#EXTINF:-1,Sky-Select.HD6
+http://163.172.37.71:8789/live/andrea/andrea/561.ts
+#EXTINF:-1,Sky-Select.HD7
+http://163.172.37.71:8789/live/andrea/andrea/562.ts
+#EXTINF:-1,Sky-Select.HD8
+http://163.172.37.71:8789/live/andrea/andrea/564.ts
+#EXTINF:-1,Sky-Select.9HD
+http://163.172.37.71:8789/live/andrea/andrea/759.ts
+#EXTINF:-1,Sky-Select.10HD
+http://163.172.37.71:8789/live/andrea/andrea/760.ts
+#EXTINF:-1,----------Unterhaltung-----------
+http://163.172.37.71:8789/live/andrea/andrea/559.ts
+#EXTINF:-1,SYFY-HD
+http://163.172.37.71:8789/live/andrea/andrea/742.ts
+#EXTINF:-1,Sky_ATLANTIC_HD
+http://163.172.37.71:8789/live/andrea/andrea/537.ts
+#EXTINF:-1,SKY_ATLANTIC
+http://163.172.37.71:8789/live/andrea/andrea/29.ts
+#EXTINF:-1,AXN_DE_HD
+http://163.172.37.71:8789/live/andrea/andrea/553.ts
+#EXTINF:-1,13th_Street.HD
+http://163.172.37.71:8789/live/andrea/andrea/542.ts
+#EXTINF:-1,13th_Street_HD
+http://163.172.37.71:8789/live/andrea/andrea/549.ts
+#EXTINF:-1,TNT_Serie
+http://163.172.37.71:8789/live/andrea/andrea/711.ts
+#EXTINF:-1,RTL_Passion
+http://163.172.37.71:8789/live/andrea/andrea/713.ts
+#EXTINF:-1,RTL_LIVING
+http://163.172.37.71:8789/live/andrea/andrea/714.ts
+#EXTINF:-1,RTL_Crime
+http://163.172.37.71:8789/live/andrea/andrea/715.ts
+#EXTINF:-1,RomanceTV
+http://163.172.37.71:8789/live/andrea/andrea/712.ts
+#EXTINF:-1,++++Sport++++
+http://163.172.37.71:8789/live/andrea/andrea/504.ts
+#EXTINF:-1,DE_Sky_SportNews_HD
+http://163.172.37.71:8789/live/andrea/andrea/570.ts
+#EXTINF:-1,SKY_SPORT1.HD
+http://163.172.37.71:8789/live/andrea/andrea/733.ts
+#EXTINF:-1,SKY_SPORT2.HD
+http://163.172.37.71:8789/live/andrea/andrea/734.ts
+#EXTINF:-1,Sky-Sport-1
+http://163.172.37.71:8789/live/andrea/andrea/505.ts
+#EXTINF:-1,Sky-Sport-2
+http://163.172.37.71:8789/live/andrea/andrea/506.ts
+#EXTINF:-1,SKY_SPORT3.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/735.ts
+#EXTINF:-1,SKY_SPORT4.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/736.ts
+#EXTINF:-1,SKY_SPORT5.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/737.ts
+#EXTINF:-1,SKY_SPORT6.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/738.ts
+#EXTINF:-1,SKY_SPORT7.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/739.ts
+#EXTINF:-1,SKY_SPORT8.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/740.ts
+#EXTINF:-1,SKY_SPORT9.HD(ON_MATCH)
+http://163.172.37.71:8789/live/andrea/andrea/741.ts
+#EXTINF:-1,SKY_BUNDESLIGA-1-HD
+http://163.172.37.71:8789/live/andrea/andrea/432.ts
+#EXTINF:-1,SKY_BUNDESLIGA-2-HD
+http://163.172.37.71:8789/live/andrea/andrea/431.ts
+#EXTINF:-1,SKY_BUNDESLIGA-3-HD
+http://163.172.37.71:8789/live/andrea/andrea/430.ts
+#EXTINF:-1,SKY_BUNDESLIGA_10HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/758.ts
+#EXTINF:-1,SKY_BUNDESLIGA_9HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/757.ts
+#EXTINF:-1,SKY_BUNDESLIGA_8HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/756.ts
+#EXTINF:-1,SKY_BUNDESLIGA_7HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/755.ts
+#EXTINF:-1,SKY_BUNDESLIGA_6HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/754.ts
+#EXTINF:-1,SKY_BUNDESLIGA_5HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/753.ts
+#EXTINF:-1,SKY_BUNDESLIGA_4HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/752.ts
+#EXTINF:-1,SKY_BUNDESLIGA_3HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/751.ts
+#EXTINF:-1,SKY_BUNDESLIGA_2HD.(ON MATCHDAY)
+http://163.172.37.71:8789/live/andrea/andrea/750.ts
+#EXTINF:-1,DE_Sportdigital_HD
+http://163.172.37.71:8789/live/andrea/andrea/571.ts
+#EXTINF:-1,EUROSPORT_DE
+http://163.172.37.71:8789/live/andrea/andrea/546.ts
+#EXTINF:-1,Motorvision_TV
+http://163.172.37.71:8789/live/andrea/andrea/717.ts
+#EXTINF:-1,----------Kultur-----------
+http://163.172.37.71:8789/live/andrea/andrea/540.ts
+#EXTINF:-1,Discovery-Channel
+http://163.172.37.71:8789/live/andrea/andrea/552.ts
+#EXTINF:-1,NAT_GEO.HD
+http://163.172.37.71:8789/live/andrea/andrea/743.ts
+#EXTINF:-1,Nat_GEO_DE_HD
+http://163.172.37.71:8789/live/andrea/andrea/538.ts
+#EXTINF:-1,NAT_GEO_WILD-DE_HD
+http://163.172.37.71:8789/live/andrea/andrea/543.ts
+#EXTINF:-1,SKY_DISCOVERY.HD
+http://163.172.37.71:8789/live/andrea/andrea/744.ts
+#EXTINF:-1,Sky_Descovery_de_HD
+http://163.172.37.71:8789/live/andrea/andrea/539.ts
+#EXTINF:-1,DMAX_DE_HD
+http://163.172.37.71:8789/live/andrea/andrea/555.ts
+#EXTINF:-1,History-DE_HD
+http://163.172.37.71:8789/live/andrea/andrea/545.ts
+#EXTINF:-1,TLC_Crime
+http://163.172.37.71:8789/live/andrea/andrea/569.ts
+#EXTINF:-1,DE_A&E
+http://163.172.37.71:8789/live/andrea/andrea/568.ts
+#EXTINF:-1,----------News_DE-----------
+http://163.172.37.71:8789/live/andrea/andrea/572.ts
+#EXTINF:-1,HSE24
+http://163.172.37.71:8789/live/andrea/andrea/595.ts
+#EXTINF:-1,DE_DW
+http://163.172.37.71:8789/live/andrea/andrea/573.ts
+#EXTINF:-1,DE_24
+http://163.172.37.71:8789/live/andrea/andrea/574.ts
+#EXTINF:-1,AUSTRIA-24.TV
+http://163.172.37.71:8789/live/andrea/andrea/593.ts
+#EXTINF:-1,----------Kinder----------
+http://163.172.37.71:8789/live/andrea/andrea/565.ts
+#EXTINF:-1,Disney_Cinemagic_de
+http://163.172.37.71:8789/live/andrea/andrea/720.ts
+#EXTINF:-1,Disney_XD _de
+http://163.172.37.71:8789/live/andrea/andrea/719.ts
+#EXTINF:-1,DE_Nickelodeon
+http://163.172.37.71:8789/live/andrea/andrea/566.ts
+#EXTINF:-1,Kika_HD
+http://163.172.37.71:8789/live/andrea/andrea/567.ts
+#EXTINF:-1,Junior
+http://163.172.37.71:8789/live/andrea/andrea/718.ts
+#EXTINF:-1,========VOD========
+http://163.172.37.71:8789/live/andrea/andrea/916.ts
+#EXTINF:-1,Zootopia.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/877.mkv
+#EXTINF:-1,MINIONS
+http://163.172.37.71:8789/movie/andrea/andrea/945.mkv
+#EXTINF:-1,Zoolander.2.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/876.mkv
+#EXTINF:-1,True.Story.2015
+http://163.172.37.71:8789/movie/andrea/andrea/907.mp4
+#EXTINF:-1,Tiger.House.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/875.mkv
+#EXTINF:-1,The.Transporter.Refueled.2015
+http://163.172.37.71:8789/movie/andrea/andrea/906.mp4
+#EXTINF:-1,The.Shamers.Daughter.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/874.mkv
+#EXTINF:-1,Triple.9
+http://163.172.37.71:8789/movie/andrea/andrea/967.mkv
+#EXTINF:-1,The.Trust
+http://163.172.37.71:8789/movie/andrea/andrea/968.mkv
+#EXTINF:-1,The.Nice.Guys.
+http://163.172.37.71:8789/movie/andrea/andrea/956.mkv
+#EXTINF:-1,The.Jungle.Book
+http://163.172.37.71:8789/movie/andrea/andrea/957.mkv
+#EXTINF:-1,The.Forest
+http://163.172.37.71:8789/movie/andrea/andrea/969.mkv
+#EXTINF:-1,the.first,the.last
+http://163.172.37.71:8789/movie/andrea/andrea/970.mkv
+#EXTINF:-1,The.Boss
+http://163.172.37.71:8789/movie/andrea/andrea/958.mkv
+#EXTINF:-1,Rosalie.Blum
+http://163.172.37.71:8789/movie/andrea/andrea/959.avi
+#EXTINF:-1,Central.Intelligence.[2016]-ENG
+http://163.172.37.71:8789/movie/andrea/andrea/997.mkv
+#EXTINF:-1,Precious.Cargo
+http://163.172.37.71:8789/movie/andrea/andrea/971.mkv
+#EXTINF:-1,Pele.Birth.of.a.Legend
+http://163.172.37.71:8789/movie/andrea/andrea/960.mkv
+#EXTINF:-1,Pee-wees.Big.Holiday
+http://163.172.37.71:8789/movie/andrea/andrea/972.mkv
+#EXTINF:-1,Misconduct
+http://163.172.37.71:8789/movie/andrea/andrea/973.mkv
+#EXTINF:-1,Les.Simpson,Le.Film
+http://163.172.37.71:8789/movie/andrea/andrea/961.mkv
+#EXTINF:-1,Les.Gardiens.de.la.Galaxie
+http://163.172.37.71:8789/movie/andrea/andrea/962.mkv
+#EXTINF:-1,X_MEN_DAYS_OF_FUTURE
+http://163.172.37.71:8789/movie/andrea/andrea/995.mp4
+#EXTINF:-1,X-Men.Apocalypse.[2016].eng
+http://163.172.37.71:8789/movie/andrea/andrea/998.mkv
+#EXTINF:-1,Le.Fantome.De.Canterville
+http://163.172.37.71:8789/movie/andrea/andrea/963.mkv
+#EXTINF:-1,Kindergarten.Cop.2
+http://163.172.37.71:8789/movie/andrea/andrea/974.mkv
+#EXTINF:-1,Kill.Command
+http://163.172.37.71:8789/movie/andrea/andrea/975.mkv
+#EXTINF:-1,Independence.Day.Resurgence
+http://163.172.37.71:8789/movie/andrea/andrea/964.mkv
+#EXTINF:-1,How.To.Be.Single
+http://163.172.37.71:8789/movie/andrea/andrea/976.mkv
+#EXTINF:-1,Five
+http://163.172.37.71:8789/movie/andrea/andrea/965.mkv
+#EXTINF:-1,Arrowhead
+http://163.172.37.71:8789/movie/andrea/andrea/966.mkv
+#EXTINF:-1,The.Other.Side.Of.The.Door.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/881.mp4
+#EXTINF:-1,The.Invitation.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/896.mkv
+#EXTINF:-1,The.House.at.the.End.of.Time.2014.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/880.mp4
+#EXTINF:-1,The.Equalizer.2014
+http://163.172.37.71:8789/movie/andrea/andrea/897.mp4
+#EXTINF:-1,The.Cradle.Of.Shadows.2015
+http://163.172.37.71:8789/movie/andrea/andrea/908.mp4
+#EXTINF:-1,The.Call.Up.2016
+http://163.172.37.71:8789/movie/andrea/andrea/909.mp4
+#EXTINF:-1,The.Boy.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/873.mkv
+#EXTINF:-1,The.Beast.2014.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/872.mkv
+#EXTINF:-1,The Witch.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/879.mp4
+#EXTINF:-1,Taken.3
+http://163.172.37.71:8789/movie/andrea/andrea/898.mp4
+#EXTINF:-1,Spy.2015
+http://163.172.37.71:8789/movie/andrea/andrea/899.mp4
+#EXTINF:-1,Southpaw.2015.Truefrench
+http://163.172.37.71:8789/movie/andrea/andrea/871.mkv
+#EXTINF:-1,Sacrifice.2016.TRUEFRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/895.mkv
+#EXTINF:-1,Interstellar.IMAX
+http://163.172.37.71:8789/movie/andrea/andrea/946.mkv
+#EXTINF:-1,Inside.Out
+http://163.172.37.71:8789/movie/andrea/andrea/948.mkv
+#EXTINF:-1,Inside.Man
+http://163.172.37.71:8789/movie/andrea/andrea/949.mkv
+#EXTINF:-1,Inception
+http://163.172.37.71:8789/movie/andrea/andrea/950.mkv
+#EXTINF:-1,Contraband
+http://163.172.37.71:8789/movie/andrea/andrea/947.mkv
+#EXTINF:-1,Project.Itoh.The.Empire.Of.Corpses
+http://163.172.37.71:8789/movie/andrea/andrea/910.mp4
+#EXTINF:-1,Pride.And.Prejudice.And.Zombies.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/870.mkv
+#EXTINF:-1,Point.Break.2015.Truefrench
+http://163.172.37.71:8789/movie/andrea/andrea/869.mkv
+#EXTINF:-1,Old.37.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/868.mkv
+#EXTINF:-1,Navy.Seals.vs.Zombies
+http://163.172.37.71:8789/movie/andrea/andrea/911.mp4
+#EXTINF:-1,Mustang.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/867.mkv
+#EXTINF:-1,London.Has.Fallen.2016.Truefrench
+http://163.172.37.71:8789/movie/andrea/andrea/866.mkv
+#EXTINF:-1,Kung.Fu.Panda.3.2016.TRUEFRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/865.mkv
+#EXTINF:-1,Joker.2015
+http://163.172.37.71:8789/movie/andrea/andrea/900.mp4
+#EXTINF:-1,John.Wick
+http://163.172.37.71:8789/movie/andrea/andrea/901.mp4
+#EXTINF:-1,Ip.Man.Le.Combat.Final.2014
+http://163.172.37.71:8789/movie/andrea/andrea/902.mp4
+#EXTINF:-1,Ip.Man.La.Legende
+http://163.172.37.71:8789/movie/andrea/andrea/903.mp4
+#EXTINF:-1,Intruders.2015.TRUEFRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/864.mkv
+#EXTINF:-1,How.To.Be.Single.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/863.mkv
+#EXTINF:-1,Ghosthunters.On.Icy.Trails
+http://163.172.37.71:8789/movie/andrea/andrea/913.mp4
+#EXTINF:-1,Furious.Seven.2015.EXTENDED
+http://163.172.37.71:8789/movie/andrea/andrea/894.mkv
+#EXTINF:-1,fast.and.Furious.Seven
+http://163.172.37.71:8789/movie/andrea/andrea/904.mp4
+#EXTINF:-1,Fast And Furious 2009 TRUEFRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/893.mkv
+#EXTINF:-1,Elvis.And.Nixon.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/892.mkv
+#EXTINF:-1,Deadpool.HD
+http://163.172.37.71:8789/movie/andrea/andrea/912.mp4
+#EXTINF:-1,Black.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/862.avi
+#EXTINF:-1,Batman.v.Superman.Dawn.of.Justice.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/878.mp4
+#EXTINF:-1,Astérix.Le.Domaine.Des.Dieux
+http://163.172.37.71:8789/movie/andrea/andrea/914.mkv
+#EXTINF:-1,Antboy.3.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/891.mkv
+#EXTINF:-1,Angry.Birds.2016.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/890.mkv
+#EXTINF:-1,American.Sniper.2014
+http://163.172.37.71:8789/movie/andrea/andrea/905.mp4
+#EXTINF:-1,3 Days to Kill
+http://163.172.37.71:8789/movie/andrea/andrea/861.mkv
+#EXTINF:-1,21.Nuits.Avec.Pattie.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/860.mkv
+#EXTINF:-1, Keeper.2015.FRENCH
+http://163.172.37.71:8789/movie/andrea/andrea/889.mkv
+#EXTINF:-1,VoltFace
+http://163.172.37.71:8789/movie/andrea/andrea/917.mkv
+#EXTINF:-1,Very.Bad.Trip.3
+http://163.172.37.71:8789/movie/andrea/andrea/918.mkv
+#EXTINF:-1,Very.Bad.Trip.2
+http://163.172.37.71:8789/movie/andrea/andrea/919.mkv
+#EXTINF:-1,Very.Bad.Trip.1
+http://163.172.37.71:8789/movie/andrea/andrea/920.mkv
+#EXTINF:-1,Very.Bad.Dads
+http://163.172.37.71:8789/movie/andrea/andrea/921.mkv
+#EXTINF:-1,Unthinkable.EXTENDED.2010
+http://163.172.37.71:8789/movie/andrea/andrea/922.mkv
+#EXTINF:-1,Une.Nuit .En.Enfer
+http://163.172.37.71:8789/movie/andrea/andrea/923.mp4
+#EXTINF:-1,Underworld.3.2009.Le.Soulevement.Des.Lycans
+http://163.172.37.71:8789/movie/andrea/andrea/924.mkv
+#EXTINF:-1,Underworld.2.Evolution.2006
+http://163.172.37.71:8789/movie/andrea/andrea/925.mkv
+#EXTINF:-1,Underworld.1.2003.Director's Cut
+http://163.172.37.71:8789/movie/andrea/andrea/926.mkv
+#EXTINF:-1,Turbo.kid.2015
+http://163.172.37.71:8789/movie/andrea/andrea/927.mkv
+#EXTINF:-1,Truth.2015
+http://163.172.37.71:8789/movie/andrea/andrea/928.mp4
+#EXTINF:-1,Triple.9.2016
+http://163.172.37.71:8789/movie/andrea/andrea/929.mkv
+#EXTINF:-1,Transformers.3.Dark.of.the.Moon.2011
+http://163.172.37.71:8789/movie/andrea/andrea/930.mkv
+#EXTINF:-1,Transformers.2007
+http://163.172.37.71:8789/movie/andrea/andrea/931.mkv
+#EXTINF:-1,Transformers.2.Revenge.Of.The.Fallen.2009
+http://163.172.37.71:8789/movie/andrea/andrea/932.mkv
+#EXTINF:-1,Toy.Story.3
+http://163.172.37.71:8789/movie/andrea/andrea/933.mkv
+#EXTINF:-1,Toy.Story.2
+http://163.172.37.71:8789/movie/andrea/andrea/934.mkv
+#EXTINF:-1,Toy.Story
+http://163.172.37.71:8789/movie/andrea/andrea/935.mkv
+#EXTINF:-1,Tomorrowland.2015
+http://163.172.37.71:8789/movie/andrea/andrea/936.mkv
+#EXTINF:-1,Tigre.et.Dragon.2.2016
+http://163.172.37.71:8789/movie/andrea/andrea/937.mkv
+#EXTINF:-1,Fury
+http://163.172.37.71:8789/movie/andrea/andrea/952.mkv
+#EXTINF:-1,Aviator
+http://163.172.37.71:8789/movie/andrea/andrea/951.mp4

@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1,::::::France::::::
+http://kiptv3.ddns.net:8000/live/angelo/angelo/90.ts
+#EXTINF:-1,#####--Généralistes--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/172.ts
+#EXTINF:-1,FR:Arte
+http://kiptv3.ddns.net:8000/live/angelo/angelo/145.ts
+#EXTINF:-1,FR: FRANCE O
+http://kiptv3.ddns.net:8000/live/angelo/angelo/95.ts
+#EXTINF:-1,FR:TF1
+http://kiptv3.ddns.net:8000/live/angelo/angelo/1.ts
+#EXTINF:-1,FR: FRANCE 2
+http://kiptv3.ddns.net:8000/live/angelo/angelo/91.ts
+#EXTINF:-1,FR: FRANCE 3
+http://kiptv3.ddns.net:8000/live/angelo/angelo/92.ts
+#EXTINF:-1,FR: FRANCE 4
+http://kiptv3.ddns.net:8000/live/angelo/angelo/93.ts
+#EXTINF:-1,FR: FRANCE 5
+http://kiptv3.ddns.net:8000/live/angelo/angelo/94.ts
+#EXTINF:-1,FR: M6
+http://kiptv3.ddns.net:8000/live/angelo/angelo/96.ts
+#EXTINF:-1,FR:RTL9
+http://kiptv3.ddns.net:8000/live/angelo/angelo/129.ts
+#EXTINF:-1,FR:W9
+http://kiptv3.ddns.net:8000/live/angelo/angelo/135.ts
+#EXTINF:-1,FR:C8
+http://kiptv3.ddns.net:8000/live/angelo/angelo/123.ts
+#EXTINF:-1,FR:Cstar
+http://kiptv3.ddns.net:8000/live/angelo/angelo/125.ts
+#EXTINF:-1,FR:6TER-HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/122.ts
+#EXTINF:-1,FR: SYFY HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/120.ts
+#EXTINF:-1,FR:NT-1
+http://kiptv3.ddns.net:8000/live/angelo/angelo/131.ts
+#EXTINF:-1,FR: NRJ12
+http://kiptv3.ddns.net:8000/live/angelo/angelo/194.ts
+#EXTINF:-1,FR:TV-BREIZH
+http://kiptv3.ddns.net:8000/live/angelo/angelo/126.ts
+#EXTINF:-1,FR: 13 Eme RUE HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/119.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/193.ts
+#EXTINF:-1,FR:SERIE_CLUB_HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/212.ts
+#EXTINF:-1,FR:PARIS-PREMIERE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/128.ts
+#EXTINF:-1,FR:PARAMOUNT CHANNEL HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/127.ts
+#EXTINF:-1,FR:AB1
+http://kiptv3.ddns.net:8000/live/angelo/angelo/124.ts
+#EXTINF:-1,FR: AB3
+http://kiptv3.ddns.net:8000/live/angelo/angelo/192.ts
+#EXTINF:-1,FR:TMC
+http://kiptv3.ddns.net:8000/live/angelo/angelo/130.ts
+#EXTINF:-1,FR:Action
+http://kiptv3.ddns.net:8000/live/angelo/angelo/132.ts
+#EXTINF:-1,FR:CHERIE 25
+http://kiptv3.ddns.net:8000/live/angelo/angelo/180.ts
+#EXTINF:-1,FR: CH_RTS UN
+http://kiptv3.ddns.net:8000/live/angelo/angelo/422.ts
+#EXTINF:-1,FR: CH_RTS DEUX
+http://kiptv3.ddns.net:8000/live/angelo/angelo/423.ts
+#EXTINF:-1,#####--Canal+--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/173.ts
+#EXTINF:-1,FR: CANAL HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/109.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/111.ts
+#EXTINF:-1,FR: CANAL FAMILY
+http://kiptv3.ddns.net:8000/live/angelo/angelo/110.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/112.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/113.ts
+#EXTINF:-1,FR: CANAL SERIE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/114.ts
+#EXTINF:-1,FR: CINE FRISSON
+http://kiptv3.ddns.net:8000/live/angelo/angelo/118.ts
+#EXTINF:-1,FR: CINE FAMIZ
+http://kiptv3.ddns.net:8000/live/angelo/angelo/115.ts
+#EXTINF:-1,FR: CINE + FX
+http://kiptv3.ddns.net:8000/live/angelo/angelo/421.ts
+#EXTINF:-1,FR: CINE EMOTION
+http://kiptv3.ddns.net:8000/live/angelo/angelo/117.ts
+#EXTINF:-1,FR: CINE  PREMIER HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/116.ts
+#EXTINF:-1,FR:FR:CINE_POLAR
+http://kiptv3.ddns.net:8000/live/angelo/angelo/483.ts
+#EXTINF:-1,FR:Comedie+
+http://kiptv3.ddns.net:8000/live/angelo/angelo/358.ts
+#EXTINF:-1,#####--Documentaires--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/174.ts
+#EXTINF:-1,FR:Planéte+
+http://kiptv3.ddns.net:8000/live/angelo/angelo/139.ts
+#EXTINF:-1,FR:Planéte-CI
+http://kiptv3.ddns.net:8000/live/angelo/angelo/140.ts
+#EXTINF:-1,FR:Planete A&E HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/141.ts
+#EXTINF:-1,FR:National-Geographic-HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/137.ts
+#EXTINF:-1,FR:NatGeo-Wild-HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/138.ts
+#EXTINF:-1,FR: Discovery
+http://kiptv3.ddns.net:8000/live/angelo/angelo/121.ts
+#EXTINF:-1,FR:Discovery-Science
+http://kiptv3.ddns.net:8000/live/angelo/angelo/136.ts
+#EXTINF:-1,FR:Histoire
+http://kiptv3.ddns.net:8000/live/angelo/angelo/147.ts
+#EXTINF:-1,FR:Toute L'histoire
+http://kiptv3.ddns.net:8000/live/angelo/angelo/144.ts
+#EXTINF:-1,#####--Découvertes--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/176.ts
+#EXTINF:-1,FR:VOYAGE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/142.ts
+#EXTINF:-1,FR:UshuaiaTV
+http://kiptv3.ddns.net:8000/live/angelo/angelo/149.ts
+#EXTINF:-1,FR:RMC_DECOUVERTE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/148.ts
+#EXTINF:-1,FR:Animaux
+http://kiptv3.ddns.net:8000/live/angelo/angelo/146.ts
+#EXTINF:-1,FR:Chasse & Pèche
+http://kiptv3.ddns.net:8000/live/angelo/angelo/143.ts
+#EXTINF:-1,#####--Enfants--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/177.ts
+#EXTINF:-1,FR:Piwi+
+http://kiptv3.ddns.net:8000/live/angelo/angelo/152.ts
+#EXTINF:-1,FR:GULLI
+http://kiptv3.ddns.net:8000/live/angelo/angelo/162.ts
+#EXTINF:-1,FR:Zouzou_TV
+http://kiptv3.ddns.net:8000/live/angelo/angelo/154.ts
+#EXTINF:-1,FR:Nicklodeon
+http://kiptv3.ddns.net:8000/live/angelo/angelo/153.ts
+#EXTINF:-1,FR:DISNEY XD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/160.ts
+#EXTINF:-1,FR:NICKLODEON-JUNIOR
+http://kiptv3.ddns.net:8000/live/angelo/angelo/157.ts
+#EXTINF:-1,FR:CARTOON_NETWORK_HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/156.ts
+#EXTINF:-1,FR:MANGAS
+http://kiptv3.ddns.net:8000/live/angelo/angelo/161.ts
+#EXTINF:-1,FR:CANAL-J
+http://kiptv3.ddns.net:8000/live/angelo/angelo/158.ts
+#EXTINF:-1,FR1:TIJI
+http://kiptv3.ddns.net:8000/live/angelo/angelo/150.ts
+#EXTINF:-1,FR:TELETOON+
+http://kiptv3.ddns.net:8000/live/angelo/angelo/151.ts
+#EXTINF:-1,FR:BOOMERANG-HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/155.ts
+#EXTINF:-1,FR:BOING
+http://kiptv3.ddns.net:8000/live/angelo/angelo/159.ts
+#EXTINF:-1,#####--Informations--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/175.ts
+#EXTINF:-1,FR:LCP
+http://kiptv3.ddns.net:8000/live/angelo/angelo/186.ts
+#EXTINF:-1,FR:LCI
+http://kiptv3.ddns.net:8000/live/angelo/angelo/185.ts
+#EXTINF:-1,FR:Itele
+http://kiptv3.ddns.net:8000/live/angelo/angelo/184.ts
+#EXTINF:-1,FR:France-24
+http://kiptv3.ddns.net:8000/live/angelo/angelo/182.ts
+#EXTINF:-1,FR:EURONEWS
+http://kiptv3.ddns.net:8000/live/angelo/angelo/183.ts
+#EXTINF:-1,FR:BFMTV
+http://kiptv3.ddns.net:8000/live/angelo/angelo/181.ts
+#EXTINF:-1,FR:WEO
+http://kiptv3.ddns.net:8000/live/angelo/angelo/410.ts
+#EXTINF:-1,#####--Orange--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/179.ts
+#EXTINF:-1,FR:ORANGE-DOCUMENTAIRE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/168.ts
+#EXTINF:-1,FR:ORANGE-CINE-HORREUR
+http://kiptv3.ddns.net:8000/live/angelo/angelo/165.ts
+#EXTINF:-1,FR:OCS COMMENT C'EST FAIT HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/167.ts
+#EXTINF:-1,FR:ORANGE-CINE-AVENTURE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/166.ts
+#EXTINF:-1,FR:ORANGE-CINE-ACTION
+http://kiptv3.ddns.net:8000/live/angelo/angelo/164.ts
+#EXTINF:-1,FR:ORANGE-CINE+
+http://kiptv3.ddns.net:8000/live/angelo/angelo/163.ts
+#EXTINF:-1,FR:OCS-Max-HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/171.ts
+#EXTINF:-1,FR:OCS-CityHD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/169.ts
+#EXTINF:-1,FR:OCS-CHOC
+http://kiptv3.ddns.net:8000/live/angelo/angelo/170.ts
+#EXTINF:-1,#####--Musiques--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/178.ts
+#EXTINF:-1,FR2:M6-MUSIC
+http://kiptv3.ddns.net:8000/live/angelo/angelo/133.ts
+#EXTINF:-1,FR:VIRGIN
+http://kiptv3.ddns.net:8000/live/angelo/angelo/134.ts
+#EXTINF:-1,FR:MTV Hits
+http://kiptv3.ddns.net:8000/live/angelo/angelo/376.ts
+#EXTINF:-1,#####--Sports--######
+http://kiptv3.ddns.net:8000/live/angelo/angelo/201.ts
+#EXTINF:-1,FR: L'EQUIPE21
+http://kiptv3.ddns.net:8000/live/angelo/angelo/209.ts
+#EXTINF:-1,FR:Foot+_24/24
+http://kiptv3.ddns.net:8000/live/angelo/angelo/407.ts
+#EXTINF:-1,FR:EQUIDIA_LIVE
+http://kiptv3.ddns.net:8000/live/angelo/angelo/408.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://kiptv3.ddns.net:8000/live/angelo/angelo/208.ts
+#EXTINF:-1,FR: EUROSPORT2
+http://kiptv3.ddns.net:8000/live/angelo/angelo/210.ts
+#EXTINF:-1,FR: BeIN SPORTS 1 HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/205.ts
+#EXTINF:-1,FR: BeIN SPORTS 2 HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/206.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/207.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://kiptv3.ddns.net:8000/live/angelo/angelo/202.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://kiptv3.ddns.net:8000/live/angelo/angelo/203.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://kiptv3.ddns.net:8000/live/angelo/angelo/204.ts
+#EXTINF:-1,FR:AB_MOTEUR_HD
+http://kiptv3.ddns.net:8000/live/angelo/angelo/279.ts
