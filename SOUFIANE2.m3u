@@ -1,769 +1,871 @@
 #EXTM3U
-#EXTINF:-1,TUNISIA 1
-http://evolive-tv.com:8000/live/1111111/2222222/9.ts
-#EXTINF:-1,TUNISIA 2
-http://evolive-tv.com:8000/live/1111111/2222222/31.ts
-#EXTINF:-1,HANNIBAL
-http://evolive-tv.com:8000/live/1111111/2222222/33.ts
-#EXTINF:-1,ELHIWAR ETTOUNSI
-http://evolive-tv.com:8000/live/1111111/2222222/32.ts
-#EXTINF:-1,ETTASSIA
-http://evolive-tv.com:8000/live/1111111/2222222/39.ts
-#EXTINF:-1,NESSMA
-http://evolive-tv.com:8000/live/1111111/2222222/30.ts
-#EXTINF:-1,ZAITOUNA TV
-http://evolive-tv.com:8000/live/1111111/2222222/40.ts
-#EXTINF:-1,TUNISNA
-http://evolive-tv.com:8000/live/1111111/2222222/36.ts
-#EXTINF:-1,FIRST TV
-http://evolive-tv.com:8000/live/1111111/2222222/35.ts
-#EXTINF:-1,ETTOUNISIA TV
-http://evolive-tv.com:8000/live/1111111/2222222/38.ts
-#EXTINF:-1,JANOUBIA
-http://evolive-tv.com:8000/live/1111111/2222222/34.ts
-#EXTINF:-1,MUTAWASSIT
-http://evolive-tv.com:8000/live/1111111/2222222/37.ts
-#EXTINF:-1,TNN
-http://evolive-tv.com:8000/live/1111111/2222222/459.ts
-#EXTINF:-1,MBC
-http://evolive-tv.com:8000/live/1111111/2222222/41.ts
-#EXTINF:-1,MBC ACTION
-http://evolive-tv.com:8000/live/1111111/2222222/237.ts
-#EXTINF:-1,MBC MAX
-http://evolive-tv.com:8000/live/1111111/2222222/46.ts
-#EXTINF:-1,MBC 2
-http://evolive-tv.com:8000/live/1111111/2222222/42.ts
-#EXTINF:-1,MBC 3
-http://evolive-tv.com:8000/live/1111111/2222222/43.ts
-#EXTINF:-1,MBC 4
-http://evolive-tv.com:8000/live/1111111/2222222/44.ts
-#EXTINF:-1,MBC MASR 2
-http://evolive-tv.com:8000/live/1111111/2222222/49.ts
-#EXTINF:-1,MBC MASR
-http://evolive-tv.com:8000/live/1111111/2222222/48.ts
-#EXTINF:-1,MBC DRAMA
-http://evolive-tv.com:8000/live/1111111/2222222/47.ts
-#EXTINF:-1,MBC bollywood
-http://evolive-tv.com:8000/live/1111111/2222222/45.ts
-#EXTINF:-1,CBC_DRAMA
-http://evolive-tv.com:8000/live/1111111/2222222/247.ts
-#EXTINF:-1,CBC 2
-http://evolive-tv.com:8000/live/1111111/2222222/248.ts
-#EXTINF:-1,CBC_eXtra
-http://evolive-tv.com:8000/live/1111111/2222222/246.ts
-#EXTINF:-1,CBC_SOFRA
-http://evolive-tv.com:8000/live/1111111/2222222/245.ts
-#EXTINF:-1,Toyor_Al_Janah
-http://evolive-tv.com:8000/live/1111111/2222222/217.ts
-#EXTINF:-1,KARAMEESH
-http://evolive-tv.com:8000/live/1111111/2222222/239.ts
-#EXTINF:-1,piwi
-http://evolive-tv.com:8000/live/1111111/2222222/111.ts
-#EXTINF:-1,Cartoon Network FR
-http://evolive-tv.com:8000/live/1111111/2222222/16.ts
-#EXTINF:-1,BOOMRANG
-http://evolive-tv.com:8000/live/1111111/2222222/15.ts
-#EXTINF:-1,Disney Channel
-http://evolive-tv.com:8000/live/1111111/2222222/96.ts
-#EXTINF:-1,Baby_TV
-http://evolive-tv.com:8000/live/1111111/2222222/393.ts
-#EXTINF:-1,Disney.Junior
-http://evolive-tv.com:8000/live/1111111/2222222/186.ts
-#EXTINF:-1,Tiji
-http://evolive-tv.com:8000/live/1111111/2222222/92.ts
-#EXTINF:-1,J-One HD
-http://evolive-tv.com:8000/live/1111111/2222222/458.ts
-#EXTINF:-1,Disney Cine Magic
-http://evolive-tv.com:8000/live/1111111/2222222/95.ts
-#EXTINF:-1,Teletoon_+1
-http://evolive-tv.com:8000/live/1111111/2222222/450.ts
-#EXTINF:-1,teletoon+
-http://evolive-tv.com:8000/live/1111111/2222222/18.ts
-#EXTINF:-1,Mangas
-http://evolive-tv.com:8000/live/1111111/2222222/94.ts
-#EXTINF:-1,GAME_ONE
-http://evolive-tv.com:8000/live/1111111/2222222/394.ts
-#EXTINF:-1,FR: Disney XD
-http://evolive-tv.com:8000/live/1111111/2222222/314.ts
-#EXTINF:-1,Boing
-http://evolive-tv.com:8000/live/1111111/2222222/187.ts
-#EXTINF:-1,ZOUZOUS_FR
-http://evolive-tv.com:8000/live/1111111/2222222/470.ts
-#EXTINF:-1,NICKELODEON
-http://evolive-tv.com:8000/live/1111111/2222222/352.ts
-#EXTINF:-1,Nick Junior
-http://evolive-tv.com:8000/live/1111111/2222222/17.ts
-#EXTINF:-1,Jim Jam
-http://evolive-tv.com:8000/live/1111111/2222222/372.ts
-#EXTINF:-1,GULLI
-http://evolive-tv.com:8000/live/1111111/2222222/14.ts
-#EXTINF:-1,BEINSPORT 1
-http://evolive-tv.com:8000/live/1111111/2222222/207.ts
-#EXTINF:-1,BEINSPORT 2
-http://evolive-tv.com:8000/live/1111111/2222222/206.ts
-#EXTINF:-1,BEINSPORT 3
-http://evolive-tv.com:8000/live/1111111/2222222/209.ts
-#EXTINF:-1,beINSports 4
-http://evolive-tv.com:8000/live/1111111/2222222/180.ts
-#EXTINF:-1,beINSports 5
-http://evolive-tv.com:8000/live/1111111/2222222/181.ts
-#EXTINF:-1,BEINSPORT6
-http://evolive-tv.com:8000/live/1111111/2222222/56.ts
-#EXTINF:-1,BEINSPORT 7
-http://evolive-tv.com:8000/live/1111111/2222222/57.ts
-#EXTINF:-1,BEINSPORT 8
-http://evolive-tv.com:8000/live/1111111/2222222/58.ts
-#EXTINF:-1,BEINSPORT 9
-http://evolive-tv.com:8000/live/1111111/2222222/59.ts
-#EXTINF:-1,BEINSPORT 10
-http://evolive-tv.com:8000/live/1111111/2222222/60.ts
-#EXTINF:-1,BEINSPORT-11HD
-http://evolive-tv.com:8000/live/1111111/2222222/311.ts
-#EXTINF:-1,BEINSPORT-12HD
-http://evolive-tv.com:8000/live/1111111/2222222/331.ts
-#EXTINF:-1,BEINSPORT FR1
-http://evolive-tv.com:8000/live/1111111/2222222/65.ts
-#EXTINF:-1,BEINSPORT FR2
-http://evolive-tv.com:8000/live/1111111/2222222/66.ts
-#EXTINF:-1,BEINSPORT FR3
-http://evolive-tv.com:8000/live/1111111/2222222/67.ts
-#EXTINF:-1,SFR SPORT 1
-http://evolive-tv.com:8000/live/1111111/2222222/465.ts
-#EXTINF:-1,SFR SPORT 3
-http://evolive-tv.com:8000/live/1111111/2222222/466.ts
-#EXTINF:-1,BEINMOVIES-4HD
-http://evolive-tv.com:8000/live/1111111/2222222/313.ts
-#EXTINF:-1,BEINMOVIES-3HD
-http://evolive-tv.com:8000/live/1111111/2222222/335.ts
-#EXTINF:-1,BEINMOVIES-2HD
-http://evolive-tv.com:8000/live/1111111/2222222/334.ts
-#EXTINF:-1,BEINMOVIES-1HD
-http://evolive-tv.com:8000/live/1111111/2222222/333.ts
-#EXTINF:-1,BEIN-NEWS
-http://evolive-tv.com:8000/live/1111111/2222222/332.ts
-#EXTINF:-1,BEIN SPORTS MAX 2
-http://evolive-tv.com:8000/live/1111111/2222222/388.ts
-#EXTINF:-1,BEIN SPORTS MAX 1
-http://evolive-tv.com:8000/live/1111111/2222222/387.ts
-#EXTINF:-1,Bein Sport
-http://evolive-tv.com:8000/live/1111111/2222222/416.ts
-#EXTINF:-1,BEin Max AR 1
-http://evolive-tv.com:8000/live/1111111/2222222/385.ts
-#EXTINF:-1,BEin Max AR 2
-http://evolive-tv.com:8000/live/1111111/2222222/386.ts
-#EXTINF:-1,FOOT_24
-http://evolive-tv.com:8000/live/1111111/2222222/306.ts
-#EXTINF:-1,EUROSPORT1 HD
-http://evolive-tv.com:8000/live/1111111/2222222/184.ts
-#EXTINF:-1,EUROSPORT 2
-http://evolive-tv.com:8000/live/1111111/2222222/309.ts
-#EXTINF:-1,EUROSPORT
-http://evolive-tv.com:8000/live/1111111/2222222/354.ts
-#EXTINF:-1,Ziggo Sport 1 Voetbal
-http://evolive-tv.com:8000/live/1111111/2222222/374.ts
-#EXTINF:-1,Ziggo Sport 1 Select HD
-http://evolive-tv.com:8000/live/1111111/2222222/375.ts
-#EXTINF:-1,Ziggo Sport
-http://evolive-tv.com:8000/live/1111111/2222222/376.ts
-#EXTINF:-1,SP-Canal+ Liga HD
-http://evolive-tv.com:8000/live/1111111/2222222/274.ts
-#EXTINF:-1,SP-Canal+ Liga 2 HD
-http://evolive-tv.com:8000/live/1111111/2222222/275.ts
-#EXTINF:-1,SP-Canal+ Futbol HD
-http://evolive-tv.com:8000/live/1111111/2222222/162.ts
-#EXTINF:-1,SP-ARENA SPORT 5
-http://evolive-tv.com:8000/live/1111111/2222222/161.ts
-#EXTINF:-1,SP-ARENA SPORT 4
-http://evolive-tv.com:8000/live/1111111/2222222/160.ts
-#EXTINF:-1,SP-ARENA SPORT 3
-http://evolive-tv.com:8000/live/1111111/2222222/159.ts
-#EXTINF:-1,SP-ARENA SPORT 2
-http://evolive-tv.com:8000/live/1111111/2222222/158.ts
-#EXTINF:-1,SP-ARENA SPORT 1
-http://evolive-tv.com:8000/live/1111111/2222222/157.ts
-#EXTINF:-1,SKY-DT BUNDESLIGA 1 HD
-http://evolive-tv.com:8000/live/1111111/2222222/176.ts
-#EXTINF:-1,Sky Sport 5
-http://evolive-tv.com:8000/live/1111111/2222222/74.ts
-#EXTINF:-1,Sky Sport 4
-http://evolive-tv.com:8000/live/1111111/2222222/73.ts
-#EXTINF:-1,Sky Sport 3
-http://evolive-tv.com:8000/live/1111111/2222222/72.ts
-#EXTINF:-1,Sky Sport 2
-http://evolive-tv.com:8000/live/1111111/2222222/71.ts
-#EXTINF:-1,Sky Sport 1
-http://evolive-tv.com:8000/live/1111111/2222222/70.ts
-#EXTINF:-1,Premium Sport 2
-http://evolive-tv.com:8000/live/1111111/2222222/404.ts
-#EXTINF:-1,NL-FOX SPORTS 1 EREDIVISIE
-http://evolive-tv.com:8000/live/1111111/2222222/174.ts
-#EXTINF:-1,KOMBAT_SPORT
-http://evolive-tv.com:8000/live/1111111/2222222/307.ts
-#EXTINF:-1,IT_SKY_ATLANTIC
-http://evolive-tv.com:8000/live/1111111/2222222/155.ts
-#EXTINF:-1,IT-SKY SPORT 3 HD
-http://evolive-tv.com:8000/live/1111111/2222222/133.ts
-#EXTINF:-1,IT-SKY SPORT 24 HD
-http://evolive-tv.com:8000/live/1111111/2222222/130.ts
-#EXTINF:-1,IT-SKY SPORT 2 HD
-http://evolive-tv.com:8000/live/1111111/2222222/132.ts
-#EXTINF:-1,IT-SKY SPORT 1 HD
-http://evolive-tv.com:8000/live/1111111/2222222/131.ts
-#EXTINF:-1,IT-RAI SPORT 1
-http://evolive-tv.com:8000/live/1111111/2222222/285.ts
-#EXTINF:-1,Fox Sports Eredivisie 5
-http://evolive-tv.com:8000/live/1111111/2222222/381.ts
-#EXTINF:-1,Fox Sports Eredivisie 3
-http://evolive-tv.com:8000/live/1111111/2222222/379.ts
-#EXTINF:-1,Fox Sports Eredivisie 1 HD
-http://evolive-tv.com:8000/live/1111111/2222222/377.ts
-#EXTINF:-1,Fox Sports 6 HD
-http://evolive-tv.com:8000/live/1111111/2222222/382.ts
-#EXTINF:-1,Fox Sports 4 HD
-http://evolive-tv.com:8000/live/1111111/2222222/380.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://evolive-tv.com:8000/live/1111111/2222222/378.ts
-#EXTINF:-1,Extreme Sports_NL
-http://evolive-tv.com:8000/live/1111111/2222222/384.ts
-#EXTINF:-1,EUROSPORT_NL
-http://evolive-tv.com:8000/live/1111111/2222222/383.ts
-#EXTINF:-1,BT_SPORT_EXTRA
-http://evolive-tv.com:8000/live/1111111/2222222/269.ts
-#EXTINF:-1,BT_SPORT2
-http://evolive-tv.com:8000/live/1111111/2222222/283.ts
-#EXTINF:-1,BT_SPORT1
-http://evolive-tv.com:8000/live/1111111/2222222/284.ts
-#EXTINF:-1,NILE_SPORT
-http://evolive-tv.com:8000/live/1111111/2222222/229.ts
-#EXTINF:-1,TF1
-http://evolive-tv.com:8000/live/1111111/2222222/1.ts
-#EXTINF:-1,M6
-http://evolive-tv.com:8000/live/1111111/2222222/2.ts
-#EXTINF:-1,FRANCE 2
-http://evolive-tv.com:8000/live/1111111/2222222/6.ts
-#EXTINF:-1,FRANCE 3
-http://evolive-tv.com:8000/live/1111111/2222222/7.ts
-#EXTINF:-1,FRANCE 4
-http://evolive-tv.com:8000/live/1111111/2222222/50.ts
-#EXTINF:-1,FRANCE 5
-http://evolive-tv.com:8000/live/1111111/2222222/51.ts
-#EXTINF:-1,W9
-http://evolive-tv.com:8000/live/1111111/2222222/3.ts
-#EXTINF:-1,NRJ12
-http://evolive-tv.com:8000/live/1111111/2222222/4.ts
-#EXTINF:-1,TMC
-http://evolive-tv.com:8000/live/1111111/2222222/261.ts
-#EXTINF:-1,D17
-http://evolive-tv.com:8000/live/1111111/2222222/8.ts
-#EXTINF:-1,6TER
-http://evolive-tv.com:8000/live/1111111/2222222/5.ts
-#EXTINF:-1,i tele
-http://evolive-tv.com:8000/live/1111111/2222222/348.ts
-#EXTINF:-1,BFM
-http://evolive-tv.com:8000/live/1111111/2222222/23.ts
-#EXTINF:-1,NT1
-http://evolive-tv.com:8000/live/1111111/2222222/347.ts
-#EXTINF:-1,E!
-http://evolive-tv.com:8000/live/1111111/2222222/90.ts
-#EXTINF:-1,M6 MUSIC
-http://evolive-tv.com:8000/live/1111111/2222222/167.ts
-#EXTINF:-1,MTV_Hits
-http://evolive-tv.com:8000/live/1111111/2222222/272.ts
-#EXTINF:-1,MTV_Dance
-http://evolive-tv.com:8000/live/1111111/2222222/276.ts
-#EXTINF:-1,MTV
-http://evolive-tv.com:8000/live/1111111/2222222/271.ts
-#EXTINF:-1,DISNEY ChANNEL_DE
-http://evolive-tv.com:8000/live/1111111/2222222/355.ts
-#EXTINF:-1,DINEYCHANELPLUS1
-http://evolive-tv.com:8000/live/1111111/2222222/337.ts
-#EXTINF:-1,CANAL J
-http://evolive-tv.com:8000/live/1111111/2222222/19.ts
-#EXTINF:-1,AB1
-http://evolive-tv.com:8000/live/1111111/2222222/89.ts
-#EXTINF:-1,TV Breizh
-http://evolive-tv.com:8000/live/1111111/2222222/403.ts
-#EXTINF:-1,Syfy
-http://evolive-tv.com:8000/live/1111111/2222222/78.ts
-#EXTINF:-1,teva
-http://evolive-tv.com:8000/live/1111111/2222222/76.ts
-#EXTINF:-1,PARIS_PREMIERE
-http://evolive-tv.com:8000/live/1111111/2222222/77.ts
-#EXTINF:-1,13eme Rue
-http://evolive-tv.com:8000/live/1111111/2222222/205.ts
-#EXTINF:-1,serie club
-http://evolive-tv.com:8000/live/1111111/2222222/79.ts
-#EXTINF:-1,Comedy Central
-http://evolive-tv.com:8000/live/1111111/2222222/370.ts
-#EXTINF:-1,Comedie+ HD
-http://evolive-tv.com:8000/live/1111111/2222222/84.ts
-#EXTINF:-1,canal+ Sport HD
-http://evolive-tv.com:8000/live/1111111/2222222/29.ts
-#EXTINF:-1,Canal+ Serie HD
-http://evolive-tv.com:8000/live/1111111/2222222/25.ts
-#EXTINF:-1,CANAL+ HD
-http://evolive-tv.com:8000/live/1111111/2222222/24.ts
-#EXTINF:-1,canal+ Family
-http://evolive-tv.com:8000/live/1111111/2222222/28.ts
-#EXTINF:-1,Canal+ Decale
-http://evolive-tv.com:8000/live/1111111/2222222/26.ts
-#EXTINF:-1,Canal+ Cinema HD
-http://evolive-tv.com:8000/live/1111111/2222222/27.ts
-#EXTINF:-1,Nat Geo HD
-http://evolive-tv.com:8000/live/1111111/2222222/98.ts
-#EXTINF:-1,NAT GEO WILD
-http://evolive-tv.com:8000/live/1111111/2222222/20.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://evolive-tv.com:8000/live/1111111/2222222/169.ts
-#EXTINF:-1,Discovery
-http://evolive-tv.com:8000/live/1111111/2222222/21.ts
-#EXTINF:-1,ScienceetVieTV
-http://evolive-tv.com:8000/live/1111111/2222222/93.ts
-#EXTINF:-1,Planete-ci
-http://evolive-tv.com:8000/live/1111111/2222222/86.ts
-#EXTINF:-1,PLANETE +
-http://evolive-tv.com:8000/live/1111111/2222222/22.ts
-#EXTINF:-1,PLANET+_AE
-http://evolive-tv.com:8000/live/1111111/2222222/168.ts
-#EXTINF:-1,VOYAGE  HD
-http://evolive-tv.com:8000/live/1111111/2222222/185.ts
-#EXTINF:-1,Toute histoire
-http://evolive-tv.com:8000/live/1111111/2222222/204.ts
-#EXTINF:-1,ushuaia tv
-http://evolive-tv.com:8000/live/1111111/2222222/75.ts
-#EXTINF:-1,Animaux HD
-http://evolive-tv.com:8000/live/1111111/2222222/87.ts
-#EXTINF:-1,Chasse et Peche
-http://evolive-tv.com:8000/live/1111111/2222222/97.ts
-#EXTINF:-1,season
-http://evolive-tv.com:8000/live/1111111/2222222/304.ts
-#EXTINF:-1,SFR SPORT
-http://evolive-tv.com:8000/live/1111111/2222222/402.ts
-#EXTINF:-1,MA CHAINE SPORT
-http://evolive-tv.com:8000/live/1111111/2222222/201.ts
-#EXTINF:-1,INFO_SPORT
-http://evolive-tv.com:8000/live/1111111/2222222/182.ts
-#EXTINF:-1,Equidia Live
-http://evolive-tv.com:8000/live/1111111/2222222/401.ts
-#EXTINF:-1,OL TV
-http://evolive-tv.com:8000/live/1111111/2222222/259.ts
-#EXTINF:-1,CINE FAMIZ HD
-http://evolive-tv.com:8000/live/1111111/2222222/262.ts
-#EXTINF:-1,Cine frisson
-http://evolive-tv.com:8000/live/1111111/2222222/13.ts
-#EXTINF:-1,Cine+ Emotion HD
-http://evolive-tv.com:8000/live/1111111/2222222/81.ts
-#EXTINF:-1,Cine+ Premier HD
-http://evolive-tv.com:8000/live/1111111/2222222/80.ts
-#EXTINF:-1,cinema classique
-http://evolive-tv.com:8000/live/1111111/2222222/202.ts
-#EXTINF:-1,FR : CINE CLUB
-http://evolive-tv.com:8000/live/1111111/2222222/316.ts
-#EXTINF:-1,OCS Max HD
-http://evolive-tv.com:8000/live/1111111/2222222/82.ts
-#EXTINF:-1,OCS Geants HD
-http://evolive-tv.com:8000/live/1111111/2222222/83.ts
-#EXTINF:-1,OCS CITY
-http://evolive-tv.com:8000/live/1111111/2222222/10.ts
-#EXTINF:-1,OCS CHOC
-http://evolive-tv.com:8000/live/1111111/2222222/11.ts
-#EXTINF:-1,ACTION
-http://evolive-tv.com:8000/live/1111111/2222222/216.ts
-#EXTINF:-1,CINE_FX
-http://evolive-tv.com:8000/live/1111111/2222222/422.ts
-#EXTINF:-1,CINE POLAR HD
-http://evolive-tv.com:8000/live/1111111/2222222/421.ts
-#EXTINF:-1,TCM CINEMA
-http://evolive-tv.com:8000/live/1111111/2222222/308.ts
-#EXTINF:-1,Iqraa
-http://evolive-tv.com:8000/live/1111111/2222222/240.ts
-#EXTINF:-1,Rokya TV
-http://evolive-tv.com:8000/live/1111111/2222222/396.ts
-#EXTINF:-1,AL_RESALAH
-http://evolive-tv.com:8000/live/1111111/2222222/250.ts
-#EXTINF:-1,AL MAJD Coran
-http://evolive-tv.com:8000/live/1111111/2222222/399.ts
-#EXTINF:-1,AL MAJD
-http://evolive-tv.com:8000/live/1111111/2222222/398.ts
-#EXTINF:-1,ALquds
-http://evolive-tv.com:8000/live/1111111/2222222/252.ts
-#EXTINF:-1,ROTANA_MASRIYA
-http://evolive-tv.com:8000/live/1111111/2222222/222.ts
-#EXTINF:-1,ROTANA_KHALIGIA
-http://evolive-tv.com:8000/live/1111111/2222222/223.ts
-#EXTINF:-1,ROTANA-CLASSIC
-http://evolive-tv.com:8000/live/1111111/2222222/220.ts
-#EXTINF:-1,ROTANA_CINE_EGY
-http://evolive-tv.com:8000/live/1111111/2222222/225.ts
-#EXTINF:-1,CAIRO_CIN
-http://evolive-tv.com:8000/live/1111111/2222222/221.ts
-#EXTINF:-1,ROTANA_CLIP
-http://evolive-tv.com:8000/live/1111111/2222222/224.ts
-#EXTINF:-1,ROTANA_AR
-http://evolive-tv.com:8000/live/1111111/2222222/226.ts
-#EXTINF:-1,NILE_NEWS
-http://evolive-tv.com:8000/live/1111111/2222222/230.ts
-#EXTINF:-1,NILE_LIFE
-http://evolive-tv.com:8000/live/1111111/2222222/231.ts
-#EXTINF:-1,NILE_FAMILY
-http://evolive-tv.com:8000/live/1111111/2222222/232.ts
-#EXTINF:-1,NILE_DRAMA
-http://evolive-tv.com:8000/live/1111111/2222222/233.ts
-#EXTINF:-1,NILE_CULTURE
-http://evolive-tv.com:8000/live/1111111/2222222/234.ts
-#EXTINF:-1,NILE_CINEMA
-http://evolive-tv.com:8000/live/1111111/2222222/236.ts
-#EXTINF:-1,Nile Comedy
-http://evolive-tv.com:8000/live/1111111/2222222/235.ts
-#EXTINF:-1,AL_Nahar
-http://evolive-tv.com:8000/live/1111111/2222222/251.ts
-#EXTINF:-1,Al-Nahar_Drama
-http://evolive-tv.com:8000/live/1111111/2222222/253.ts
-#EXTINF:-1,Nour dubai
-http://evolive-tv.com:8000/live/1111111/2222222/227.ts
-#EXTINF:-1,Noor Jordan
-http://evolive-tv.com:8000/live/1111111/2222222/228.ts
-#EXTINF:-1,DUBAI_SPORT_1_HD
-http://evolive-tv.com:8000/live/1111111/2222222/241.ts
-#EXTINF:-1,DUBAI_ONE_HD
-http://evolive-tv.com:8000/live/1111111/2222222/242.ts
-#EXTINF:-1,DUBAI_DRAMA_HD
-http://evolive-tv.com:8000/live/1111111/2222222/243.ts
-#EXTINF:-1,AD_SPORT_1
-http://evolive-tv.com:8000/live/1111111/2222222/254.ts
-#EXTINF:-1,AD_Al_EMARAT
-http://evolive-tv.com:8000/live/1111111/2222222/255.ts
-#EXTINF:-1,ADsport2
-http://evolive-tv.com:8000/live/1111111/2222222/256.ts
-#EXTINF:-1,ADdrama
-http://evolive-tv.com:8000/live/1111111/2222222/257.ts
-#EXTINF:-1,ABOU_DHABI_1
-http://evolive-tv.com:8000/live/1111111/2222222/258.ts
-#EXTINF:-1,TV TAMAZIGHT
-http://evolive-tv.com:8000/live/1111111/2222222/197.ts
-#EXTINF:-1,ZEE ALWEN
-http://evolive-tv.com:8000/live/1111111/2222222/400.ts
-#EXTINF:-1,ART HEKAYAT
-http://evolive-tv.com:8000/live/1111111/2222222/55.ts
-#EXTINF:-1,ART CINEMA
-http://evolive-tv.com:8000/live/1111111/2222222/52.ts
-#EXTINF:-1,ART AFLAM2
-http://evolive-tv.com:8000/live/1111111/2222222/54.ts
-#EXTINF:-1,ART AFLAM1
-http://evolive-tv.com:8000/live/1111111/2222222/53.ts
-#EXTINF:-1,Cima
-http://evolive-tv.com:8000/live/1111111/2222222/244.ts
-#EXTINF:-1,AR-CBC
-http://evolive-tv.com:8000/live/1111111/2222222/249.ts
-#EXTINF:-1,Ajyal
-http://evolive-tv.com:8000/live/1111111/2222222/218.ts
-#EXTINF:-1,SPACETOON
-http://evolive-tv.com:8000/live/1111111/2222222/219.ts
-#EXTINF:-1,AL_JAZAEIRIA
-http://evolive-tv.com:8000/live/1111111/2222222/198.ts
-#EXTINF:-1,ALKASS_  HD
-http://evolive-tv.com:8000/live/1111111/2222222/305.ts
-#EXTINF:-1,AR:OSN MOVIES HD
-http://evolive-tv.com:8000/live/1111111/2222222/191.ts
-#EXTINF:-1,AR:OSN MOVIES ACTION 2
-http://evolive-tv.com:8000/live/1111111/2222222/192.ts
-#EXTINF:-1,OSN_BOX_OFFICE.3
-http://evolive-tv.com:8000/live/1111111/2222222/392.ts
-#EXTINF:-1,OSN_BOX_OFFICE.2
-http://evolive-tv.com:8000/live/1111111/2222222/395.ts
-#EXTINF:-1,OSN_BOX_OFFICE.1
-http://evolive-tv.com:8000/live/1111111/2222222/391.ts
-#EXTINF:-1,OSN CINEMA 1
-http://evolive-tv.com:8000/live/1111111/2222222/196.ts
-#EXTINF:-1,OSN ALYAWM
-http://evolive-tv.com:8000/live/1111111/2222222/195.ts
-#EXTINF:-1,OSN-YaHala-HD
-http://evolive-tv.com:8000/live/1111111/2222222/193.ts
-#EXTINF:-1,OSN-MBC DRAMA
-http://evolive-tv.com:8000/live/1111111/2222222/194.ts
-#EXTINF:-1,Minhaj Noubouwa
-http://evolive-tv.com:8000/live/1111111/2222222/397.ts
-#EXTINF:-1,The Call Up
-http://evolive-tv.com:8000/movie/1111111/2222222/468.mp4
-#EXTINF:-1,Rampage President Down
-http://evolive-tv.com:8000/movie/1111111/2222222/469.mp4
-#EXTINF:-1,Braqueurs
-http://evolive-tv.com:8000/movie/1111111/2222222/467.mp4
-#EXTINF:-1,Les Lois de l'Univers
-http://evolive-tv.com:8000/movie/1111111/2222222/461.mp4
-#EXTINF:-1,Robinson Crusoe.2016
-http://evolive-tv.com:8000/movie/1111111/2222222/457.mp4
-#EXTINF:-1,El Moresey Abou El3aBas
-http://evolive-tv.com:8000/movie/1111111/2222222/455.mp4
-#EXTINF:-1,Hassan Bokloz
-http://evolive-tv.com:8000/movie/1111111/2222222/454.mp4
-#EXTINF:-1,Zinzana
-http://evolive-tv.com:8000/movie/1111111/2222222/453.mp4
-#EXTINF:-1,BARD AL CHITA
-http://evolive-tv.com:8000/movie/1111111/2222222/452.mp4
-#EXTINF:-1,EL ZIARA
-http://evolive-tv.com:8000/movie/1111111/2222222/451.mp4
-#EXTINF:-1,Goosebumps
-http://evolive-tv.com:8000/movie/1111111/2222222/444.mp4
-#EXTINF:-1,Ben-Hur
-http://evolive-tv.com:8000/movie/1111111/2222222/443.mp4
-#EXTINF:-1,The Hallow
-http://evolive-tv.com:8000/movie/1111111/2222222/442.mp4
-#EXTINF:-1,The Brothers Grimsby 2016
-http://evolive-tv.com:8000/movie/1111111/2222222/441.mp4
-#EXTINF:-1,Honey3
-http://evolive-tv.com:8000/movie/1111111/2222222/440.mp4
-#EXTINF:-1,The Darkness
-http://evolive-tv.com:8000/movie/1111111/2222222/439.mp4
-#EXTINF:-1,Angry Birds 2016
-http://evolive-tv.com:8000/movie/1111111/2222222/437.mp4
-#EXTINF:-1,Crouching Tiger Hidden Dragon Sword of Destiny 2016
-http://evolive-tv.com:8000/movie/1111111/2222222/436.mp4
-#EXTINF:-1,now you se eme2
-http://evolive-tv.com:8000/movie/1111111/2222222/435.mp4
-#EXTINF:-1,Elli khtachou matou
-http://evolive-tv.com:8000/movie/1111111/2222222/433.mp4
-#EXTINF:-1,hadeed
-http://evolive-tv.com:8000/movie/1111111/2222222/432.mp4
-#EXTINF:-1,money monster
-http://evolive-tv.com:8000/movie/1111111/2222222/430.mp4
-#EXTINF:-1,the wave
-http://evolive-tv.com:8000/movie/1111111/2222222/429.mp4
-#EXTINF:-1,the shallows
-http://evolive-tv.com:8000/movie/1111111/2222222/428.mp4
-#EXTINF:-1,september of shiraz
-http://evolive-tv.com:8000/movie/1111111/2222222/427.mp4
-#EXTINF:-1,explorer
-http://evolive-tv.com:8000/movie/1111111/2222222/426.mp4
-#EXTINF:-1,Ghostbusters2016
-http://evolive-tv.com:8000/movie/1111111/2222222/425.mp4
-#EXTINF:-1,andron
-http://evolive-tv.com:8000/movie/1111111/2222222/424.mp4
-#EXTINF:-1,Tallulah
-http://evolive-tv.com:8000/movie/1111111/2222222/423.mp4
-#EXTINF:-1,LELIVREDELAJUNGLE
-http://evolive-tv.com:8000/movie/1111111/2222222/420.mp4
-#EXTINF:-1,LAMARCHEUSE
-http://evolive-tv.com:8000/movie/1111111/2222222/419.mp4
-#EXTINF:-1,HARDCORE
-http://evolive-tv.com:8000/movie/1111111/2222222/418.mp4
-#EXTINF:-1,Gods Of egypt
-http://evolive-tv.com:8000/movie/1111111/2222222/417.mp4
-#EXTINF:-1,SKY-NEWS
-http://evolive-tv.com:8000/live/1111111/2222222/325.ts
-#EXTINF:-1,BE 1
-http://evolive-tv.com:8000/live/1111111/2222222/310.ts
-#EXTINF:-1,BBC
-http://evolive-tv.com:8000/live/1111111/2222222/210.ts
-#EXTINF:-1,IT-RAI 1
-http://evolive-tv.com:8000/live/1111111/2222222/140.ts
-#EXTINF:-1,IT-RAI 2
-http://evolive-tv.com:8000/live/1111111/2222222/141.ts
-#EXTINF:-1,IT-RAI 3
-http://evolive-tv.com:8000/live/1111111/2222222/142.ts
-#EXTINF:-1,IT-Rai Movie
-http://evolive-tv.com:8000/live/1111111/2222222/129.ts
-#EXTINF:-1,IT-RETE 4 HD
-http://evolive-tv.com:8000/live/1111111/2222222/127.ts
-#EXTINF:-1,IT-MEDIASET 1
-http://evolive-tv.com:8000/live/1111111/2222222/154.ts
-#EXTINF:-1,IT-CANALE 5 HD
-http://evolive-tv.com:8000/live/1111111/2222222/212.ts
-#EXTINF:-1,IT- LA 7
-http://evolive-tv.com:8000/live/1111111/2222222/135.ts
-#EXTINF:-1,IT- ITALIA 1 HD
-http://evolive-tv.com:8000/live/1111111/2222222/139.ts
-#EXTINF:-1,IT-SKY CINEMA MAX HD
-http://evolive-tv.com:8000/live/1111111/2222222/128.ts
-#EXTINF:-1,IT-Sky Cinema hits
-http://evolive-tv.com:8000/live/1111111/2222222/134.ts
-#EXTINF:-1,IT-Sky Cinema Family HD
-http://evolive-tv.com:8000/live/1111111/2222222/156.ts
-#EXTINF:-1,IT-Sky Cinema Cult HD
-http://evolive-tv.com:8000/live/1111111/2222222/151.ts
-#EXTINF:-1,IT-Sky Cinema Comedy HD
-http://evolive-tv.com:8000/live/1111111/2222222/137.ts
-#EXTINF:-1,IT_SKY_CINEMA_PASSION
-http://evolive-tv.com:8000/live/1111111/2222222/136.ts
-#EXTINF:-1,IT-Sky Nat Geo Wild HD
-http://evolive-tv.com:8000/live/1111111/2222222/149.ts
-#EXTINF:-1,IT-Sky Nat Geo HD
-http://evolive-tv.com:8000/live/1111111/2222222/148.ts
-#EXTINF:-1,IT-Sky Discovery HD
-http://evolive-tv.com:8000/live/1111111/2222222/150.ts
-#EXTINF:-1,Premium Action HD
-http://evolive-tv.com:8000/live/1111111/2222222/409.ts
-#EXTINF:-1,Premium Cinema Energy HD
-http://evolive-tv.com:8000/live/1111111/2222222/407.ts
-#EXTINF:-1,Premium Cinema Emotion HD
-http://evolive-tv.com:8000/live/1111111/2222222/408.ts
-#EXTINF:-1,IT-PREMIUM Cinema HD
-http://evolive-tv.com:8000/live/1111111/2222222/152.ts
-#EXTINF:-1,Premium Crime HD
-http://evolive-tv.com:8000/live/1111111/2222222/405.ts
-#EXTINF:-1,Premium Crime +24 HD
-http://evolive-tv.com:8000/live/1111111/2222222/406.ts
-#EXTINF:-1,Premium Cinema +24 HD
-http://evolive-tv.com:8000/live/1111111/2222222/126.ts
-#EXTINF:-1,Premium Sport HD
-http://evolive-tv.com:8000/live/1111111/2222222/138.ts
-#EXTINF:-1,IT-PRIMAFILA 5
-http://evolive-tv.com:8000/live/1111111/2222222/147.ts
-#EXTINF:-1,IT-PRIMAFILA 4
-http://evolive-tv.com:8000/live/1111111/2222222/146.ts
-#EXTINF:-1,IT-PRIMAFILA 3
-http://evolive-tv.com:8000/live/1111111/2222222/145.ts
-#EXTINF:-1,IT-PRIMAFILA 2
-http://evolive-tv.com:8000/live/1111111/2222222/144.ts
-#EXTINF:-1,IT-PRIMAFILA 1
-http://evolive-tv.com:8000/live/1111111/2222222/143.ts
-#EXTINF:-1,SAT_1
-http://evolive-tv.com:8000/live/1111111/2222222/350.ts
-#EXTINF:-1,3SAT
-http://evolive-tv.com:8000/live/1111111/2222222/356.ts
-#EXTINF:-1,DE-VOX
-http://evolive-tv.com:8000/live/1111111/2222222/112.ts
-#EXTINF:-1,ZDF
-http://evolive-tv.com:8000/live/1111111/2222222/349.ts
-#EXTINF:-1,RTL_2
-http://evolive-tv.com:8000/live/1111111/2222222/351.ts
-#EXTINF:-1,RTL_LIVING
-http://evolive-tv.com:8000/live/1111111/2222222/115.ts
-#EXTINF:-1,SUPER_RTL.HD
-http://evolive-tv.com:8000/live/1111111/2222222/114.ts
-#EXTINF:-1,SYFY_DE
-http://evolive-tv.com:8000/live/1111111/2222222/175.ts
-#EXTINF:-1,ORF 2
-http://evolive-tv.com:8000/live/1111111/2222222/353.ts
-#EXTINF:-1,Kabel Eins
-http://evolive-tv.com:8000/live/1111111/2222222/120.ts
-#EXTINF:-1,SKY_CINEMA
-http://evolive-tv.com:8000/live/1111111/2222222/103.ts
-#EXTINF:-1,SKY_CINEMA1
-http://evolive-tv.com:8000/live/1111111/2222222/105.ts
-#EXTINF:-1,SKY_ACTION
-http://evolive-tv.com:8000/live/1111111/2222222/104.ts
-#EXTINF:-1,SKY_EMOTION
-http://evolive-tv.com:8000/live/1111111/2222222/121.ts
-#EXTINF:-1,SKY_HITS
-http://evolive-tv.com:8000/live/1111111/2222222/123.ts
-#EXTINF:-1,SKY_COMEDY
-http://evolive-tv.com:8000/live/1111111/2222222/107.ts
-#EXTINF:-1,SKY_ATLANTIC
-http://evolive-tv.com:8000/live/1111111/2222222/122.ts
-#EXTINF:-1,SKY_NAT_GEO
-http://evolive-tv.com:8000/live/1111111/2222222/177.ts
-#EXTINF:-1,SKY_DISCOVERY
-http://evolive-tv.com:8000/live/1111111/2222222/113.ts
-#EXTINF:-1,UNIVERSAL_DE
-http://evolive-tv.com:8000/live/1111111/2222222/102.ts
-#EXTINF:-1,SKY_SPORT1
-http://evolive-tv.com:8000/live/1111111/2222222/124.ts
-#EXTINF:-1,SKY_SPORT2
-http://evolive-tv.com:8000/live/1111111/2222222/125.ts
-#EXTINF:-1,DE-B-Sky-Select 5
-http://evolive-tv.com:8000/live/1111111/2222222/119.ts
-#EXTINF:-1,DE-B-Sky-Select 3
-http://evolive-tv.com:8000/live/1111111/2222222/118.ts
-#EXTINF:-1,DE-B-Sky-Select 1
-http://evolive-tv.com:8000/live/1111111/2222222/117.ts
-#EXTINF:-1,PT: Tvi ficcao
-http://evolive-tv.com:8000/live/1111111/2222222/297.ts
-#EXTINF:-1,PT: TVCine 4 HD
-http://evolive-tv.com:8000/live/1111111/2222222/303.ts
-#EXTINF:-1,PT: TVCine 3 HD
-http://evolive-tv.com:8000/live/1111111/2222222/302.ts
-#EXTINF:-1,PT: TVCine 2 HD
-http://evolive-tv.com:8000/live/1111111/2222222/301.ts
-#EXTINF:-1,PT: TVCine 1 HD
-http://evolive-tv.com:8000/live/1111111/2222222/300.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://evolive-tv.com:8000/live/1111111/2222222/290.ts
-#EXTINF:-1,PT: TV Globo
-http://evolive-tv.com:8000/live/1111111/2222222/289.ts
-#EXTINF:-1,PT: SyFu
-http://evolive-tv.com:8000/live/1111111/2222222/288.ts
-#EXTINF:-1,PT: SportTV 5
-http://evolive-tv.com:8000/live/1111111/2222222/295.ts
-#EXTINF:-1,PT: SportTV 4
-http://evolive-tv.com:8000/live/1111111/2222222/294.ts
-#EXTINF:-1,PT: SportTV 3
-http://evolive-tv.com:8000/live/1111111/2222222/293.ts
-#EXTINF:-1,PT: SportTV 2
-http://evolive-tv.com:8000/live/1111111/2222222/292.ts
-#EXTINF:-1,PT: SportTV 1
-http://evolive-tv.com:8000/live/1111111/2222222/291.ts
-#EXTINF:-1,PT: SIC
-http://evolive-tv.com:8000/live/1111111/2222222/298.ts
-#EXTINF:-1,PT: RTP 3
-http://evolive-tv.com:8000/live/1111111/2222222/299.ts
-#EXTINF:-1,PT: Benfica TV 1 Full HD
-http://evolive-tv.com:8000/live/1111111/2222222/296.ts
-#EXTINF:-1,BBC 2
-http://evolive-tv.com:8000/live/1111111/2222222/211.ts
-#EXTINF:-1,SKY_Discovery_History 1
-http://evolive-tv.com:8000/live/1111111/2222222/273.ts
-#EXTINF:-1,SKY_Discovery _Investigation
-http://evolive-tv.com:8000/live/1111111/2222222/282.ts
-#EXTINF:-1,SKY_MOVIES
-http://evolive-tv.com:8000/live/1111111/2222222/327.ts
-#EXTINF:-1,SKY_MOVIES_ACTION
-http://evolive-tv.com:8000/live/1111111/2222222/330.ts
-#EXTINF:-1,SKY_MOVIES PREMIER
-http://evolive-tv.com:8000/live/1111111/2222222/326.ts
-#EXTINF:-1,SKY_MOVIES_FAMILY
-http://evolive-tv.com:8000/live/1111111/2222222/328.ts
-#EXTINF:-1,SKY_MOVIES_COMEDY
-http://evolive-tv.com:8000/live/1111111/2222222/324.ts
-#EXTINF:-1,SKY_MOVIES _DISNEY
-http://evolive-tv.com:8000/live/1111111/2222222/329.ts
-#EXTINF:-1,CTH Staduim 1HD
-http://evolive-tv.com:8000/live/1111111/2222222/323.ts
-#EXTINF:-1,CTH Staduim 2HD
-http://evolive-tv.com:8000/live/1111111/2222222/322.ts
-#EXTINF:-1,CTH Staduim 3HD
-http://evolive-tv.com:8000/live/1111111/2222222/321.ts
-#EXTINF:-1,CTH Staduim 4HD
-http://evolive-tv.com:8000/live/1111111/2222222/320.ts
-#EXTINF:-1,CTH Staduim 5HD
-http://evolive-tv.com:8000/live/1111111/2222222/319.ts
-#EXTINF:-1,CTH Staduim 6HD
-http://evolive-tv.com:8000/live/1111111/2222222/318.ts
-#EXTINF:-1,CTH Staduim XHD
-http://evolive-tv.com:8000/live/1111111/2222222/317.ts
-#EXTINF:-1,SP-TNT
-http://evolive-tv.com:8000/live/1111111/2222222/268.ts
-#EXTINF:-1,SP-Syfy
-http://evolive-tv.com:8000/live/1111111/2222222/270.ts
-#EXTINF:-1,SP-FOX
-http://evolive-tv.com:8000/live/1111111/2222222/266.ts
-#EXTINF:-1,SP-Disney XD
-http://evolive-tv.com:8000/live/1111111/2222222/280.ts
-#EXTINF:-1,SP-Disney Junior
-http://evolive-tv.com:8000/live/1111111/2222222/281.ts
-#EXTINF:-1,SP-Disney Channel
-http://evolive-tv.com:8000/live/1111111/2222222/279.ts
-#EXTINF:-1,SP-Canal+
-http://evolive-tv.com:8000/live/1111111/2222222/166.ts
-#EXTINF:-1,SP-Canal+ DCine
-http://evolive-tv.com:8000/live/1111111/2222222/164.ts
-#EXTINF:-1,SP-Canal+ ACCION HD
-http://evolive-tv.com:8000/live/1111111/2222222/265.ts
-#EXTINF:-1,SP-Canal+ Series HD
-http://evolive-tv.com:8000/live/1111111/2222222/264.ts
-#EXTINF:-1,SP-Canal+ Estrenos
-http://evolive-tv.com:8000/live/1111111/2222222/263.ts
-#EXTINF:-1,SP-Canal+ Deportes HD
-http://evolive-tv.com:8000/live/1111111/2222222/163.ts
-#EXTINF:-1,SP-Canal+ Comedia
-http://evolive-tv.com:8000/live/1111111/2222222/165.ts
-#EXTINF:-1,SP-National Geographic Wild HD
-http://evolive-tv.com:8000/live/1111111/2222222/287.ts
-#EXTINF:-1,SP-National Geographic
-http://evolive-tv.com:8000/live/1111111/2222222/286.ts
-#EXTINF:-1,SP-Barca TV
-http://evolive-tv.com:8000/live/1111111/2222222/277.ts
-#EXTINF:-1,SP- Real Madrid TV
-http://evolive-tv.com:8000/live/1111111/2222222/278.ts
-#EXTINF:-1,SP-Canal+ TOROS HD
-http://evolive-tv.com:8000/live/1111111/2222222/267.ts
+#EXTINF:-1,::::::France::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/90.ts
+#EXTINF:-1,#####--Généralistes--######
+http://kiptv3.ddns.net:8000/live/ch/ch/172.ts
+#EXTINF:-1,FR:Arte
+http://kiptv3.ddns.net:8000/live/ch/ch/145.ts
+#EXTINF:-1,FR: FRANCE O
+http://kiptv3.ddns.net:8000/live/ch/ch/95.ts
+#EXTINF:-1,FR:TF1
+http://kiptv3.ddns.net:8000/live/ch/ch/1.ts
+#EXTINF:-1,FR: FRANCE 2
+http://kiptv3.ddns.net:8000/live/ch/ch/91.ts
+#EXTINF:-1,FR: FRANCE 3
+http://kiptv3.ddns.net:8000/live/ch/ch/92.ts
+#EXTINF:-1,FR: FRANCE 4
+http://kiptv3.ddns.net:8000/live/ch/ch/93.ts
+#EXTINF:-1,FR: FRANCE 5
+http://kiptv3.ddns.net:8000/live/ch/ch/94.ts
+#EXTINF:-1,FR: M6
+http://kiptv3.ddns.net:8000/live/ch/ch/96.ts
+#EXTINF:-1,FR:RTL9
+http://kiptv3.ddns.net:8000/live/ch/ch/129.ts
+#EXTINF:-1,FR:W9
+http://kiptv3.ddns.net:8000/live/ch/ch/135.ts
+#EXTINF:-1,FR:C8
+http://kiptv3.ddns.net:8000/live/ch/ch/123.ts
+#EXTINF:-1,FR:Cstar
+http://kiptv3.ddns.net:8000/live/ch/ch/125.ts
+#EXTINF:-1,FR:6TER-HD
+http://kiptv3.ddns.net:8000/live/ch/ch/122.ts
+#EXTINF:-1,FR: SYFY HD
+http://kiptv3.ddns.net:8000/live/ch/ch/120.ts
+#EXTINF:-1,FR:NT-1
+http://kiptv3.ddns.net:8000/live/ch/ch/131.ts
+#EXTINF:-1,FR: NRJ12
+http://kiptv3.ddns.net:8000/live/ch/ch/194.ts
+#EXTINF:-1,FR:TV-BREIZH
+http://kiptv3.ddns.net:8000/live/ch/ch/126.ts
+#EXTINF:-1,FR: 13 Eme RUE HD
+http://kiptv3.ddns.net:8000/live/ch/ch/119.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/193.ts
+#EXTINF:-1,FR:SERIE_CLUB_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/212.ts
+#EXTINF:-1,FR:PARIS-PREMIERE
+http://kiptv3.ddns.net:8000/live/ch/ch/128.ts
+#EXTINF:-1,FR:PARAMOUNT CHANNEL HD
+http://kiptv3.ddns.net:8000/live/ch/ch/127.ts
+#EXTINF:-1,FR:AB1
+http://kiptv3.ddns.net:8000/live/ch/ch/124.ts
+#EXTINF:-1,FR: AB3
+http://kiptv3.ddns.net:8000/live/ch/ch/192.ts
+#EXTINF:-1,FR:TMC
+http://kiptv3.ddns.net:8000/live/ch/ch/130.ts
+#EXTINF:-1,FR:Action
+http://kiptv3.ddns.net:8000/live/ch/ch/132.ts
+#EXTINF:-1,FR:CHERIE 25
+http://kiptv3.ddns.net:8000/live/ch/ch/180.ts
+#EXTINF:-1,FR: CH_RTS UN
+http://kiptv3.ddns.net:8000/live/ch/ch/422.ts
+#EXTINF:-1,FR: CH_RTS DEUX
+http://kiptv3.ddns.net:8000/live/ch/ch/423.ts
+#EXTINF:-1,#####--Canal+--######
+http://kiptv3.ddns.net:8000/live/ch/ch/173.ts
+#EXTINF:-1,FR: CANAL HD
+http://kiptv3.ddns.net:8000/live/ch/ch/109.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://kiptv3.ddns.net:8000/live/ch/ch/111.ts
+#EXTINF:-1,FR: CANAL FAMILY
+http://kiptv3.ddns.net:8000/live/ch/ch/110.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+http://kiptv3.ddns.net:8000/live/ch/ch/112.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://kiptv3.ddns.net:8000/live/ch/ch/113.ts
+#EXTINF:-1,FR: CANAL SERIE
+http://kiptv3.ddns.net:8000/live/ch/ch/114.ts
+#EXTINF:-1,FR: CINE FRISSON
+http://kiptv3.ddns.net:8000/live/ch/ch/118.ts
+#EXTINF:-1,FR: CINE FAMIZ
+http://kiptv3.ddns.net:8000/live/ch/ch/115.ts
+#EXTINF:-1,FR: CINE + FX
+http://kiptv3.ddns.net:8000/live/ch/ch/421.ts
+#EXTINF:-1,FR: CINE EMOTION
+http://kiptv3.ddns.net:8000/live/ch/ch/117.ts
+#EXTINF:-1,FR: CINE  PREMIER HD
+http://kiptv3.ddns.net:8000/live/ch/ch/116.ts
+#EXTINF:-1,FR:FR:CINE_POLAR
+http://kiptv3.ddns.net:8000/live/ch/ch/483.ts
+#EXTINF:-1,FR:Comedie+
+http://kiptv3.ddns.net:8000/live/ch/ch/358.ts
+#EXTINF:-1,#####--Documentaires--######
+http://kiptv3.ddns.net:8000/live/ch/ch/174.ts
+#EXTINF:-1,FR:Planéte+
+http://kiptv3.ddns.net:8000/live/ch/ch/139.ts
+#EXTINF:-1,FR:Planéte-CI
+http://kiptv3.ddns.net:8000/live/ch/ch/140.ts
+#EXTINF:-1,FR:Planete A&E HD
+http://kiptv3.ddns.net:8000/live/ch/ch/141.ts
+#EXTINF:-1,FR:National-Geographic-HD
+http://kiptv3.ddns.net:8000/live/ch/ch/137.ts
+#EXTINF:-1,FR:NatGeo-Wild-HD
+http://kiptv3.ddns.net:8000/live/ch/ch/138.ts
+#EXTINF:-1,FR: Discovery
+http://kiptv3.ddns.net:8000/live/ch/ch/121.ts
+#EXTINF:-1,FR:Discovery-Science
+http://kiptv3.ddns.net:8000/live/ch/ch/136.ts
+#EXTINF:-1,FR:Histoire
+http://kiptv3.ddns.net:8000/live/ch/ch/147.ts
+#EXTINF:-1,FR:Toute L'histoire
+http://kiptv3.ddns.net:8000/live/ch/ch/144.ts
+#EXTINF:-1,#####--Découvertes--######
+http://kiptv3.ddns.net:8000/live/ch/ch/176.ts
+#EXTINF:-1,FR:VOYAGE
+http://kiptv3.ddns.net:8000/live/ch/ch/142.ts
+#EXTINF:-1,FR:UshuaiaTV
+http://kiptv3.ddns.net:8000/live/ch/ch/149.ts
+#EXTINF:-1,FR:RMC_DECOUVERTE
+http://kiptv3.ddns.net:8000/live/ch/ch/148.ts
+#EXTINF:-1,FR:Animaux
+http://kiptv3.ddns.net:8000/live/ch/ch/146.ts
+#EXTINF:-1,FR:Chasse & Pèche
+http://kiptv3.ddns.net:8000/live/ch/ch/143.ts
+#EXTINF:-1,#####--Enfants--######
+http://kiptv3.ddns.net:8000/live/ch/ch/177.ts
+#EXTINF:-1,FR:Piwi+
+http://kiptv3.ddns.net:8000/live/ch/ch/152.ts
+#EXTINF:-1,FR:GULLI
+http://kiptv3.ddns.net:8000/live/ch/ch/162.ts
+#EXTINF:-1,FR:Zouzou_TV
+http://kiptv3.ddns.net:8000/live/ch/ch/154.ts
+#EXTINF:-1,FR:Nicklodeon
+http://kiptv3.ddns.net:8000/live/ch/ch/153.ts
+#EXTINF:-1,FR:DISNEY XD
+http://kiptv3.ddns.net:8000/live/ch/ch/160.ts
+#EXTINF:-1,FR:NICKLODEON-JUNIOR
+http://kiptv3.ddns.net:8000/live/ch/ch/157.ts
+#EXTINF:-1,FR:CARTOON_NETWORK_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/156.ts
+#EXTINF:-1,FR:MANGAS
+http://kiptv3.ddns.net:8000/live/ch/ch/161.ts
+#EXTINF:-1,FR:CANAL-J
+http://kiptv3.ddns.net:8000/live/ch/ch/158.ts
+#EXTINF:-1,FR1:TIJI
+http://kiptv3.ddns.net:8000/live/ch/ch/150.ts
+#EXTINF:-1,FR:TELETOON+
+http://kiptv3.ddns.net:8000/live/ch/ch/151.ts
+#EXTINF:-1,FR:BOOMERANG-HD
+http://kiptv3.ddns.net:8000/live/ch/ch/155.ts
+#EXTINF:-1,FR:BOING
+http://kiptv3.ddns.net:8000/live/ch/ch/159.ts
+#EXTINF:-1,#####--Informations--######
+http://kiptv3.ddns.net:8000/live/ch/ch/175.ts
+#EXTINF:-1,FR:LCP
+http://kiptv3.ddns.net:8000/live/ch/ch/186.ts
+#EXTINF:-1,FR:LCI
+http://kiptv3.ddns.net:8000/live/ch/ch/185.ts
+#EXTINF:-1,FR:Itele
+http://kiptv3.ddns.net:8000/live/ch/ch/184.ts
+#EXTINF:-1,FR:France-24
+http://kiptv3.ddns.net:8000/live/ch/ch/182.ts
+#EXTINF:-1,FR:EURONEWS
+http://kiptv3.ddns.net:8000/live/ch/ch/183.ts
+#EXTINF:-1,FR:BFMTV
+http://kiptv3.ddns.net:8000/live/ch/ch/181.ts
+#EXTINF:-1,FR:WEO
+http://kiptv3.ddns.net:8000/live/ch/ch/410.ts
+#EXTINF:-1,#####--Orange--######
+http://kiptv3.ddns.net:8000/live/ch/ch/179.ts
+#EXTINF:-1,FR:ORANGE-DOCUMENTAIRE
+http://kiptv3.ddns.net:8000/live/ch/ch/168.ts
+#EXTINF:-1,FR:ORANGE-CINE-HORREUR
+http://kiptv3.ddns.net:8000/live/ch/ch/165.ts
+#EXTINF:-1,FR:OCS COMMENT C'EST FAIT HD
+http://kiptv3.ddns.net:8000/live/ch/ch/167.ts
+#EXTINF:-1,FR:ORANGE-CINE-AVENTURE
+http://kiptv3.ddns.net:8000/live/ch/ch/166.ts
+#EXTINF:-1,FR:ORANGE-CINE-ACTION
+http://kiptv3.ddns.net:8000/live/ch/ch/164.ts
+#EXTINF:-1,FR:ORANGE-CINE+
+http://kiptv3.ddns.net:8000/live/ch/ch/163.ts
+#EXTINF:-1,FR:OCS-Max-HD
+http://kiptv3.ddns.net:8000/live/ch/ch/171.ts
+#EXTINF:-1,FR:OCS-CityHD
+http://kiptv3.ddns.net:8000/live/ch/ch/169.ts
+#EXTINF:-1,FR:OCS-CHOC
+http://kiptv3.ddns.net:8000/live/ch/ch/170.ts
+#EXTINF:-1,#####--Musiques--######
+http://kiptv3.ddns.net:8000/live/ch/ch/178.ts
+#EXTINF:-1,FR2:M6-MUSIC
+http://kiptv3.ddns.net:8000/live/ch/ch/133.ts
+#EXTINF:-1,FR:VIRGIN
+http://kiptv3.ddns.net:8000/live/ch/ch/134.ts
+#EXTINF:-1,FR:MTV Hits
+http://kiptv3.ddns.net:8000/live/ch/ch/376.ts
+#EXTINF:-1,#####--Sports--######
+http://kiptv3.ddns.net:8000/live/ch/ch/201.ts
+#EXTINF:-1,FR: L'EQUIPE21
+http://kiptv3.ddns.net:8000/live/ch/ch/209.ts
+#EXTINF:-1,FR:Foot+_24/24
+http://kiptv3.ddns.net:8000/live/ch/ch/407.ts
+#EXTINF:-1,FR:EQUIDIA_LIVE
+http://kiptv3.ddns.net:8000/live/ch/ch/408.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://kiptv3.ddns.net:8000/live/ch/ch/208.ts
+#EXTINF:-1,FR: EUROSPORT2
+http://kiptv3.ddns.net:8000/live/ch/ch/210.ts
+#EXTINF:-1,FR: BeIN SPORTS 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/205.ts
+#EXTINF:-1,FR: BeIN SPORTS 2 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/206.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/207.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://kiptv3.ddns.net:8000/live/ch/ch/202.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://kiptv3.ddns.net:8000/live/ch/ch/203.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://kiptv3.ddns.net:8000/live/ch/ch/204.ts
+#EXTINF:-1,FR:AB_MOTEUR_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/279.ts
+#EXTINF:-1,::::::Arabic::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/98.ts
+#EXTINF:-1,★★★★★Maroc ★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/511.ts
+#EXTINF:-1,AR: AL AOULA
+http://kiptv3.ddns.net:8000/live/ch/ch/214.ts
+#EXTINF:-1,AR: 2M MONDE
+http://kiptv3.ddns.net:8000/live/ch/ch/213.ts
+#EXTINF:-1,AR: ARRIADIA
+http://kiptv3.ddns.net:8000/live/ch/ch/216.ts
+#EXTINF:-1,AR: ARRABIA
+http://kiptv3.ddns.net:8000/live/ch/ch/215.ts
+#EXTINF:-1,AR: MAGHRIBIA
+http://kiptv3.ddns.net:8000/live/ch/ch/255.ts
+#EXTINF:-1,AR: TAMAZIGHT MAROC
+http://kiptv3.ddns.net:8000/live/ch/ch/269.ts
+#EXTINF:-1,AR: ASSADISSA
+http://kiptv3.ddns.net:8000/live/ch/ch/217.ts
+#EXTINF:-1,★★★★★BeiN_Sport_Arab★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/513.ts
+#EXTINF:-1,AR:BEINSPORT 1
+http://kiptv3.ddns.net:8000/live/ch/ch/455.ts
+#EXTINF:-1,AR:BEINSPORT 2
+http://kiptv3.ddns.net:8000/live/ch/ch/456.ts
+#EXTINF:-1,AR:BEINSPORT 3
+http://kiptv3.ddns.net:8000/live/ch/ch/457.ts
+#EXTINF:-1,AR:BEINSPORT 4
+http://kiptv3.ddns.net:8000/live/ch/ch/458.ts
+#EXTINF:-1,AR:BEINSPORT 5
+http://kiptv3.ddns.net:8000/live/ch/ch/459.ts
+#EXTINF:-1,AR:BEINSPORT 6
+http://kiptv3.ddns.net:8000/live/ch/ch/460.ts
+#EXTINF:-1,AR:BEINSPORT 7
+http://kiptv3.ddns.net:8000/live/ch/ch/461.ts
+#EXTINF:-1,AR:BEINSPORT 8
+http://kiptv3.ddns.net:8000/live/ch/ch/462.ts
+#EXTINF:-1,AR:BEINSPORT 9
+http://kiptv3.ddns.net:8000/live/ch/ch/463.ts
+#EXTINF:-1,AR:BEIN_MOVIE1_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/464.ts
+#EXTINF:-1,AR:BEIN_MOVIE2_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/465.ts
+#EXTINF:-1,AR:BEIN_MOVIE3_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/466.ts
+#EXTINF:-1,★★★★★Arabe★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/512.ts
+#EXTINF:-1,★★★★★NILESAT_ART★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/514.ts
+#EXTINF:-1,AR: ART HEKAYAT 1
+http://kiptv3.ddns.net:8000/live/ch/ch/225.ts
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://kiptv3.ddns.net:8000/live/ch/ch/224.ts
+#EXTINF:-1,AR: ART CINEMA
+http://kiptv3.ddns.net:8000/live/ch/ch/223.ts
+#EXTINF:-1,AR: ART AFLAM 2
+http://kiptv3.ddns.net:8000/live/ch/ch/222.ts
+#EXTINF:-1,AR: ART AFLAM 1
+http://kiptv3.ddns.net:8000/live/ch/ch/221.ts
+#EXTINF:-1,AR:AD_NAT_GEO
+http://kiptv3.ddns.net:8000/live/ch/ch/528.ts
+#EXTINF:-1,★★★★★NILESAT_ROTANA★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/515.ts
+#EXTINF:-1,AR: ROTANA MUSIC
+http://kiptv3.ddns.net:8000/live/ch/ch/264.ts
+#EXTINF:-1,AR: ROTANA MASRIYA
+http://kiptv3.ddns.net:8000/live/ch/ch/267.ts
+#EXTINF:-1,AR: ROTANA KHALIJIAH
+http://kiptv3.ddns.net:8000/live/ch/ch/268.ts
+#EXTINF:-1,AR: ROTANA CLIP
+http://kiptv3.ddns.net:8000/live/ch/ch/263.ts
+#EXTINF:-1,AR: ROTANA CLASSIC
+http://kiptv3.ddns.net:8000/live/ch/ch/266.ts
+#EXTINF:-1,AR: ROTANA CINEMA
+http://kiptv3.ddns.net:8000/live/ch/ch/265.ts
+#EXTINF:-1,★★★★★NILESAT_MOVIES★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/516.ts
+#EXTINF:-1,AR:ZEE_ALWAN
+http://kiptv3.ddns.net:8000/live/ch/ch/97.ts
+#EXTINF:-1,AR: ZEE AFLAM
+http://kiptv3.ddns.net:8000/live/ch/ch/276.ts
+#EXTINF:-1,AR: DREAM 1
+http://kiptv3.ddns.net:8000/live/ch/ch/236.ts
+#EXTINF:-1,AR: CBC EXTRA
+http://kiptv3.ddns.net:8000/live/ch/ch/230.ts
+#EXTINF:-1,AR: CBC DRAMA
+http://kiptv3.ddns.net:8000/live/ch/ch/231.ts
+#EXTINF:-1,AR: CBC 2
+http://kiptv3.ddns.net:8000/live/ch/ch/229.ts
+#EXTINF:-1,AR: CBC
+http://kiptv3.ddns.net:8000/live/ch/ch/228.ts
+#EXTINF:-1,AR: CAIRO DRAMA
+http://kiptv3.ddns.net:8000/live/ch/ch/232.ts
+#EXTINF:-1,AR: CAIRO CINEMA
+http://kiptv3.ddns.net:8000/live/ch/ch/233.ts
+#EXTINF:-1,AR: NILE DRAMA
+http://kiptv3.ddns.net:8000/live/ch/ch/258.ts
+#EXTINF:-1,AR: NILE COMEDY
+http://kiptv3.ddns.net:8000/live/ch/ch/260.ts
+#EXTINF:-1,AR: NILE CINEMA
+http://kiptv3.ddns.net:8000/live/ch/ch/259.ts
+#EXTINF:-1,★★★★★NILESAT_MBC★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/517.ts
+#EXTINF:-1,AR: MBC 1
+http://kiptv3.ddns.net:8000/live/ch/ch/244.ts
+#EXTINF:-1,AR: MBC 2
+http://kiptv3.ddns.net:8000/live/ch/ch/245.ts
+#EXTINF:-1,AR: MBC 3
+http://kiptv3.ddns.net:8000/live/ch/ch/246.ts
+#EXTINF:-1,AR: MBC 4
+http://kiptv3.ddns.net:8000/live/ch/ch/247.ts
+#EXTINF:-1,AR: MBC ACTION
+http://kiptv3.ddns.net:8000/live/ch/ch/251.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://kiptv3.ddns.net:8000/live/ch/ch/252.ts
+#EXTINF:-1,AR: MBC DRAMA
+http://kiptv3.ddns.net:8000/live/ch/ch/250.ts
+#EXTINF:-1,AR: MBC MAX
+http://kiptv3.ddns.net:8000/live/ch/ch/248.ts
+#EXTINF:-1,AR: MBC MASR
+http://kiptv3.ddns.net:8000/live/ch/ch/249.ts
+#EXTINF:-1,★★★★★NILESAT_TUNISIA★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/518.ts
+#EXTINF:-1,AR: TUNISNA
+http://kiptv3.ddns.net:8000/live/ch/ch/270.ts
+#EXTINF:-1,AR: TUNISIA NAT 2
+http://kiptv3.ddns.net:8000/live/ch/ch/272.ts
+#EXTINF:-1,AR: TUNISIA NAT 1
+http://kiptv3.ddns.net:8000/live/ch/ch/271.ts
+#EXTINF:-1,AR: TUNISIA FIRST TV
+http://kiptv3.ddns.net:8000/live/ch/ch/273.ts
+#EXTINF:-1,AR: HANNIBAL
+http://kiptv3.ddns.net:8000/live/ch/ch/242.ts
+#EXTINF:-1,AR: NESSMA TV
+http://kiptv3.ddns.net:8000/live/ch/ch/261.ts
+#EXTINF:-1,AR: El HIWAR ETTOUNSI
+http://kiptv3.ddns.net:8000/live/ch/ch/240.ts
+#EXTINF:-1,★★★★★NILESAT_ALGERIA★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/519.ts
+#EXTINF:-1,AR:A3
+http://kiptv3.ddns.net:8000/live/ch/ch/529.ts
+#EXTINF:-1,AR:ALGERIE1
+http://kiptv3.ddns.net:8000/live/ch/ch/530.ts
+#EXTINF:-1,AR:Echourouk_tv
+http://kiptv3.ddns.net:8000/live/ch/ch/532.ts
+#EXTINF:-1,AR:Echourouk_Benna
+http://kiptv3.ddns.net:8000/live/ch/ch/533.ts
+#EXTINF:-1,AR:ENNAHAR_LAKI
+http://kiptv3.ddns.net:8000/live/ch/ch/535.ts
+#EXTINF:-1,AR:ENNAHAR_DZ
+http://kiptv3.ddns.net:8000/live/ch/ch/536.ts
+#EXTINF:-1,AR:ELBILAD_DZ
+http://kiptv3.ddns.net:8000/live/ch/ch/534.ts
+#EXTINF:-1,AR:ELHEDDAF
+http://kiptv3.ddns.net:8000/live/ch/ch/538.ts
+#EXTINF:-1,AR:ELDJAZAIRIA
+http://kiptv3.ddns.net:8000/live/ch/ch/537.ts
+#EXTINF:-1,★★★★★NILESAT_KIDS★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/520.ts
+#EXTINF:-1,AR:TOYOR_BABY
+http://kiptv3.ddns.net:8000/live/ch/ch/540.ts
+#EXTINF:-1,AR:BARAEM
+http://kiptv3.ddns.net:8000/live/ch/ch/543.ts
+#EXTINF:-1,AR:CN_ARABIA
+http://kiptv3.ddns.net:8000/live/ch/ch/541.ts
+#EXTINF:-1,AR:AJYAL
+http://kiptv3.ddns.net:8000/live/ch/ch/542.ts
+#EXTINF:-1,AR: CARTOON NETWORK
+http://kiptv3.ddns.net:8000/live/ch/ch/234.ts
+#EXTINF:-1,★★★★★NILESAT_INFOS★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/521.ts
+#EXTINF:-1,AR:AL_JAZEERA
+http://kiptv3.ddns.net:8000/live/ch/ch/539.ts
+#EXTINF:-1,AR:ABC_NEWS
+http://kiptv3.ddns.net:8000/live/ch/ch/531.ts
+#EXTINF:-1,★★★★★NILESAT_DUBAI★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/522.ts
+#EXTINF:-1,AR: NOOR DUBAI
+http://kiptv3.ddns.net:8000/live/ch/ch/262.ts
+#EXTINF:-1,AR: DUBAI ZAMAN
+http://kiptv3.ddns.net:8000/live/ch/ch/239.ts
+#EXTINF:-1,AR: DUBAI DRAMA
+http://kiptv3.ddns.net:8000/live/ch/ch/238.ts
+#EXTINF:-1,AR: DUBAI
+http://kiptv3.ddns.net:8000/live/ch/ch/235.ts
+#EXTINF:-1,AR:NILE_COMEDY
+http://kiptv3.ddns.net:8000/live/ch/ch/227.ts
+#EXTINF:-1,★★★★★NILESAT_ENTERTAINMENT★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/523.ts
+#EXTINF:-1,AR: FUTURE TV
+http://kiptv3.ddns.net:8000/live/ch/ch/241.ts
+#EXTINF:-1,AR: LBC SAT
+http://kiptv3.ddns.net:8000/live/ch/ch/243.ts
+#EXTINF:-1,AR: AL JADEED
+http://kiptv3.ddns.net:8000/live/ch/ch/219.ts
+#EXTINF:-1,★★★★★NILESAT_RELIGION★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/524.ts
+#EXTINF:-1,AR: AL MAJD HOLY QURAN
+http://kiptv3.ddns.net:8000/live/ch/ch/220.ts
+#EXTINF:-1,AR: AL RESALAH
+http://kiptv3.ddns.net:8000/live/ch/ch/218.ts
+#EXTINF:-1,★★★★★NILESAT_MUSIC★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/525.ts
+#EXTINF:-1,AR: MTV LEBANON
+http://kiptv3.ddns.net:8000/live/ch/ch/256.ts
+#EXTINF:-1,★★★★★Osn★★★★★
+http://kiptv3.ddns.net:8000/live/ch/ch/526.ts
+#EXTINF:-1,AR:OSN_YAHALA
+http://kiptv3.ddns.net:8000/live/ch/ch/527.ts
+#EXTINF:-1,#####--Espagnes--######
+http://kiptv3.ddns.net:8000/live/ch/ch/278.ts
+#EXTINF:-1,::::::Espagne::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/100.ts
+#EXTINF:-1,ES:La_una _1_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/280.ts
+#EXTINF:-1,ES:La_dos_2
+http://kiptv3.ddns.net:8000/live/ch/ch/281.ts
+#EXTINF:-1,ES:Antena_3
+http://kiptv3.ddns.net:8000/live/ch/ch/282.ts
+#EXTINF:-1,ES:CUATRO_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/283.ts
+#EXTINF:-1,ES:TELECINCO
+http://kiptv3.ddns.net:8000/live/ch/ch/284.ts
+#EXTINF:-1,ES:LA_SEXTA_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/285.ts
+#EXTINF:-1,ES:LA7
+http://kiptv3.ddns.net:8000/live/ch/ch/297.ts
+#EXTINF:-1,ES: TVE 2
+http://kiptv3.ddns.net:8000/live/ch/ch/99.ts
+#EXTINF:-1,ES:MEGA_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/296.ts
+#EXTINF:-1,ES:SyfyHD
+http://kiptv3.ddns.net:8000/live/ch/ch/298.ts
+#EXTINF:-1,ES:Canal+_Series
+http://kiptv3.ddns.net:8000/live/ch/ch/286.ts
+#EXTINF:-1,ES:Canal+_Series_Extra
+http://kiptv3.ddns.net:8000/live/ch/ch/288.ts
+#EXTINF:-1,ES:Canal+_Estrenos
+http://kiptv3.ddns.net:8000/live/ch/ch/289.ts
+#EXTINF:-1,ES:Canal_Liga_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/293.ts
+#EXTINF:-1,ES:Canal+_DCINE
+http://kiptv3.ddns.net:8000/live/ch/ch/290.ts
+#EXTINF:-1,ES:Canal+_COMEDIA
+http://kiptv3.ddns.net:8000/live/ch/ch/291.ts
+#EXTINF:-1,ES:Canal+_COCINA
+http://kiptv3.ddns.net:8000/live/ch/ch/292.ts
+#EXTINF:-1,ES:Canal+_Futbol
+http://kiptv3.ddns.net:8000/live/ch/ch/287.ts
+#EXTINF:-1,ES:Canal_Golf
+http://kiptv3.ddns.net:8000/live/ch/ch/295.ts
+#EXTINF:-1,ES:Barca TV
+http://kiptv3.ddns.net:8000/live/ch/ch/375.ts
+#EXTINF:-1,ES:Real_Madrid_tv
+http://kiptv3.ddns.net:8000/live/ch/ch/294.ts
+#EXTINF:-1,ES:TV_CATALONIA
+http://kiptv3.ddns.net:8000/live/ch/ch/300.ts
+#EXTINF:-1,ES:TV_Asturias
+http://kiptv3.ddns.net:8000/live/ch/ch/406.ts
+#EXTINF:-1,ES:National_Geographic_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/299.ts
+#EXTINF:-1,ES:Arena Sport 1
+http://kiptv3.ddns.net:8000/live/ch/ch/371.ts
+#EXTINF:-1,ES:Arena Sport 2
+http://kiptv3.ddns.net:8000/live/ch/ch/372.ts
+#EXTINF:-1,ES:Arena Sport 3
+http://kiptv3.ddns.net:8000/live/ch/ch/373.ts
+#EXTINF:-1,ES:Arena Sport 4
+http://kiptv3.ddns.net:8000/live/ch/ch/374.ts
+#EXTINF:-1,::::::Allemagne::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/103.ts
+#EXTINF:-1,DE:Dmax
+http://kiptv3.ddns.net:8000/live/ch/ch/492.ts
+#EXTINF:-1,DE:ZDF HD
+http://kiptv3.ddns.net:8000/live/ch/ch/484.ts
+#EXTINF:-1,DE:RTL HD
+http://kiptv3.ddns.net:8000/live/ch/ch/488.ts
+#EXTINF:-1,DE:RTL 2
+http://kiptv3.ddns.net:8000/live/ch/ch/490.ts
+#EXTINF:-1,DE:Super RTL
+http://kiptv3.ddns.net:8000/live/ch/ch/485.ts
+#EXTINF:-1,DE:RTL CRIME
+http://kiptv3.ddns.net:8000/live/ch/ch/489.ts
+#EXTINF:-1,DE:RTL PASSION
+http://kiptv3.ddns.net:8000/live/ch/ch/493.ts
+#EXTINF:-1,DE:TNT_Film
+http://kiptv3.ddns.net:8000/live/ch/ch/383.ts
+#EXTINF:-1,DE: TNT_Serie
+http://kiptv3.ddns.net:8000/live/ch/ch/382.ts
+#EXTINF:-1,DE:SKY_Krimi
+http://kiptv3.ddns.net:8000/live/ch/ch/384.ts
+#EXTINF:-1,DE:Sky_Emotion
+http://kiptv3.ddns.net:8000/live/ch/ch/386.ts
+#EXTINF:-1,DE:SKY_CINEMA_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/387.ts
+#EXTINF:-1,DE:Sky_Cinema_24
+http://kiptv3.ddns.net:8000/live/ch/ch/388.ts
+#EXTINF:-1,DE:Sky_MGM_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/399.ts
+#EXTINF:-1,DE:FOX_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/398.ts
+#EXTINF:-1,DE:Sky_Hits_HD
+http://kiptv3.ddns.net:8000/live/ch/ch/385.ts
+#EXTINF:-1,DE:National Geographic Wild HD
+http://kiptv3.ddns.net:8000/live/ch/ch/491.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA HD 2
+http://kiptv3.ddns.net:8000/live/ch/ch/487.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA HD 1
+http://kiptv3.ddns.net:8000/live/ch/ch/486.ts
+#EXTINF:-1,DE:Sky_Select_1HD
+http://kiptv3.ddns.net:8000/live/ch/ch/389.ts
+#EXTINF:-1,DE:Sky_Select_2HD
+http://kiptv3.ddns.net:8000/live/ch/ch/390.ts
+#EXTINF:-1,DE:Sky_Select_3HD
+http://kiptv3.ddns.net:8000/live/ch/ch/391.ts
+#EXTINF:-1,DE:Sky_Select_4HD
+http://kiptv3.ddns.net:8000/live/ch/ch/392.ts
+#EXTINF:-1,DE:Sky_Select_5HD
+http://kiptv3.ddns.net:8000/live/ch/ch/393.ts
+#EXTINF:-1,DE:Sky_Select_6HD
+http://kiptv3.ddns.net:8000/live/ch/ch/394.ts
+#EXTINF:-1,DE:Sky_Select_7HD
+http://kiptv3.ddns.net:8000/live/ch/ch/395.ts
+#EXTINF:-1,DE:Sky_Sport_1HD
+http://kiptv3.ddns.net:8000/live/ch/ch/396.ts
+#EXTINF:-1,DE:Sky_Sport_2HD
+http://kiptv3.ddns.net:8000/live/ch/ch/397.ts
+#EXTINF:-1,::::::UK::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/101.ts
+#EXTINF:-1,UK:Sky Sports 1
+http://kiptv3.ddns.net:8000/live/ch/ch/377.ts
+#EXTINF:-1,UK:Sky Sports 2
+http://kiptv3.ddns.net:8000/live/ch/ch/378.ts
+#EXTINF:-1,UK:Sky Sports 3
+http://kiptv3.ddns.net:8000/live/ch/ch/379.ts
+#EXTINF:-1,UK:Sky Sports 4
+http://kiptv3.ddns.net:8000/live/ch/ch/380.ts
+#EXTINF:-1,UK:Sky Sports 5
+http://kiptv3.ddns.net:8000/live/ch/ch/381.ts
+#EXTINF:-1,::::::Italia::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/104.ts
+#EXTINF:-1,#####--Italie--######
+http://kiptv3.ddns.net:8000/live/ch/ch/308.ts
+#EXTINF:-1,IT: RAI 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/309.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/310.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/311.ts
+#EXTINF:-1,IT: RAI 4 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/312.ts
+#EXTINF:-1,IT: RAI 5
+http://kiptv3.ddns.net:8000/live/ch/ch/313.ts
+#EXTINF:-1,IT: RAI PREMIUM
+http://kiptv3.ddns.net:8000/live/ch/ch/315.ts
+#EXTINF:-1,IT: RAI SPORT 1
+http://kiptv3.ddns.net:8000/live/ch/ch/316.ts
+#EXTINF:-1,IT: RAI SPORT 2
+http://kiptv3.ddns.net:8000/live/ch/ch/317.ts
+#EXTINF:-1,IT: LA 7 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/318.ts
+#EXTINF:-1,IT: SKY 3D
+http://kiptv3.ddns.net:8000/live/ch/ch/319.ts
+#EXTINF:-1,IT: SKY CINEMA PASSION HD
+http://kiptv3.ddns.net:8000/live/ch/ch/320.ts
+#EXTINF:-1,IT: SKY CINEMA CULT HD
+http://kiptv3.ddns.net:8000/live/ch/ch/321.ts
+#EXTINF:-1,IT: SKY CINEMA CLASSIC HD
+http://kiptv3.ddns.net:8000/live/ch/ch/322.ts
+#EXTINF:-1,IT: SKY CINEMA MAX 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/323.ts
+#EXTINF:-1,IT: SKY CINEMA +1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/324.ts
+#EXTINF:-1,IT: SKY CINEMA 24 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/325.ts
+#EXTINF:-1,IT:Premium Action HD
+http://kiptv3.ddns.net:8000/live/ch/ch/509.ts
+#EXTINF:-1,IT:Premium Cinema Emotion
+http://kiptv3.ddns.net:8000/live/ch/ch/503.ts
+#EXTINF:-1,IT:Premium Cinema 2 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/505.ts
+#EXTINF:-1,IT:Premium_Crime.HD
+http://kiptv3.ddns.net:8000/live/ch/ch/504.ts
+#EXTINF:-1,IT:Primafila 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/494.ts
+#EXTINF:-1,IT:Primafila 2 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/495.ts
+#EXTINF:-1,IT:Primafila 3 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/496.ts
+#EXTINF:-1,IT:Primafila 5 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/497.ts
+#EXTINF:-1,IT:Primafila 6 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/498.ts
+#EXTINF:-1,IT:Primafila 7 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/499.ts
+#EXTINF:-1,IT:Primafila 8 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/500.ts
+#EXTINF:-1,IT:Premium Stories
+http://kiptv3.ddns.net:8000/live/ch/ch/501.ts
+#EXTINF:-1,IT:Premium Energy
+http://kiptv3.ddns.net:8000/live/ch/ch/502.ts
+#EXTINF:-1,IT:Premium Calcio 2 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/506.ts
+#EXTINF:-1,IT:Premium Calcio 4 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/508.ts
+#EXTINF:-1,IT:Premium Calcio 3 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/507.ts
+#EXTINF:-1,IT:Cartoon Network
+http://kiptv3.ddns.net:8000/live/ch/ch/510.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/326.ts
+#EXTINF:-1,IT: SKY SPORT 2
+http://kiptv3.ddns.net:8000/live/ch/ch/327.ts
+#EXTINF:-1,IT: SKY SPORT 3
+http://kiptv3.ddns.net:8000/live/ch/ch/328.ts
+#EXTINF:-1,IT: SKY ATLANTIC HD
+http://kiptv3.ddns.net:8000/live/ch/ch/329.ts
+#EXTINF:-1,IT: SKY UNO HD
+http://kiptv3.ddns.net:8000/live/ch/ch/331.ts
+#EXTINF:-1,IT : SKY SPORT F1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/330.ts
+#EXTINF:-1,#####--Fox--######
+http://kiptv3.ddns.net:8000/live/ch/ch/332.ts
+#EXTINF:-1,IT: FOX HD
+http://kiptv3.ddns.net:8000/live/ch/ch/333.ts
+#EXTINF:-1,IT: FOX CRIME
+http://kiptv3.ddns.net:8000/live/ch/ch/334.ts
+#EXTINF:-1,IT: SKY FOX LIFE HD
+http://kiptv3.ddns.net:8000/live/ch/ch/336.ts
+#EXTINF:-1,IT: SKY FOXCRIME HD
+http://kiptv3.ddns.net:8000/live/ch/ch/335.ts
+#EXTINF:-1,#####--Prémium--######
+http://kiptv3.ddns.net:8000/live/ch/ch/337.ts
+#EXTINF:-1,IT: PREMIUM STORIES
+http://kiptv3.ddns.net:8000/live/ch/ch/339.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://kiptv3.ddns.net:8000/live/ch/ch/350.ts
+#EXTINF:-1,IT: PREMIUM JOI
+http://kiptv3.ddns.net:8000/live/ch/ch/338.ts
+#EXTINF:-1,IT: PREMIUM DISNEY JUNIOR
+http://kiptv3.ddns.net:8000/live/ch/ch/354.ts
+#EXTINF:-1,IT: PREMIUM DISCOVERY WORLD
+http://kiptv3.ddns.net:8000/live/ch/ch/341.ts
+#EXTINF:-1,IT: PREMIUM CRIME  24
+http://kiptv3.ddns.net:8000/live/ch/ch/342.ts
+#EXTINF:-1,IT: PREMIUM CRIME
+http://kiptv3.ddns.net:8000/live/ch/ch/340.ts
+#EXTINF:-1,IT: PREMIUM CINEMA HD
+http://kiptv3.ddns.net:8000/live/ch/ch/351.ts
+#EXTINF:-1,IT: PREMIUM CINEMA ENERGY
+http://kiptv3.ddns.net:8000/live/ch/ch/352.ts
+#EXTINF:-1,IT: PREMIUM CINEMA EMOTION
+http://kiptv3.ddns.net:8000/live/ch/ch/343.ts
+#EXTINF:-1,IT: PREMIUM CINEMA COMEDY
+http://kiptv3.ddns.net:8000/live/ch/ch/353.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2  24
+http://kiptv3.ddns.net:8000/live/ch/ch/347.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2
+http://kiptv3.ddns.net:8000/live/ch/ch/346.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 1  24
+http://kiptv3.ddns.net:8000/live/ch/ch/345.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 1
+http://kiptv3.ddns.net:8000/live/ch/ch/344.ts
+#EXTINF:-1,IT: PREMIUM ACTION  24
+http://kiptv3.ddns.net:8000/live/ch/ch/349.ts
+#EXTINF:-1,IT: PREMIUM ACTION
+http://kiptv3.ddns.net:8000/live/ch/ch/348.ts
+#EXTINF:-1,::::::Belge::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/105.ts
+#EXTINF:-1,BE : LA UNE HD
+http://kiptv3.ddns.net:8000/live/ch/ch/191.ts
+#EXTINF:-1,BE: LA DEUX
+http://kiptv3.ddns.net:8000/live/ch/ch/187.ts
+#EXTINF:-1,BE: LA TROIS
+http://kiptv3.ddns.net:8000/live/ch/ch/188.ts
+#EXTINF:-1,BE: Rtl-Tvi
+http://kiptv3.ddns.net:8000/live/ch/ch/106.ts
+#EXTINF:-1,BE: Club RTL
+http://kiptv3.ddns.net:8000/live/ch/ch/108.ts
+#EXTINF:-1,BE: Plug RTL
+http://kiptv3.ddns.net:8000/live/ch/ch/107.ts
+#EXTINF:-1,BE: VOO SPORT 1
+http://kiptv3.ddns.net:8000/live/ch/ch/189.ts
+#EXTINF:-1,BE: VOO SPORT WORLD 1
+http://kiptv3.ddns.net:8000/live/ch/ch/190.ts
+#EXTINF:-1,::::::Adultes::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/200.ts
+#EXTINF:-1,xxx:Hustler
+http://kiptv3.ddns.net:8000/live/ch/ch/359.ts
+#EXTINF:-1,XXX: Legalporno.com
+http://kiptv3.ddns.net:8000/live/ch/ch/362.ts
+#EXTINF:-1,XXX: RedlightHD
+http://kiptv3.ddns.net:8000/live/ch/ch/360.ts
+#EXTINF:-1,XXX: passiexxx
+http://kiptv3.ddns.net:8000/live/ch/ch/197.ts
+#EXTINF:-1,XXX: centoxcento
+http://kiptv3.ddns.net:8000/live/ch/ch/195.ts
+#EXTINF:-1,XXX:centooxcento
+http://kiptv3.ddns.net:8000/live/ch/ch/199.ts
+#EXTINF:-1,XXX:Dorcel CLUB HD
+http://kiptv3.ddns.net:8000/live/ch/ch/480.ts
+#EXTINF:-1,XXX: Naughty-America
+http://kiptv3.ddns.net:8000/live/ch/ch/479.ts
+#EXTINF:-1,XXX:Tiny4K.com
+http://kiptv3.ddns.net:8000/live/ch/ch/481.ts
+#EXTINF:-1,XXX:PENTHOUSE 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/482.ts
+#EXTINF:-1,XXX: Dorcelclub.com
+http://kiptv3.ddns.net:8000/live/ch/ch/196.ts
+#EXTINF:-1,XXX: Nubiles-Casting.com
+http://kiptv3.ddns.net:8000/live/ch/ch/363.ts
+#EXTINF:-1,XXX: blacked.com
+http://kiptv3.ddns.net:8000/live/ch/ch/364.ts
+#EXTINF:-1,XXX: La france a poil
+http://kiptv3.ddns.net:8000/live/ch/ch/429.ts
+#EXTINF:-1,XXX: X
+http://kiptv3.ddns.net:8000/live/ch/ch/361.ts
+#EXTINF:-1,XXX:XXX
+http://kiptv3.ddns.net:8000/live/ch/ch/198.ts
+#EXTINF:-1,::::::Pays-Bas_NL::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/301.ts
+#EXTINF:-1,NL:HBO_1
+http://kiptv3.ddns.net:8000/live/ch/ch/305.ts
+#EXTINF:-1,NL:HBO_2
+http://kiptv3.ddns.net:8000/live/ch/ch/307.ts
+#EXTINF:-1,NL:HBO3
+http://kiptv3.ddns.net:8000/live/ch/ch/306.ts
+#EXTINF:-1,NL:Ziggo_Sport1_Voetbal
+http://kiptv3.ddns.net:8000/live/ch/ch/302.ts
+#EXTINF:-1,NL:Ziggo_Sport1_Golf
+http://kiptv3.ddns.net:8000/live/ch/ch/303.ts
+#EXTINF:-1,NL:Ziggo_Sport1_extra
+http://kiptv3.ddns.net:8000/live/ch/ch/304.ts
+#EXTINF:-1,vod:shadowboxer
+http://kiptv3.ddns.net:8000/movie/ch/ch/478.mp4
+#EXTINF:-1,vod:Tallulah
+http://kiptv3.ddns.net:8000/movie/ch/ch/474.mkv
+#EXTINF:-1,vod:Popstar: Never Stop Never Stopping
+http://kiptv3.ddns.net:8000/movie/ch/ch/472.mkv
+#EXTINF:-1,vod:Les.Premiers.Les.Derniers
+http://kiptv3.ddns.net:8000/movie/ch/ch/475.mkv
+#EXTINF:-1,vod:Les Chevaliers Blancs
+http://kiptv3.ddns.net:8000/movie/ch/ch/477.mkv
+#EXTINF:-1,vod:LE CHASSEUR ET LA REINE DES GLACES
+http://kiptv3.ddns.net:8000/movie/ch/ch/473.mkv
+#EXTINF:-1,vod: La Marcheuse
+http://kiptv3.ddns.net:8000/movie/ch/ch/476.mkv
+#EXTINF:-1,vod:Ma Loute
+http://kiptv3.ddns.net:8000/movie/ch/ch/468.mkv
+#EXTINF:-1,vod:Free State of Jones
+http://kiptv3.ddns.net:8000/movie/ch/ch/471.mkv
+#EXTINF:-1,vod:600.Miles
+http://kiptv3.ddns.net:8000/movie/ch/ch/470.mkv
+#EXTINF:-1,vod: Des Nouvelles de la Planete Mars.com
+http://kiptv3.ddns.net:8000/movie/ch/ch/469.mkv
+#EXTINF:-1,vod:Man-on-fire
+http://kiptv3.ddns.net:8000/movie/ch/ch/467.mp4
+#EXTINF:-1,vod:Nos pires voisins
+http://kiptv3.ddns.net:8000/movie/ch/ch/447.mkv
+#EXTINF:-1,vod:NOS PIRES VOISINS 2
+http://kiptv3.ddns.net:8000/movie/ch/ch/448.mkv
+#EXTINF:-1,vod:Insaisissables
+http://kiptv3.ddns.net:8000/movie/ch/ch/440.mkv
+#EXTINF:-1,vod:Insaisissables 2
+http://kiptv3.ddns.net:8000/movie/ch/ch/441.mkv
+#EXTINF:-1,vod:The Conjuring
+http://kiptv3.ddns.net:8000/movie/ch/ch/442.mkv
+#EXTINF:-1,vod:CONJURING 2
+http://kiptv3.ddns.net:8000/movie/ch/ch/443.mkv
+#EXTINF:-1,vod:Captain.America.Civi
+http://kiptv3.ddns.net:8000/movie/ch/ch/454.mp4
+#EXTINF:-1,vod:Backtrack
+http://kiptv3.ddns.net:8000/movie/ch/ch/445.mkv
+#EXTINF:-1,vod:Antboy
+http://kiptv3.ddns.net:8000/movie/ch/ch/444.mkv
+#EXTINF:-1,vod:99 Homes
+http://kiptv3.ddns.net:8000/movie/ch/ch/446.mkv
+#EXTINF:-1,vod:Pattaya
+http://kiptv3.ddns.net:8000/movie/ch/ch/438.mkv
+#EXTINF:-1,vod:Nos souvenirs
+http://kiptv3.ddns.net:8000/movie/ch/ch/433.mkv
+#EXTINF:-1,vod:Mr. Holmes
+http://kiptv3.ddns.net:8000/movie/ch/ch/431.mkv
+#EXTINF:-1,vod:Les Visiteurs La Revolution
+http://kiptv3.ddns.net:8000/movie/ch/ch/435.mkv
+#EXTINF:-1,vod:Les Tuche 2
+http://kiptv3.ddns.net:8000/movie/ch/ch/439.mkv
+#EXTINF:-1,vod:Le Livre De La Jungle
+http://kiptv3.ddns.net:8000/movie/ch/ch/436.mkv
+#EXTINF:-1,vod:La Légende De Tarzan
+http://kiptv3.ddns.net:8000/movie/ch/ch/432.mkv
+#EXTINF:-1,vod:Truth : Le Prix de la Vérité
+http://kiptv3.ddns.net:8000/movie/ch/ch/453.mkv
+#EXTINF:-1,vod:Le Sanctuaire
+http://kiptv3.ddns.net:8000/movie/ch/ch/450.mkv
+#EXTINF:-1,vod:Braqueurs
+http://kiptv3.ddns.net:8000/movie/ch/ch/449.mkv
+#EXTINF:-1,vod:A HOLOGRAM FOR THE KING
+http://kiptv3.ddns.net:8000/movie/ch/ch/452.mkv
+#EXTINF:-1,vod:XOXO
+http://kiptv3.ddns.net:8000/movie/ch/ch/451.mkv
+#EXTINF:-1,vod:PELÉ - NAISSANCE D’UNE LÉGENDE
+http://kiptv3.ddns.net:8000/movie/ch/ch/437.mkv
+#EXTINF:-1,vod:Moonwalkers
+http://kiptv3.ddns.net:8000/movie/ch/ch/434.mkv
+#EXTINF:-1,Vod:NINJA TURTLES 2
+http://kiptv3.ddns.net:8000/movie/ch/ch/430.mp4
+#EXTINF:-1,::::::Turquie::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/102.ts
+#EXTINF:-1,TR:FOXTV
+http://kiptv3.ddns.net:8000/live/ch/ch/405.ts
+#EXTINF:-1,TR:ATV HD
+http://kiptv3.ddns.net:8000/live/ch/ch/404.ts
+#EXTINF:-1,TR: Star tv HD
+http://kiptv3.ddns.net:8000/live/ch/ch/419.ts
+#EXTINF:-1,TR: Show TV
+http://kiptv3.ddns.net:8000/live/ch/ch/418.ts
+#EXTINF:-1,TR: Istanbul 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/420.ts
+#EXTINF:-1,TR: Cinema 1 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/411.ts
+#EXTINF:-1,TR:Cinema 2 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/412.ts
+#EXTINF:-1,TR:Cinema 3 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/413.ts
+#EXTINF:-1,TR: Cinema 4 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/414.ts
+#EXTINF:-1,TR: Cinema 5 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/415.ts
+#EXTINF:-1,TR: Cinema 6 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/416.ts
+#EXTINF:-1,TR: Cinema 7 HD
+http://kiptv3.ddns.net:8000/live/ch/ch/417.ts
+#EXTINF:-1,TR: LIGTV 1
+http://kiptv3.ddns.net:8000/live/ch/ch/400.ts
+#EXTINF:-1,TR:LIGTV 2
+http://kiptv3.ddns.net:8000/live/ch/ch/401.ts
+#EXTINF:-1,TR: LIGTV 3
+http://kiptv3.ddns.net:8000/live/ch/ch/402.ts
+#EXTINF:-1,TR: LIGTV 4
+http://kiptv3.ddns.net:8000/live/ch/ch/403.ts
+#EXTINF:-1,::::::Brézile::::::
+http://kiptv3.ddns.net:8000/live/ch/ch/424.ts
+#EXTINF:-1,BR: TV RECORD-BR
+http://kiptv3.ddns.net:8000/live/ch/ch/428.ts
+#EXTINF:-1,BR: TV CULTURA
+http://kiptv3.ddns.net:8000/live/ch/ch/426.ts
+#EXTINF:-1,BR: TV DIARIO
+http://kiptv3.ddns.net:8000/live/ch/ch/425.ts
+#EXTINF:-1,BR: TV GERAL BA
+http://kiptv3.ddns.net:8000/live/ch/ch/427.ts
