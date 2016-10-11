@@ -65,12 +65,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2697.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2698.ts
 #EXTINF:-1 tvg-name="BEINSPORT-3-FR" tvg-logo="http://stream1.noip.us:8000/images/bs3.png" group-title="CANALSAT",BEINSPORT-3-FR
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2699.ts
-#EXTINF:-1 tvg-name="SFR SPORT 1 HD" tvg-logo="" group-title="CANALSAT",SFR SPORT 1 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4988.ts
-#EXTINF:-1 tvg-name="SFR SPORT 2 HD" tvg-logo="" group-title="CANALSAT",SFR SPORT 2 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4989.ts
-#EXTINF:-1 tvg-name="SFR SPORT 3 HD" tvg-logo="" group-title="CANALSAT",SFR SPORT 3 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4990.ts
 #EXTINF:-1 tvg-name="TVA" tvg-logo="http://stream1.noip.us:8000/images/tvacanada.png" group-title="CANALSAT",TVA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3367.ts
 #EXTINF:-1 tvg-name="TF1" tvg-logo="http://stream1.noip.us:8000/images/tf1.png" group-title="CANALSAT",TF1
@@ -105,10 +99,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3719.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3716.ts
 #EXTINF:-1 tvg-name="Plug-RTL" tvg-logo="" group-title="CANALSAT",Plug-RTL
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3717.ts
-#EXTINF:-1 tvg-name="Club-RTL" tvg-logo="" group-title="CANALSAT",Club-RTL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3721.ts
-#EXTINF:-1 tvg-name="TV5" tvg-logo="" group-title="CANALSAT",TV5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2454.ts
 #EXTINF:-1 tvg-name="Arte" tvg-logo="http://stream1.noip.us:8000/images/FR ARTE.png" group-title="CANALSAT",Arte
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/423.ts
 #EXTINF:-1 tvg-name="W9" tvg-logo="http://stream1.noip.us:8000/images/w9.png" group-title="CANALSAT",W9
@@ -121,8 +111,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3136.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/427.ts
 #EXTINF:-1 tvg-name="LCI" tvg-logo="http://stream1.noip.us:8000/images/lci.png" group-title="CANALSAT",LCI
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/66.ts
-#EXTINF:-1 tvg-name="INFOSPORT+" tvg-logo="http://stream1.noip.us:8000/images/infosport.png" group-title="CANALSAT",INFOSPORT+
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/352.ts
 #EXTINF:-1 tvg-name="OCS City HD" tvg-logo="http://stream1.noip.us:8000/images/OCS CITY HD.png" group-title="CANALSAT",OCS City HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/424.ts
 #EXTINF:-1 tvg-name="OCS GEANT HD" tvg-logo="" group-title="CANALSAT",OCS GEANT HD
@@ -139,8 +127,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/751.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2401.ts
 #EXTINF:-1 tvg-name="Syfy" tvg-logo="http://stream1.noip.us:8000/images/FR Syfy.png" group-title="CANALSAT",Syfy
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/749.ts
-#EXTINF:-1 tvg-name="Paris Premiere" tvg-logo="http://stream1.noip.us:8000/images/FR Paris Premiere.png" group-title="CANALSAT",Paris Premiere
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/735.ts
 #EXTINF:-1 tvg-name="13eme Rue" tvg-logo="http://stream1.noip.us:8000/images/FR813eme Rue.png" group-title="CANALSAT",13eme Rue
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/741.ts
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="http://stream1.noip.us:8000/images/FR EUROSPORT 1.png" group-title="CANALSAT",Eurosport 1
@@ -151,8 +137,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/752.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2400.ts
 #EXTINF:-1 tvg-name="EQUIDIA LIVE" tvg-logo="http://stream1.noip.us:8000/images/equidia live.png" group-title="CANALSAT",EQUIDIA LIVE
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/353.ts
-#EXTINF:-1 tvg-name="Chasse & Peche HD" tvg-logo="http://stream1.noip.us:8000/images/FR Chasse & Peche HD.png" group-title="CANALSAT",Chasse & Peche HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/754.ts
 #EXTINF:-1 tvg-name="Animaux" tvg-logo="http://stream1.noip.us:8000/images/FR Animaux HD.png" group-title="CANALSAT",Animaux
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/746.ts
 #EXTINF:-1 tvg-name="NATIONAL GEO" tvg-logo="http://stream1.noip.us:8000/images/natgeograph.png" group-title="CANALSAT",NATIONAL GEO
@@ -257,12 +241,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1169.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1177.ts
 #EXTINF:-1 tvg-name="BEINSPORT 12" tvg-logo="http://stream1.noip.us:8000/images/bs12.png" group-title="Sport",BEINSPORT 12
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1178.ts
-#EXTINF:-1 tvg-name="BEINSPORT 13" tvg-logo="http://stream1.noip.us:8000/images/bs13.png" group-title="Sport",BEINSPORT 13
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2213.ts
-#EXTINF:-1 tvg-name="BEINSPORT 14" tvg-logo="http://stream1.noip.us:8000/images/bs14.png" group-title="Sport",BEINSPORT 14
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2214.ts
-#EXTINF:-1 tvg-name="BEINSPORT 15" tvg-logo="http://stream1.noip.us:8000/images/bs15.png" group-title="Sport",BEINSPORT 15
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2215.ts
 #EXTINF:-1 tvg-name="BEINSPORT 1H265" tvg-logo="http://stream1.noip.us:8000/images/bs1arh265.png" group-title="Sport",BEINSPORT 1H265
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/860.ts
 #EXTINF:-1 tvg-name="BEINSPORT 2H265" tvg-logo="http://stream1.noip.us:8000/images/bs2h265.png" group-title="Sport",BEINSPORT 2H265
@@ -277,100 +255,50 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3191.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3192.ts
 #EXTINF:-1 tvg-name="BEINSPORT 7H265" tvg-logo="http://stream1.noip.us:8000/images/bs7h265.png" group-title="Sport",BEINSPORT 7H265
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3193.ts
-#EXTINF:-1 tvg-name="BEINSPORT 8H265" tvg-logo="http://stream1.noip.us:8000/images/bs8h265.png" group-title="Sport",BEINSPORT 8H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3194.ts
-#EXTINF:-1 tvg-name="BEINSPORT MAX 4" tvg-logo="http://stream1.noip.us:8000/images/bsmax4.png" group-title="Sport",BEINSPORT MAX 4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2395.ts
-#EXTINF:-1 tvg-name="BEINSPORT MAX 5" tvg-logo="http://stream1.noip.us:8000/images/bsmax5.png" group-title="Sport",BEINSPORT MAX 5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2394.ts
-#EXTINF:-1 tvg-name="BEINSPORT MAX 6" tvg-logo="http://stream1.noip.us:8000/images/bsmax6.png" group-title="Sport",BEINSPORT MAX 6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2393.ts
-#EXTINF:-1 tvg-name="BEINSPORT MAX 7" tvg-logo="http://stream1.noip.us:8000/images/bsmax7.png" group-title="Sport",BEINSPORT MAX 7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2392.ts
-#EXTINF:-1 tvg-name="BEINSPORT MAX 8" tvg-logo="http://stream1.noip.us:8000/images/bsmax8.png" group-title="Sport",BEINSPORT MAX 8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2391.ts
 #EXTINF:-1 tvg-name="beIN SPORTS HD" tvg-logo="http://stream1.noip.us:8000/images/BEINSPORTS.png" group-title="Sport",beIN SPORTS HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3350.ts
-#EXTINF:-1 tvg-name="beIN SPORTS News HD" tvg-logo="http://stream1.noip.us:8000/images/BEINSPORTSNEWS.png" group-title="Sport",beIN SPORTS News HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3349.ts
-#EXTINF:-1 tvg-name="VIASAT Sports" tvg-logo="" group-title="Sport",VIASAT Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3925.ts
-#EXTINF:-1 tvg-name="VIASAT Football" tvg-logo="" group-title="Sport",VIASAT Football
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3926.ts
-#EXTINF:-1 tvg-name="Tivibuspor" tvg-logo="" group-title="Sport",Tivibuspor
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3927.ts
-#EXTINF:-1 tvg-name="TEN Sports" tvg-logo="" group-title="Sport",TEN Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3928.ts
-#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="" group-title="Sport",Ten Cricket
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3929.ts
-#EXTINF:-1 tvg-name="TEN" tvg-logo="" group-title="Sport",TEN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3930.ts
-#EXTINF:-1 tvg-name="SuperSport 4 HD" tvg-logo="" group-title="Sport",SuperSport 4 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3931.ts
-#EXTINF:-1 tvg-name="SuperSport 3 HD" tvg-logo="" group-title="Sport",SuperSport 3 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3932.ts
-#EXTINF:-1 tvg-name="SuperSport 2 HD" tvg-logo="" group-title="Sport",SuperSport 2 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3933.ts
-#EXTINF:-1 tvg-name="SuperSport 1 HD" tvg-logo="" group-title="Sport",SuperSport 1 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3934.ts
-#EXTINF:-1 tvg-name="SPORTS Kombat Sport" tvg-logo="" group-title="Sport",SPORTS Kombat Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3935.ts
-#EXTINF:-1 tvg-name="Sport TV 1 PT" tvg-logo="" group-title="Sport",Sport TV 1 PT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3936.ts
-#EXTINF:-1 tvg-name="Sport Klub 5" tvg-logo="" group-title="Sport",Sport Klub 5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3937.ts
-#EXTINF:-1 tvg-name="Sport Klub 4" tvg-logo="" group-title="Sport",Sport Klub 4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3938.ts
-#EXTINF:-1 tvg-name="Sport Klub 3" tvg-logo="" group-title="Sport",Sport Klub 3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3939.ts
-#EXTINF:-1 tvg-name="Sport Klub 2" tvg-logo="" group-title="Sport",Sport Klub 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3940.ts
-#EXTINF:-1 tvg-name="Sport Klub 1" tvg-logo="" group-title="Sport",Sport Klub 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3941.ts
-#EXTINF:-1 tvg-name="Sony Six" tvg-logo="" group-title="Sport",Sony Six
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3942.ts
-#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="" group-title="Sport",PTV Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3943.ts
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="" group-title="Sport",NBA TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3944.ts
-#EXTINF:-1 tvg-name="LIG TV3" tvg-logo="" group-title="Sport",LIG TV3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3945.ts
-#EXTINF:-1 tvg-name="LIG TV2" tvg-logo="" group-title="Sport",LIG TV2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3946.ts
-#EXTINF:-1 tvg-name="LIG TV1" tvg-logo="" group-title="Sport",LIG TV1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3947.ts
-#EXTINF:-1 tvg-name="GEO Super" tvg-logo="" group-title="Sport",GEO Super
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3948.ts
-#EXTINF:-1 tvg-name="Fight Sport" tvg-logo="" group-title="Sport",Fight Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3949.ts
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="" group-title="Sport",Fight Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3950.ts
-#EXTINF:-1 tvg-name="Fight Channel" tvg-logo="" group-title="Sport",Fight Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3951.ts
-#EXTINF:-1 tvg-name="Extrem Sports 1" tvg-logo="" group-title="Sport",Extrem Sports 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3952.ts
-#EXTINF:-1 tvg-name="DigiSport 3" tvg-logo="" group-title="Sport",DigiSport 3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3953.ts
-#EXTINF:-1 tvg-name="DigiSport 2" tvg-logo="" group-title="Sport",DigiSport 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3954.ts
-#EXTINF:-1 tvg-name="DigiSport 1" tvg-logo="" group-title="Sport",DigiSport 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3955.ts
-#EXTINF:-1 tvg-name="CTH Stadium X" tvg-logo="" group-title="Sport",CTH Stadium X
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3956.ts
-#EXTINF:-1 tvg-name="CTH Stadium 6" tvg-logo="" group-title="Sport",CTH Stadium 6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3957.ts
-#EXTINF:-1 tvg-name="CTH Stadium 5" tvg-logo="" group-title="Sport",CTH Stadium 5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3958.ts
-#EXTINF:-1 tvg-name="CTH Stadium 2" tvg-logo="" group-title="Sport",CTH Stadium 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3959.ts
-#EXTINF:-1 tvg-name="CTH Stadium 1" tvg-logo="" group-title="Sport",CTH Stadium 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3960.ts
-#EXTINF:-1 tvg-name="Astro Supersport 3" tvg-logo="" group-title="Sport",Astro Supersport 3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3961.ts
-#EXTINF:-1 tvg-name="Astro Supersport 2" tvg-logo="" group-title="Sport",Astro Supersport 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3962.ts
-#EXTINF:-1 tvg-name="Astro Supersport 1" tvg-logo="" group-title="Sport",Astro Supersport 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3963.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Movies 1 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12855.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Movies 2 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12854.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Movies 3 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12853.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Movies 4 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12852.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 1 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6625.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 2 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6626.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 3 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6627.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 4 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6628.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 5 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10911.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 6 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6630.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 7 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6631.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 8 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6632.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 9 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6633.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 10 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6634.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 11 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 11 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6639.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 12 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 12 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6641.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 13 HD ARB" tvg-logo="" group-title="VIP beIN SPORTS",beIN Sport 13 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6640.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 14 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Sport 14 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11462.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 15 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Sport 15 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11463.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 16 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Sport 16 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11464.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 17 HD ARB" tvg-logo="" group-title="Arab Countries",beIN Sport 17 HD ARB
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13855.ts
 #EXTINF:-1 tvg-name="#=======SKY IT=======#" tvg-logo="" group-title="",#=======SKY IT=======#
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3924.ts
 #EXTINF:-1 tvg-name="SKY Sport 1 HD" tvg-logo="" group-title="Skyit",SKY Sport 1 HD
@@ -379,60 +307,30 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4991.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4992.ts
 #EXTINF:-1 tvg-name="Sky Sport 3 HD" tvg-logo="" group-title="Skyit",Sky Sport 3 HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4993.ts
-#EXTINF:-1 tvg-name="SKY TG 24" tvg-logo="" group-title="Skyit",SKY TG 24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4994.ts
 #EXTINF:-1 tvg-name="SKY Disney XD" tvg-logo="" group-title="Skyit",SKY Disney XD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4995.ts
 #EXTINF:-1 tvg-name="Sky Cinema  1 HD" tvg-logo="" group-title="Skyit",Sky Cinema  1 HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4996.ts
-#EXTINF:-1 tvg-name="RAI YOYO" tvg-logo="" group-title="Skyit",RAI YOYO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4997.ts
-#EXTINF:-1 tvg-name="RAI SPORT 1 HD" tvg-logo="" group-title="Skyit",RAI SPORT 1 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4998.ts
-#EXTINF:-1 tvg-name="RAI SCUOLA" tvg-logo="" group-title="Skyit",RAI SCUOLA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4999.ts
-#EXTINF:-1 tvg-name="RAI PREMIUM" tvg-logo="" group-title="Skyit",RAI PREMIUM
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5000.ts
-#EXTINF:-1 tvg-name="RAI MOVIE" tvg-logo="" group-title="Skyit",RAI MOVIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5001.ts
-#EXTINF:-1 tvg-name="RAI 1 HD" tvg-logo="" group-title="Skyit",RAI 1 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5005.ts
-#EXTINF:-1 tvg-name="RAI 2 HD" tvg-logo="" group-title="Skyit",RAI 2 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5004.ts
-#EXTINF:-1 tvg-name="RAI 3 HD" tvg-logo="" group-title="Skyit",RAI 3 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5003.ts
-#EXTINF:-1 tvg-name="RAI 4 HD" tvg-logo="" group-title="Skyit",RAI 4 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5002.ts
 #EXTINF:-1 tvg-name="Premium Stories" tvg-logo="" group-title="Skyit",Premium Stories
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5006.ts
 #EXTINF:-1 tvg-name="Premium Sport HD" tvg-logo="" group-title="Skyit",Premium Sport HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5007.ts
 #EXTINF:-1 tvg-name="Premium Joy" tvg-logo="" group-title="Skyit",Premium Joy
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5008.ts
-#EXTINF:-1 tvg-name="Premium Disney Junior HD" tvg-logo="" group-title="Skyit",Premium Disney Junior HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5009.ts
 #EXTINF:-1 tvg-name="Premium Crime   24" tvg-logo="" group-title="Skyit",Premium Crime   24
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5010.ts
 #EXTINF:-1 tvg-name="Premium Cinema 2 HD" tvg-logo="" group-title="Skyit",Premium Cinema 2 HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5012.ts
 #EXTINF:-1 tvg-name="Premium Cinema 2   24" tvg-logo="" group-title="Skyit",Premium Cinema 2   24
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5011.ts
-#EXTINF:-1 tvg-name="Premium Cartoon Network" tvg-logo="" group-title="Skyit",Premium Cartoon Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5013.ts
 #EXTINF:-1 tvg-name="Premium Calcio 1" tvg-logo="" group-title="Skyit",Premium Calcio 1
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5014.ts
-#EXTINF:-1 tvg-name="Premium Action   24" tvg-logo="" group-title="Skyit",Premium Action   24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5015.ts
-#EXTINF:-1 tvg-name="MONTE CARLO TV" tvg-logo="" group-title="Skyit",MONTE CARLO TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5016.ts
 #EXTINF:-1 tvg-name="Mediaset Italia 2" tvg-logo="" group-title="Skyit",Mediaset Italia 2
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5017.ts
 #EXTINF:-1 tvg-name="Mediaset Extra" tvg-logo="" group-title="Skyit",Mediaset Extra
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5018.ts
 #EXTINF:-1 tvg-name="Italia 1" tvg-logo="" group-title="Skyit",Italia 1
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5019.ts
-#EXTINF:-1 tvg-name="IT:Sky.Discovery.Channel.HD" tvg-logo="" group-title="Skyit",IT:Sky.Discovery.Channel.HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5027.ts
 #EXTINF:-1 tvg-name="IT:Sky Uno HD" tvg-logo="" group-title="Skyit",IT:Sky Uno HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5020.ts
 #EXTINF:-1 tvg-name="IT:Sky Supercalcio HD" tvg-logo="" group-title="Skyit",IT:Sky Supercalcio HD
@@ -441,8 +339,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5021.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5022.ts
 #EXTINF:-1 tvg-name="IT:Sky Cinema Hits HD" tvg-logo="" group-title="Skyit",IT:Sky Cinema Hits HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5023.ts
-#EXTINF:-1 tvg-name="IT:Sky Cinema Comedy HD" tvg-logo="" group-title="Skyit",IT:Sky Cinema Comedy HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5024.ts
 #EXTINF:-1 tvg-name="IT:Sky Cinema 1" tvg-logo="" group-title="Skyit",IT:Sky Cinema 1
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5025.ts
 #EXTINF:-1 tvg-name="IT:Sky Cielo HD" tvg-logo="" group-title="Skyit",IT:Sky Cielo HD
@@ -451,38 +347,24 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5026.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5034.ts
 #EXTINF:-1 tvg-name="IT:PREMIUM-EMOTION" tvg-logo="" group-title="Skyit",IT:PREMIUM-EMOTION
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5035.ts
-#EXTINF:-1 tvg-name="IT:PREMIUM-CRIME HD" tvg-logo="" group-title="Skyit",IT:PREMIUM-CRIME HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5036.ts
-#EXTINF:-1 tvg-name="IT:PREMIUM-COMEDY" tvg-logo="" group-title="Skyit",IT:PREMIUM-COMEDY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5037.ts
-#EXTINF:-1 tvg-name="IT:PREMIUM-ACTION" tvg-logo="" group-title="Skyit",IT:PREMIUM-ACTION
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5038.ts
 #EXTINF:-1 tvg-name="IT:Premium Studio Universal HD" tvg-logo="" group-title="Skyit",IT:Premium Studio Universal HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5028.ts
 #EXTINF:-1 tvg-name="IT:Premium Energy HD" tvg-logo="" group-title="Skyit",IT:Premium Energy HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5029.ts
-#EXTINF:-1 tvg-name="IT:Premium Emotion HD" tvg-logo="" group-title="Skyit",IT:Premium Emotion HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5030.ts
 #EXTINF:-1 tvg-name="IT:Premium Disney Channel" tvg-logo="" group-title="Skyit",IT:Premium Disney Channel
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5031.ts
-#EXTINF:-1 tvg-name="IT:Premium Crime HD" tvg-logo="" group-title="Skyit",IT:Premium Crime HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5032.ts
 #EXTINF:-1 tvg-name="IT:Premium Carton Network HD" tvg-logo="" group-title="Skyit",IT:Premium Carton Network HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5033.ts
 #EXTINF:-1 tvg-name="IT:fox.Crime" tvg-logo="" group-title="Skyit",IT:fox.Crime
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5039.ts
 #EXTINF:-1 tvg-name="IT-NAT GEO PEOPLE HD" tvg-logo="" group-title="Skyit",IT-NAT GEO PEOPLE HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5040.ts
-#EXTINF:-1 tvg-name="Dmax" tvg-logo="" group-title="Skyit",Dmax
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5041.ts
 #EXTINF:-1 tvg-name="Discovery Sci HD" tvg-logo="" group-title="Skyit",Discovery Sci HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5042.ts
 #EXTINF:-1 tvg-name="Discovery Sci" tvg-logo="" group-title="Skyit",Discovery Sci
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5043.ts
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="" group-title="Skyit",Cartoonito
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5044.ts
-#EXTINF:-1 tvg-name="Canale 5" tvg-logo="" group-title="Skyit",Canale 5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5045.ts
 #EXTINF:-1 tvg-name="Boing" tvg-logo="" group-title="Skyit",Boing
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/5046.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nilesat",
@@ -533,8 +415,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/386.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/383.ts
 #EXTINF:-1 tvg-name="Arrabiaa" tvg-logo="http://stream1.noip.us:8000/images/Arrabiaao.png" group-title="Nilesat",Arrabiaa
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/384.ts
-#EXTINF:-1 tvg-name="Al Maghribia" tvg-logo="http://stream1.noip.us:8000/images/logo tv med almaghribia.gif" group-title="Nilesat",Al Maghribia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/385.ts
 #EXTINF:-1 tvg-name="Assadissa" tvg-logo="http://stream1.noip.us:8000/images/logo tv med assidissa.gif" group-title="Nilesat",Assadissa
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/382.ts
 #EXTINF:-1 tvg-name="Tamazight" tvg-logo="http://stream1.noip.us:8000/images/logo tv med tamazight.gif" group-title="Nilesat",Tamazight
@@ -543,10 +423,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/381.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3988.ts
 #EXTINF:-1 tvg-name="SAMIRA TV" tvg-logo="" group-title="Nilesat",SAMIRA TV
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3995.ts
-#EXTINF:-1 tvg-name="ENTV" tvg-logo="" group-title="Nilesat",ENTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4004.ts
-#EXTINF:-1 tvg-name="ENNAHAR TV ALGERIE" tvg-logo="" group-title="Nilesat",ENNAHAR TV ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3985.ts
 #EXTINF:-1 tvg-name="ENNAHAR LAKI" tvg-logo="" group-title="Nilesat",ENNAHAR LAKI
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3996.ts
 #EXTINF:-1 tvg-name="Echourouk news" tvg-logo="" group-title="Nilesat",Echourouk news
@@ -557,40 +433,12 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3990.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3991.ts
 #EXTINF:-1 tvg-name="DzairNews" tvg-logo="" group-title="Nilesat",DzairNews
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3992.ts
-#EXTINF:-1 tvg-name="Dzair3" tvg-logo="" group-title="Nilesat",Dzair3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4005.ts
-#EXTINF:-1 tvg-name="DZAIR TV ALGERIE" tvg-logo="" group-title="Nilesat",DZAIR TV ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3986.ts
 #EXTINF:-1 tvg-name="Dzaier tv" tvg-logo="" group-title="Nilesat",Dzaier tv
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3993.ts
 #EXTINF:-1 tvg-name="Djazairia" tvg-logo="" group-title="Nilesat",Djazairia
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3994.ts
-#EXTINF:-1 tvg-name="CANAL ALGERIE" tvg-logo="" group-title="Nilesat",CANAL ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3602.ts
-#EXTINF:-1 tvg-name="bzaf music" tvg-logo="" group-title="Nilesat",bzaf music
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3998.ts
-#EXTINF:-1 tvg-name="BEUR TV" tvg-logo="" group-title="Nilesat",BEUR TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4007.ts
-#EXTINF:-1 tvg-name="BENNA TV  ALGERIE" tvg-logo="" group-title="Nilesat",BENNA TV  ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3987.ts
-#EXTINF:-1 tvg-name="ALMAGARIBIA" tvg-logo="" group-title="Nilesat",ALMAGARIBIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4010.ts
-#EXTINF:-1 tvg-name="Alhadef Algérie" tvg-logo="" group-title="Nilesat",Alhadef Algérie
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4008.ts
-#EXTINF:-1 tvg-name="ALGERIAN amazight" tvg-logo="" group-title="Nilesat",ALGERIAN amazight
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3999.ts
-#EXTINF:-1 tvg-name="Algérie3" tvg-logo="" group-title="Nilesat",Algérie3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4009.ts
-#EXTINF:-1 tvg-name="Al Majd" tvg-logo="" group-title="Nilesat",Al Majd
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3977.ts
 #EXTINF:-1 tvg-name="Ennahar" tvg-logo="" group-title="Nilesat",Ennahar
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2385.ts
-#EXTINF:-1 tvg-name="FRANCE24" tvg-logo="http://stream1.noip.us:8000/images/FR24.png" group-title="Nilesat",FRANCE24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/531.ts
-#EXTINF:-1 tvg-name="RTNews" tvg-logo="" group-title="Nilesat",RTNews
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2402.ts
-#EXTINF:-1 tvg-name="ABU DHABI NATGEO" tvg-logo="" group-title="Nilesat",ABU DHABI NATGEO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3486.ts
 #EXTINF:-1 tvg-name="Nile Cinema" tvg-logo="http://stream1.noip.us:8000/images/Nile Cinema.png" group-title="Nilesat",Nile Cinema
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/237.ts
 #EXTINF:-1 tvg-name="Nile Comedy" tvg-logo="http://stream1.noip.us:8000/images/Nile Comedy.png" group-title="Nilesat",Nile Comedy
@@ -617,26 +465,8 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1159.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/642.ts
 #EXTINF:-1 tvg-name="dubai one" tvg-logo="http://stream1.noip.us:8000/images/dubaione.png" group-title="Nilesat",dubai one
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/643.ts
-#EXTINF:-1 tvg-name="dubai" tvg-logo="http://stream1.noip.us:8000/images/dubaitv.png" group-title="Nilesat",dubai
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/644.ts
-#EXTINF:-1 tvg-name="M TUNISIA" tvg-logo="" group-title="Nilesat",M TUNISIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2470.ts
-#EXTINF:-1 tvg-name="jawhara fm cam" tvg-logo="" group-title="Nilesat",jawhara fm cam
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2471.ts
 #EXTINF:-1 tvg-name="CBC SOFRA" tvg-logo="" group-title="Nilesat",CBC SOFRA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2472.ts
-#EXTINF:-1 tvg-name="ART Hikeyet 1" tvg-logo="http://stream1.noip.us:8000/images/ART Hikeyet.png" group-title="Nilesat",ART Hikeyet 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/628.ts
-#EXTINF:-1 tvg-name="ART Hikeyet 2" tvg-logo="http://stream1.noip.us:8000/images/ART Hikeyet 2.png" group-title="Nilesat",ART Hikeyet 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/629.ts
-#EXTINF:-1 tvg-name="ART Cinema" tvg-logo="http://stream1.noip.us:8000/images/ART Cinema.png" group-title="Nilesat",ART Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/630.ts
-#EXTINF:-1 tvg-name="ART AFLAM 1" tvg-logo="http://stream1.noip.us:8000/images/aflam1.png" group-title="Nilesat",ART AFLAM 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/626.ts
-#EXTINF:-1 tvg-name="ART AFLAM 2" tvg-logo="http://stream1.noip.us:8000/images/aflam2.png" group-title="Nilesat",ART AFLAM 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/627.ts
-#EXTINF:-1 tvg-name="Libya Documentary" tvg-logo="" group-title="Nilesat",Libya Documentary
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3226.ts
 #EXTINF:-1 tvg-name="First TV TUNISIA" tvg-logo="" group-title="Nilesat",First TV TUNISIA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3240.ts
 #EXTINF:-1 tvg-name="El Heddaf TV" tvg-logo="" group-title="Nilesat",El Heddaf TV
@@ -661,8 +491,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3313.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3238.ts
 #EXTINF:-1 tvg-name="Al Magharibia" tvg-logo="" group-title="Nilesat",Al Magharibia
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3229.ts
-#EXTINF:-1 tvg-name="CN Arabia" tvg-logo="" group-title="Nilesat",CN Arabia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3251.ts
 #EXTINF:-1 tvg-name="ANN" tvg-logo="" group-title="Nilesat",ANN
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3255.ts
 #EXTINF:-1 tvg-name="Alhayat Muslsalat" tvg-logo="" group-title="Nilesat",Alhayat Muslsalat
@@ -671,8 +499,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3259.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3257.ts
 #EXTINF:-1 tvg-name="Al-Nahar Cinema" tvg-logo="" group-title="Nilesat",Al-Nahar Cinema
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3260.ts
-#EXTINF:-1 tvg-name="Al Ghad Al Arabi" tvg-logo="" group-title="Nilesat",Al Ghad Al Arabi
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3227.ts
 #EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="" group-title="Nilesat",Al Araby TV
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3231.ts
 #EXTINF:-1 tvg-name="Al Anis TV" tvg-logo="" group-title="Nilesat",Al Anis TV
@@ -681,16 +507,8 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3228.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3242.ts
 #EXTINF:-1 tvg-name="TUNISNA" tvg-logo="" group-title="Nilesat",TUNISNA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3213.ts
-#EXTINF:-1 tvg-name="TRT KURDI" tvg-logo="" group-title="Nilesat",TRT KURDI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3212.ts
 #EXTINF:-1 tvg-name="TRT ELARABIYE" tvg-logo="" group-title="Nilesat",TRT ELARABIYE
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3211.ts
-#EXTINF:-1 tvg-name="TOP CINEMA TV" tvg-logo="" group-title="Nilesat",TOP CINEMA TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3210.ts
-#EXTINF:-1 tvg-name="TIME TURKI" tvg-logo="" group-title="Nilesat",TIME TURKI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3225.ts
-#EXTINF:-1 tvg-name="TIME COMEDY" tvg-logo="" group-title="Nilesat",TIME COMEDY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3224.ts
 #EXTINF:-1 tvg-name="SYRIA DRAMA" tvg-logo="" group-title="Nilesat",SYRIA DRAMA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3207.ts
 #EXTINF:-1 tvg-name="SAUDI 24" tvg-logo="" group-title="Nilesat",SAUDI 24
@@ -709,8 +527,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3217.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3215.ts
 #EXTINF:-1 tvg-name="NOUR EL SHAM" tvg-logo="" group-title="Nilesat",NOUR EL SHAM
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3206.ts
-#EXTINF:-1 tvg-name="Kuwait Sport & " tvg-logo="" group-title="Nilesat",Kuwait Sport & 
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3218.ts
 #EXTINF:-1 tvg-name="KURDISTAN TV" tvg-logo="" group-title="Nilesat",KURDISTAN TV
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3221.ts
 #EXTINF:-1 tvg-name="IRAQ TODAY" tvg-logo="" group-title="Nilesat",IRAQ TODAY
@@ -721,140 +537,48 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3202.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3214.ts
 #EXTINF:-1 tvg-name="AL-MUSTAKILA" tvg-logo="" group-title="Nilesat",AL-MUSTAKILA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3199.ts
-#EXTINF:-1 tvg-name="MUSIC PLUS" tvg-logo="" group-title="Nilesat",MUSIC PLUS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3462.ts
-#EXTINF:-1 tvg-name="Modern Sport" tvg-logo="" group-title="Nilesat",Modern Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3461.ts
 #EXTINF:-1 tvg-name="Future TV" tvg-logo="" group-title="Nilesat",Future TV
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3459.ts
-#EXTINF:-1 tvg-name="Tele Lebonan" tvg-logo="" group-title="Nilesat",Tele Lebonan
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4172.ts
-#EXTINF:-1 tvg-name="Ldc Lebanon 2" tvg-logo="" group-title="Nilesat",Ldc Lebanon 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4167.ts
 #EXTINF:-1 tvg-name="Almanar Lebanon" tvg-logo="" group-title="Nilesat",Almanar Lebanon
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4171.ts
 #EXTINF:-1 tvg-name="Al Mayadeen" tvg-logo="" group-title="Nilesat",Al Mayadeen
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4168.ts
 #EXTINF:-1 tvg-name="Al Hayat We Alnas" tvg-logo="" group-title="Nilesat",Al Hayat We Alnas
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4169.ts
-#EXTINF:-1 tvg-name="Al Hayat" tvg-logo="" group-title="Nilesat",Al Hayat
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4170.ts
 #EXTINF:-1 tvg-name="KURDMAX" tvg-logo="" group-title="Nilesat",KURDMAX
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3458.ts
-#EXTINF:-1 tvg-name="AL RAHMA" tvg-logo="" group-title="Nilesat",AL RAHMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3198.ts
 #EXTINF:-1 tvg-name="CBC Drama" tvg-logo="http://stream1.noip.us:8000/images/cbcdrmar.png" group-title="Nilesat",CBC Drama
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/632.ts
 #EXTINF:-1 tvg-name="CBC" tvg-logo="http://stream1.noip.us:8000/images/cbcar.png" group-title="Nilesat",CBC
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/633.ts
 #EXTINF:-1 tvg-name="Toktokaflam" tvg-logo="http://stream1.noip.us:8000/images/TOKTOKAFLAM.png" group-title="Nilesat",Toktokaflam
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/635.ts
-#EXTINF:-1 tvg-name="Cinemapro" tvg-logo="http://stream1.noip.us:8000/images/Cinemapro.png" group-title="Nilesat",Cinemapro
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/636.ts
 #EXTINF:-1 tvg-name="Aljazeera Doc HD" tvg-logo="" group-title="Nilesat",Aljazeera Doc HD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1156.ts
-#EXTINF:-1 tvg-name="NBN TV LEBANON AR" tvg-logo="" group-title="Nilesat",NBN TV LEBANON AR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1152.ts
-#EXTINF:-1 tvg-name="MTV Lebanon HD AR" tvg-logo="" group-title="Nilesat",MTV Lebanon HD AR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1153.ts
-#EXTINF:-1 tvg-name="Tounesna" tvg-logo="" group-title="Nilesat",Tounesna
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1166.ts
-#EXTINF:-1 tvg-name="Zaytouna Tunisia" tvg-logo="" group-title="Nilesat",Zaytouna Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2382.ts
-#EXTINF:-1 tvg-name="Otv" tvg-logo="" group-title="Nilesat",Otv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2386.ts
-#EXTINF:-1 tvg-name="Nessma Tunisia" tvg-logo="" group-title="Nilesat",Nessma Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2380.ts
-#EXTINF:-1 tvg-name="Moutawaset" tvg-logo="" group-title="Nilesat",Moutawaset
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2384.ts
-#EXTINF:-1 tvg-name="Janoubiya" tvg-logo="" group-title="Nilesat",Janoubiya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2381.ts
-#EXTINF:-1 tvg-name="TIME-TURKI" tvg-logo="" group-title="Nilesat",TIME-TURKI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2521.ts
-#EXTINF:-1 tvg-name="TIME-TAXI" tvg-logo="" group-title="Nilesat",TIME-TAXI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2519.ts
-#EXTINF:-1 tvg-name="TIME-SHA3BEYAT" tvg-logo="" group-title="Nilesat",TIME-SHA3BEYAT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2535.ts
 #EXTINF:-1 tvg-name="TIME-FILM" tvg-logo="" group-title="Nilesat",TIME-FILM
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2511.ts
-#EXTINF:-1 tvg-name="TIME-COMEDY" tvg-logo="" group-title="Nilesat",TIME-COMEDY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2512.ts
-#EXTINF:-1 tvg-name="TIME-CINEMA" tvg-logo="" group-title="Nilesat",TIME-CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2513.ts
-#EXTINF:-1 tvg-name="TEN-2" tvg-logo="" group-title="Nilesat",TEN-2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2529.ts
-#EXTINF:-1 tvg-name="TEN-1" tvg-logo="" group-title="Nilesat",TEN-1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2528.ts
 #EXTINF:-1 tvg-name="sada-Misr" tvg-logo="" group-title="Nilesat",sada-Misr
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2531.ts
 #EXTINF:-1 tvg-name="Sada-ElBalad2" tvg-logo="" group-title="Nilesat",Sada-ElBalad2
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2532.ts
-#EXTINF:-1 tvg-name="Play-Aflam" tvg-logo="" group-title="Nilesat",Play-Aflam
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2515.ts
 #EXTINF:-1 tvg-name="Panorama-Film" tvg-logo="" group-title="Nilesat",Panorama-Film
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2507.ts
-#EXTINF:-1 tvg-name="Panorama-Comedy" tvg-logo="" group-title="Nilesat",Panorama-Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2508.ts
-#EXTINF:-1 tvg-name="Panorama-Cinema" tvg-logo="" group-title="Nilesat",Panorama-Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2506.ts
-#EXTINF:-1 tvg-name="Moga-Comedy-TV" tvg-logo="" group-title="Nilesat",Moga-Comedy-TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2509.ts
-#EXTINF:-1 tvg-name="MOGA-Cinema" tvg-logo="" group-title="Nilesat",MOGA-Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2510.ts
-#EXTINF:-1 tvg-name="Misr-EL-Bald" tvg-logo="" group-title="Nilesat",Misr-EL-Bald
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2530.ts
-#EXTINF:-1 tvg-name="MICKEY-CHANNEL" tvg-logo="" group-title="Nilesat",MICKEY-CHANNEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2518.ts
 #EXTINF:-1 tvg-name="Mehwer" tvg-logo="" group-title="Nilesat",Mehwer
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2534.ts
-#EXTINF:-1 tvg-name="MB CINEMA" tvg-logo="" group-title="Nilesat",MB CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2517.ts
-#EXTINF:-1 tvg-name="M24 MUSIC" tvg-logo="" group-title="Nilesat",M24 MUSIC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2536.ts
-#EXTINF:-1 tvg-name="CIMA-ALIBABA" tvg-logo="" group-title="Nilesat",CIMA-ALIBABA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2514.ts
 #EXTINF:-1 tvg-name="B4U-Aflam" tvg-logo="" group-title="Nilesat",B4U-Aflam
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2520.ts
-#EXTINF:-1 tvg-name="Al-thanya" tvg-logo="" group-title="Nilesat",Al-thanya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2524.ts
 #EXTINF:-1 tvg-name="Al-Nahar-Sport" tvg-logo="" group-title="Nilesat",Al-Nahar-Sport
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2527.ts
-#EXTINF:-1 tvg-name="AL-Nahar-Alyawm" tvg-logo="" group-title="Nilesat",AL-Nahar-Alyawm
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2526.ts
-#EXTINF:-1 tvg-name="Al-Kahera-WalNas-2" tvg-logo="" group-title="Nilesat",Al-Kahera-WalNas-2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2523.ts
-#EXTINF:-1 tvg-name="Al-Kahera-WalNas" tvg-logo="" group-title="Nilesat",Al-Kahera-WalNas
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2522.ts
-#EXTINF:-1 tvg-name="hannibal Tunisia" tvg-logo="" group-title="Nilesat",hannibal Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2379.ts
 #EXTINF:-1 tvg-name="ARABICA" tvg-logo="" group-title="Nilesat",ARABICA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2387.ts
 #EXTINF:-1 tvg-name="Almostakela" tvg-logo="" group-title="Nilesat",Almostakela
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2383.ts
 #EXTINF:-1 tvg-name="Tunisia Nat 2" tvg-logo="" group-title="Nilesat",Tunisia Nat 2
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1161.ts
-#EXTINF:-1 tvg-name="Tunisia Nat 1" tvg-logo="" group-title="Nilesat",Tunisia Nat 1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1160.ts
 #EXTINF:-1 tvg-name="Numidia" tvg-logo="" group-title="Nilesat",Numidia
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2403.ts
-#EXTINF:-1 tvg-name="Attesisa Tunisia" tvg-logo="" group-title="Nilesat",Attesisa Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1165.ts
-#EXTINF:-1 tvg-name="Attounisiya" tvg-logo="" group-title="Nilesat",Attounisiya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1162.ts
 #EXTINF:-1 tvg-name="Zeealwan" tvg-logo="http://stream1.noip.us:8000/images/ZEEALWAN.png" group-title="Nilesat",Zeealwan
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/645.ts
-#EXTINF:-1 tvg-name="toyouraljanna" tvg-logo="http://stream1.noip.us:8000/images/TOYOURALJANNA.png" group-title="Nilesat",toyouraljanna
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/670.ts
-#EXTINF:-1 tvg-name="Syria Akhbariya" tvg-logo="http://stream1.noip.us:8000/images/deretna.png" group-title="Nilesat",Syria Akhbariya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/665.ts
-#EXTINF:-1 tvg-name="Sharqianews" tvg-logo="http://stream1.noip.us:8000/images/alsharqiya.png" group-title="Nilesat",Sharqianews
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/666.ts
-#EXTINF:-1 tvg-name="qods" tvg-logo="http://stream1.noip.us:8000/images/alquds.png" group-title="Nilesat",qods
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/660.ts
-#EXTINF:-1 tvg-name="manar" tvg-logo="http://stream1.noip.us:8000/images/MANAR.png" group-title="Nilesat",manar
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/672.ts
-#EXTINF:-1 tvg-name="majdkids" tvg-logo="http://stream1.noip.us:8000/images/MAJDKIDS.png" group-title="Nilesat",majdkids
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/671.ts
 #EXTINF:-1 tvg-name="LBC" tvg-logo="http://stream1.noip.us:8000/images/LBC-ART.png" group-title="Nilesat",LBC
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/639.ts
 #EXTINF:-1 tvg-name="JSC mubacher" tvg-logo="http://stream1.noip.us:8000/images/JSC MUBACHER.png" group-title="Nilesat",JSC mubacher
@@ -863,12 +587,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/648.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/647.ts
 #EXTINF:-1 tvg-name="Alresala" tvg-logo="http://stream1.noip.us:8000/images/ALRESALA.png" group-title="Nilesat",Alresala
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/667.ts
-#EXTINF:-1 tvg-name="Alnas" tvg-logo="http://stream1.noip.us:8000/images/ALNAS.png" group-title="Nilesat",Alnas
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/669.ts
-#EXTINF:-1 tvg-name="Almayden" tvg-logo="http://stream1.noip.us:8000/images/alittihadnews.png" group-title="Nilesat",Almayden
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/663.ts
-#EXTINF:-1 tvg-name="Almajd3" tvg-logo="http://stream1.noip.us:8000/images/ALMAJD3.png" group-title="Nilesat",Almajd3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/668.ts
 #EXTINF:-1 tvg-name="TIME-QURAN" tvg-logo="" group-title="Nilesat",TIME-QURAN
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2878.ts
 #EXTINF:-1 tvg-name="Saudi ch for Quran HD" tvg-logo="" group-title="Nilesat",Saudi ch for Quran HD
@@ -877,30 +595,14 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2501.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3976.ts
 #EXTINF:-1 tvg-name="TV Coran" tvg-logo="" group-title="Nilesat",TV Coran
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4001.ts
-#EXTINF:-1 tvg-name="Almajd Holy Qura'n" tvg-logo="" group-title="Nilesat",Almajd Holy Qura'n
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3982.ts
-#EXTINF:-1 tvg-name="Almajd Space Channel" tvg-logo="" group-title="Nilesat",Almajd Space Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3978.ts
-#EXTINF:-1 tvg-name="Almajd Nature" tvg-logo="" group-title="Nilesat",Almajd Nature
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3979.ts
 #EXTINF:-1 tvg-name="Almajd Masah" tvg-logo="" group-title="Nilesat",Almajd Masah
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3980.ts
-#EXTINF:-1 tvg-name="Almajd Kids" tvg-logo="" group-title="Nilesat",Almajd Kids
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3981.ts
-#EXTINF:-1 tvg-name="Almajd Holy Hadeeth" tvg-logo="" group-title="Nilesat",Almajd Holy Hadeeth
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3983.ts
-#EXTINF:-1 tvg-name="Almajd Documentary" tvg-logo="" group-title="Nilesat",Almajd Documentary
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3984.ts
 #EXTINF:-1 tvg-name="aljadeed" tvg-logo="http://stream1.noip.us:8000/images/ALJADEED.png" group-title="Nilesat",aljadeed
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/662.ts
 #EXTINF:-1 tvg-name="Alhayet" tvg-logo="http://stream1.noip.us:8000/images/alhayat.png" group-title="Nilesat",Alhayet
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/637.ts
-#EXTINF:-1 tvg-name="alanwar" tvg-logo="http://stream1.noip.us:8000/images/alanwar.png" group-title="Nilesat",alanwar
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/664.ts
 #EXTINF:-1 tvg-name="abu dhaby emarat" tvg-logo="http://stream1.noip.us:8000/images/ABU DHABY EMARAT.png" group-title="Nilesat",abu dhaby emarat
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/641.ts
-#EXTINF:-1 tvg-name="abu dhaby drama" tvg-logo="http://stream1.noip.us:8000/images/addrama.png" group-title="Nilesat",abu dhaby drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/640.ts
 #EXTINF:-1 tvg-name="Dream2" tvg-logo="http://stream1.noip.us:8000/images/Dream2.png" group-title="Nilesat",Dream2
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/239.ts
 #EXTINF:-1 tvg-name="Abu Dhabi TV" tvg-logo="http://stream1.noip.us:8000/images/abodabi.png" group-title="Nilesat",Abu Dhabi TV
@@ -912,8 +614,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3478.ts
 #EXTINF:-1 tvg-name="MAJESTIC CINEMA" tvg-logo="" group-title="Nilesat",MAJESTIC CINEMA
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3471.ts
 #EXTINF:-1 tvg-name="HONAA ELAASEMA TV" tvg-logo="" group-title="Nilesat",HONAA ELAASEMA TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3464.ts
-#EXTINF:-1 tvg-name="HADRAMOUT CHANNEL" tvg-logo="" group-title="Nilesat",HADRAMOUT CHANNEL
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3473.ts
 #EXTINF:-1 tvg-name="ALSIRAT" tvg-logo="" group-title="Nilesat",ALSIRAT
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3469.ts
@@ -925,8 +625,6 @@ http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3480.ts
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3482.ts
 #EXTINF:-1 tvg-name="Al Rayyan SD" tvg-logo="" group-title="Nilesat",Al Rayyan SD
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3479.ts
-#EXTINF:-1 tvg-name="Al Mergab 2" tvg-logo="" group-title="Nilesat",Al Mergab 2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3477.ts
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="" group-title="Nilesat",Al Jazeera Mubasher
 http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3483.ts
 #EXTINF:-1 tvg-name="Al Jazeera Documentary" tvg-logo="" group-title="Nilesat",Al Jazeera Documentary
