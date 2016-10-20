@@ -751,7 +751,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3810.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/4205.ts
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel AL" tvg-logo="" group-title="Albania",Travel Channel AL
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/7060.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Folk AL" tvg-logo="" group-title="Albania",Super Folk AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="" group-title="Albania",Folk + AL
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6260.ts
 #EXTINF:-1 tvg-id="" tvg-name="BB11 Music AL" tvg-logo="" group-title="Albania",BB11 Music AL
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/7051.ts
@@ -1407,13 +1407,13 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13855.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13303.ts
 #EXTINF:-1 tvg-id="1-2-3.tv DE" tvg-name="1-2-3.tv DE" tvg-logo="http://secure.clientportal.link/picons/123tv.png" group-title="Germany",1-2-3.tv DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12342.ts
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="13th Street HD DE" tvg-logo="http://secure.clientportal.link/picons/13thstreet.png" group-title="Germany",13th Street HD DE
+#EXTINF:-1 tvg-id="13th Street DE" tvg-name="13th Street DE" tvg-logo="http://secure.clientportal.link/picons/13thstreet.png" group-title="Germany",13th Street DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3428.ts
 #EXTINF:-1 tvg-id="3sat DE" tvg-name="3sat DE" tvg-logo="http://secure.clientportal.link/picons/3sat.png" group-title="Germany",3sat DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12341.ts
 #EXTINF:-1 tvg-id="" tvg-name="Anixe HD DE" tvg-logo="http://secure.clientportal.link/picons/anixehd.png" group-title="Germany",Anixe HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3445.ts
-#EXTINF:-1 tvg-id="Arte DE" tvg-name="Arte HD DE" tvg-logo="http://secure.clientportal.link/picons/arte.png" group-title="Germany",Arte HD DE
+#EXTINF:-1 tvg-id="arte DE" tvg-name="Arte HD DE" tvg-logo="http://secure.clientportal.link/picons/arte.png" group-title="Germany",Arte HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3827.ts
 #EXTINF:-1 tvg-id="Astro TV DE" tvg-name="Astro TV DE" tvg-logo="http://secure.clientportal.link/picons/astrotv.png" group-title="Germany",Astro TV DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12339.ts
@@ -1439,7 +1439,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9555.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3451.ts
 #EXTINF:-1 tvg-id="Deluxe Music DE" tvg-name="Deluxe Music DE" tvg-logo="http://secure.clientportal.link/picons/deluxemusic.png" group-title="Germany",Deluxe Music DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9554.ts
-#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://secure.clientportal.link/picons/discoveryhd.png" group-title="Germany",Discovery Channel HD DE
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" group-title="Germany",Discovery Channel HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3426.ts
 #EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="Disney Channel DE" tvg-logo="http://secure.clientportal.link/picons/disneychannel.png" group-title="Germany",Disney Channel DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3622.ts
@@ -1461,7 +1461,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12336.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13108.ts
 #EXTINF:-1 tvg-id="Folx TV DE" tvg-name="Folx TV DE" tvg-logo="http://secure.clientportal.link/picons/folxtv.png" group-title="Germany",Folx TV DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12319.ts
-#EXTINF:-1 tvg-id="FOX DE" tvg-name="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" group-title="Germany",FOX HD DE
+#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" group-title="Germany",FOX HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3425.ts
 #EXTINF:-1 tvg-id="Fox Series DE" tvg-name="Fox Series DE" tvg-logo="http://secure.clientportal.link/picons/fox.png" group-title="Germany",Fox Series DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12294.ts
@@ -1471,7 +1471,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12293.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12318.ts
 #EXTINF:-1 tvg-id="Heimatkanal DE" tvg-name="Heimatkanal DE" tvg-logo="http://secure.clientportal.link/picons/heimatkanal.png" group-title="Germany",Heimatkanal DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9558.ts
-#EXTINF:-1 tvg-id="History Channel DE" tvg-name="History Channel  DE" tvg-logo="http://secure.clientportal.link/picons/history.png" group-title="Germany",History Channel  DE
+#EXTINF:-1 tvg-id="History DE" tvg-name="History DE" tvg-logo="http://secure.clientportal.link/picons/history.png" group-title="Germany",History DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3424.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viva / Comedy Central DE" tvg-logo="http://secure.clientportal.link/picons/vivacomedycentral.png" group-title="Germany",Viva / Comedy Central DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12317.ts
@@ -1487,9 +1487,9 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9557.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9550.ts
 #EXTINF:-1 tvg-id="Baby TV DE" tvg-name="Baby TV DE" tvg-logo="http://secure.clientportal.link/picons/babytv.png" group-title="Germany",Baby TV DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12315.ts
-#EXTINF:-1 tvg-id="Kabel Eins DE" tvg-name="kabel eins HD DE" tvg-logo="http://secure.clientportal.link/picons/kabeleinshd.png" group-title="Germany",kabel eins HD DE
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="kabel eins HD DE" tvg-logo="http://secure.clientportal.link/picons/kabeleinshd.png" group-title="Germany",kabel eins HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1649.ts
-#EXTINF:-1 tvg-id="KiKa" tvg-name="KiKa DE" tvg-logo="http://secure.clientportal.link/picons/kika.png" group-title="Germany",KiKa DE
+#EXTINF:-1 tvg-id="KiKa DE" tvg-name="KiKa DE" tvg-logo="http://secure.clientportal.link/picons/kika.png" group-title="Germany",KiKa DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1648.ts
 #EXTINF:-1 tvg-id="Kinowelt TV DE" tvg-name="Kinowelt TV DE" tvg-logo="http://secure.clientportal.link/picons/kinowelttv.png" group-title="Germany",Kinowelt TV DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12291.ts
@@ -1509,23 +1509,23 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12312.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12331.ts
 #EXTINF:-1 tvg-id="MGM DE" tvg-name="MGM HD DE" tvg-logo="http://secure.clientportal.link/picons/mgmchannelhd.png" group-title="Germany",MGM HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3423.ts
-#EXTINF:-1 tvg-id="" tvg-name="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntv.png" group-title="Germany",n-tv DE
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntv.png" group-title="Germany",n-tv DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3449.ts
-#EXTINF:-1 tvg-id="" tvg-name="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24hd.png" group-title="Germany",N24 DE
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24.png" group-title="Germany",N24 DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3448.ts
 #EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="Nat Geo Wild HD DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" group-title="Germany",Nat Geo Wild HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1646.ts
 #EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic HD DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographichd.png" group-title="Germany",National Geographic HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3419.ts
-#EXTINF:-1 tvg-id="" tvg-name="NDR HD DE" tvg-logo="http://secure.clientportal.link/picons/ndrfernsehenhd.png" group-title="Germany",NDR HD DE
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR HD DE" tvg-logo="http://secure.clientportal.link/picons/ndrfernsehenhd.png" group-title="Germany",NDR HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3443.ts
 #EXTINF:-1 tvg-id="ORF eins DE" tvg-name="ORF eins DE" tvg-logo="http://secure.clientportal.link/picons/orfeins.png" group-title="Germany",ORF eins DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12302.ts
-#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" group-title="Germany",ORF 2 DE
+#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" group-title="Germany",ORF 2 DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1644.ts
 #EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="ORF 2E DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" group-title="Germany",ORF 2E DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12304.ts
-#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF Eins HD DE" tvg-logo="http://secure.clientportal.link/picons/orfeins.png" group-title="Germany",ORF Eins HD DE
+#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="ORF eins HD DE" tvg-logo="http://secure.clientportal.link/picons/orfeinshd.png" group-title="Germany",ORF eins HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1643.ts
 #EXTINF:-1 tvg-id="ORF III DE" tvg-name="ORF III DE" tvg-logo="http://secure.clientportal.link/picons/orfiii.png" group-title="Germany",ORF III DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12303.ts
@@ -1545,9 +1545,9 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12328.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12311.ts
 #EXTINF:-1 tvg-id="Romance TV DE" tvg-name="Romance TV DE" tvg-logo="http://secure.clientportal.link/picons/romancetv.png" group-title="Germany",Romance TV DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13111.ts
-#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL HD DE" tvg-logo="http://secure.clientportal.link/picons/rtlhd.png" group-title="Germany",RTL HD DE
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" group-title="Germany",RTL DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3825.ts
-#EXTINF:-1 tvg-id="RTL 2 DE" tvg-name="RTL 2 HD DE" tvg-logo="http://secure.clientportal.link/picons/rtl2hd.png" group-title="Germany",RTL 2 HD DE
+#EXTINF:-1 tvg-id="RTL II DE" tvg-name="RTL II DE" tvg-logo="http://secure.clientportal.link/picons/rtl2.png" group-title="Germany",RTL II DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3826.ts
 #EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="RTL Crime DE" tvg-logo="http://secure.clientportal.link/picons/rtlcrime.png" group-title="Germany",RTL Crime DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1650.ts
@@ -1557,7 +1557,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12300.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12299.ts
 #EXTINF:-1 tvg-id="RTL Living DE" tvg-name="RTL Living DE" tvg-logo="http://secure.clientportal.link/picons/rtlliving.png" group-title="Germany",RTL Living DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3202.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" group-title="Germany",RTL NITRO DE
+#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" group-title="Germany",RTL NITRO DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1639.ts
 #EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="RTL NITRO A DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" group-title="Germany",RTL NITRO A DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12301.ts
@@ -1569,7 +1569,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12297.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12298.ts
 #EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 Bayern DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" group-title="Germany",SAT.1 Bayern DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12310.ts
-#EXTINF:-1 tvg-id="Sat.1 DE" tvg-name="SAT.1 HD DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" group-title="Germany",SAT.1 HD DE
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 HD DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" group-title="Germany",SAT.1 HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1637.ts
 #EXTINF:-1 tvg-id="Sat.1 Gold DE" tvg-name="SAT.1 Gold DE" tvg-logo="http://secure.clientportal.link/picons/sat1gold.png" group-title="Germany",SAT.1 Gold DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12309.ts
@@ -1611,15 +1611,15 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12327.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12326.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPIEGEL Geschichte HD DE" tvg-logo="http://secure.clientportal.link/picons/spiegelgeschichte.png" group-title="Germany",SPIEGEL Geschichte HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3621.ts
-#EXTINF:-1 tvg-id="" tvg-name="SRF 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/srf1.png" group-title="Germany",SRF 1 HD DE
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/srf1hd.png" group-title="Switzerland",SRF 1 HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3446.ts
-#EXTINF:-1 tvg-id="" tvg-name="SRF Zwei DE" tvg-logo="http://secure.clientportal.link/picons/srf2.png" group-title="Germany",SRF Zwei DE
+#EXTINF:-1 tvg-id="" tvg-name="SRF Zwei DE" tvg-logo="http://secure.clientportal.link/picons/srfzwei.png" group-title="Switzerland",SRF Zwei DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3440.ts
 #EXTINF:-1 tvg-id="Super RTL DE" tvg-name="Super RTL DE" tvg-logo="http://secure.clientportal.link/picons/superrtl.png" group-title="Germany",Super RTL DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3456.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD DE" tvg-logo="http://secure.clientportal.link/picons/swrhd.png" group-title="Germany",UNIVERSAL HD DE
+#EXTINF:-1 tvg-id="Universal Channel DE" tvg-name="Universal Channel HD DE" tvg-logo="http://secure.clientportal.link/picons/universalchannelhd.png" group-title="Germany",Universal Channel HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3439.ts
-#EXTINF:-1 tvg-id="Syfy DE" tvg-name="Syfy HD DE" tvg-logo="http://secure.clientportal.link/picons/syfyhd.png" group-title="Germany",Syfy HD DE
+#EXTINF:-1 tvg-id="Syfy DE" tvg-name="Syfy DE" tvg-logo="http://secure.clientportal.link/picons/syfy.png" group-title="Germany",Syfy DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3204.ts
 #EXTINF:-1 tvg-id="Tele 5 DE" tvg-name="Tele 5 DE" tvg-logo="http://secure.clientportal.link/picons/tele5.png" group-title="Germany",Tele 5 DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12325.ts
@@ -1627,7 +1627,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12325.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12324.ts
 #EXTINF:-1 tvg-id="TNT Film DE" tvg-name="TNT Film DE" tvg-logo="http://secure.clientportal.link/picons/tntfilm.png" group-title="Germany",TNT Film DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3422.ts
-#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="TNT Serie HD DE" tvg-logo="http://secure.clientportal.link/picons/tntseriehd.png" group-title="Germany",TNT Serie HD DE
+#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="TNT Serie DE" tvg-logo="http://secure.clientportal.link/picons/tntserie.png" group-title="Germany",TNT Serie DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3421.ts
 #EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="TOGGO plus DE" tvg-logo="http://secure.clientportal.link/picons/toggoplus.png" group-title="Germany",TOGGO plus DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12323.ts
@@ -1635,15 +1635,15 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12323.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1630.ts
 #EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://secure.clientportal.link/picons/weltderwunder.png" group-title="Germany",Welt der Wunder DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12305.ts
-#EXTINF:-1 tvg-id="" tvg-name="WDR HD DE" tvg-logo="http://secure.clientportal.link/picons/wdr.png" group-title="Germany",WDR HD DE
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR HD DE" tvg-logo="http://secure.clientportal.link/picons/wdr.png" group-title="Germany",WDR HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3442.ts
-#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF HD DE" tvg-logo="http://secure.clientportal.link/picons/zdf.png" group-title="Germany",ZDF HD DE
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF DE" tvg-logo="http://secure.clientportal.link/picons/zdf.png" group-title="Germany",ZDF DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1629.ts
 #EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="zdf info DE" tvg-logo="http://secure.clientportal.link/picons/zdfinfo.png" group-title="Germany",zdf info DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12295.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZDF.kultur DE" tvg-logo="http://secure.clientportal.link/picons/zdfkultur.png" group-title="Germany",ZDF.kultur DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12296.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZDF neo DE" tvg-logo="http://secure.clientportal.link/picons/zdfneo.png" group-title="Germany",ZDF neo DE
+#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="zdf_neo DE" tvg-logo="http://secure.clientportal.link/picons/zdfneo.png" group-title="Germany",zdf_neo DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3453.ts
 #EXTINF:-1 tvg-id="Zee One DE" tvg-name="Zee One DE" tvg-logo="http://secure.clientportal.link/picons/zeeone.png" group-title="Germany",Zee One DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13112.ts
@@ -1661,11 +1661,11 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3450.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3841.ts
 #EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria DE" tvg-logo="http://secure.clientportal.link/picons/skysportaustria.png" group-title="Germany",Sky Sport Austria DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9551.ts
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport1de.png" group-title="Germany",Sky Sport 1 HD DE
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" group-title="Germany",Sky Sport 1 HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1479.ts
-#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport2de.png" group-title="Germany",Sky Sport 2 HD DE
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" group-title="Germany",Sky Sport 2 HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/1480.ts
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skybundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/3436.ts
 #EXTINF:-1 tvg-id="Sky Select DE" tvg-name="Sky Select DE" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" group-title="Germany",Sky Select DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12290.ts
@@ -1747,7 +1747,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5469.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9410.ts
 #EXTINF:-1 tvg-id="Canal Cocina ES" tvg-name="Canal Cocina ES" tvg-logo="http://secure.clientportal.link/picons/canalcocina.png" group-title="Spain",Canal Cocina ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5456.ts
-#EXTINF:-1 tvg-id="Canal de las Estrellas ES" tvg-name="Canal de las Estrellas ES" tvg-logo="http://secure.clientportal.link/picons/canaldelasestrellas.png" group-title="Spain",Canal de las Estrellas ES
+#EXTINF:-1 tvg-id="Canal de las Estrellas ES" tvg-name="GOL TV ES" tvg-logo="http://secure.clientportal.link/picons/goltv.png" group-title="Spain",GOL TV ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9416.ts
 #EXTINF:-1 tvg-id="Canal Decasa ES" tvg-name="Canal Decasa ES" tvg-logo="http://secure.clientportal.link/picons/canaldecasa.png" group-title="Spain",Canal Decasa ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5460.ts
@@ -1841,7 +1841,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9413.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9414.ts
 #EXTINF:-1 tvg-id="Canal Plus Xtra ES" tvg-name="Movistar Xtra ES" tvg-logo="http://secure.clientportal.link/picons/movistarxtra.png" group-title="Spain",Movistar Xtra ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9412.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Yomvi ES" tvg-logo="http://secure.clientportal.link/picons/movistaryomvi.png" group-title="Spain",Movistar Yomvi ES
+#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS ES" tvg-logo="http://secure.clientportal.link/picons/movistaryomvi.png" group-title="Spain",MTV ROCKS ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9444.ts
 #EXTINF:-1 tvg-id="MTV ES" tvg-name="MTV ES" tvg-logo="http://secure.clientportal.link/picons/mtv.png" group-title="Spain",MTV ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9448.ts
@@ -1855,7 +1855,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14248.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5476.ts
 #EXTINF:-1 tvg-id="Neox ES" tvg-name="Neox ES" tvg-logo="http://secure.clientportal.link/picons/neox.png" group-title="Spain",Neox ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9421.ts
-#EXTINF:-1 tvg-id="Non Stop People ES" tvg-name="Non Stop People ES" tvg-logo="http://secure.clientportal.link/picons/nonstoppeople.png" group-title="Spain",Non Stop People ES
+#EXTINF:-1 tvg-id="Non Stop People ES" tvg-name="Nat Geo HD ES" tvg-logo="http://secure.clientportal.link/picons/nonstoppeople.png" group-title="Spain",Nat Geo HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9441.ts
 #EXTINF:-1 tvg-id="Nova ES" tvg-name="Nova ES" tvg-logo="http://secure.clientportal.link/picons/nova.png" group-title="Spain",Nova ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/9422.ts
@@ -6217,14 +6217,26 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5849.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5848.ts
 #EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 10 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 10 HD
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5856.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Chat Box UK" tvg-logo="" group-title="For Adults",ADULT: Chat Box UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15054.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Climax UK" tvg-logo="" group-title="For Adults",ADULT: Climax UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15052.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Gay Network UK" tvg-logo="" group-title="For Adults",ADULT: Gay Network UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15042.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Get Lucky TV UK" tvg-logo="http://secure.clientportal.link/picons/getluckytv.png" group-title="For Adults",ADULT: Get Lucky TV UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14799.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Lucky Star UK" tvg-logo="http://secure.clientportal.link/picons/luckystar.png" group-title="For Adults",ADULT: Lucky Star UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14773.ts
 #EXTINF:-1 tvg-id="" tvg-name="ADULT: Mums UK" tvg-logo="" group-title="For Adults",ADULT: Mums UK
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14734.ts
 #EXTINF:-1 tvg-id="" tvg-name="ADULT: Real Wives UK" tvg-logo="" group-title="For Adults",ADULT: Real Wives UK
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14733.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULT: Lucky Star UK" tvg-logo="http://secure.clientportal.link/picons/luckystar.png" group-title="For Adults",ADULT: Lucky Star UK
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14773.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULT: Get Lucky TV UK" tvg-logo="http://secure.clientportal.link/picons/getluckytv.png" group-title="For Adults",ADULT: Get Lucky TV UK
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14799.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Storm UK" tvg-logo="" group-title="For Adults",ADULT: Storm UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15012.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Studio 66 2 UK" tvg-logo="" group-title="For Adults",ADULT: Studio 66 2 UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15011.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Studio 66 3 UK" tvg-logo="" group-title="For Adults",ADULT: Studio 66 3 UK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15010.ts
 #EXTINF:-1 tvg-id="Sky Select DE" tvg-name="Sky Select 1 VIP DE" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" group-title="VIP DE",Sky Select 1 VIP DE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/7243.ts
 #EXTINF:-1 tvg-id="" tvg-name="F1 LIVE" tvg-logo="" group-title="VIP",F1 LIVE
@@ -7317,11 +7329,11 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12719.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13662.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2 Espana HD ES" tvg-logo="" group-title="Spain",beIN Sports MAX 2 Espana HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13663.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV3 HD ES" tvg-logo="" group-title="Spain",TV3 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series HD ES" tvg-logo="http://secure.clientportal.link/picons/movistarseries.png" group-title="Spain",Movistar Series HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13664.ts
 #EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="Calle 13 HD ES" tvg-logo="http://secure.clientportal.link/picons/calle13hd.png" group-title="Spain",Calle 13 HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12728.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeMad TV HD ES" tvg-logo="http://secure.clientportal.link/picons/canalplusligamultihd.png" group-title="Spain",BeMad TV HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Viajar HD ES" tvg-logo="http://secure.clientportal.link/picons/canalplusligamultihd.png" group-title="Spain",Viajar HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12717.ts
 #EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca HD ES" tvg-logo="" group-title="Spain",Caza y Pesca HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13659.ts
@@ -7369,7 +7381,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12720.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12700.ts
 #EXTINF:-1 tvg-id="Canal Plus Partidazo ES" tvg-name="Movistar Partidazo HD ES" tvg-logo="http://secure.clientportal.link/picons/movistarpartidazo.png" group-title="Spain",Movistar Partidazo HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12716.ts
-#EXTINF:-1 tvg-id="Canal Plus Series ES" tvg-name="Discovery Channel HD ES" tvg-logo="http://secure.clientportal.link/picons/movistarseries.png" group-title="Spain",Discovery Channel HD ES
+#EXTINF:-1 tvg-id="Canal Plus Series ES" tvg-name="Discovery Channel  ES" tvg-logo="http://secure.clientportal.link/picons/movistarseries.png" group-title="Spain",Discovery Channel  ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12715.ts
 #EXTINF:-1 tvg-id="Canal Plus Series Xtra ES" tvg-name="Movistar Series Xtra HD ES" tvg-logo="http://secure.clientportal.link/picons/movistarseriesxtra.png" group-title="Spain",Movistar Series Xtra HD ES
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12714.ts
@@ -8245,14 +8257,10 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11116.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11115.ts
 #EXTINF:-1 tvg-id="" tvg-name="########   Sweden   ########" tvg-logo="http://secure.clientportal.link/picons/sweden.png" group-title="",########   Sweden   ########
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13645.ts
-#EXTINF:-1 tvg-id="SVT1 SE" tvg-name="SVT1 HD SE" tvg-logo="http://secure.clientportal.link/picons/svt1.png" group-title="Scandinavian",SVT1 HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11529.ts
 #EXTINF:-1 tvg-id="SVT2 SE" tvg-name="SVT2 SE" tvg-logo="http://secure.clientportal.link/picons/svt2.png" group-title="Scandinavian",SVT2 SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11530.ts
 #EXTINF:-1 tvg-id="TV3 SE" tvg-name="TV3 SE" tvg-logo="http://secure.clientportal.link/picons/tv3se.png" group-title="Scandinavian",TV3 SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11531.ts
-#EXTINF:-1 tvg-id="TV4 SE" tvg-name="TV4 HD SE" tvg-logo="http://secure.clientportal.link/picons/tv4se.png" group-title="Scandinavian",TV4 HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11532.ts
 #EXTINF:-1 tvg-id="Kanal 5 SE" tvg-name="Kanal 5 SE" tvg-logo="http://secure.clientportal.link/picons/kanal5se.png" group-title="Scandinavian",Kanal 5 SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11533.ts
 #EXTINF:-1 tvg-id="TV6 SE" tvg-name="TV6 SE" tvg-logo="http://secure.clientportal.link/picons/tv6se.png" group-title="Scandinavian",TV6 SE
@@ -8279,22 +8287,16 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11541.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11542.ts
 #EXTINF:-1 tvg-id="TV4 Guld SE" tvg-name="TV4 Guld SE" tvg-logo="http://secure.clientportal.link/picons/tv4guldse.png" group-title="Scandinavian",TV4 Guld SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11543.ts
-#EXTINF:-1 tvg-id="TV4 Sport SE" tvg-name="TV4 Sport HD SE" tvg-logo="http://secure.clientportal.link/picons/tv4sportse.png" group-title="Scandinavian",TV4 Sport HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11626.ts
 #EXTINF:-1 tvg-id="Barnkanalen SE" tvg-name="Barnkanalen SE" tvg-logo="http://secure.clientportal.link/picons/barnkanalen.png" group-title="Scandinavian",Barnkanalen SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11546.ts
 #EXTINF:-1 tvg-id="FOX SE" tvg-name="FOX SE" tvg-logo="http://secure.clientportal.link/picons/fox.png" group-title="Scandinavian",FOX SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11608.ts
-#EXTINF:-1 tvg-id="TNT SE" tvg-name="Channel 9 HD SE" tvg-logo="http://secure.clientportal.link/picons/tntchannel.png" group-title="Scandinavian",Channel 9 HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11617.ts
 #EXTINF:-1 tvg-id="National Geographic SE" tvg-name="National Geographic SE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="Scandinavian",National Geographic SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11583.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo SE" tvg-logo="" group-title="Scandinavian",Nat Geo SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14666.ts
 #EXTINF:-1 tvg-id="Nat Geo Wild SE" tvg-name="Nat Geo Wild SE" tvg-logo="http://secure.clientportal.link/picons/natgeowild.png" group-title="Scandinavian",Nat Geo Wild SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11578.ts
-#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="Animal Planet HD SE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" group-title="Scandinavian",Animal Planet HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11606.ts
 #EXTINF:-1 tvg-id="Kunskapskanalen SE" tvg-name="Kunskapskanalen SE" tvg-logo="http://secure.clientportal.link/picons/kunskapskanalen.png" group-title="Scandinavian",Kunskapskanalen SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11579.ts
 #EXTINF:-1 tvg-id="MTV SE" tvg-name="MTV SE" tvg-logo="http://secure.clientportal.link/picons/mtv.png" group-title="Scandinavian",MTV SE
@@ -8335,8 +8337,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11557.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11567.ts
 #EXTINF:-1 tvg-id="Viasat Golf SE" tvg-name="Viasat Golf SE" tvg-logo="http://secure.clientportal.link/picons/viasatgolf.png" group-title="Scandinavian",Viasat Golf SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11574.ts
-#EXTINF:-1 tvg-id="Viasat Hockey SE" tvg-name="Viasat Hockey SE" tvg-logo="http://secure.clientportal.link/picons/viasathockey.png" group-title="Scandinavian",Viasat Hockey SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11568.ts
 #EXTINF:-1 tvg-id="Viasat Motor SE" tvg-name="Viasat Motor SE" tvg-logo="http://secure.clientportal.link/picons/viasatmotor.png" group-title="Scandinavian",Viasat Motor SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11569.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Nature / Playboy SE" tvg-logo="" group-title="Scandinavian",Viasat Nature / Playboy SE
@@ -8349,8 +8349,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11581.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12283.ts
 #EXTINF:-1 tvg-id="Viasat Nature SE" tvg-name="Viasat Nature SE" tvg-logo="http://secure.clientportal.link/picons/viasatnature.png" group-title="Scandinavian",Viasat Nature SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12284.ts
-#EXTINF:-1 tvg-id="C More Action SE" tvg-name="C More Stars HD SE" tvg-logo="http://secure.clientportal.link/picons/cmorestarshd.png" group-title="Scandinavian",C More Stars HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11563.ts
 #EXTINF:-1 tvg-id="C More First SE" tvg-name="C More First SE" tvg-logo="http://secure.clientportal.link/picons/cmorefirst.png" group-title="Scandinavian",C More First SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11558.ts
 #EXTINF:-1 tvg-id="C More Hits SE" tvg-name="C More Hits SE" tvg-logo="http://secure.clientportal.link/picons/cmorehits.png" group-title="Scandinavian",C More Hits SE
@@ -8361,8 +8359,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11561.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11571.ts
 #EXTINF:-1 tvg-id="C More Sport SE" tvg-name="C More Sport SE" tvg-logo="http://secure.clientportal.link/picons/cmoresport.png" group-title="Scandinavian",C More Sport SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11570.ts
-#EXTINF:-1 tvg-id="" tvg-name="C More Golf HD SE" tvg-logo="http://secure.clientportal.link/picons/cmoregolf.png" group-title="Scandinavian",C More Golf HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11573.ts
 #EXTINF:-1 tvg-id="C More Tennis SE" tvg-name="C More Tennis SE" tvg-logo="http://secure.clientportal.link/picons/cmoretennis.png" group-title="Scandinavian",C More Tennis SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11572.ts
 #EXTINF:-1 tvg-id="C More Live SE" tvg-name="C More Live 1 SE" tvg-logo="http://secure.clientportal.link/picons/cmorelive1.png" group-title="Scandinavian",C More Live 1 SE
@@ -8385,8 +8381,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14669.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13647.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV3 Dk" tvg-logo="" group-title="Scandinavian",TV3 Dk
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14670.ts
-#EXTINF:-1 tvg-id="" tvg-name="6Eren HD DK" tvg-logo="" group-title="Scandinavian",6Eren HD DK
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11605.ts
 #EXTINF:-1 tvg-id="" tvg-name="DR K DK" tvg-logo="" group-title="Scandinavian",DR K DK
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11585.ts
 #EXTINF:-1 tvg-id="" tvg-name="DR Ramasjang DK" tvg-logo="" group-title="Scandinavian",DR Ramasjang DK
@@ -8429,10 +8423,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11601.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12072.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV3 Sverige DK" tvg-logo="" group-title="Scandinavian",TV3 Sverige DK
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12065.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport 2 HD DK" tvg-logo="" group-title="Scandinavian",TV3 Sport 2 HD DK
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12066.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport 1 DK" tvg-logo="" group-title="Scandinavian",TV3 Sport 1 DK
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12067.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV2 News NO" tvg-logo="" group-title="Scandinavian",TV2 News NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12069.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon DK" tvg-logo="" group-title="Scandinavian",Nickelodeon DK
@@ -8471,8 +8461,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11589.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11588.ts
 #EXTINF:-1 tvg-id="" tvg-name="NRK 3 Super NO" tvg-logo="" group-title="Scandinavian",NRK 3 Super NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11586.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD SE" tvg-logo="" group-title="Scandinavian",Channel 5 HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11562.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Norge NO" tvg-logo="" group-title="Scandinavian",TV Norge NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11620.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV2 Nyhetskanalen NO" tvg-logo="" group-title="Scandinavian",TV2 Nyhetskanalen NO
@@ -8507,16 +8495,10 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11616.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11591.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tv1000 Action" tvg-logo="" group-title="Scandinavian",Tv1000 Action
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14665.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD SE" tvg-logo="" group-title="Scandinavian",Viasat Sport HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14416.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX HD NO" tvg-logo="" group-title="Scandinavian",MAX HD NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14417.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD NO" tvg-logo="" group-title="Scandinavian",Viasat Sport HD NO
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14418.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Hits NO" tvg-logo="" group-title="Scandinavian",Viasat Hits NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14419.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll HD NO" tvg-logo="" group-title="Scandinavian",Viasat Fotboll HD NO
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14420.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Film Comedy NO" tvg-logo="" group-title="Scandinavian",Viasat Film Comedy NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14421.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Family NO" tvg-logo="" group-title="Scandinavian",Viasat Family NO
@@ -8559,7 +8541,7 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14434.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14435.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV Sport 2 FI" tvg-logo="" group-title="Scandinavian",MTV Sport 2 FI
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14459.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Sport 1 FI" tvg-logo="" group-title="Scandinavian",MTV Sport 1 FI
+#EXTINF:-1 tvg-id="" tvg-name="MTV Sport 1 HD FI" tvg-logo="" group-title="Scandinavian",MTV Sport 1 HD FI
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14460.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV Leffa FI" tvg-logo="" group-title="Scandinavian",MTV Leffa FI
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14436.ts
@@ -8571,18 +8553,12 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14439.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14440.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIV FI" tvg-logo="" group-title="Scandinavian",LIV FI
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14441.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 HD SE" tvg-logo="" group-title="Scandinavian",Kanal 5 HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14442.ts
 #EXTINF:-1 tvg-id="" tvg-name="JIM FI" tvg-logo="" group-title="Scandinavian",JIM FI
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14443.ts
 #EXTINF:-1 tvg-id="" tvg-name="Jim NO" tvg-logo="" group-title="Scandinavian",Jim NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14444.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV3 Sport SE" tvg-logo="" group-title="Scandinavian",TV3 Sport SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14445.ts
-#EXTINF:-1 tvg-id="" tvg-name="History HD NO" tvg-logo="" group-title="Scandinavian",History HD NO
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14446.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD NO" tvg-logo="" group-title="Scandinavian",H2 HD NO
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14447.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Norge FI" tvg-logo="" group-title="Scandinavian",Fox Norge FI
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14448.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sports NO" tvg-logo="" group-title="Scandinavian",Fight Sports NO
@@ -8593,12 +8569,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14450.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14451.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery CH SE" tvg-logo="" group-title="Scandinavian",Discovery CH SE
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14452.ts
-#EXTINF:-1 tvg-id="" tvg-name="C More Sport HD SE" tvg-logo="" group-title="Scandinavian",C More Sport HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14453.ts
-#EXTINF:-1 tvg-id="" tvg-name="C More Hockey HD SE" tvg-logo="" group-title="Scandinavian",C More Hockey HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14454.ts
-#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll HD SE" tvg-logo="" group-title="Scandinavian",C More Fotboll HD SE
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14455.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD NO" tvg-logo="" group-title="Scandinavian",BBC Earth HD NO
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14456.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1 SI" tvg-logo="" group-title="",HBO 1 SI
@@ -8829,12 +8799,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15007.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15008.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Takbeer TV" tvg-logo="" group-title="United Kingdom",UK: Takbeer TV
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15009.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Studio 66 3" tvg-logo="" group-title="United Kingdom",UK: Studio 66 3
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15010.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Studio 66 2" tvg-logo="" group-title="United Kingdom",UK: Studio 66 2
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15011.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Storm" tvg-logo="" group-title="United Kingdom",UK: Storm
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15012.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: SonLife" tvg-logo="" group-title="United Kingdom",UK: SonLife
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15013.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Showcase" tvg-logo="" group-title="United Kingdom",UK: Showcase
@@ -8893,8 +8857,6 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15039.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15040.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: GEO TEZ" tvg-logo="" group-title="United Kingdom",UK: GEO TEZ
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15041.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Gay Network" tvg-logo="" group-title="United Kingdom",UK: Gay Network
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15042.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: FrontRunner" tvg-logo="" group-title="United Kingdom",UK: FrontRunner
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15043.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Flow TV" tvg-logo="" group-title="United Kingdom",UK: Flow TV
@@ -8913,12 +8875,8 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15049.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15050.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Clubland TV" tvg-logo="" group-title="United Kingdom",UK: Clubland TV
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15051.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Climax" tvg-logo="" group-title="United Kingdom",UK: Climax
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15052.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Chilled TV" tvg-logo="" group-title="United Kingdom",UK: Chilled TV
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15053.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Chat Box" tvg-logo="" group-title="United Kingdom",UK: Chat Box
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15054.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Channel 44" tvg-logo="" group-title="United Kingdom",UK: Channel 44
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15055.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: CAPITAL TV" tvg-logo="" group-title="United Kingdom",UK: CAPITAL TV
@@ -9413,6 +9371,58 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14659.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14658.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORTS 1 HD 1080P" tvg-logo="" group-title="United Kingdom",UK: BT SPORTS 1 HD 1080P
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14657.ts
+#EXTINF:-1 tvg-id="" tvg-name="YleTV2 HD FI" tvg-logo="" group-title="Scandinavian",YleTV2 HD FI
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yle TV2 HD FI" tvg-logo="" group-title="Scandinavian",Yle TV2 HD FI
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15070.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yle TV1 HD FI" tvg-logo="" group-title="Scandinavian",Yle TV1 HD FI
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nelonen Nappula FI" tvg-logo="" group-title="Scandinavian",Nelonen Nappula FI
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nelonen Maailma FI" tvg-logo="" group-title="Scandinavian",Nelonen Maailma FI
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15067.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Junior FI" tvg-logo="" group-title="Scandinavian",MTV Junior FI
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/15066.ts
+#EXTINF:-1 tvg-id="TV4 Sport SE" tvg-name="TV4 Sport HD SE" tvg-logo="http://secure.clientportal.link/picons/tv4sportse.png" group-title="Scandinavian",TV4 Sport HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11626.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport 2 HD DK" tvg-logo="" group-title="Scandinavian",TV3 Sport 2 HD DK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12066.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport 1 DK" tvg-logo="" group-title="Scandinavian",TV3 Sport 1 DK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/12067.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD NO" tvg-logo="" group-title="Scandinavian",H2 HD NO
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14447.ts
+#EXTINF:-1 tvg-id="" tvg-name="History HD NO" tvg-logo="" group-title="Scandinavian",History HD NO
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14446.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 HD SE" tvg-logo="" group-title="Scandinavian",Kanal 5 HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14442.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD SE" tvg-logo="" group-title="Scandinavian",Viasat Sport HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD NO" tvg-logo="" group-title="Scandinavian",Viasat Sport HD NO
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14418.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD SE" tvg-logo="" group-title="Scandinavian",Channel 5 HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11562.ts
+#EXTINF:-1 tvg-id="" tvg-name="6Eren HD DK" tvg-logo="" group-title="Scandinavian",6Eren HD DK
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll HD NO" tvg-logo="" group-title="Scandinavian",Viasat Fotboll HD NO
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14420.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Golf HD SE" tvg-logo="http://secure.clientportal.link/picons/cmoregolf.png" group-title="Scandinavian",C More Golf HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11573.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll HD SE" tvg-logo="" group-title="Scandinavian",C More Fotboll HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14455.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Sport HD SE" tvg-logo="" group-title="Scandinavian",C More Sport HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14453.ts
+#EXTINF:-1 tvg-id="C More Action SE" tvg-name="C More Stars HD SE" tvg-logo="http://secure.clientportal.link/picons/cmorestarshd.png" group-title="Scandinavian",C More Stars HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11563.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Hockey HD SE" tvg-logo="" group-title="Scandinavian",C More Hockey HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14454.ts
+#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="Animal Planet HD SE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" group-title="Scandinavian",Animal Planet HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11606.ts
+#EXTINF:-1 tvg-id="TNT SE" tvg-name="Channel 9 HD SE" tvg-logo="http://secure.clientportal.link/picons/tntchannel.png" group-title="Scandinavian",Channel 9 HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11617.ts
+#EXTINF:-1 tvg-id="TV4 SE" tvg-name="TV4 HD SE" tvg-logo="http://secure.clientportal.link/picons/tv4se.png" group-title="Scandinavian",TV4 HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11532.ts
+#EXTINF:-1 tvg-id="SVT1 SE" tvg-name="SVT1 HD SE" tvg-logo="http://secure.clientportal.link/picons/svt1.png" group-title="Scandinavian",SVT1 HD SE
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/11529.ts
 #EXTINF:-1 tvg-id="13e Rue FR" tvg-name="13eme Rue HD FR" tvg-logo="http://secure.clientportal.link/picons/13emerue.png" group-title="France",13eme Rue HD FR
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/2250.ts
 #EXTINF:-1 tvg-id="6ter FR" tvg-name="6ter HD FR" tvg-logo="http://secure.clientportal.link/picons/6ter.png" group-title="France",6ter HD FR
@@ -9429,11 +9439,11 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13160.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14920.ts
 #EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J HD FR" tvg-logo="http://secure.clientportal.link/picons/canalj.png" group-title="France",Canal J HD FR
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/2239.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ C8 1080P FR" tvg-logo="http://secure.clientportal.link/picons/canalplusc8.png" group-title="France",Canal+ C8 1080P FR
+#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="Canal 8 1080P FR" tvg-logo="http://secure.clientportal.link/picons/c8.png" group-title="France",Canal 8 1080P FR
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14904.ts
 #EXTINF:-1 tvg-id="CanalPlus Cinema FR" tvg-name="Canal+ Cinema HD FR" tvg-logo="http://secure.clientportal.link/picons/canalpluscinema.png" group-title="France",Canal+ Cinema HD FR
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13131.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ CStar 1080P FR" tvg-logo="http://secure.clientportal.link/picons/canalpluscstar.png" group-title="France",Canal+ CStar 1080P FR
+#EXTINF:-1 tvg-id="Canal Star FR" tvg-name="Canal Star 1080P FR" tvg-logo="http://secure.clientportal.link/picons/cstar.png" group-title="France",Canal Star 1080P FR
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14918.ts
 #EXTINF:-1 tvg-id="CanalPlus Decale FR" tvg-name="Canal+ Decale HD FR" tvg-logo="http://secure.clientportal.link/picons/canalplusdecale.png" group-title="France",Canal+ Decale HD FR
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13134.ts
@@ -9595,3 +9605,5 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14982.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14981.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR BEIN SPORTS 1 HD" tvg-logo="" group-title="",AR BEIN SPORTS 1 HD
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/14980.ts
+#EXTINF:-1 tvg-id="" tvg-name="########   United States   ########" tvg-logo="" group-title="",########   United States   ########
+http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/13315.ts
