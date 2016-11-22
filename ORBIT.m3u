@@ -277,11 +277,11 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/2932.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2943.ts
 #EXTINF:-1,AR: ALBAGHDADIA 2
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2950.ts
-#EXTINF:-1,AR: SAUDI 2
+#EXTINF:-1,AR: SAUDI SUNNEH
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3256.ts
 #EXTINF:-1,AR: CARTON NETWORK
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2939.ts
-#EXTINF:-1,AR: SAUDI 1
+#EXTINF:-1,AR: SAUDI QURAN
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3257.ts
 #EXTINF:-1,AR: SADA ALBALAD DRAMA
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3255.ts
@@ -625,7 +625,7 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/3890.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3891.ts
 #EXTINF:-1,AF: Djibouti
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3892.ts
-#EXTINF:-1,AF: RTS2
+#EXTINF:-1,AF: RTS 1
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3893.ts
 #EXTINF:-1,❤❤❤❤❤ ALBANIA CH ❤❤❤❤❤
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2305.ts
@@ -647,6 +647,12 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/2233.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2237.ts
 #EXTINF:-1,AL: KLAN HD (AL)
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3022.ts
+#EXTINF:-1,AL: SS Kosova 2 HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5449.ts
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5450.ts
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5451.ts
 #EXTINF:-1,AL: Klan Plus
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3718.ts
 #EXTINF:-1,AL: KLAN KOSOVO HD
@@ -1229,10 +1235,24 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/4982.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/4983.ts
 #EXTINF:-1,CH: SRF 1 HD
 http://orbit-iptv.com:2500/live/03007901167/03007901167/4984.ts
-#EXTINF:-1,CH: Teleclub Sport 1
-http://orbit-iptv.com:2500/live/03007901167/03007901167/5011.ts
 #EXTINF:-1,CH: Tele Zuri
 http://orbit-iptv.com:2500/live/03007901167/03007901167/5010.ts
+#EXTINF:-1,CH: Teleclub Star
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5464.ts
+#EXTINF:-1,CH: Teleclub Sport 1
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5011.ts
+#EXTINF:-1,CH: Teleclub Sport 3
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5468.ts
+#EXTINF:-1,CH: Teleclub Sport 2
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5467.ts
+#EXTINF:-1,CH: Teleclub Prime
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5462.ts
+#EXTINF:-1,CH: Teleclub Cinema
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5463.ts
+#EXTINF:-1,CH: Tele Zui
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5465.ts
+#EXTINF:-1,CH: Tele Barn
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5466.ts
 #EXTINF:-1,BE: Oost
 http://orbit-iptv.com:2500/live/03007901167/03007901167/4241.ts
 #EXTINF:-1,BE: Ketnet
@@ -2259,6 +2279,46 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/5238.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/5254.ts
 #EXTINF:-1,Latino: 3/24 TV
 http://orbit-iptv.com:2500/live/03007901167/03007901167/5239.ts
+#EXTINF:-1,❤❤❤❤ Poland  ❤❤❤❤
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5521.ts
+#EXTINF:-1,PL: urosport 2
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5519.ts
+#EXTINF:-1,PL: Tvp Sport
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5506.ts
+#EXTINF:-1,PL: Tvp 2
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5505.ts
+#EXTINF:-1,PL: Tvp 1
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5504.ts
+#EXTINF:-1,PL: Tvp
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5503.ts
+#EXTINF:-1,PL: Polsat Play
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5510.ts
+#EXTINF:-1,PL: Polsat News
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5512.ts
+#EXTINF:-1,PL: Polsat Film
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5511.ts
+#EXTINF:-1,PL: Polsat Cafe
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5509.ts
+#EXTINF:-1,PL: Polsat 2
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5508.ts
+#EXTINF:-1,PL: Polsat
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5507.ts
+#EXTINF:-1,PL: Nsport
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5520.ts
+#EXTINF:-1,PL: Extreme Sports
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5518.ts
+#EXTINF:-1,PL: Canal  Sport 2
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5517.ts
+#EXTINF:-1,PL: Canal  Sport
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5516.ts
+#EXTINF:-1,PL: Canal  Seriale
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5514.ts
+#EXTINF:-1,PL: Canal  Film
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5513.ts
+#EXTINF:-1,PL: Canal  Family
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5515.ts
+#EXTINF:-1,RUS: Match Apeha HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5481.ts
 #EXTINF:-1,❤❤❤❤❤  INDIA CHANNELS ❤❤❤❤❤
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2294.ts
 #EXTINF:-1,IN:ZEE TV HD
@@ -2949,6 +3009,18 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/3692.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3696.ts
 #EXTINF:-1,❤❤❤❤❤ RUSSIA CH ❤❤❤❤❤
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2303.ts
+#EXTINF:-1,RUS: Russia League HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5482.ts
+#EXTINF:-1,RUS: Match TV
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5476.ts
+#EXTINF:-1,RUS: Match Sports
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5477.ts
+#EXTINF:-1,RUS: Match Futbol 3 HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5480.ts
+#EXTINF:-1,RUS: Match Futbol 2 HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5479.ts
+#EXTINF:-1,RUS: Match Futbol 1 HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5478.ts
 #EXTINF:-1,RU:  Animal Planet
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3390.ts
 #EXTINF:-1,RUS: teledom hd
@@ -3307,7 +3379,7 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/2910.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2911.ts
 #EXTINF:-1,TR: Cinebox 2 (LOCAL)
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2912.ts
-#EXTINF:-1,TR: Cinebox 1 (LOCAL)
+#EXTINF:-1,TR: Moviesmart Family
 http://orbit-iptv.com:2500/live/03007901167/03007901167/2913.ts
 #EXTINF:-1,TR:TVEM
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1555.ts
@@ -3321,7 +3393,7 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/1778.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1779.ts
 #EXTINF:-1,TR:Moviemax_Family
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1780.ts
-#EXTINF:-1,TR: NTV
+#EXTINF:-1,TR: NTV HD
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3541.ts
 #EXTINF:-1,TR: HALK TV
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3546.ts
@@ -3345,6 +3417,26 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/1138.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1366.ts
 #EXTINF:-1,TR: TRT HABER HD
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1167.ts
+#EXTINF:-1,TR: Ulusal Kanal
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5458.ts
+#EXTINF:-1,TR: Ulke TV
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5459.ts
+#EXTINF:-1,TR: SMART SPOR 2 HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5448.ts
+#EXTINF:-1,TR: SMART SPOR 1 HD
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5447.ts
+#EXTINF:-1,TR: Ege TV
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5457.ts
+#EXTINF:-1,TR: Dream TV
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5456.ts
+#EXTINF:-1,TR: Dream Turk
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5455.ts
+#EXTINF:-1,TR: Discovery Science
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5454.ts
+#EXTINF:-1,TR: Aksu TV
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5453.ts
+#EXTINF:-1,TR: 24 TV
+http://orbit-iptv.com:2500/live/03007901167/03007901167/5452.ts
 #EXTINF:-1,TR: TRT Cocuk
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1368.ts
 #EXTINF:-1,TR: Tivibu Spor 2 HD
@@ -3373,7 +3465,7 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/3126.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3133.ts
 #EXTINF:-1,TR: TAY_TV
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3135.ts
-#EXTINF:-1,TR: SKYTURK_360
+#EXTINF:-1,TR: 360
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3136.ts
 #EXTINF:-1,TR: KRAL_POP
 http://orbit-iptv.com:2500/live/03007901167/03007901167/3134.ts
@@ -3443,7 +3535,7 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/1584.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1581.ts
 #EXTINF:-1,TR: KANAL A
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1577.ts
-#EXTINF:-1,ViP: DOLBY AKSiYON 2
+#EXTINF:-1,TR: IDMAN TV
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1576.ts
 #EXTINF:-1,TR: LIG TV 4.
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1575.ts
@@ -3763,8 +3855,6 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/2202.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1972.ts
 #EXTINF:-1,VIASAT Football
 http://orbit-iptv.com:2500/live/03007901167/03007901167/1971.ts
-#EXTINF:-1,------ADULT-CHANNELS-HUSTLER-------
-http://orbit-iptv.com:2500/live/03007901167/03007901167/776.ts
 #EXTINF:-1,♠♣▣▤▥▦ Arabic Movies ♠♣▣▤▥▦
 http://orbit-iptv.com:2500/movie/03007901167/03007901167/5309.mp4
 #EXTINF:-1,Zaki.Chan.HD.
