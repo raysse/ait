@@ -361,57 +361,93 @@ http://orbit-iptv.com:2500/live/03007901167/03007901167/5513.ts
 http://orbit-iptv.com:2500/live/03007901167/03007901167/5515.ts
 #EXTINF:-1,RUS: Match Apeha HD
 http://orbit-iptv.com:2500/live/03007901167/03007901167/5481.ts
-#EXTINF:-1,^^^^^Poland Channels^^^^
-http://ksportiptv.com:1557/live/fisi/fisi/3081.ts
-#EXTINF:-1,PL: TVP 1 HD
-http://ksportiptv.com:1557/live/fisi/fisi/3873.ts
-#EXTINF:-1,PL: TVP 2 HD
-http://ksportiptv.com:1557/live/fisi/fisi/3874.ts
-#EXTINF:-1,PL: Tvp 3
-http://ksportiptv.com:1557/live/fisi/fisi/3059.ts
-#EXTINF:-1,PL: TVP Polonia
-http://ksportiptv.com:1557/live/fisi/fisi/3071.ts
-#EXTINF:-1,PL : Polsat HD
-http://ksportiptv.com:1557/live/fisi/fisi/3066.ts
-#EXTINF:-1,PL: Polsat 2
-http://ksportiptv.com:1557/live/fisi/fisi/3875.ts
-#EXTINF:-1,PL: Universal Channel HD
-http://ksportiptv.com:1557/live/fisi/fisi/3876.ts
-#EXTINF:-1,PL: Da Vinci Learning
-http://ksportiptv.com:1557/live/fisi/fisi/3877.ts
-#EXTINF:-1,PL: TVN 24
-http://ksportiptv.com:1557/live/fisi/fisi/3070.ts
-#EXTINF:-1,PL: Canal Plus Film Premiere
-http://ksportiptv.com:1557/live/fisi/fisi/3080.ts
-#EXTINF:-1,PL: FILMBOX
-http://ksportiptv.com:1557/live/fisi/fisi/3069.ts
-#EXTINF:-1,PL: Polsat Play
-http://ksportiptv.com:1557/live/fisi/fisi/3068.ts
-#EXTINF:-1,PL: Polsat News
-http://ksportiptv.com:1557/live/fisi/fisi/3067.ts
+#EXTINF:-1,---- Cyfrowy Polsat ------
+http://163.172.6.8:8000/live/Gaston/Gaston/1326.ts
+#EXTINF:-1,PL: Eleven
+http://163.172.6.8:8000/live/Gaston/Gaston/1307.ts
+#EXTINF:-1,PL: Eleven Sports
+http://163.172.6.8:8000/live/Gaston/Gaston/1312.ts
+#EXTINF:-1,PL: N sport+ HD
+http://163.172.6.8:8000/live/Gaston/Gaston/1325.ts
+#EXTINF:-1,PL: Canal + Sport HD
+http://163.172.6.8:8000/live/Gaston/Gaston/1313.ts
+#EXTINF:-1,PL: TVP Sport
+http://163.172.6.8:8000/live/Gaston/Gaston/1319.ts
+#EXTINF:-1,PL: Polsat
+http://163.172.6.8:8000/live/Gaston/Gaston/1322.ts
 #EXTINF:-1,PL: Polsat Film
-http://ksportiptv.com:1557/live/fisi/fisi/3072.ts
+http://163.172.6.8:8000/live/Gaston/Gaston/1311.ts
+#EXTINF:-1,PL: Polsat Play
+http://163.172.6.8:8000/live/Gaston/Gaston/1320.ts
 #EXTINF:-1,PL: Polsat Cafe
-http://ksportiptv.com:1557/live/fisi/fisi/3065.ts
-#EXTINF:-1,PL: MiniMini
-http://ksportiptv.com:1557/live/fisi/fisi/3064.ts
+http://163.172.6.8:8000/live/Gaston/Gaston/1301.ts
+#EXTINF:-1,PL: Polsat News
+http://163.172.6.8:8000/live/Gaston/Gaston/1302.ts
+#EXTINF:-1,PL: Polsat News 2
+http://163.172.6.8:8000/live/Gaston/Gaston/1303.ts
+#EXTINF:-1,PL: Film box
+http://163.172.6.8:8000/live/Gaston/Gaston/1304.ts
+#EXTINF:-1,PL: Filmbox Action
+http://163.172.6.8:8000/live/Gaston/Gaston/1324.ts
+#EXTINF:-1,PL: Polsat Premiera
+http://163.172.6.8:8000/live/Gaston/Gaston/1300.ts
+#EXTINF:-1,PL: Filmbox Premium
+http://163.172.6.8:8000/live/Gaston/Gaston/1306.ts
+#EXTINF:-1,PL: CC Family
+http://163.172.6.8:8000/live/Gaston/Gaston/1284.ts
+#EXTINF:-1,PL: CBS Reality
+http://163.172.6.8:8000/live/Gaston/Gaston/1283.ts
+#EXTINF:-1,PL: CBS Drama
+http://163.172.6.8:8000/live/Gaston/Gaston/1282.ts
+#EXTINF:-1,PL: Fox Comedy HD
+http://163.172.6.8:8000/live/Gaston/Gaston/1288.ts
+#EXTINF:-1,PL: Fox HD
+http://163.172.6.8:8000/live/Gaston/Gaston/1285.ts
+#EXTINF:-1,PL: TLC
+http://163.172.6.8:8000/live/Gaston/Gaston/1286.ts
+#EXTINF:-1,PL: Polo TV
+http://163.172.6.8:8000/live/Gaston/Gaston/1298.ts
+#EXTINF:-1,PL: Lech
+http://163.172.6.8:8000/live/Gaston/Gaston/1310.ts
+#EXTINF:-1,PL: TVP 1
+http://163.172.6.8:8000/live/Gaston/Gaston/1299.ts
+#EXTINF:-1,PL: TV Puls
+http://163.172.6.8:8000/live/Gaston/Gaston/1318.ts
+#EXTINF:-1,PL: TVN
+http://163.172.6.8:8000/live/Gaston/Gaston/1314.ts
+#EXTINF:-1,PL: TVN 24
+http://163.172.6.8:8000/live/Gaston/Gaston/1315.ts
+#EXTINF:-1,PL: TVN Turbo
+http://163.172.6.8:8000/live/Gaston/Gaston/1321.ts
 #EXTINF:-1,PL: Kino Polska
-http://ksportiptv.com:1557/live/fisi/fisi/3073.ts
-#EXTINF:-1,PL: HBO 3 HD
-http://ksportiptv.com:1557/live/fisi/fisi/3074.ts
-#EXTINF:-1,PL: HBO 2HD
-http://ksportiptv.com:1557/live/fisi/fisi/3075.ts
-#EXTINF:-1,PL: Canal Plus HD Seriale
-http://ksportiptv.com:1557/live/fisi/fisi/3063.ts
-#EXTINF:-1,PL: FilmBox Premium
-http://ksportiptv.com:1557/live/fisi/fisi/3076.ts
-#EXTINF:-1,PL: Filmbox Family
-http://ksportiptv.com:1557/live/fisi/fisi/3077.ts
-#EXTINF:-1,PL: Disney Channel
-http://ksportiptv.com:1557/live/fisi/fisi/3079.ts
-#EXTINF:-1,PL: CBS ACTION
-http://ksportiptv.com:1557/live/fisi/fisi/3062.ts
+http://163.172.6.8:8000/live/Gaston/Gaston/1305.ts
+#EXTINF:-1,PL: Discovery Turbo Xtra
+http://163.172.6.8:8000/live/Gaston/Gaston/1323.ts
+#EXTINF:-1,PL: Discovery
+http://163.172.6.8:8000/live/Gaston/Gaston/1287.ts
+#EXTINF:-1,PL: History
+http://163.172.6.8:8000/live/Gaston/Gaston/1308.ts
+#EXTINF:-1,PL: Planete
+http://163.172.6.8:8000/live/Gaston/Gaston/1317.ts
+#EXTINF:-1,PL: Nickelodeon
+http://163.172.6.8:8000/live/Gaston/Gaston/1296.ts
+#EXTINF:-1,PL: MiniMini
+http://163.172.6.8:8000/live/Gaston/Gaston/1294.ts
+#EXTINF:-1,PL: Boomerang
+http://163.172.6.8:8000/live/Gaston/Gaston/1293.ts
+#EXTINF:-1,PL: AXN White
+http://163.172.6.8:8000/live/Gaston/Gaston/1292.ts
+#EXTINF:-1,PL: AXN Spin HD
+http://163.172.6.8:8000/live/Gaston/Gaston/1291.ts
 #EXTINF:-1,PL: AXN HD
-http://ksportiptv.com:1557/live/fisi/fisi/3061.ts
-#EXTINF:-1,PL: Nat Geo
-http://ksportiptv.com:1557/live/fisi/fisi/3060.ts
+http://163.172.6.8:8000/live/Gaston/Gaston/1290.ts
+#EXTINF:-1,PL: AXN Black
+http://163.172.6.8:8000/live/Gaston/Gaston/1289.ts
+#EXTINF:-1,PL: Fokus Tv
+http://163.172.6.8:8000/live/Gaston/Gaston/1316.ts
+#EXTINF:-1,PL: VH1+
+http://163.172.6.8:8000/live/Gaston/Gaston/1295.ts
+#EXTINF:-1,PL: MTV Polska
+http://163.172.6.8:8000/live/Gaston/Gaston/1297.ts
+#EXTINF:-1,PL: Music Vox 2 Tv
+http://163.172.6.8:8000/live/Gaston/Gaston/1309.ts
