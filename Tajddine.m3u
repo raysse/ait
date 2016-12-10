@@ -1,114 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" tvg-name="=====VIP-beINSPORTS-ARAB=====" tvg-group="BEINSPORTS_VIP" , =====VIP-beINSPORTS-ARAB=====
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/829.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS_News_HD" tvg-group="beIN" tvg-logo="https://tvchannellists.com/images/c/c0/BeinSportsNews.png" , beINSPORTS_News_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/135.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS" tvg-group="beIN" , beINSPORTS
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/136.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_1HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine1.jpg" , AR:BEIN_SPORTS_1HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/815.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.1.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine1.jpg" , AR:BEIN_SPORTS.1.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1094.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_2HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg" , AR:BEIN_SPORTS_2HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/818.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.2.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg" , AR:BEIN_SPORTS.2.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1095.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_3HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://handnews.fr/wp-content/uploads/2014/08/LOGO-BEINSPORTS-3.jpg" , AR:BEIN_SPORTS_3HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/819.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.3.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://handnews.fr/wp-content/uploads/2014/08/LOGO-BEINSPORTS-3.jpg" , AR:BEIN_SPORTS.3.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1096.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_4HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" , AR:BEIN_SPORTS_4HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/820.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.4.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.4k.tn/wp-content/uploads/2016/01/Bein-Sports-4-HD.jpg" , AR:BEIN_SPORTS.4.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1363.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_5HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://getbein.beinsports.com/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" , AR:BEIN_SPORTS_5HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/821.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.5.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" , AR:BEIN_SPORTS.5.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1364.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_6HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.kora-star.com/wp-content/uploads/2014/12/AlJazeera_HD6.jpg" , AR:BEIN_SPORTS_6HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/822.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.6.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.kora-star.com/wp-content/uploads/2014/12/AlJazeera_HD6.jpg" , AR:BEIN_SPORTS.6.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1365.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_7HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.mp3-rap.com/wp-content/uploads/2015/11/66e9be59.jpg" , AR:BEIN_SPORTS_7HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/823.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.7.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.mp3-rap.com/wp-content/uploads/2015/11/66e9be59.jpg" , AR:BEIN_SPORTS.7.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1366.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_8HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img209.gif" , AR:BEIN_SPORTS_8HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/824.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.8.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img209.gif" , AR:BEIN_SPORTS.8.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1367.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_9HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img210.gif" , AR:BEIN_SPORTS_9HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/825.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.9.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img210.gif" , AR:BEIN_SPORTS.9.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1368.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_10HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://m.livetv-free.com/channels/images/beinsports10.png" , AR:BEIN_SPORTS_10HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/826.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.10.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://m.livetv-free.com/channels/images/beinsports10.png" , AR:BEIN_SPORTS.10.BACK-UP
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1369.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_11HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://livetv.karoomed.net/appicons/bein11.jpg" , AR:BEIN_SPORTS_11HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/827.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_12HD" tvg-group="BEINSPORTS_VIP" , AR:BEIN_SPORTS_12HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/828.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-13HD" tvg-group="beIN" , beINSPORTS-13HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/128.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-14HD" tvg-group="beIN" , beINSPORTS-14HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/129.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-15HD" tvg-group="beIN" , beINSPORTS-15HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/130.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-16HD" tvg-group="beIN" tvg-logo="http://scrat.hellocoton.fr/img/classic/bein-sport-16-live-regarder-bein-sport-hd-16-en-direct-gratuit-17207662.jpg" , beINSPORTS-16HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/131.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-17HD" tvg-group="beIN" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Beinsports_17.png/revision/latest?cb=20151115182235" , beINSPORTS-17HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1413.ts
-#EXTINF:0 type="stream" tvg-name="beINMOVIES-1HD" tvg-group="beIN" tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/Movies1HD.png" , beINMOVIES-1HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/132.ts
-#EXTINF:0 type="stream" tvg-name="beINMOVIES-2HD" tvg-group="beIN" tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/Movies2HD.png" , beINMOVIES-2HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/133.ts
-#EXTINF:0 type="stream" tvg-name="beINMOVIES-3HD" tvg-group="beIN" tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png" , beINMOVIES-3HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/134.ts
-#EXTINF:0 type="stream" tvg-name="beINMOVIES-4HD" tvg-group="beIN" tvg-logo="https://pbs.twimg.com/media/Cctgu7DXEAASud2.png" , beINMOVIES-4HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/484.ts
-#EXTINF:0 type="stream" tvg-name="BEIN-JUNIOR" tvg-group="beIN" tvg-logo="http://www.cne-eg.com/UploadFolder/logos/469%5Ebe-Junior.png" , BEIN-JUNIOR
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1563.ts
-#EXTINF:0 type="stream" tvg-name="=====BeIN-SD=====" tvg-group="beIN" , =====BeIN-SD=====
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/191.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_1SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_1SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1458.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_2SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_2SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1459.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_3SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_3SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1460.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_4SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_4SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1461.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_5SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_5SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1462.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_6SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_6SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1463.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_7SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_7SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1421.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_8SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_8SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1465.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_9SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_9SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1466.ts
-#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_10SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_10SD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1467.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-11HD" tvg-group="beIN" tvg-logo="http://livetv.karoomed.net/appicons/bein11.jpg" , beINSPORTS-11HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/126.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-12HD" tvg-group="beIN" , beINSPORTS-12HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/127.ts
-#EXTINF:0 type="stream" tvg-name="beINSPORTS-USA" tvg-group="beIN" , beINSPORTS-USA
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/292.ts
-#EXTINF:0 type="stream" tvg-name="=====AD_SPORT=====" tvg-group="ABU_DHABI _SPORT" , =====AD_SPORT=====
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1080.ts
-#EXTINF:0 type="stream" tvg-name="AD_SPORT_1HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://content.osn.com/bob/745x419/AbuDhabiSportsLogo-L.jpg" , AD_SPORT_1HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/385.ts
-#EXTINF:0 type="stream" tvg-name="AD_SPORT_2HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://i0.wp.com/foot-live-stream.com/wp-content/uploads/2016/10/Abu-Dhabi-Sports-2_o.jpg?resize=220%2C144" , AD_SPORT_2HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/386.ts
-#EXTINF:0 type="stream" tvg-name="AD_SPORT_3HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://static.osnplay.com/images/2016/8/25/landscape745x419/0338_SP2-CH17-LI_landscape_745_419.jpg" , AD_SPORT_3HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1077.ts
-#EXTINF:0 type="stream" tvg-name="AD_SPORT_4HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://static.osnplay.com/images/2016/8/25/landscape745x419/0338_SP2-CH18-LI_landscape_745_419.jpg" , AD_SPORT_4HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1078.ts
-#EXTINF:0 type="stream" tvg-name="AD_SPORT_5HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="https://1.bp.blogspot.com/-BGukCOvdCng/V9_RsygYCJI/AAAAAAAAB-0/H8r6oHRDmIUGXDuC-PYBQSFPNliEzHicQCLcB/s1600/adsports-5.png" , AD_SPORT_5HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1079.ts
 #EXTINF:0 type="stream" tvg-name="=====CanalSat France=====" tvg-group="FRENCH" tvg-logo="https://www.freenews.fr/wp-content/uploads/2015/09/Canalsat-logo.png" , =====CanalSat France=====
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/83.ts
 #EXTINF:0 type="stream" channelId="2148" tvg-name="TF1-HD" tvg-group="FRENCH" tvg-logo="http://img1.gtsstatic.com/logo/logo-tf1_114143_wide.jpg" , TF1-HD
@@ -319,6 +209,116 @@ http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/87.ts
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1036.ts
 #EXTINF:0 type="stream" tvg-name="EQUIDIA-LIFE" tvg-group="FRENCH" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/Logo-equidia-life.png/revision/latest?cb=20111122221647" , EQUIDIA-LIFE
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/85.ts
+#EXTINF:0 type="stream" tvg-name="=====VIP-beINSPORTS-ARAB=====" tvg-group="BEINSPORTS_VIP" , =====VIP-beINSPORTS-ARAB=====
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/829.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS_News_HD" tvg-group="beIN" tvg-logo="https://tvchannellists.com/images/c/c0/BeinSportsNews.png" , beINSPORTS_News_HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/135.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS" tvg-group="beIN" , beINSPORTS
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/136.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_1HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine1.jpg" , AR:BEIN_SPORTS_1HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/815.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.1.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine1.jpg" , AR:BEIN_SPORTS.1.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1094.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_2HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg" , AR:BEIN_SPORTS_2HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/818.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.2.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg" , AR:BEIN_SPORTS.2.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1095.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_3HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://handnews.fr/wp-content/uploads/2014/08/LOGO-BEINSPORTS-3.jpg" , AR:BEIN_SPORTS_3HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/819.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.3.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://handnews.fr/wp-content/uploads/2014/08/LOGO-BEINSPORTS-3.jpg" , AR:BEIN_SPORTS.3.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1096.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_4HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" , AR:BEIN_SPORTS_4HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/820.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.4.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.4k.tn/wp-content/uploads/2016/01/Bein-Sports-4-HD.jpg" , AR:BEIN_SPORTS.4.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1363.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_5HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://getbein.beinsports.com/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" , AR:BEIN_SPORTS_5HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/821.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.5.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" , AR:BEIN_SPORTS.5.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1364.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_6HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.kora-star.com/wp-content/uploads/2014/12/AlJazeera_HD6.jpg" , AR:BEIN_SPORTS_6HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/822.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.6.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.kora-star.com/wp-content/uploads/2014/12/AlJazeera_HD6.jpg" , AR:BEIN_SPORTS.6.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1365.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_7HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.mp3-rap.com/wp-content/uploads/2015/11/66e9be59.jpg" , AR:BEIN_SPORTS_7HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/823.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.7.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.mp3-rap.com/wp-content/uploads/2015/11/66e9be59.jpg" , AR:BEIN_SPORTS.7.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1366.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_8HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img209.gif" , AR:BEIN_SPORTS_8HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/824.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.8.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img209.gif" , AR:BEIN_SPORTS.8.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1367.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_9HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img210.gif" , AR:BEIN_SPORTS_9HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/825.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.9.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://www.arabe-media.com/tv/img210.gif" , AR:BEIN_SPORTS.9.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1368.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_10HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://m.livetv-free.com/channels/images/beinsports10.png" , AR:BEIN_SPORTS_10HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/826.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS.10.BACK-UP" tvg-group="BEINSPORTS_VIP" tvg-logo="http://m.livetv-free.com/channels/images/beinsports10.png" , AR:BEIN_SPORTS.10.BACK-UP
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1369.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_11HD" tvg-group="BEINSPORTS_VIP" tvg-logo="http://livetv.karoomed.net/appicons/bein11.jpg" , AR:BEIN_SPORTS_11HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/827.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_12HD" tvg-group="BEINSPORTS_VIP" , AR:BEIN_SPORTS_12HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/828.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-13HD" tvg-group="beIN" , beINSPORTS-13HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/128.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-14HD" tvg-group="beIN" , beINSPORTS-14HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/129.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-15HD" tvg-group="beIN" , beINSPORTS-15HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/130.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-16HD" tvg-group="beIN" tvg-logo="http://scrat.hellocoton.fr/img/classic/bein-sport-16-live-regarder-bein-sport-hd-16-en-direct-gratuit-17207662.jpg" , beINSPORTS-16HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/131.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-17HD" tvg-group="beIN" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Beinsports_17.png/revision/latest?cb=20151115182235" , beINSPORTS-17HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1413.ts
+#EXTINF:0 type="stream" tvg-name="beINMOVIES-1HD" tvg-group="beIN" tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/Movies1HD.png" , beINMOVIES-1HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/132.ts
+#EXTINF:0 type="stream" tvg-name="beINMOVIES-2HD" tvg-group="beIN" tvg-logo="http://bein.net/en/wp-content/uploads/sites/3/2015/09/Movies2HD.png" , beINMOVIES-2HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/133.ts
+#EXTINF:0 type="stream" tvg-name="beINMOVIES-3HD" tvg-group="beIN" tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png" , beINMOVIES-3HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/134.ts
+#EXTINF:0 type="stream" tvg-name="beINMOVIES-4HD" tvg-group="beIN" tvg-logo="https://pbs.twimg.com/media/Cctgu7DXEAASud2.png" , beINMOVIES-4HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/484.ts
+#EXTINF:0 type="stream" tvg-name="BEIN-JUNIOR" tvg-group="beIN" tvg-logo="http://www.cne-eg.com/UploadFolder/logos/469%5Ebe-Junior.png" , BEIN-JUNIOR
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1563.ts
+#EXTINF:0 type="stream" tvg-name="=====BeIN-SD=====" tvg-group="beIN" , =====BeIN-SD=====
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/191.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_1SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_1SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1458.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_2SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_2SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1459.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_3SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_3SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1460.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_4SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_4SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1461.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_5SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_5SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1462.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_6SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_6SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1463.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_7SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_7SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1421.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_8SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_8SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1465.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_9SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_9SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1466.ts
+#EXTINF:0 type="stream" tvg-name="AR:BEIN_SPORTS_10SD" tvg-group="BEIN-SD" , AR:BEIN_SPORTS_10SD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1467.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-11HD" tvg-group="beIN" tvg-logo="http://livetv.karoomed.net/appicons/bein11.jpg" , beINSPORTS-11HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/126.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-12HD" tvg-group="beIN" , beINSPORTS-12HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/127.ts
+#EXTINF:0 type="stream" tvg-name="beINSPORTS-USA" tvg-group="beIN" , beINSPORTS-USA
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/292.ts
+#EXTINF:0 type="stream" tvg-name="=====AD_SPORT=====" tvg-group="ABU_DHABI _SPORT" , =====AD_SPORT=====
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1080.ts
+#EXTINF:0 type="stream" tvg-name="AD_SPORT_1HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://content.osn.com/bob/745x419/AbuDhabiSportsLogo-L.jpg" , AD_SPORT_1HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/385.ts
+#EXTINF:0 type="stream" tvg-name="AD_SPORT_2HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://i0.wp.com/foot-live-stream.com/wp-content/uploads/2016/10/Abu-Dhabi-Sports-2_o.jpg?resize=220%2C144" , AD_SPORT_2HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/386.ts
+#EXTINF:0 type="stream" tvg-name="AD_SPORT_3HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://static.osnplay.com/images/2016/8/25/landscape745x419/0338_SP2-CH17-LI_landscape_745_419.jpg" , AD_SPORT_3HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1077.ts
+#EXTINF:0 type="stream" tvg-name="AD_SPORT_4HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="http://static.osnplay.com/images/2016/8/25/landscape745x419/0338_SP2-CH18-LI_landscape_745_419.jpg" , AD_SPORT_4HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1078.ts
+#EXTINF:0 type="stream" tvg-name="AD_SPORT_5HD" tvg-group="ABU_DHABI _SPORT" tvg-logo="https://1.bp.blogspot.com/-BGukCOvdCng/V9_RsygYCJI/AAAAAAAAB-0/H8r6oHRDmIUGXDuC-PYBQSFPNliEzHicQCLcB/s1600/adsports-5.png" , AD_SPORT_5HD
+http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1079.ts
 #EXTINF:0 type="stream" tvg-name="=====SPORT_GOLF=====" tvg-group="GOLF" , =====SPORT_GOLF=====
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/854.ts
 #EXTINF:0 type="stream" tvg-name="FR:GOLF" tvg-group="GOLF" , FR:GOLF
