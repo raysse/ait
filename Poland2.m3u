@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,PL: 4Fun TV
-http://51.254.197.40:25461/live/tony/tony/10283.ts
 #EXTINF:-1,P#EXTINF:0 type="stream" tvg-name="=====Sky_Deutschland=====" tvg-group="DEUTCHLAND" , =====Sky_Deutschland=====
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/435.ts
 #EXTINF:0 type="stream" channelId="94" tvg-name="ARD" tvg-group="DEUTCHLAND" , ARD
@@ -116,72 +114,95 @@ http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/715.ts
 #EXTINF:0 type="stream" channelId="2420" tvg-name="RomanceTV" tvg-group="DEUTCHLAND" , RomanceTV
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/712.ts
 #EXTINF:-1,---- Cyfrowy Polsat ------
-#EXTINF:-1,PL: Ale Kino  HD
-http://51.254.197.40:25461/live/tony/tony/10284.ts
-#EXTINF:-1,PL: Amazing
-http://51.254.197.40:25461/live/tony/tony/10285.ts
-#EXTINF:-1,PL: Animal Planet
-http://51.254.197.40:25461/live/tony/tony/10286.ts
-#EXTINF:-1,PL: AXN HD
-http://51.254.197.40:25461/live/tony/tony/10287.ts
-#EXTINF:-1,PL: AXN Spin HD
-http://51.254.197.40:25461/live/tony/tony/10288.ts
-#EXTINF:-1,PL: AXN White
-http://51.254.197.40:25461/live/tony/tony/10289.ts
-#EXTINF:-1,PL: BBC HD
-http://51.254.197.40:25461/live/tony/tony/10290.ts
-#EXTINF:-1,PL: Canal  Discovery HD
-http://51.254.197.40:25461/live/tony/tony/10291.ts
-#EXTINF:-1,PL: Canal  Family HD
-http://51.254.197.40:25461/live/tony/tony/10292.ts
-#EXTINF:-1,PL: Canal  HD
-http://51.254.197.40:25461/live/tony/tony/10293.ts
-#EXTINF:-1,PL: Cinemax HD
-http://51.254.197.40:25461/live/tony/tony/10294.ts
-#EXTINF:-1,PL: Discovery HD
-http://51.254.197.40:25461/live/tony/tony/10295.ts
-#EXTINF:-1,PL: Discovery Life
-http://51.254.197.40:25461/live/tony/tony/10296.ts
-#EXTINF:-1,PL: Discovery Turbo Xtra
-http://51.254.197.40:25461/live/tony/tony/10298.ts
-#EXTINF:-1,PL: Disney Channel
-http://51.254.197.40:25461/live/tony/tony/10299.ts
-#EXTINF:-1,PL: Filmbox
-http://51.254.197.40:25461/live/tony/tony/10300.ts
-#EXTINF:-1,PL: Filmbox Action
-http://51.254.197.40:25461/live/tony/tony/10301.ts
-#EXTINF:-1,PL: Filmbox Family
-http://51.254.197.40:25461/live/tony/tony/10302.ts
-#EXTINF:-1,PL: Filmbox Premium
-http://51.254.197.40:25461/live/tony/tony/10303.ts
-#EXTINF:-1,PL: Fox Comedy
-http://51.254.197.40:25461/live/tony/tony/10304.ts
-#EXTINF:-1,PL: HBO 2
-http://51.254.197.40:25461/live/tony/tony/10305.ts
-#EXTINF:-1,PL: HBO HD
-http://51.254.197.40:25461/live/tony/tony/10306.ts
-#EXTINF:-1,PL: History
-http://51.254.197.40:25461/live/tony/tony/10307.ts
-#EXTINF:-1,PL: Kino Polska
-http://51.254.197.40:25461/live/tony/tony/10308.ts
-#EXTINF:-1,PL: Kuchina HD
-http://51.254.197.40:25461/live/tony/tony/10309.ts
-#EXTINF:-1,PL: Mini Mini
-http://51.254.197.40:25461/live/tony/tony/10310.ts
-#EXTINF:-1,PL: MTV Polska
-http://51.254.197.40:25461/live/tony/tony/10311.ts
-#EXTINF:-1,PL: National Geo Wild
-http://51.254.197.40:25461/live/tony/tony/10312.ts
-#EXTINF:-1,PL: National Geographic
-http://51.254.197.40:25461/live/tony/tony/10313.ts
-#EXTINF:-1,PL: Polsat 2
-http://51.254.197.40:25461/live/tony/tony/10314.ts
+http://163.172.6.8:8000/live/5566/5566/1326.ts
+#EXTINF:-1,PL: Eleven
+http://163.172.6.8:8000/live/5566/5566/1307.ts
+#EXTINF:-1,PL: Eleven Sports
+http://163.172.6.8:8000/live/5566/5566/1312.ts
+#EXTINF:-1,PL: N sport+ HD
+http://163.172.6.8:8000/live/5566/5566/1325.ts
+#EXTINF:-1,PL: Canal + Sport HD
+http://163.172.6.8:8000/live/5566/5566/1313.ts
+#EXTINF:-1,PL: TVP Sport
+http://163.172.6.8:8000/live/5566/5566/1319.ts
+#EXTINF:-1,PL: Polsat
+http://163.172.6.8:8000/live/5566/5566/1322.ts
+#EXTINF:-1,PL: Polsat Film
+http://163.172.6.8:8000/live/5566/5566/1311.ts
+#EXTINF:-1,PL: Polsat Play
+http://163.172.6.8:8000/live/5566/5566/1320.ts
 #EXTINF:-1,PL: Polsat Cafe
-http://51.254.197.40:25461/live/tony/tony/10315.ts
-#EXTINF:-1,PL: Polsat HD
-http://51.254.197.40:25461/live/tony/tony/10316.ts
-#EXTINF:-1,PL: TVP 1 HD
-http://51.254.197.40:25461/live/tony/tony/10317.ts
+http://163.172.6.8:8000/live/5566/5566/1301.ts
+#EXTINF:-1,PL: Polsat News
+http://163.172.6.8:8000/live/5566/5566/1302.ts
+#EXTINF:-1,PL: Polsat News 2
+http://163.172.6.8:8000/live/5566/5566/1303.ts
+#EXTINF:-1,PL: Film box
+http://163.172.6.8:8000/live/5566/5566/1304.ts
+#EXTINF:-1,PL: Filmbox Action
+http://163.172.6.8:8000/live/5566/5566/1324.ts
+#EXTINF:-1,PL: Polsat Premiera
+http://163.172.6.8:8000/live/5566/5566/1300.ts
+#EXTINF:-1,PL: Filmbox Premium
+http://163.172.6.8:8000/live/5566/5566/1306.ts
+#EXTINF:-1,PL: CC Family
+http://163.172.6.8:8000/live/5566/5566/1284.ts
+#EXTINF:-1,PL: CBS Reality
+http://163.172.6.8:8000/live/5566/5566/1283.ts
+#EXTINF:-1,PL: CBS Drama
+http://163.172.6.8:8000/live/5566/5566/1282.ts
+#EXTINF:-1,PL: Fox Comedy HD
+http://163.172.6.8:8000/live/5566/5566/1288.ts
+#EXTINF:-1,PL: Fox HD
+http://163.172.6.8:8000/live/5566/5566/1285.ts
+#EXTINF:-1,PL: TLC
+http://163.172.6.8:8000/live/5566/5566/1286.ts
+#EXTINF:-1,PL: Polo TV
+http://163.172.6.8:8000/live/5566/5566/1298.ts
+#EXTINF:-1,PL: Lech
+http://163.172.6.8:8000/live/5566/5566/1310.ts
+#EXTINF:-1,PL: TVP 1
+http://163.172.6.8:8000/live/5566/5566/1299.ts
+#EXTINF:-1,PL: TV Puls
+http://163.172.6.8:8000/live/5566/5566/1318.ts
+#EXTINF:-1,PL: TVN
+http://163.172.6.8:8000/live/5566/5566/1314.ts
+#EXTINF:-1,PL: TVN 24
+http://163.172.6.8:8000/live/5566/5566/1315.ts
+#EXTINF:-1,PL: TVN Turbo
+http://163.172.6.8:8000/live/5566/5566/1321.ts
+#EXTINF:-1,PL: Kino Polska
+http://163.172.6.8:8000/live/5566/5566/1305.ts
+#EXTINF:-1,PL: Discovery Turbo Xtra
+http://163.172.6.8:8000/live/5566/5566/1323.ts
+#EXTINF:-1,PL: Discovery
+http://163.172.6.8:8000/live/5566/5566/1287.ts
+#EXTINF:-1,PL: History
+http://163.172.6.8:8000/live/5566/5566/1308.ts
+#EXTINF:-1,PL: Planete
+http://163.172.6.8:8000/live/5566/5566/1317.ts
+#EXTINF:-1,PL: Nickelodeon
+http://163.172.6.8:8000/live/5566/5566/1296.ts
+#EXTINF:-1,PL: MiniMini
+http://163.172.6.8:8000/live/5566/5566/1294.ts
+#EXTINF:-1,PL: Boomerang
+http://163.172.6.8:8000/live/5566/5566/1293.ts
+#EXTINF:-1,PL: AXN White
+http://163.172.6.8:8000/live/5566/5566/1292.ts
+#EXTINF:-1,PL: AXN Spin HD
+http://163.172.6.8:8000/live/5566/5566/1291.ts
+#EXTINF:-1,PL: AXN HD
+http://163.172.6.8:8000/live/5566/5566/1290.ts
+#EXTINF:-1,PL: AXN Black
+http://163.172.6.8:8000/live/5566/5566/1289.ts
+#EXTINF:-1,PL: Fokus Tv
+http://163.172.6.8:8000/live/5566/5566/1316.ts
+#EXTINF:-1,PL: VH1+
+http://163.172.6.8:8000/live/5566/5566/1295.ts
+#EXTINF:-1,PL: MTV Polska
+http://163.172.6.8:8000/live/5566/5566/1297.ts
+#EXTINF:-1,PL: Music Vox 2 Tv
+http://163.172.6.8:8000/live/5566/5566/1309.ts
 #EXTINF:0 type="stream" tvg-name="=====OSN arabia=====" tvg-group="OSN" , =====OSN arabia=====
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/104.ts
 #EXTINF:0 type="stream" tvg-name="OSN_Movies_HD" tvg-group="OSN" tvg-logo="http://www.lyngsat-logo.com/hires/oo/osn_movies.png" , OSN_Movies_HD
