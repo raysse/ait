@@ -1,118 +1,303 @@
 #EXTM3U
 #EXTINF:-1,P#EXTINF:0 type="stream" tvg-name="=====Sky_Deutschland=====" tvg-group="DEUTCHLAND" , =====Sky_Deutschland=====
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/435.ts
-#EXTINF:0 type="stream" channelId="94" tvg-name="ARD" tvg-group="DEUTCHLAND" , ARD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/590.ts
-#EXTINF:0 type="stream" channelId="98" tvg-name="ZDF" tvg-group="DEUTCHLAND" , ZDF
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/468.ts
-#EXTINF:0 type="stream" channelId="965" tvg-name="ProSieben" tvg-group="DEUTCHLAND" , ProSieben
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/471.ts
-#EXTINF:0 type="stream" channelId="963" tvg-name="SAT_1" tvg-group="DEUTCHLAND" , SAT_1
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/472.ts
-#EXTINF:0 type="stream" channelId="1597" tvg-name="RTL.HD" tvg-group="DEUTCHLAND" , RTL.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/469.ts
-#EXTINF:0 type="stream" channelId="970" tvg-name="RTL2" tvg-group="DEUTCHLAND" tvg-logo="http://de.wiiz.tv/wp-content/uploads/2016/04/41.png" , RTL2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/470.ts
-#EXTINF:0 type="stream" channelId="971" tvg-name="Kabel_eins" tvg-group="DEUTCHLAND" , Kabel_eins
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/474.ts
-#EXTINF:0 type="stream" channelId="966" tvg-name="VOX" tvg-group="DEUTCHLAND" , VOX
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/473.ts
-#EXTINF:0 type="stream" tvg-name="VEVO" tvg-group="DEUTCHLAND" , VEVO
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/589.ts
-#EXTINF:0 type="stream" tvg-name="PUNKTUM" tvg-group="DEUTCHLAND" , PUNKTUM
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/596.ts
-#EXTINF:0 type="stream" tvg-name="Das_Erst_HD" tvg-group="DEUTCHLAND" , Das_Erst_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/467.ts
-#EXTINF:0 type="stream" tvg-name="DAS_NEUE-TV" tvg-group="DEUTCHLAND" , DAS_NEUE-TV
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/591.ts
-#EXTINF:0 type="stream" tvg-name="Virgin_Radio-TV" tvg-group="DEUTCHLAND" , Virgin_Radio-TV
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/599.ts
-#EXTINF:0 type="stream" tvg-name="MUNCHEN-TV" tvg-group="DEUTCHLAND" , MUNCHEN-TV
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/594.ts
-#EXTINF:0 type="stream" channelId="2246" tvg-name="AXN.HD" tvg-group="DEUTCHLAND" , AXN.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/544.ts
-#EXTINF:0 type="stream" tvg-name="FOX_DE_HD" tvg-group="DEUTCHLAND" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png?1479309952" , FOX_DE_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/550.ts
-#EXTINF:0 type="stream" channelId="2746" tvg-name="ANIXE" tvg-group="DEUTCHLAND" , ANIXE
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/592.ts
-#EXTINF:0 type="stream" tvg-name="DE_NTV" tvg-group="ESPAGNE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_ntv_2011.png" , DE_NTV
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/684.ts
-#EXTINF:0 type="stream" tvg-name="DE_N24" tvg-group="DEUTCHLAND" tvg-logo="http://www.dwdl.de/images/1297630913.jpg" , DE_N24
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/685.ts
-#EXTINF:0 type="stream" tvg-name="=====KINO=====" tvg-group="DEUTCHLAND" , =====KINO=====
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/475.ts
-#EXTINF:0 type="stream" channelId="2770" tvg-name="SKY_CINEMA.HD" tvg-group="DEUTCHLAND" , SKY_CINEMA.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/745.ts
-#EXTINF:0 type="stream" channelId="2731" tvg-name="Sky_Cinema" tvg-group="DEUTCHLAND" tvg-logo="http://www.sky.com/tv/images/splash/skymovies-logo.png" , Sky_Cinema
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/476.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Cinema+24" tvg-group="DEUTCHLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky_Cinema%2B24_HD.svg/1280px-Sky_Cinema%2B24_HD.svg.png" , Sky-Cinema+24
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/477.ts
-#EXTINF:0 type="stream" tvg-name="Sky_Cinema+1" tvg-group="DEUTCHLAND" tvg-logo="http://1.bp.blogspot.com/-5CJUU31ob-M/T4QnfTWpW4I/AAAAAAAAE7w/WZVID9MWC3k/s1600/Sky%2BCinema%2B1%2BHD.jpg" , Sky_Cinema+1
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/773.ts
-#EXTINF:0 type="stream" channelId="2730" tvg-name="SKY_ACTION.HD" tvg-group="DEUTCHLAND" , SKY_ACTION.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/747.ts
-#EXTINF:0 type="stream" channelId="2729" tvg-name="Sky-Action" tvg-group="DEUTCHLAND" , Sky-Action
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/478.ts
-#EXTINF:0 type="stream" tvg-name="AXN_ACTION.HD" tvg-group="DEUTCHLAND" , AXN_ACTION.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/746.ts
-#EXTINF:0 type="stream" channelId="2768" tvg-name="Sky_Comedy" tvg-group="DEUTCHLAND" , Sky_Comedy
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/708.ts
-#EXTINF:0 type="stream" tvg-name="MGM_DE" tvg-group="DEUTCHLAND" tvg-logo="http://2.bp.blogspot.com/-msXEhvxjC08/TgttmqD6Z4I/AAAAAAAAY6A/IktIXk6PZTQ/s1600/mgm_logo8.png" , MGM_DE
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/710.ts
-#EXTINF:0 type="stream" channelId="2732" tvg-name="Sky_Emotion" tvg-group="DEUTCHLAND" , Sky_Emotion
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/547.ts
-#EXTINF:0 type="stream" tvg-name="Sky_Hits_de" tvg-group="DEUTCHLAND" , Sky_Hits_de
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/709.ts
-#EXTINF:0 type="stream" channelId="2769" tvg-name="Sky_Hits" tvg-group="DEUTCHLAND" , Sky_Hits
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/536.ts
-#EXTINF:0 type="stream" channelId="2683" tvg-name="TNT_Film" tvg-group="DEUTCHLAND" , TNT_Film
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/548.ts
-#EXTINF:0 type="stream" tvg-name="----------PPV-----------" tvg-group="DEUTCHLAND" , ----------PPV-----------
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/563.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD1" tvg-group="DEUTCHLAND" , Sky-Select.HD1
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/554.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD2" tvg-group="DEUTCHLAND" , Sky-Select.HD2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/556.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD3" tvg-group="DEUTCHLAND" , Sky-Select.HD3
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/557.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD4" tvg-group="DEUTCHLAND" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_select_4.jpg" , Sky-Select.HD4
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/558.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD5" tvg-group="DEUTCHLAND" , Sky-Select.HD5
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/560.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD6" tvg-group="DEUTCHLAND" , Sky-Select.HD6
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/561.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD7" tvg-group="DEUTCHLAND" , Sky-Select.HD7
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/562.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.HD8" tvg-group="DEUTCHLAND" , Sky-Select.HD8
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/564.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.9HD" tvg-group="DEUTCHLAND" , Sky-Select.9HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/759.ts
-#EXTINF:0 type="stream" tvg-name="Sky-Select.10HD" tvg-group="DEUTCHLAND" , Sky-Select.10HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/760.ts
-#EXTINF:0 type="stream" tvg-name="----------Unterhaltung-----------" tvg-group="DEUTCHLAND" , ----------Unterhaltung-----------
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/559.ts
-#EXTINF:0 type="stream" channelId="1192" tvg-name="SYFY-HD" tvg-group="DEUTCHLAND" , SYFY-HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/742.ts
-#EXTINF:0 type="stream" channelId="2243" tvg-name="Sky_ATLANTIC_HD" tvg-group="DEUTCHLAND" , Sky_ATLANTIC_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/537.ts
-#EXTINF:0 type="stream" channelId="1172" tvg-name="SKY_ATLANTIC" tvg-group="ITALIAN" , SKY_ATLANTIC
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/29.ts
-#EXTINF:0 type="stream" tvg-name="AXN_DE_HD" tvg-group="DEUTCHLAND" , AXN_DE_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/553.ts
-#EXTINF:0 type="stream" tvg-name="13th_Street.HD" tvg-group="DEUTCHLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/13th_Street_2015_logo.png" , 13th_Street.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/542.ts
-#EXTINF:0 type="stream" tvg-name="13th_Street_HD" tvg-group="DEUTCHLAND" , 13th_Street_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/549.ts
-#EXTINF:0 type="stream" channelId="2684" tvg-name="TNT_Serie" tvg-group="DEUTCHLAND" tvg-logo="http://www.panorama.com.ve/__export/1428781314584/sites/panorama/img/facetas/2015/04/11/tnt_serie.jpg" , TNT_Serie
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/711.ts
-#EXTINF:0 type="stream" tvg-name="RTL_Passion" tvg-group="DEUTCHLAND" , RTL_Passion
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/713.ts
-#EXTINF:0 type="stream" channelId="2757" tvg-name="RTL_LIVING" tvg-group="DEUTCHLAND" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/05/RTL-Living_HD.jpg/revision/latest?cb=20160311193825" , RTL_LIVING
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/714.ts
-#EXTINF:0 type="stream" channelId="2748" tvg-name="RTL_Crime" tvg-group="DEUTCHLAND" , RTL_Crime
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/715.ts
-#EXTINF:0 type="stream" channelId="2420" tvg-name="RomanceTV" tvg-group="DEUTCHLAND" , RomanceTV
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/712.ts
+#EXTINF:-1,|DE| DAS ERSTE HD
+http://premium-ott.com:8000/live/bast/bast/4281.ts
+#EXTINF:-1,|DE| DAS ERESTE
+http://premium-ott.com:8000/live/bast/bast/4282.ts
+#EXTINF:-1,|DE| KABEL 1 HD
+http://premium-ott.com:8000/live/bast/bast/4283.ts
+#EXTINF:-1,|DE| KABEL 1
+http://premium-ott.com:8000/live/bast/bast/4284.ts
+#EXTINF:-1,|DE| KABEL EINS CLASSICS HD
+http://premium-ott.com:8000/live/bast/bast/4285.ts
+#EXTINF:-1,|DE| SAT EINS
+http://premium-ott.com:8000/live/bast/bast/4286.ts
+#EXTINF:-1,|DE| EINS PLUS
+http://premium-ott.com:8000/live/bast/bast/4287.ts
+#EXTINF:-1,|DE| SAT EINS GOLD
+http://premium-ott.com:8000/live/bast/bast/4288.ts
+#EXTINF:-1,|DE| EINS FESTIVAL
+http://premium-ott.com:8000/live/bast/bast/4289.ts
+#EXTINF:-1,|DE| ZDF HD
+http://premium-ott.com:8000/live/bast/bast/4290.ts
+#EXTINF:-1,|DE| ZDF NEO HD
+http://premium-ott.com:8000/live/bast/bast/4291.ts
+#EXTINF:-1,|DE| ZDF KULTUR HD
+http://premium-ott.com:8000/live/bast/bast/4292.ts
+#EXTINF:-1,|DE| RTL HD
+http://premium-ott.com:8000/live/bast/bast/4293.ts
+#EXTINF:-1,|DE| RTL
+http://premium-ott.com:8000/live/bast/bast/4294.ts
+#EXTINF:-1,|DE| RTL 2
+http://premium-ott.com:8000/live/bast/bast/4295.ts
+#EXTINF:-1,|DE| SUPER RTL
+http://premium-ott.com:8000/live/bast/bast/4296.ts
+#EXTINF:-1,|DE| RTL NITRO
+http://premium-ott.com:8000/live/bast/bast/4297.ts
+#EXTINF:-1,|DE| VOX HD
+http://premium-ott.com:8000/live/bast/bast/4298.ts
+#EXTINF:-1,|DE| SIXX
+http://premium-ott.com:8000/live/bast/bast/4299.ts
+#EXTINF:-1,|DE| PRO7 HD
+http://premium-ott.com:8000/live/bast/bast/4300.ts
+#EXTINF:-1,|DE| PRO7 FUN HD
+http://premium-ott.com:8000/live/bast/bast/4301.ts
+#EXTINF:-1,|DE| PRO7 MAXX HD
+http://premium-ott.com:8000/live/bast/bast/4302.ts
+#EXTINF:-1,|DE| HEIMATKANAL
+http://premium-ott.com:8000/live/bast/bast/4303.ts
+#EXTINF:-1,|AU| ORF 1 HD
+http://premium-ott.com:8000/live/bast/bast/4304.ts
+#EXTINF:-1,|AU| ORF 2 HD
+http://premium-ott.com:8000/live/bast/bast/4305.ts
+#EXTINF:-1,|AU| ORF 3 HD
+http://premium-ott.com:8000/live/bast/bast/4306.ts
+#EXTINF:-1,|CH| SRF 1 HD
+http://premium-ott.com:8000/live/bast/bast/4307.ts
+#EXTINF:-1,|CH| SRF 2 HD
+http://premium-ott.com:8000/live/bast/bast/4308.ts
+#EXTINF:-1,--------★|DE| CINEMA |DE|★--------
+http://premium-ott.com:8000/live/bast/bast/4309.ts
+#EXTINF:-1,|DE| SKY 3D HD
+http://premium-ott.com:8000/live/bast/bast/4310.ts
+#EXTINF:-1,|DE| SKY CINEMA HD
+http://premium-ott.com:8000/live/bast/bast/4311.ts
+#EXTINF:-1,|DE| SKY CINEMA  1 HD
+http://premium-ott.com:8000/live/bast/bast/4312.ts
+#EXTINF:-1,|DE| SKY CINEMA  24 HD
+http://premium-ott.com:8000/live/bast/bast/4313.ts
+#EXTINF:-1,|DE| SKY ACTION HD
+http://premium-ott.com:8000/live/bast/bast/4314.ts
+#EXTINF:-1,|DE| SKY HITS
+http://premium-ott.com:8000/live/bast/bast/4315.ts
+#EXTINF:-1,|DE| SKY ATLANTIC HD
+http://premium-ott.com:8000/live/bast/bast/4316.ts
+#EXTINF:-1,|DE| SKY EMOTION HD
+http://premium-ott.com:8000/live/bast/bast/4317.ts
+#EXTINF:-1,|DE| SKY KRIMI
+http://premium-ott.com:8000/live/bast/bast/4318.ts
+#EXTINF:-1,|DE| SKY COMEDY
+http://premium-ott.com:8000/live/bast/bast/4319.ts
+#EXTINF:-1,|DE| SKY NOSTALGIE
+http://premium-ott.com:8000/live/bast/bast/4320.ts
+#EXTINF:-1,|DE| ROMANCE TV HD
+http://premium-ott.com:8000/live/bast/bast/4321.ts
+#EXTINF:-1,|DE| SYFY HD
+http://premium-ott.com:8000/live/bast/bast/4322.ts
+#EXTINF:-1,|DE| UNIVERSAL CHANNEL HD
+http://premium-ott.com:8000/live/bast/bast/4323.ts
+#EXTINF:-1,|DE| TNT FILM HD
+http://premium-ott.com:8000/live/bast/bast/4324.ts
+#EXTINF:-1,|DE| TNT SERIE HD
+http://premium-ott.com:8000/live/bast/bast/4325.ts
+#EXTINF:-1,|DE| TNT COMEDY HD
+http://premium-ott.com:8000/live/bast/bast/4326.ts
+#EXTINF:-1,|DE| FOX HD
+http://premium-ott.com:8000/live/bast/bast/4327.ts
+#EXTINF:-1,|DE| MGM HD
+http://premium-ott.com:8000/live/bast/bast/4328.ts
+#EXTINF:-1,|DE| SONY TV HD
+http://premium-ott.com:8000/live/bast/bast/4329.ts
+#EXTINF:-1,|DE| AXN HD
+http://premium-ott.com:8000/live/bast/bast/4330.ts
+#EXTINF:-1,|DE| 13TH STREET HD
+http://premium-ott.com:8000/live/bast/bast/4331.ts
+#EXTINF:-1,|DE| COMEDY CENTRAL
+http://premium-ott.com:8000/live/bast/bast/4332.ts
+#EXTINF:-1,|DE| RTL PASSION HD
+http://premium-ott.com:8000/live/bast/bast/4333.ts
+#EXTINF:-1,|DE| RTL LIVING HD
+http://premium-ott.com:8000/live/bast/bast/4334.ts
+#EXTINF:-1,|DE| RTL CRIME HD
+http://premium-ott.com:8000/live/bast/bast/4335.ts
+#EXTINF:-1,|DE| KINOWELT
+http://premium-ott.com:8000/live/bast/bast/4336.ts
+#EXTINF:-1,|DE| TELE 5
+http://premium-ott.com:8000/live/bast/bast/4337.ts
+#EXTINF:-1,|CH| TELECLUB PRIME
+http://premium-ott.com:8000/live/bast/bast/4338.ts
+#EXTINF:-1,|CH| TELECLUB CINEMA
+http://premium-ott.com:8000/live/bast/bast/4339.ts
+#EXTINF:-1,|CH| TELECLUB STAR
+http://premium-ott.com:8000/live/bast/bast/4340.ts
+#EXTINF:-1,------- DE SKY SELECT -------
+http://premium-ott.com:8000/live/bast/bast/4341.ts
+#EXTINF:-1,|DE| SKY SELECT 1 HD
+http://premium-ott.com:8000/live/bast/bast/4342.ts
+#EXTINF:-1,|DE| SKY SELECT 2
+http://premium-ott.com:8000/live/bast/bast/4343.ts
+#EXTINF:-1,|DE| SKY SELECT 3 HD
+http://premium-ott.com:8000/live/bast/bast/4344.ts
+#EXTINF:-1,|DE| SKY SELECT 4 HD
+http://premium-ott.com:8000/live/bast/bast/4345.ts
+#EXTINF:-1,|DE| SKY SELECT 5 HD
+http://premium-ott.com:8000/live/bast/bast/4346.ts
+#EXTINF:-1,|DE| SKY SELECT 6 HD
+http://premium-ott.com:8000/live/bast/bast/4347.ts
+#EXTINF:-1,|DE| SKY SELECT 7 HD
+http://premium-ott.com:8000/live/bast/bast/4348.ts
+#EXTINF:-1,|DE| SKY SELECT 8 HD
+http://premium-ott.com:8000/live/bast/bast/4349.ts
+#EXTINF:-1,|DE| SKY SELECT 9 HD
+http://premium-ott.com:8000/live/bast/bast/4350.ts
+#EXTINF:-1,-------- DE SPORT ----------
+http://premium-ott.com:8000/live/bast/bast/4351.ts
+#EXTINF:-1,|DE| SKY SPROT NEWS FHD
+http://premium-ott.com:8000/live/bast/bast/7276.ts
+#EXTINF:-1,|DE| SKY SPORT NEWS HD
+http://premium-ott.com:8000/live/bast/bast/4352.ts
+#EXTINF:-1,|DE| SKY SPORT AUSTRIA FHD
+http://premium-ott.com:8000/live/bast/bast/7280.ts
+#EXTINF:-1,|DE| SKY SPORT AUSTRIA
+http://premium-ott.com:8000/live/bast/bast/4356.ts
+#EXTINF:-1,|DE| SPORTDIGITAL HD
+http://premium-ott.com:8000/live/bast/bast/4357.ts
+#EXTINF:-1,|DE| SPORT 1 HD
+http://premium-ott.com:8000/live/bast/bast/4358.ts
+#EXTINF:-1,|DE| SPORT1  HD
+http://premium-ott.com:8000/live/bast/bast/4359.ts
+#EXTINF:-1,|DE| SPORT1 US HD
+http://premium-ott.com:8000/live/bast/bast/4360.ts
+#EXTINF:-1,|DE| EUROSPORT 1 FHD
+http://premium-ott.com:8000/live/bast/bast/7281.ts
+#EXTINF:-1,|DE| EUROSPORT 1
+http://premium-ott.com:8000/live/bast/bast/4361.ts
+#EXTINF:-1,|DE| EUROSPORT 2 FHD
+http://premium-ott.com:8000/live/bast/bast/7282.ts
+#EXTINF:-1,|DE| EUROSPORT 2 HD
+http://premium-ott.com:8000/live/bast/bast/4362.ts
+#EXTINF:-1,|AU| ORF SPORT  HD
+http://premium-ott.com:8000/live/bast/bast/4363.ts
+#EXTINF:-1,|DE| SKY SPORT 1 FHD
+http://premium-ott.com:8000/live/bast/bast/7278.ts
+#EXTINF:-1,|DE| SKY SPORT HD 1
+http://premium-ott.com:8000/live/bast/bast/4353.ts
+#EXTINF:-1,|DE| SKY SPORT 2 FHD
+http://premium-ott.com:8000/live/bast/bast/7279.ts
+#EXTINF:-1,|DE| SKY SPORT HD 2
+http://premium-ott.com:8000/live/bast/bast/4354.ts
+#EXTINF:-1,|DE| SKY SPORT HD 3
+http://premium-ott.com:8000/live/bast/bast/4369.ts
+#EXTINF:-1,|DE| SKY SPORT HD 4
+http://premium-ott.com:8000/live/bast/bast/4370.ts
+#EXTINF:-1,|DE| SKY SPORT HD 5
+http://premium-ott.com:8000/live/bast/bast/4371.ts
+#EXTINF:-1,|DE| SKY BUNDESELIGA 1 FHD
+http://premium-ott.com:8000/live/bast/bast/7277.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA HD 1
+http://premium-ott.com:8000/live/bast/bast/4355.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA HD 2
+http://premium-ott.com:8000/live/bast/bast/4372.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA HD 3
+http://premium-ott.com:8000/live/bast/bast/4373.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA HD 4
+http://premium-ott.com:8000/live/bast/bast/4374.ts
+#EXTINF:-1,|CH| TELECLUB SPORT 1
+http://premium-ott.com:8000/live/bast/bast/4375.ts
+#EXTINF:-1,|CH| TELECLUB SPORT 2
+http://premium-ott.com:8000/live/bast/bast/4376.ts
+#EXTINF:-1,|CH| TELECLUB SPORT 3
+http://premium-ott.com:8000/live/bast/bast/4377.ts
+#EXTINF:-1,-------- DE DOCU -----------
+http://premium-ott.com:8000/live/bast/bast/4378.ts
+#EXTINF:-1,|DE| DISCOVERY
+http://premium-ott.com:8000/live/bast/bast/4379.ts
+#EXTINF:-1,|DE| DMAX
+http://premium-ott.com:8000/live/bast/bast/4380.ts
+#EXTINF:-1,|DE| NATIONAL GEOGRAPHIC
+http://premium-ott.com:8000/live/bast/bast/4381.ts
+#EXTINF:-1,|DE| NATIONAL GEO WILD
+http://premium-ott.com:8000/live/bast/bast/4382.ts
+#EXTINF:-1,|DE| ANIMAL PLANET
+http://premium-ott.com:8000/live/bast/bast/4383.ts
+#EXTINF:-1,|DE| SPIEGEL GESCHICHTE
+http://premium-ott.com:8000/live/bast/bast/4384.ts
+#EXTINF:-1,|DE| A&E
+http://premium-ott.com:8000/live/bast/bast/4385.ts
+#EXTINF:-1,|DE| WELT DER WUNDER
+http://premium-ott.com:8000/live/bast/bast/4386.ts
+#EXTINF:-1,|DE| MOTORVISION
+http://premium-ott.com:8000/live/bast/bast/4387.ts
+#EXTINF:-1,|DE| E! ENTERTAINEMENT
+http://premium-ott.com:8000/live/bast/bast/4388.ts
+#EXTINF:-1,|DE| TLC
+http://premium-ott.com:8000/live/bast/bast/4389.ts
+#EXTINF:-1,|DE| HISTORY HD
+http://premium-ott.com:8000/live/bast/bast/4390.ts
+#EXTINF:-1,--------★|DE| KIDS |DE|★--------
+http://premium-ott.com:8000/live/bast/bast/4391.ts
+#EXTINF:-1,|DE| DISNEY JUNIOR HD
+http://premium-ott.com:8000/live/bast/bast/4392.ts
+#EXTINF:-1,|DE| DISNEY XD HD
+http://premium-ott.com:8000/live/bast/bast/4393.ts
+#EXTINF:-1,|DE| DISNEY CHANNEL
+http://premium-ott.com:8000/live/bast/bast/4394.ts
+#EXTINF:-1,|DE| DISNEY CINEMAGIC HD
+http://premium-ott.com:8000/live/bast/bast/4395.ts
+#EXTINF:-1,|DE| NICKELODEON HD
+http://premium-ott.com:8000/live/bast/bast/4396.ts
+#EXTINF:-1,|DE| NICKELODEON
+http://premium-ott.com:8000/live/bast/bast/4397.ts
+#EXTINF:-1,|DE| CARTOON NETWORK
+http://premium-ott.com:8000/live/bast/bast/4398.ts
+#EXTINF:-1,|DE| BOOMERANG
+http://premium-ott.com:8000/live/bast/bast/4399.ts
+#EXTINF:-1,|DE| KIKA
+http://premium-ott.com:8000/live/bast/bast/4400.ts
+#EXTINF:-1,--------★|DE| NEWS |DE|★--------
+http://premium-ott.com:8000/live/bast/bast/4423.ts
+#EXTINF:-1,|DE| ZDF INFO
+http://premium-ott.com:8000/live/bast/bast/4424.ts
+#EXTINF:-1,|DE| PHOENIX
+http://premium-ott.com:8000/live/bast/bast/4425.ts
+#EXTINF:-1,|DE| N-TV
+http://premium-ott.com:8000/live/bast/bast/4426.ts
+#EXTINF:-1,|DE| N24
+http://premium-ott.com:8000/live/bast/bast/4427.ts
+#EXTINF:-1,|DE| DW
+http://premium-ott.com:8000/live/bast/bast/4428.ts
+#EXTINF:-1,|DE| TAGESSCHAU 24
+http://premium-ott.com:8000/live/bast/bast/4429.ts
+#EXTINF:-1,--------★|DE| OTHERS |DE|★--------
+http://premium-ott.com:8000/live/bast/bast/4401.ts
+#EXTINF:-1,|DE| 3 SAT HD
+http://premium-ott.com:8000/live/bast/bast/4402.ts
+#EXTINF:-1,|DE| WDR HD
+http://premium-ott.com:8000/live/bast/bast/4403.ts
+#EXTINF:-1,|DE| NDR HD
+http://premium-ott.com:8000/live/bast/bast/4404.ts
+#EXTINF:-1,|DE| SWR HD
+http://premium-ott.com:8000/live/bast/bast/4405.ts
+#EXTINF:-1,|DE| BR HD
+http://premium-ott.com:8000/live/bast/bast/4406.ts
+#EXTINF:-1,|DE| ARTE
+http://premium-ott.com:8000/live/bast/bast/4407.ts
+#EXTINF:-1,|DE| SERVUS TV
+http://premium-ott.com:8000/live/bast/bast/4408.ts
+#EXTINF:-1,|DE| REGIO TV
+http://premium-ott.com:8000/live/bast/bast/4409.ts
+#EXTINF:-1,|DE| RBB
+http://premium-ott.com:8000/live/bast/bast/4410.ts
+#EXTINF:-1,|DE| MUNCHEN TV
+http://premium-ott.com:8000/live/bast/bast/4411.ts
+#EXTINF:-1,|DE| MDR
+http://premium-ott.com:8000/live/bast/bast/4412.ts
+#EXTINF:-1,|DE| LT 1
+http://premium-ott.com:8000/live/bast/bast/4413.ts
+#EXTINF:-1,|DE| HR
+http://premium-ott.com:8000/live/bast/bast/4414.ts
+#EXTINF:-1,|DE| FRANKEN
+http://premium-ott.com:8000/live/bast/bast/4415.ts
+#EXTINF:-1,|DE| SCHAU TV
+http://premium-ott.com:8000/live/bast/bast/4416.ts
+#EXTINF:-1,|DE| DRESDEN
+http://premium-ott.com:8000/live/bast/bast/4417.ts
+#EXTINF:-1,|DE| BTV
+http://premium-ott.com:8000/live/bast/bast/4418.ts
+#EXTINF:-1,|DE| ANIXE
+http://premium-ott.com:8000/live/bast/bast/4419.ts
+#EXTINF:-1,|DE| A.TV
+http://premium-ott.com:8000/live/bast/bast/4420.ts
 #EXTINF:-1,-------★ POLAND CHANNEL ★-------
 http://premium-ott.com:8000/live/bast/bast/6867.ts
 #EXTINF:-1,|PL| TVP 1 HD
@@ -267,117 +452,729 @@ http://premium-ott.com:8000/live/bast/bast/6952.ts
 http://premium-ott.com:8000/live/bast/bast/6953.ts
 #EXTINF:-1,|PL| HISTORY
 http://premium-ott.com:8000/live/bast/bast/6954.ts
-#EXTINF:0 type="stream" tvg-name="=====OSN arabia=====" tvg-group="OSN" , =====OSN arabia=====
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/104.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Movies_HD" tvg-group="OSN" tvg-logo="http://www.lyngsat-logo.com/hires/oo/osn_movies.png" , OSN_Movies_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/105.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Movies+2" tvg-group="OSN" tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_movies_hd_plus2.png" , OSN_Movies+2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1425.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Movies_Action_HD" tvg-group="OSN" tvg-logo="http://www.lyngsat-logo.com/hires/oo/osn_movies_action_hd.png" , OSN_Movies_Action_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/106.ts
-#EXTINF:0 type="stream" tvg-name="OSN_MoviesAction2" tvg-group="OSN" tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg" , OSN_MoviesAction2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1355.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Mov_Premiere_HD" tvg-group="OSN" tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/10/38.jpg" , OSN_Mov_Premiere_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/107.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Mov_Festival" tvg-group="OSN" tvg-logo="http://www.lyngsat-logo.com/hires/oo/osn_movies_festival_hd.png" , OSN_Mov_Festival
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/262.ts
-#EXTINF:0 type="stream" tvg-name="OSN_MOVIES_FAMILY" tvg-group="OSN" , OSN_MOVIES_FAMILY
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/944.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Mov_Drama" tvg-group="OSN" tvg-logo="http://sourcetv.info/wp-content/uploads/2015/03/osn_movies_drama.png" , OSN_Mov_Drama
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/581.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Mov_Com_HD" tvg-group="OSN" tvg-logo="http://www.lyngsat-logo.com/hires/oo/osn_movies_comedy_hd.png" , OSN_Mov_Com_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/140.ts
-#EXTINF:0 type="stream" tvg-name="OSN_First_Comedy" tvg-group="OSN" tvg-logo="http://content.osn.com/bob/500x300/OCO.jpg" , OSN_First_Comedy
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1362.ts
-#EXTINF:0 type="stream" tvg-name="OSN_FX.HD" tvg-group="OSN" tvg-logo="http://my-hd.tv/shared/img/channels/FXHD.png" , OSN_FX.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1416.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Star_Movies" tvg-group="OSN" , OSN_Star_Movies
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/793.ts
-#EXTINF:0 type="stream" tvg-name="OSN_FOX.Action" tvg-group="OSN" tvg-logo="https://menaherald.com/wp-content/uploads/2016/04/%D9%85%D8%B9%D9%86%D9%88%D9%86-3.jpg" , OSN_FOX.Action
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1379.ts
-#EXTINF:0 type="stream" tvg-name="OSN_FOX.Family" tvg-group="OSN" tvg-logo="https://menaherald.com/wp-content/uploads/2016/04/FOX-Family-Movies-Logo-HD.jpg" , OSN_FOX.Family
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1381.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Movies_Kids" tvg-group="OSN" tvg-logo="http://content.osn.com/logo/channel/500x300/OMK.jpg" , OSN_Movies_Kids
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/583.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Disney" tvg-group="OSN" tvg-logo="https://tvchannellists.com/images/0/0e/Disney_Channel.png" , OSN_Disney
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1385.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Disney.Junior.HD" tvg-group="OSN" tvg-logo="https://tvchannellists.com/images/7/70/Disney_Junior.png" , OSN_Disney.Junior.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1386.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Nat-Geo" tvg-group="OSN" , OSN_Nat-Geo
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1359.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Nat-Geo-People" tvg-group="OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NatGeo_People_logo.png/200px-NatGeo_People_logo.png" , OSN_Nat-Geo-People
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1358.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Nat_Geo_wILD" tvg-group="OSN" tvg-logo="http://osnplay.osn.com/Global/Channel%20Logos/NatGeoW.png" , OSN_Nat_Geo_wILD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/884.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ANIMAL_PLANET" tvg-group="OSN" , OSN_ANIMAL_PLANET
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/695.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Discovery" tvg-group="OSN" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/03/discovery-logo-2016.jpg?w=446&h=299&crop=1" , OSN_Discovery
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1382.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Discovery SC" tvg-group="OSN" tvg-logo="http://mangaplustv.com/wp-content/uploads/2015/12/Discovery_Science_fr.png" , OSN_Discovery SC
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/792.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Discovery_ID" tvg-group="OSN" tvg-logo="http://saudigazette.com.sa/wp-content/uploads/2016/02/ec10-1.jpg" , OSN_Discovery_ID
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/141.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Discovery_Family" tvg-group="OSN" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2015/07/logos_DFC_PRIME_FLAT-pos.png" , OSN_Discovery_Family
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/705.ts
-#EXTINF:0 type="stream" tvg-name="OSN_DocuBox" tvg-group="OSN" tvg-logo="https://www.montagecabletv.com/sites/default/files/docu_box_hd.png" , OSN_DocuBox
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1387.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Fatafeat" tvg-group="OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fatafeat_Logo_Final.jpg" , OSN_Fatafeat
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1354.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Fine.Living" tvg-group="OSN" tvg-logo="https://tvchannellists.com/images/8/84/Fine_Living.png" , OSN_Fine.Living
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1383.ts
-#EXTINF:0 type="stream" tvg-name="OSN_E!" tvg-group="OSN" , OSN_E!
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1380.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Syfy" tvg-group="OSN" , OSN_Syfy
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1377.ts
-#EXTINF:0 type="stream" tvg-name="OSN_First" tvg-group="OSN" , OSN_First
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1353.ts
-#EXTINF:0 type="stream" tvg-name="OSN_FIRST_HBO" tvg-group="OSN" , OSN_FIRST_HBO
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/97.ts
-#EXTINF:0 type="stream" tvg-name="OSN_BBC.First" tvg-group="OSN" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/campaigns/2015-12/war-and-peace/bbc-first-logo-white.png" , OSN_BBC.First
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1384.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Mbc+Drama.HD" tvg-group="OSN" tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_plus_drama_hd.png" , OSN_Mbc+Drama.HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1378.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Series" tvg-group="OSN" , OSN_Series
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1356.ts
-#EXTINF:0 type="stream" tvg-name="OSN-Ya_Hela_HD" tvg-group="OSN" , OSN-Ya_Hela_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/576.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Yahala2" tvg-group="OSN" , OSN_Yahala2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1361.ts
-#EXTINF:0 type="stream" tvg-name="OSN-YaHela_Drama_HD" tvg-group="OSN" , OSN-YaHela_Drama_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/577.ts
-#EXTINF:0 type="stream" tvg-name="OSN-YaHela_Chabeb_HD" tvg-group="OSN" , OSN-YaHela_Chabeb_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/578.ts
-#EXTINF:0 type="stream" tvg-name="OSN-YaHela_Cinema_HD" tvg-group="OSN" , OSN-YaHela_Cinema_HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/814.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Alyawm" tvg-group="OSN" , OSN_Alyawm
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1352.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Alsafwa" tvg-group="OSN" , OSN_Alsafwa
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1350.ts
-#EXTINF:0 type="stream" tvg-name="OSN_WWE" tvg-group="OSN" tvg-logo="http://www.albawaba.com/sites/default/files/im/Sport/osn_WWE.jpg" , OSN_WWE
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/1370.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ORBITCINEMA.1" tvg-group="OSN" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/cinema1_logo-024200.png" , OSN_ORBITCINEMA.1
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/294.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ORBITCINEMA.2" tvg-group="OSN" , OSN_ORBITCINEMA.2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/295.ts
-#EXTINF:0 type="stream" tvg-name="OSN_Movie_Box 1" tvg-group="OSN" , OSN_Movie_Box 1
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/791.ts
-#EXTINF:0 type="stream" tvg-name="OSN_MOVIEBOX_2" tvg-group="OSN" , OSN_MOVIEBOX_2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/784.ts
-#EXTINF:0 type="stream" tvg-name="OSN_BOX_OFFICE.1" tvg-group="OSN" , OSN_BOX_OFFICE.1
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/281.ts
-#EXTINF:0 type="stream" tvg-name="OSN_BOX_OFFICE.2" tvg-group="OSN" , OSN_BOX_OFFICE.2
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/282.ts
-#EXTINF:0 type="stream" tvg-name="OSN_BOX_OFFICE.3" tvg-group="OSN" , OSN_BOX_OFFICE.3
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/283.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ONDEMAND.1HD" tvg-group="OSN" tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-HD_o.jpg" , OSN_ONDEMAND.1HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/855.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ONDEMAND.2HD" tvg-group="OSN" tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-HD_o.jpg" , OSN_ONDEMAND.2HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/856.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ONDEMAND.3HD" tvg-group="OSN" tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-HD_o.jpg" , OSN_ONDEMAND.3HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/571.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ONDEMAND.4HD" tvg-group="OSN" tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-HD_o.jpg" , OSN_ONDEMAND.4HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/660.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ONDEMAND-EXTRA.2HD" tvg-group="OSN" , OSN_ONDEMAND-EXTRA.2HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/858.ts
-#EXTINF:0 type="stream" tvg-name="OSN_ONDEMAND-EXTRA.1HD" tvg-group="OSN" , OSN_ONDEMAND-EXTRA.1HD
-http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/857.ts
+#EXTINF:-1,-------▼|SP| SPORTS |SP|▼--------
+http://premium-ott.com:8000/live/bast/bast/2825.ts
+#EXTINF:-1,|AR| BEIN NEWS HD
+http://premium-ott.com:8000/live/bast/bast/3522.ts
+#EXTINF:-1,|AR| BEIN SPORTS 1 HD
+http://premium-ott.com:8000/live/bast/bast/2757.ts
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD
+http://premium-ott.com:8000/live/bast/bast/2758.ts
+#EXTINF:-1,|AR| BEIN SPORTS 3 HD
+http://premium-ott.com:8000/live/bast/bast/2759.ts
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD
+http://premium-ott.com:8000/live/bast/bast/2760.ts
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+http://premium-ott.com:8000/live/bast/bast/2761.ts
+#EXTINF:-1,|AR| BEIN SPORTS 6 HD
+http://premium-ott.com:8000/live/bast/bast/2762.ts
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+http://premium-ott.com:8000/live/bast/bast/2763.ts
+#EXTINF:-1,|AR| BEIN SPORTS 8 HD
+http://premium-ott.com:8000/live/bast/bast/2764.ts
+#EXTINF:-1,|AR| BEIN SPORTS 9 HD
+http://premium-ott.com:8000/live/bast/bast/2765.ts
+#EXTINF:-1,|AR| BEIN SPORTS 10 HD
+http://premium-ott.com:8000/live/bast/bast/2766.ts
+#EXTINF:-1,|AR| BEIN SPORTS 11 HD
+http://premium-ott.com:8000/live/bast/bast/2949.ts
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD
+http://premium-ott.com:8000/live/bast/bast/2950.ts
+#EXTINF:-1,|AR| BEIN SPORTS 13 HD
+http://premium-ott.com:8000/live/bast/bast/2951.ts
+#EXTINF:-1,|AR| BEIN SPORTS 14 HD
+http://premium-ott.com:8000/live/bast/bast/2952.ts
+#EXTINF:-1,|AR| BEIN SPORTS 15 HD
+http://premium-ott.com:8000/live/bast/bast/2953.ts
+#EXTINF:-1,|AR| BEIN SPORTS 16 HD
+http://premium-ott.com:8000/live/bast/bast/2954.ts
+#EXTINF:-1,|AR| OSN OSN SPORT 1
+http://premium-ott.com:8000/live/bast/bast/7676.ts
+#EXTINF:-1,|AR| OSN SPORTS 1
+http://premium-ott.com:8000/live/bast/bast/5526.ts
+#EXTINF:-1,|AR| OSN SPORTS 2
+http://premium-ott.com:8000/live/bast/bast/5527.ts
+#EXTINF:-1,|AR| OSN SPORTS 3
+http://premium-ott.com:8000/live/bast/bast/5528.ts
+#EXTINF:-1,|AR| OSN SPORTS 4
+http://premium-ott.com:8000/live/bast/bast/5529.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 1
+http://premium-ott.com:8000/live/bast/bast/5520.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 2
+http://premium-ott.com:8000/live/bast/bast/5521.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 5
+http://premium-ott.com:8000/live/bast/bast/5524.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 6
+http://premium-ott.com:8000/live/bast/bast/5525.ts
+#EXTINF:-1,|AR| AL KASS 1
+http://premium-ott.com:8000/live/bast/bast/5516.ts
+#EXTINF:-1,|AR| AL KASS 2
+http://premium-ott.com:8000/live/bast/bast/5517.ts
+#EXTINF:-1,|AR| AL KASS 3
+http://premium-ott.com:8000/live/bast/bast/5518.ts
+#EXTINF:-1,|AR| AL KASS 4
+http://premium-ott.com:8000/live/bast/bast/5519.ts
+#EXTINF:-1,|AR| MBC SPORTS 1
+http://premium-ott.com:8000/live/bast/bast/5513.ts
+#EXTINF:-1,|AR| MBC SPORTS 2
+http://premium-ott.com:8000/live/bast/bast/5514.ts
+#EXTINF:-1,|AR| MBC SPORTS 3
+http://premium-ott.com:8000/live/bast/bast/5515.ts
+#EXTINF:-1,-------★ ISLAM CHANNEL ★--------
+http://premium-ott.com:8000/live/bast/bast/5440.ts
+#EXTINF:-1,|AR| SUNNAH NEBAWIYA
+http://premium-ott.com:8000/live/bast/bast/5442.ts
+#EXTINF:-1,|AR| AYAAT
+http://premium-ott.com:8000/live/bast/bast/5443.ts
+#EXTINF:-1,|AR| QURAN HIDAYAH FR
+http://premium-ott.com:8000/live/bast/bast/5444.ts
+#EXTINF:-1,|AR| IQRAA TV
+http://premium-ott.com:8000/live/bast/bast/3542.ts
+#EXTINF:-1,|AR| AL RAHMA TV
+http://premium-ott.com:8000/live/bast/bast/3537.ts
+#EXTINF:-1,|AR| AL MAJD
+http://premium-ott.com:8000/live/bast/bast/3529.ts
+#EXTINF:-1,|AR| AL MAJD HOLY QURAN
+http://premium-ott.com:8000/live/bast/bast/3541.ts
+#EXTINF:-1,|AR| RISALAT AL ISLAM
+http://premium-ott.com:8000/live/bast/bast/5446.ts
+#EXTINF:-1,|AR| AL MAJD HADITH
+http://premium-ott.com:8000/live/bast/bast/5447.ts
+#EXTINF:-1,|AR| AL MAJD SCIENTIFIC
+http://premium-ott.com:8000/live/bast/bast/5448.ts
+#EXTINF:-1,|AR| NOOR DUBAI
+http://premium-ott.com:8000/live/bast/bast/2747.ts
+#EXTINF:-1,|AR| AL HAYAT
+http://premium-ott.com:8000/live/bast/bast/5449.ts
+#EXTINF:-1,|AR| NOUR AL CHAM
+http://premium-ott.com:8000/live/bast/bast/5450.ts
+#EXTINF:-1,|AR| AHL AL QURAN
+http://premium-ott.com:8000/live/bast/bast/5451.ts
+#EXTINF:-1,|AR| WISAL TV
+http://premium-ott.com:8000/live/bast/bast/5452.ts
+#EXTINF:-1,|AR| SAFA TV
+http://premium-ott.com:8000/live/bast/bast/2737.ts
+#EXTINF:-1,|AR| AZHARI
+http://premium-ott.com:8000/live/bast/bast/5453.ts
+#EXTINF:-1,|AR| KAYFA
+http://premium-ott.com:8000/live/bast/bast/5454.ts
+#EXTINF:-1,|AR| AL MAALI
+http://premium-ott.com:8000/live/bast/bast/5455.ts
+#EXTINF:-1,|AR| AL HUDA
+http://premium-ott.com:8000/live/bast/bast/5457.ts
+#EXTINF:-1,|AR| AL HAKIKA
+http://premium-ott.com:8000/live/bast/bast/5458.ts
+#EXTINF:-1,--------★ ARABIC CHANNEL ★-------
+http://premium-ott.com:8000/live/bast/bast/2200.ts
+#EXTINF:-1,|AR| 2M MAROC
+http://premium-ott.com:8000/live/bast/bast/2585.ts
+#EXTINF:-1,|AR| AL AOULA INTER
+http://premium-ott.com:8000/live/bast/bast/2583.ts
+#EXTINF:-1,|AR| AL AOULA LAAYOUNE
+http://premium-ott.com:8000/live/bast/bast/2584.ts
+#EXTINF:-1,|AR| ASSADISSA
+http://premium-ott.com:8000/live/bast/bast/2587.ts
+#EXTINF:-1,|AR| AL MAGHRIBIA
+http://premium-ott.com:8000/live/bast/bast/2590.ts
+#EXTINF:-1,|AR| ARRABIAA
+http://premium-ott.com:8000/live/bast/bast/2589.ts
+#EXTINF:-1,|AR| ARRIADIA
+http://premium-ott.com:8000/live/bast/bast/2588.ts
+#EXTINF:-1,|AR| MEDI 1 TV
+http://premium-ott.com:8000/live/bast/bast/2586.ts
+#EXTINF:-1,|AR| TAMAZIGHT
+http://premium-ott.com:8000/live/bast/bast/2742.ts
+#EXTINF:-1,|AR| LAAYOUNE TV
+http://premium-ott.com:8000/live/bast/bast/2650.ts
+#EXTINF:-1,|AR| BZAF MUSIC
+http://premium-ott.com:8000/live/bast/bast/3540.ts
+#EXTINF:-1,-------▼|AR| ALGERIE |AR|▼-------
+http://premium-ott.com:8000/live/bast/bast/2774.ts
+#EXTINF:-1,|AR| ALGERIE 3
+http://premium-ott.com:8000/live/bast/bast/2715.ts
+#EXTINF:-1,|AR| TV5 ALGERIE
+http://premium-ott.com:8000/live/bast/bast/7386.ts
+#EXTINF:-1,|AR| CANAL ALGERIE
+http://premium-ott.com:8000/live/bast/bast/2712.ts
+#EXTINF:-1,|AR| KBC ALGERIA
+http://premium-ott.com:8000/live/bast/bast/3078.ts
+#EXTINF:-1,|AR| SAMIRA TV
+http://premium-ott.com:8000/live/bast/bast/2604.ts
+#EXTINF:-1,|AR| ENNAHAR TV
+http://premium-ott.com:8000/live/bast/bast/3071.ts
+#EXTINF:-1,|AR| ECHOUROUK TV
+http://premium-ott.com:8000/live/bast/bast/2714.ts
+#EXTINF:-1,|AR| ECHOROUK NEWS
+http://premium-ott.com:8000/live/bast/bast/3075.ts
+#EXTINF:-1,|AR| ECHOROUK BENNA
+http://premium-ott.com:8000/live/bast/bast/3076.ts
+#EXTINF:-1,|AR| AL HADAF TV
+http://premium-ott.com:8000/live/bast/bast/3489.ts
+#EXTINF:-1,|AR| EL HEDDAF TV
+http://premium-ott.com:8000/live/bast/bast/3539.ts
+#EXTINF:-1,|AR| TV CORAN CZ
+http://premium-ott.com:8000/live/bast/bast/2682.ts
+#EXTINF:-1,|AR| TV TAMAZIGHT
+http://premium-ott.com:8000/live/bast/bast/2591.ts
+#EXTINF:-1,|AR| NUMIDIA NEWS
+http://premium-ott.com:8000/live/bast/bast/3079.ts
+#EXTINF:-1,|AR| DZAIR TV
+http://premium-ott.com:8000/live/bast/bast/3072.ts
+#EXTINF:-1,|AR| DZAIR 7
+http://premium-ott.com:8000/live/bast/bast/3074.ts
+#EXTINF:-1,|AR| DZAIR NEWS
+http://premium-ott.com:8000/live/bast/bast/3073.ts
+#EXTINF:-1,|AR| BERBERE TV
+http://premium-ott.com:8000/live/bast/bast/3439.ts
+#EXTINF:-1,|AR| BERBERE MUSIC
+http://premium-ott.com:8000/live/bast/bast/3440.ts
+#EXTINF:-1,|AR| BERBERE JEUNESSE
+http://premium-ott.com:8000/live/bast/bast/3441.ts
+#EXTINF:-1,-------▼|AR| TUNISIE |AR|▼-------
+http://premium-ott.com:8000/live/bast/bast/2775.ts
+#EXTINF:-1,|AR| AL JANOUBIA
+http://premium-ott.com:8000/live/bast/bast/2721.ts
+#EXTINF:-1,|AR| HANNIBAL TV
+http://premium-ott.com:8000/live/bast/bast/2600.ts
+#EXTINF:-1,|AR| NESSMA TV
+http://premium-ott.com:8000/live/bast/bast/2602.ts
+#EXTINF:-1,|AR| TUNISIA NAT 1
+http://premium-ott.com:8000/live/bast/bast/2598.ts
+#EXTINF:-1,|AR| TUNISIA NAT 2
+http://premium-ott.com:8000/live/bast/bast/2599.ts
+#EXTINF:-1,|AR| TUNISIA FIRST TV
+http://premium-ott.com:8000/live/bast/bast/3438.ts
+#EXTINF:-1,|AR| ZAYTOONA
+http://premium-ott.com:8000/live/bast/bast/3082.ts
+#EXTINF:-1,|AR| TUNISNA
+http://premium-ott.com:8000/live/bast/bast/3081.ts
+#EXTINF:-1,|AR| ETTASIAA - tunisie
+http://premium-ott.com:8000/live/bast/bast/5120.ts
+#EXTINF:-1,|AR| MAGHREB 24 TV - Tunisie
+http://premium-ott.com:8000/live/bast/bast/5122.ts
+#EXTINF:-1,|AR|  AL MUSTAKILLAH TV - tunisie
+http://premium-ott.com:8000/live/bast/bast/5121.ts
+#EXTINF:-1,|AR| AL HIWAR ETTOUNSI
+http://premium-ott.com:8000/live/bast/bast/3080.ts
+#EXTINF:-1,|AR| M TUNISIA
+http://premium-ott.com:8000/live/bast/bast/3534.ts
+#EXTINF:-1,|AR| TNN TUNISIA
+http://premium-ott.com:8000/live/bast/bast/3535.ts
+#EXTINF:-1,|AR| TELVZA TV
+http://premium-ott.com:8000/live/bast/bast/3538.ts
+#EXTINF:-1,|AR| ATTASI3A TV
+http://premium-ott.com:8000/live/bast/bast/3536.ts
+#EXTINF:-1,|AR| AL INSEN
+http://premium-ott.com:8000/live/bast/bast/3532.ts
+#EXTINF:-1,-------▼|AR| E.A.U. |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2781.ts
+#EXTINF:-1,|AR| MBC 1 HD
+http://premium-ott.com:8000/live/bast/bast/7308.ts
+#EXTINF:-1,|AR| MBC 1
+http://premium-ott.com:8000/live/bast/bast/2592.ts
+#EXTINF:-1,|AR| MBC 2 HD
+http://premium-ott.com:8000/live/bast/bast/7309.ts
+#EXTINF:-1,|AR| MBC 2
+http://premium-ott.com:8000/live/bast/bast/2593.ts
+#EXTINF:-1,|AR| MBC 3 HD
+http://premium-ott.com:8000/live/bast/bast/7310.ts
+#EXTINF:-1,|AR| MBC 3
+http://premium-ott.com:8000/live/bast/bast/2594.ts
+#EXTINF:-1,|AR| MBC 4 HD
+http://premium-ott.com:8000/live/bast/bast/2595.ts
+#EXTINF:-1,|AR| MBC MAX HD
+http://premium-ott.com:8000/live/bast/bast/3068.ts
+#EXTINF:-1,|AR| MBC ACTION HD
+http://premium-ott.com:8000/live/bast/bast/3067.ts
+#EXTINF:-1,|AR| MBC DRAMA HD
+http://premium-ott.com:8000/live/bast/bast/2596.ts
+#EXTINF:-1,|AR| MBC BOLLYWOOD HD
+http://premium-ott.com:8000/live/bast/bast/2597.ts
+#EXTINF:-1,|AR| MBC MISR 1
+http://premium-ott.com:8000/live/bast/bast/5530.ts
+#EXTINF:-1,|AR| MBC MISR 2 HD
+http://premium-ott.com:8000/live/bast/bast/5531.ts
+#EXTINF:-1,|AR| ART AFLAM 1
+http://premium-ott.com:8000/live/bast/bast/2612.ts
+#EXTINF:-1,|AR| ART AFLAM 2
+http://premium-ott.com:8000/live/bast/bast/2613.ts
+#EXTINF:-1,|AR| ART CINEMA
+http://premium-ott.com:8000/live/bast/bast/2614.ts
+#EXTINF:-1,|AR| ART HEKAYAT 1 HD
+http://premium-ott.com:8000/live/bast/bast/2615.ts
+#EXTINF:-1,|AR| ART HEKAYAT 2 HD
+http://premium-ott.com:8000/live/bast/bast/2616.ts
+#EXTINF:-1,|AR| AL RASHEED
+http://premium-ott.com:8000/live/bast/bast/2718.ts
+#EXTINF:-1,|AR| ONE TV
+http://premium-ott.com:8000/live/bast/bast/2746.ts
+#EXTINF:-1,|AR| ORIENT TV
+http://premium-ott.com:8000/live/bast/bast/2689.ts
+#EXTINF:-1,|AR| SHARJAH TV
+http://premium-ott.com:8000/live/bast/bast/3543.ts
+#EXTINF:-1,|AR| SPACE TOON 1
+http://premium-ott.com:8000/live/bast/bast/3448.ts
+#EXTINF:-1,|AR| MBC PRO SPORTS 1 HD
+http://premium-ott.com:8000/live/bast/bast/3445.ts
+#EXTINF:-1,|AR| MBC PRO SPORTS 2 HD
+http://premium-ott.com:8000/live/bast/bast/3446.ts
+#EXTINF:-1,|AR| MBC PRO SPORTS 3 HD
+http://premium-ott.com:8000/live/bast/bast/3447.ts
+#EXTINF:-1,--------▼|AR| LIBAN |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2780.ts
+#EXTINF:-1,|AR| LDC
+http://premium-ott.com:8000/live/bast/bast/7360.ts
+#EXTINF:-1,|AR| LBC SAT
+http://premium-ott.com:8000/live/bast/bast/2620.ts
+#EXTINF:-1,|AR| ALAAN TV
+http://premium-ott.com:8000/live/bast/bast/2717.ts
+#EXTINF:-1,|AR| FUTURE TV INT
+http://premium-ott.com:8000/live/bast/bast/2750.ts
+#EXTINF:-1,|AR| OTV LEBANON
+http://premium-ott.com:8000/live/bast/bast/2678.ts
+#EXTINF:-1,|AR| NBN- LEBANON
+http://premium-ott.com:8000/live/bast/bast/7351.ts
+#EXTINF:-1,|AR| MTV LEBANON
+http://premium-ott.com:8000/live/bast/bast/5541.ts
+#EXTINF:-1,|AR| AL MANAR TV
+http://premium-ott.com:8000/live/bast/bast/5543.ts
+#EXTINF:-1,|AR| ALJADEED
+http://premium-ott.com:8000/live/bast/bast/5542.ts
+#EXTINF:-1,|AR| AL MEHWER
+http://premium-ott.com:8000/live/bast/bast/7388.ts
+#EXTINF:-1,|AR| AL HADATH
+http://premium-ott.com:8000/live/bast/bast/7352.ts
+#EXTINF:-1,|AR| ANN
+http://premium-ott.com:8000/live/bast/bast/7355.ts
+#EXTINF:-1,|AR| MODY KIDS
+http://premium-ott.com:8000/live/bast/bast/7356.ts
+#EXTINF:-1,|AR| JEEM KIDS
+http://premium-ott.com:8000/live/bast/bast/7357.ts
+#EXTINF:-1,|AR| ROTANA AFLAM
+http://premium-ott.com:8000/live/bast/bast/3070.ts
+#EXTINF:-1,|AR| ROTANA CINEMA HD
+http://premium-ott.com:8000/live/bast/bast/2610.ts
+#EXTINF:-1,|AR| ROTANA CINEMA KSA
+http://premium-ott.com:8000/live/bast/bast/2611.ts
+#EXTINF:-1,|AR| ROTANA CLASSIC HD
+http://premium-ott.com:8000/live/bast/bast/2609.ts
+#EXTINF:-1,|AR| ROTANA KHALEJIA
+http://premium-ott.com:8000/live/bast/bast/3069.ts
+#EXTINF:-1,|AR| ROTANA KHALIJAH HD
+http://premium-ott.com:8000/live/bast/bast/2607.ts
+#EXTINF:-1,|AR| ROTANA MASRIYA
+http://premium-ott.com:8000/live/bast/bast/2606.ts
+#EXTINF:-1,|AR| ROTANA CLIP
+http://premium-ott.com:8000/live/bast/bast/2608.ts
+#EXTINF:-1,|AR| ROTANA MUSIC HD
+http://premium-ott.com:8000/live/bast/bast/2605.ts
+#EXTINF:-1,-----▼|AR| ROYAUME-UNI |AR|▼-----
+http://premium-ott.com:8000/live/bast/bast/2813.ts
+#EXTINF:-1,|AR| CBC ABU DHABI
+http://premium-ott.com:8000/live/bast/bast/2632.ts
+#EXTINF:-1,|AR| CBC  2 ABU DHABI
+http://premium-ott.com:8000/live/bast/bast/2633.ts
+#EXTINF:-1,|AR| CBC DRAMA
+http://premium-ott.com:8000/live/bast/bast/2631.ts
+#EXTINF:-1,|AR| CBC EXTRA
+http://premium-ott.com:8000/live/bast/bast/2630.ts
+#EXTINF:-1,|AR| CBC SOFRA
+http://premium-ott.com:8000/live/bast/bast/2629.ts
+#EXTINF:-1,|AR| BBC ARABIA
+http://premium-ott.com:8000/live/bast/bast/6254.ts
+#EXTINF:-1,|AR| AD NAT GEO HD
+http://premium-ott.com:8000/live/bast/bast/7385.ts
+#EXTINF:-1,|AR| AD ALEMARAT HD
+http://premium-ott.com:8000/live/bast/bast/7384.ts
+#EXTINF:-1,-------▼|AR| SHOWTIME |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/3085.ts
+#EXTINF:-1,|AR| OSN SEE OULA  HD
+http://premium-ott.com:8000/live/bast/bast/7297.ts
+#EXTINF:-1,|AR| OSN SEE VII SHAMIYA HD
+http://premium-ott.com:8000/live/bast/bast/7298.ts
+#EXTINF:-1,|AR| OSN SEE VII DRAMA HD
+http://premium-ott.com:8000/live/bast/bast/7299.ts
+#EXTINF:-1,|AR| OSN SEE VII BE-LINK HD
+http://premium-ott.com:8000/live/bast/bast/7685.ts
+#EXTINF:-1,|AR| OSN ALSAFWA
+http://premium-ott.com:8000/live/bast/bast/5547.ts
+#EXTINF:-1,|AR| OSN FIGHT HD
+http://premium-ott.com:8000/live/bast/bast/7296.ts
+#EXTINF:-1,|AR| OSN OFFICBOX 1
+http://premium-ott.com:8000/live/bast/bast/3059.ts
+#EXTINF:-1,|AR| OSN OFFICBOX 2
+http://premium-ott.com:8000/live/bast/bast/3060.ts
+#EXTINF:-1,|AR| OSN OFFICBOX 3 HD
+http://premium-ott.com:8000/live/bast/bast/3061.ts
+#EXTINF:-1,|AR| OSN CINEMA 1
+http://premium-ott.com:8000/live/bast/bast/7677.ts
+#EXTINF:-1,|AR| OSN CINEMA 2
+http://premium-ott.com:8000/live/bast/bast/7678.ts
+#EXTINF:-1,|AR| OSN ORBIT CINEMA 1
+http://premium-ott.com:8000/live/bast/bast/3298.ts
+#EXTINF:-1,|AR| OSN ORBIT CINEMA 2
+http://premium-ott.com:8000/live/bast/bast/3299.ts
+#EXTINF:-1,|AR| OSN FIRST HD
+http://premium-ott.com:8000/live/bast/bast/7671.ts
+#EXTINF:-1,|AR| OSN FIRST 2 HD
+http://premium-ott.com:8000/live/bast/bast/7681.ts
+#EXTINF:-1,|AR| OSN FIRST MORE
+http://premium-ott.com:8000/live/bast/bast/7675.ts
+#EXTINF:-1,|AR| OSN FIRST HBO HOME HD
+http://premium-ott.com:8000/live/bast/bast/7682.ts
+#EXTINF:-1,|AR| OSN MOVIES 2 HD
+http://premium-ott.com:8000/live/bast/bast/7673.ts
+#EXTINF:-1,|AR| OSN MOVIES PREMIERE  2 HD
+http://premium-ott.com:8000/live/bast/bast/7674.ts
+#EXTINF:-1,|AR| OSN MOVIE COMEDY
+http://premium-ott.com:8000/live/bast/bast/7667.ts
+#EXTINF:-1,|AR| OSN MOVIE ACTION
+http://premium-ott.com:8000/live/bast/bast/7668.ts
+#EXTINF:-1,|AR| OSN SERIES CHANNEL
+http://premium-ott.com:8000/live/bast/bast/5546.ts
+#EXTINF:-1,|AR| OSN STAR MOVIES
+http://premium-ott.com:8000/live/bast/bast/5553.ts
+#EXTINF:-1,|AR| OSN STARWORLD
+http://premium-ott.com:8000/live/bast/bast/5552.ts
+#EXTINF:-1,|AR| OSN YAHALA SHABAB
+http://premium-ott.com:8000/live/bast/bast/5544.ts
+#EXTINF:-1,|AR| OSN ON-DEMAND HD
+http://premium-ott.com:8000/live/bast/bast/3066.ts
+#EXTINF:-1,|AR| OSN ON-DEMAND EXTRA HD
+http://premium-ott.com:8000/live/bast/bast/3295.ts
+#EXTINF:-1,|AR| OSN MOVIES
+http://premium-ott.com:8000/live/bast/bast/3292.ts
+#EXTINF:-1,|AR| OSN MOVIE STAR HD
+http://premium-ott.com:8000/live/bast/bast/3056.ts
+#EXTINF:-1,|AR| OSN MOVIES DRAMA
+http://premium-ott.com:8000/live/bast/bast/3293.ts
+#EXTINF:-1,|AR| OSN MOVIES PREMIERE
+http://premium-ott.com:8000/live/bast/bast/3065.ts
+#EXTINF:-1,|AR| OSN MOVIES FESTIVAL
+http://premium-ott.com:8000/live/bast/bast/3054.ts
+#EXTINF:-1,|AR| OSN MOVIE KIDS HD
+http://premium-ott.com:8000/live/bast/bast/3064.ts
+#EXTINF:-1,|AR| OSN FIRST COMEDY  HD
+http://premium-ott.com:8000/live/bast/bast/3301.ts
+#EXTINF:-1,|AR| OSN FIRST COMEDY 2 HD
+http://premium-ott.com:8000/live/bast/bast/3063.ts
+#EXTINF:-1,|AR| OSN ACTION 1 HD
+http://premium-ott.com:8000/live/bast/bast/3296.ts
+#EXTINF:-1,|AR| OSN STAR WORLD HD
+http://premium-ott.com:8000/live/bast/bast/3297.ts
+#EXTINF:-1,|AR| OSN YAHALA
+http://premium-ott.com:8000/live/bast/bast/3300.ts
+#EXTINF:-1,|AR| OSN YAHAlA DRAMA
+http://premium-ott.com:8000/live/bast/bast/3055.ts
+#EXTINF:-1,|AR| OSN ELYOM
+http://premium-ott.com:8000/live/bast/bast/3057.ts
+#EXTINF:-1,|AR| OSN WWE HD
+http://premium-ott.com:8000/live/bast/bast/7317.ts
+#EXTINF:-1,|AR| OSN MOUSSALSALAT
+http://premium-ott.com:8000/live/bast/bast/7672.ts
+#EXTINF:-1,|AR| OSN ANIMAL PLANET
+http://premium-ott.com:8000/live/bast/bast/3062.ts
+#EXTINF:-1,|AR| OSN DISNEY XD HD
+http://premium-ott.com:8000/live/bast/bast/7686.ts
+#EXTINF:-1,|AR| OSN DISCOVERY WORLD
+http://premium-ott.com:8000/live/bast/bast/7670.ts
+#EXTINF:-1,|AR| OSN DISCOVERY ID
+http://premium-ott.com:8000/live/bast/bast/7669.ts
+#EXTINF:-1,|AR| OSN DISCOVERY SCIENCE
+http://premium-ott.com:8000/live/bast/bast/5550.ts
+#EXTINF:-1,|AR| OSN DISCOVERY FAMILY
+http://premium-ott.com:8000/live/bast/bast/5551.ts
+#EXTINF:-1,|AR| OSN NAT-GEO-WILD HD
+http://premium-ott.com:8000/live/bast/bast/3302.ts
+#EXTINF:-1,|AR| OSN NAT PEOPLE
+http://premium-ott.com:8000/live/bast/bast/5549.ts
+#EXTINF:-1,|AR| OSN HISTORY
+http://premium-ott.com:8000/live/bast/bast/7318.ts
+#EXTINF:-1,|AR| OSN HISTORY 2
+http://premium-ott.com:8000/live/bast/bast/7319.ts
+#EXTINF:-1,|AR| OSN DISNEY JUNIOR HD
+http://premium-ott.com:8000/live/bast/bast/5545.ts
+#EXTINF:-1,|AR| CARTOON NETWORK ARABIA
+http://premium-ott.com:8000/live/bast/bast/2674.ts
+#EXTINF:-1,|AR| OSN FANS
+http://premium-ott.com:8000/live/bast/bast/3294.ts
+#EXTINF:-1,|AR| OSN MUSIC
+http://premium-ott.com:8000/live/bast/bast/3058.ts
+#EXTINF:-1,-------▼|AR| EGYPTE |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2779.ts
+#EXTINF:-1,|AR| CAIRO CINEMA
+http://premium-ott.com:8000/live/bast/bast/2625.ts
+#EXTINF:-1,|AR| CAIRO DRAMA
+http://premium-ott.com:8000/live/bast/bast/2624.ts
+#EXTINF:-1,|AR| CAIRO AFLAM
+http://premium-ott.com:8000/live/bast/bast/3560.ts
+#EXTINF:-1,|AR| EL SHARQ
+http://premium-ott.com:8000/live/bast/bast/2672.ts
+#EXTINF:-1,|AR| MELODY CLASSIC
+http://premium-ott.com:8000/live/bast/bast/2697.ts
+#EXTINF:-1,|AR| MODERN SPORTS
+http://premium-ott.com:8000/live/bast/bast/2692.ts
+#EXTINF:-1,|AR| BLUE NILE
+http://premium-ott.com:8000/live/bast/bast/3551.ts
+#EXTINF:-1,|AR| TIME QURAN
+http://premium-ott.com:8000/live/bast/bast/3557.ts
+#EXTINF:-1,|AR| TIME FILM
+http://premium-ott.com:8000/live/bast/bast/3558.ts
+#EXTINF:-1,|AR| TIME CINEMA
+http://premium-ott.com:8000/live/bast/bast/3559.ts
+#EXTINF:-1,|AR| TIME COMEDY
+http://premium-ott.com:8000/live/bast/bast/2623.ts
+#EXTINF:-1,|AR| NILE CINEMA
+http://premium-ott.com:8000/live/bast/bast/3544.ts
+#EXTINF:-1,|AR| NILE CULTURE
+http://premium-ott.com:8000/live/bast/bast/3550.ts
+#EXTINF:-1,|AR| NILE DRAMA
+http://premium-ott.com:8000/live/bast/bast/3547.ts
+#EXTINF:-1,|AR| NILE FAMILY
+http://premium-ott.com:8000/live/bast/bast/3546.ts
+#EXTINF:-1,|AR| NILE LIFE
+http://premium-ott.com:8000/live/bast/bast/3545.ts
+#EXTINF:-1,|AR| NILE NEWS
+http://premium-ott.com:8000/live/bast/bast/3549.ts
+#EXTINF:-1,|AR| NILE SPORT
+http://premium-ott.com:8000/live/bast/bast/3548.ts
+#EXTINF:-1,|AR| STAR CINEMA 1
+http://premium-ott.com:8000/live/bast/bast/2621.ts
+#EXTINF:-1,|AR| STAR CINEMA 2
+http://premium-ott.com:8000/live/bast/bast/2622.ts
+#EXTINF:-1,|AR| PANORAMA COMEDY
+http://premium-ott.com:8000/live/bast/bast/3555.ts
+#EXTINF:-1,|AR| PANORAMA DRAMA 1
+http://premium-ott.com:8000/live/bast/bast/3552.ts
+#EXTINF:-1,|AR| PANORAMA DRAMA 2
+http://premium-ott.com:8000/live/bast/bast/3553.ts
+#EXTINF:-1,|AR| PANORAMA FILM
+http://premium-ott.com:8000/live/bast/bast/3554.ts
+#EXTINF:-1,|AR| PANORAMA FOOD
+http://premium-ott.com:8000/live/bast/bast/3556.ts
+#EXTINF:-1,|AR| WESAL TV - egypt religion
+http://premium-ott.com:8000/live/bast/bast/5512.ts
+#EXTINF:-1,--------▼|AR| LIBYE |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2776.ts
+#EXTINF:-1,|AR| AL NAHAR
+http://premium-ott.com:8000/live/bast/bast/2667.ts
+#EXTINF:-1,|AR| AL NAHAR DRAMA
+http://premium-ott.com:8000/live/bast/bast/2666.ts
+#EXTINF:-1,|AR| LIBYA 218 TV
+http://premium-ott.com:8000/live/bast/bast/2649.ts
+#EXTINF:-1,|AR| AL JAMAHIRIYA - Libye
+http://premium-ott.com:8000/live/bast/bast/5123.ts
+#EXTINF:-1,-----▼|AR| AR. SAOUDI |AR|▼------
+http://premium-ott.com:8000/live/bast/bast/2777.ts
+#EXTINF:-1,|AR| AL AMAKEN DRAMA
+http://premium-ott.com:8000/live/bast/bast/2734.ts
+#EXTINF:-1,|AR| MECCA TV
+http://premium-ott.com:8000/live/bast/bast/2693.ts
+#EXTINF:-1,|AR| SAOUDI 1
+http://premium-ott.com:8000/live/bast/bast/3531.ts
+#EXTINF:-1,|AR| SAUDI 24
+http://premium-ott.com:8000/live/bast/bast/2744.ts
+#EXTINF:-1,|AR| SAUDI QURAN
+http://premium-ott.com:8000/live/bast/bast/3530.ts
+#EXTINF:-1,--------▼|AR| QATAR |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2778.ts
+#EXTINF:-1,|AR| AL JAZEERA
+http://premium-ott.com:8000/live/bast/bast/3083.ts
+#EXTINF:-1,|AR| AL JAZEERA MUBASHER
+http://premium-ott.com:8000/live/bast/bast/2733.ts
+#EXTINF:-1,|AR| AL JAZEERA DOC
+http://premium-ott.com:8000/live/bast/bast/3084.ts
+#EXTINF:-1,|AR| QATAR TODAY
+http://premium-ott.com:8000/live/bast/bast/2687.ts
+#EXTINF:-1,|AR| BEIN MOVIES 1 HD
+http://premium-ott.com:8000/live/bast/bast/3524.ts
+#EXTINF:-1,|AR| BEIN MOVIES 2 HD
+http://premium-ott.com:8000/live/bast/bast/3525.ts
+#EXTINF:-1,|AR| BEIN MOVIES 3 HD
+http://premium-ott.com:8000/live/bast/bast/3526.ts
+#EXTINF:-1,|AR| BEIN MOVIES 4 HD
+http://premium-ott.com:8000/live/bast/bast/3527.ts
+#EXTINF:-1,|AR| BARAEM
+http://premium-ott.com:8000/live/bast/bast/3450.ts
+#EXTINF:-1,--------▼|AR| DUBAÏ |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2782.ts
+#EXTINF:-1,|AR| DUBAI TV
+http://premium-ott.com:8000/live/bast/bast/7379.ts
+#EXTINF:-1,|AR| DUBAI AL OULA
+http://premium-ott.com:8000/live/bast/bast/2628.ts
+#EXTINF:-1,|AR| SAMA DUBAI
+http://premium-ott.com:8000/live/bast/bast/2745.ts
+#EXTINF:-1,|AR| DUBAI DRAMA
+http://premium-ott.com:8000/live/bast/bast/2627.ts
+#EXTINF:-1,|AR| DUBAI ZAMAN
+http://premium-ott.com:8000/live/bast/bast/2626.ts
+#EXTINF:-1,|AR| DUBAI SPORTS 1
+http://premium-ott.com:8000/live/bast/bast/2770.ts
+#EXTINF:-1,|AR| DUBAI SPORTS 2
+http://premium-ott.com:8000/live/bast/bast/2772.ts
+#EXTINF:-1,|AR| DUBAI RACING
+http://premium-ott.com:8000/live/bast/bast/2771.ts
+#EXTINF:-1,------▼|AR| JORDANIE |AR|▼-------
+http://premium-ott.com:8000/live/bast/bast/2784.ts
+#EXTINF:-1,|AR| AGHANINA
+http://premium-ott.com:8000/live/bast/bast/2724.ts
+#EXTINF:-1,|AR| KARAMEESH
+http://premium-ott.com:8000/live/bast/bast/3449.ts
+#EXTINF:-1,|AR| JORDAN SPORT
+http://premium-ott.com:8000/live/bast/bast/2708.ts
+#EXTINF:-1,--------▼|AR| YEMEN |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2787.ts
+#EXTINF:-1,|AR| YEMEN SHABAB
+http://premium-ott.com:8000/live/bast/bast/7358.ts
+#EXTINF:-1,-------▼|AR| KOWEIT |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2800.ts
+#EXTINF:-1,|AR| KUWAIT TV
+http://premium-ott.com:8000/live/bast/bast/2698.ts
+#EXTINF:-1,|AR| KUWAIT 1
+http://premium-ott.com:8000/live/bast/bast/6073.ts
+#EXTINF:-1,|AR| KUWAIT 2
+http://premium-ott.com:8000/live/bast/bast/6074.ts
+#EXTINF:-1,|AR| KUWAIT AL ARABI
+http://premium-ott.com:8000/live/bast/bast/6075.ts
+#EXTINF:-1,|AR| KUWAIT XTRA
+http://premium-ott.com:8000/live/bast/bast/6077.ts
+#EXTINF:-1,|AR| KUWAIT PLUS
+http://premium-ott.com:8000/live/bast/bast/6076.ts
+#EXTINF:-1,|AR| AL RESALAH
+http://premium-ott.com:8000/live/bast/bast/2728.ts
+#EXTINF:-1,|AR| AL RESALAH - Koweit
+http://premium-ott.com:8000/live/bast/bast/3528.ts
+#EXTINF:-1,|AR| KTV 1
+http://premium-ott.com:8000/live/bast/bast/2703.ts
+#EXTINF:-1,|AR| KTV 2
+http://premium-ott.com:8000/live/bast/bast/2704.ts
+#EXTINF:-1,|AR| KTV 3
+http://premium-ott.com:8000/live/bast/bast/2705.ts
+#EXTINF:-1,|AR| KTV AL ARABI
+http://premium-ott.com:8000/live/bast/bast/2702.ts
+#EXTINF:-1,|AR| KUWAIT SPORTS PLUS
+http://premium-ott.com:8000/live/bast/bast/2699.ts
+#EXTINF:-1,--------▼|AR| SYRIE |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2814.ts
+#EXTINF:-1,|AR| SYRIA
+http://premium-ott.com:8000/live/bast/bast/5532.ts
+#EXTINF:-1,|AR| SYRIA ALIKHBARIA
+http://premium-ott.com:8000/live/bast/bast/5537.ts
+#EXTINF:-1,|AR| SYRIA ALOULA
+http://premium-ott.com:8000/live/bast/bast/5534.ts
+#EXTINF:-1,|AR| SYRIA DRAMA
+http://premium-ott.com:8000/live/bast/bast/5535.ts
+#EXTINF:-1,|AR| SYRIA NOUR
+http://premium-ott.com:8000/live/bast/bast/5536.ts
+#EXTINF:-1,|AR| SYRIA SAMA
+http://premium-ott.com:8000/live/bast/bast/5533.ts
+#EXTINF:-1,|AR| SYRIA NEWS
+http://premium-ott.com:8000/live/bast/bast/7342.ts
+#EXTINF:-1,|AR| SYRIA NABD
+http://premium-ott.com:8000/live/bast/bast/7343.ts
+#EXTINF:-1,|AR| MASSAYA
+http://premium-ott.com:8000/live/bast/bast/2741.ts
+#EXTINF:-1,--------▼|AR| IRAK |AR|▼---------
+http://premium-ott.com:8000/live/bast/bast/2788.ts
+#EXTINF:-1,|AR| IRAQIA
+http://premium-ott.com:8000/live/bast/bast/7380.ts
+#EXTINF:-1,|AR| IRAQIA SPORT
+http://premium-ott.com:8000/live/bast/bast/7381.ts
+#EXTINF:-1,|AR| AL SUMARIA
+http://premium-ott.com:8000/live/bast/bast/2662.ts
+#EXTINF:-1,|AR| ALDIYAR SAT
+http://premium-ott.com:8000/live/bast/bast/2660.ts
+#EXTINF:-1,|AR| AL MASAR
+http://premium-ott.com:8000/live/bast/bast/2637.ts
+#EXTINF:-1,|AR| AL RAFIDEN TV
+http://premium-ott.com:8000/live/bast/bast/2636.ts
+#EXTINF:-1,|AR| KNN
+http://premium-ott.com:8000/live/bast/bast/2638.ts
+#EXTINF:-1,|AR| SHARQIYA NEWS
+http://premium-ott.com:8000/live/bast/bast/2647.ts
+#EXTINF:-1,|AR| SHARQIYA TV
+http://premium-ott.com:8000/live/bast/bast/2646.ts
+#EXTINF:-1,--------▼|AR| IRAN |AR|▼---------
+http://premium-ott.com:8000/live/bast/bast/2789.ts
+#EXTINF:-1,|AR| AL ALAM
+http://premium-ott.com:8000/live/bast/bast/2736.ts
+#EXTINF:-1,|AR| IFILM ENGLISH
+http://premium-ott.com:8000/live/bast/bast/2709.ts
+#EXTINF:-1,-------▼|AR| SOUDAN |AR|▼--------
+http://premium-ott.com:8000/live/bast/bast/2804.ts
+#EXTINF:-1,|AR| ASHOROOQ TV
+http://premium-ott.com:8000/live/bast/bast/2713.ts
+#EXTINF:-1,------▼|AR| INDEFINI |AR|▼-------
+http://premium-ott.com:8000/live/bast/bast/2815.ts
+#EXTINF:-1,|AR| PALESTINE AL YAWM
+http://premium-ott.com:8000/live/bast/bast/7359.ts
+#EXTINF:-1,|AR| 24 NEWS
+http://premium-ott.com:8000/live/bast/bast/2641.ts
+#EXTINF:-1,|AR| AL DAFRAH
+http://premium-ott.com:8000/live/bast/bast/2670.ts
+#EXTINF:-1,|AR| AL ETJAH TV
+http://premium-ott.com:8000/live/bast/bast/2722.ts
+#EXTINF:-1,|AR| AL GHAD AL ARABY
+http://premium-ott.com:8000/live/bast/bast/2669.ts
+#EXTINF:-1,|AR| AL MA ALY
+http://premium-ott.com:8000/live/bast/bast/2731.ts
+#EXTINF:-1,|AR| AL MASDAR
+http://premium-ott.com:8000/live/bast/bast/2730.ts
+#EXTINF:-1,|AR| AL MASRAWEYA AFLAM
+http://premium-ott.com:8000/live/bast/bast/2729.ts
+#EXTINF:-1,|AR| AL NAEEM
+http://premium-ott.com:8000/live/bast/bast/2719.ts
+#EXTINF:-1,|AR| AL NOUJABA
+http://premium-ott.com:8000/live/bast/bast/2665.ts
+#EXTINF:-1,|AR| AL SEHA WALJAMAL
+http://premium-ott.com:8000/live/bast/bast/2640.ts
+#EXTINF:-1,|AR| AL SHAMAL TV
+http://premium-ott.com:8000/live/bast/bast/2663.ts
+#EXTINF:-1,|AR| AL WAAD CHANNEL
+http://premium-ott.com:8000/live/bast/bast/2661.ts
+#EXTINF:-1,|AR| AL HAYAT 1
+http://premium-ott.com:8000/live/bast/bast/6069.ts
+#EXTINF:-1,|AR| AL HAYAT 2
+http://premium-ott.com:8000/live/bast/bast/6070.ts
+#EXTINF:-1,|AR| AL HAYAT 3
+http://premium-ott.com:8000/live/bast/bast/6071.ts
+#EXTINF:-1,|AR| ALHAYAH ALAAN
+http://premium-ott.com:8000/live/bast/bast/2659.ts
+#EXTINF:-1,|AR| ALTHANYA
+http://premium-ott.com:8000/live/bast/bast/2658.ts
+#EXTINF:-1,|AR| AL HAYAT CINEMA
+http://premium-ott.com:8000/live/bast/bast/6072.ts
+#EXTINF:-1,|AR| BELQEES TV
+http://premium-ott.com:8000/live/bast/bast/2755.ts
+#EXTINF:-1,|AR| BIN OTHAIMEEN
+http://premium-ott.com:8000/live/bast/bast/2754.ts
+#EXTINF:-1,|AR| CINEMA PRO
+http://premium-ott.com:8000/live/bast/bast/2711.ts
+#EXTINF:-1,|AR| EURONEWS
+http://premium-ott.com:8000/live/bast/bast/2710.ts
+#EXTINF:-1,|AR| FADAK TV
+http://premium-ott.com:8000/live/bast/bast/2752.ts
+#EXTINF:-1,|AR| MOHABAT TV
+http://premium-ott.com:8000/live/bast/bast/2749.ts
+#EXTINF:-1,|AR| NOON KIDS
+http://premium-ott.com:8000/live/bast/bast/2691.ts
+#EXTINF:-1,|AR| PLAY AFLAM
+http://premium-ott.com:8000/live/bast/bast/2688.ts
+#EXTINF:-1,|AR| RAWABI TV
+http://premium-ott.com:8000/live/bast/bast/2739.ts
+#EXTINF:-1,|AR| RUSIYA AL-YAUM
+http://premium-ott.com:8000/live/bast/bast/2675.ts
+#EXTINF:-1,|AR| SAT7 KIDS
+http://premium-ott.com:8000/live/bast/bast/5511.ts
+#EXTINF:-1,|AR| MARAH
+http://premium-ott.com:8000/live/bast/bast/5540.ts
+#EXTINF:-1,|AR| HALAB TODAY TV
+http://premium-ott.com:8000/live/bast/bast/5539.ts
+#EXTINF:-1,|AR| ALMAYADEEN-TV
+http://premium-ott.com:8000/live/bast/bast/6255.ts
+#EXTINF:-1,|AR| TOK TOK CINEMA
+http://premium-ott.com:8000/live/bast/bast/2645.ts
+#EXTINF:-1,|AR| ZEE AFLAM
+http://premium-ott.com:8000/live/bast/bast/2643.ts
+#EXTINF:-1,|AR| ZEE ALWAN
+http://premium-ott.com:8000/live/bast/bast/2642.ts
