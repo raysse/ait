@@ -113,96 +113,248 @@ http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/714.ts
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/715.ts
 #EXTINF:0 type="stream" channelId="2420" tvg-name="RomanceTV" tvg-group="DEUTCHLAND" , RomanceTV
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/712.ts
-#EXTINF:-1,---- Cyfrowy Polsat ------
-http://163.172.6.8:8000/live/5566/5566/1326.ts
-#EXTINF:-1,PL: Eleven
-http://163.172.6.8:8000/live/5566/5566/1307.ts
-#EXTINF:-1,PL: Eleven Sports
-http://163.172.6.8:8000/live/5566/5566/1312.ts
-#EXTINF:-1,PL: N sport+ HD
-http://163.172.6.8:8000/live/5566/5566/1325.ts
-#EXTINF:-1,PL: Canal + Sport HD
-http://163.172.6.8:8000/live/5566/5566/1313.ts
-#EXTINF:-1,PL: TVP Sport
-http://163.172.6.8:8000/live/5566/5566/1319.ts
-#EXTINF:-1,PL: Polsat
-http://163.172.6.8:8000/live/5566/5566/1322.ts
-#EXTINF:-1,PL: Polsat Film
-http://163.172.6.8:8000/live/5566/5566/1311.ts
-#EXTINF:-1,PL: Polsat Play
-http://163.172.6.8:8000/live/5566/5566/1320.ts
-#EXTINF:-1,PL: Polsat Cafe
-http://163.172.6.8:8000/live/5566/5566/1301.ts
-#EXTINF:-1,PL: Polsat News
-http://163.172.6.8:8000/live/5566/5566/1302.ts
-#EXTINF:-1,PL: Polsat News 2
-http://163.172.6.8:8000/live/5566/5566/1303.ts
-#EXTINF:-1,PL: Film box
-http://163.172.6.8:8000/live/5566/5566/1304.ts
-#EXTINF:-1,PL: Filmbox Action
-http://163.172.6.8:8000/live/5566/5566/1324.ts
-#EXTINF:-1,PL: Polsat Premiera
-http://163.172.6.8:8000/live/5566/5566/1300.ts
-#EXTINF:-1,PL: Filmbox Premium
-http://163.172.6.8:8000/live/5566/5566/1306.ts
-#EXTINF:-1,PL: CC Family
-http://163.172.6.8:8000/live/5566/5566/1284.ts
-#EXTINF:-1,PL: CBS Reality
-http://163.172.6.8:8000/live/5566/5566/1283.ts
-#EXTINF:-1,PL: CBS Drama
-http://163.172.6.8:8000/live/5566/5566/1282.ts
-#EXTINF:-1,PL: Fox Comedy HD
-http://163.172.6.8:8000/live/5566/5566/1288.ts
-#EXTINF:-1,PL: Fox HD
-http://163.172.6.8:8000/live/5566/5566/1285.ts
-#EXTINF:-1,PL: TLC
-http://163.172.6.8:8000/live/5566/5566/1286.ts
-#EXTINF:-1,PL: Polo TV
-http://163.172.6.8:8000/live/5566/5566/1298.ts
-#EXTINF:-1,PL: Lech
-http://163.172.6.8:8000/live/5566/5566/1310.ts
-#EXTINF:-1,PL: TVP 1
-http://163.172.6.8:8000/live/5566/5566/1299.ts
-#EXTINF:-1,PL: TV Puls
-http://163.172.6.8:8000/live/5566/5566/1318.ts
-#EXTINF:-1,PL: TVN
-http://163.172.6.8:8000/live/5566/5566/1314.ts
-#EXTINF:-1,PL: TVN 24
-http://163.172.6.8:8000/live/5566/5566/1315.ts
-#EXTINF:-1,PL: TVN Turbo
-http://163.172.6.8:8000/live/5566/5566/1321.ts
-#EXTINF:-1,PL: Kino Polska
-http://163.172.6.8:8000/live/5566/5566/1305.ts
-#EXTINF:-1,PL: Discovery Turbo Xtra
-http://163.172.6.8:8000/live/5566/5566/1323.ts
-#EXTINF:-1,PL: Discovery
-http://163.172.6.8:8000/live/5566/5566/1287.ts
-#EXTINF:-1,PL: History
-http://163.172.6.8:8000/live/5566/5566/1308.ts
-#EXTINF:-1,PL: Planete
-http://163.172.6.8:8000/live/5566/5566/1317.ts
-#EXTINF:-1,PL: Nickelodeon
-http://163.172.6.8:8000/live/5566/5566/1296.ts
-#EXTINF:-1,PL: MiniMini
-http://163.172.6.8:8000/live/5566/5566/1294.ts
-#EXTINF:-1,PL: Boomerang
-http://163.172.6.8:8000/live/5566/5566/1293.ts
-#EXTINF:-1,PL: AXN White
-http://163.172.6.8:8000/live/5566/5566/1292.ts
-#EXTINF:-1,PL: AXN Spin HD
-http://163.172.6.8:8000/live/5566/5566/1291.ts
+#EXTINF:-1,-------★ POLAND CHANNEL ★-------
+http://premium-ott.com:8000/live/bast/bast/6867.ts
+#EXTINF:-1,|PL| TVP 1 HD
+http://premium-ott.com:8000/live/bast/bast/6868.ts
+#EXTINF:-1,|PL| TVP 2 HD
+http://premium-ott.com:8000/live/bast/bast/6869.ts
+#EXTINF:-1,|PL| TVP 3
+http://premium-ott.com:8000/live/bast/bast/6870.ts
+#EXTINF:-1,|PL| TVP POLONIA
+http://premium-ott.com:8000/live/bast/bast/6875.ts
+#EXTINF:-1,|PL| TVP SERIALE
+http://premium-ott.com:8000/live/bast/bast/6876.ts
+#EXTINF:-1,|PL| POLSAT
+http://premium-ott.com:8000/live/bast/bast/6871.ts
+#EXTINF:-1,|PL| POLSAT 2
+http://premium-ott.com:8000/live/bast/bast/6872.ts
+#EXTINF:-1,|PL| POLSAT CAFE
+http://premium-ott.com:8000/live/bast/bast/6873.ts
+#EXTINF:-1,|PL| POLSAT PLAY
+http://premium-ott.com:8000/live/bast/bast/6874.ts
+#EXTINF:-1,|PL| TVN
+http://premium-ott.com:8000/live/bast/bast/6877.ts
+#EXTINF:-1,|PL| TV 4
+http://premium-ott.com:8000/live/bast/bast/6878.ts
+#EXTINF:-1,|PL| TVN 7
+http://premium-ott.com:8000/live/bast/bast/6880.ts
+#EXTINF:-1,|PL| WTK
+http://premium-ott.com:8000/live/bast/bast/6881.ts
+#EXTINF:-1,|PL| TWOJA TV
+http://premium-ott.com:8000/live/bast/bast/6882.ts
+#EXTINF:-1,|PL| TV TRWAM
+http://premium-ott.com:8000/live/bast/bast/6883.ts
+#EXTINF:-1,|PL| TV REPUBLIKA
+http://premium-ott.com:8000/live/bast/bast/6884.ts
+#EXTINF:-1,|PL| TV PULS
+http://premium-ott.com:8000/live/bast/bast/6885.ts
+#EXTINF:-1,|PL| TV ASTA
+http://premium-ott.com:8000/live/bast/bast/6886.ts
+#EXTINF:-1,|PL| TRWAM
+http://premium-ott.com:8000/live/bast/bast/6887.ts
+#EXTINF:-1,|PL| POLO TV
+http://premium-ott.com:8000/live/bast/bast/6888.ts
+#EXTINF:-1,|PL| FOKUS TV
+http://premium-ott.com:8000/live/bast/bast/6889.ts
+#EXTINF:-1,|PL| 4FUN TV
+http://premium-ott.com:8000/live/bast/bast/6890.ts
+#EXTINF:-1,|PL| MTV POLSKA
+http://premium-ott.com:8000/live/bast/bast/6891.ts
+#EXTINF:-1,|PL| AMAZING
+http://premium-ott.com:8000/live/bast/bast/6892.ts
+#EXTINF:-1,|PL| TVP INFO
+http://premium-ott.com:8000/live/bast/bast/6894.ts
+#EXTINF:-1,|PL| POLSAT NEWS
+http://premium-ott.com:8000/live/bast/bast/6897.ts
+#EXTINF:-1,-------▼|PL| CINEMA |PL|▼--------
+http://premium-ott.com:8000/live/bast/bast/6899.ts
+#EXTINF:-1,|PL| CANAL  HD
+http://premium-ott.com:8000/live/bast/bast/6900.ts
+#EXTINF:-1,|PL| CANAL  FAMILY HD
+http://premium-ott.com:8000/live/bast/bast/6901.ts
+#EXTINF:-1,|PL| CANAL  SERIALE HD
+http://premium-ott.com:8000/live/bast/bast/6902.ts
+#EXTINF:-1,|PL| POLSAT FILM
+http://premium-ott.com:8000/live/bast/bast/6903.ts
+#EXTINF:-1,|PL| KINO POLSKA
+http://premium-ott.com:8000/live/bast/bast/6904.ts
+#EXTINF:-1,|PL| FILMBOX
+http://premium-ott.com:8000/live/bast/bast/6907.ts
+#EXTINF:-1,|PL| FILMBOX PREMIUM
+http://premium-ott.com:8000/live/bast/bast/6908.ts
+#EXTINF:-1,|PL| AXN WHITE
+http://premium-ott.com:8000/live/bast/bast/6914.ts
+#EXTINF:-1,|PL| AXN SPIN HD
+http://premium-ott.com:8000/live/bast/bast/6915.ts
+#EXTINF:-1,|PL| HBO HD
+http://premium-ott.com:8000/live/bast/bast/6916.ts
+#EXTINF:-1,|PL| HBO 2
+http://premium-ott.com:8000/live/bast/bast/6917.ts
+#EXTINF:-1,-------▼|PL| SPORTS |PL|▼--------
+http://premium-ott.com:8000/live/bast/bast/6918.ts
+#EXTINF:-1,|PL| CANAL  SPORT HD
+http://premium-ott.com:8000/live/bast/bast/6919.ts
+#EXTINF:-1,|PL| CANAL  SPORT 2 HD
+http://premium-ott.com:8000/live/bast/bast/6920.ts
+#EXTINF:-1,|PL| POLSAT SPORT HD
+http://premium-ott.com:8000/live/bast/bast/6921.ts
+#EXTINF:-1,|PL| POLSAT SPORT EXTRA HD
+http://premium-ott.com:8000/live/bast/bast/6922.ts
+#EXTINF:-1,|PL| TVP SPORT HD
+http://premium-ott.com:8000/live/bast/bast/6923.ts
+#EXTINF:-1,|PL| ELEVEN HD
+http://premium-ott.com:8000/live/bast/bast/6925.ts
+#EXTINF:-1,|PL| ELEVEN SPORTS HD
+http://premium-ott.com:8000/live/bast/bast/6924.ts
+#EXTINF:-1,|PL| ORANGE SPORT
+http://premium-ott.com:8000/live/bast/bast/6926.ts
+#EXTINF:-1,|PL| NSPORT
+http://premium-ott.com:8000/live/bast/bast/6927.ts
+#EXTINF:-1,|PL| FIGHTBOX HD
+http://premium-ott.com:8000/live/bast/bast/6928.ts
+#EXTINF:-1,|PL| EUROSPORT 1
+http://premium-ott.com:8000/live/bast/bast/6929.ts
+#EXTINF:-1,|PL| LECH TV
+http://premium-ott.com:8000/live/bast/bast/6930.ts
+#EXTINF:-1,-------▼|PL| KIDS |PL|▼--------
+http://premium-ott.com:8000/live/bast/bast/6931.ts
+#EXTINF:-1,|PL| ALE KINO  HD
+http://premium-ott.com:8000/live/bast/bast/6905.ts
+#EXTINF:-1,|PL| MINI MINI
+http://premium-ott.com:8000/live/bast/bast/6932.ts
+#EXTINF:-1,|PL| BOOMERANG
+http://premium-ott.com:8000/live/bast/bast/6933.ts
+#EXTINF:-1,|PL| TELETOON  HD
+http://premium-ott.com:8000/live/bast/bast/6934.ts
+#EXTINF:-1,|PL| DISNEY CHANNEL
+http://premium-ott.com:8000/live/bast/bast/6935.ts
+#EXTINF:-1,|PL| NICKELODEON
+http://premium-ott.com:8000/live/bast/bast/6936.ts
+#EXTINF:-1,-------▼|PL| DOCU |PL|▼--------
+http://premium-ott.com:8000/live/bast/bast/6937.ts
+#EXTINF:-1,|PL| DISCOVERY
+http://premium-ott.com:8000/live/bast/bast/6938.ts
+#EXTINF:-1,|PL| DISCOVERY TURBO XTRA
+http://premium-ott.com:8000/live/bast/bast/6939.ts
+#EXTINF:-1,|PL| DA VINCI LEARNING
+http://premium-ott.com:8000/live/bast/bast/6940.ts
+#EXTINF:-1,|PL| NATIONAL GEOGRAPHIC
+http://premium-ott.com:8000/live/bast/bast/6941.ts
+#EXTINF:-1,|PL| NATIONAL GEO WILD
+http://premium-ott.com:8000/live/bast/bast/6942.ts
+#EXTINF:-1,|PL| KUCHINA HD
+http://premium-ott.com:8000/live/bast/bast/6943.ts
+#EXTINF:-1,|PL| DISCOVERY SCIENCE
+http://premium-ott.com:8000/live/bast/bast/6944.ts
+#EXTINF:-1,|PL| DISCOVERY LIFE
+http://premium-ott.com:8000/live/bast/bast/6945.ts
+#EXTINF:-1,|PL| CANAL  DISCOVERY HD
+http://premium-ott.com:8000/live/bast/bast/6946.ts
+#EXTINF:-1,|PL| BBC HD
+http://premium-ott.com:8000/live/bast/bast/6947.ts
+#EXTINF:-1,|PL| BBC EARTH
+http://premium-ott.com:8000/live/bast/bast/6948.ts
+#EXTINF:-1,|PL| ANIMAL PLANET
+http://premium-ott.com:8000/live/bast/bast/6949.ts
+#EXTINF:-1,|PL| PLANETE
+http://premium-ott.com:8000/live/bast/bast/6950.ts
+#EXTINF:-1,|PL| TVN STYLE
+http://premium-ott.com:8000/live/bast/bast/6951.ts
+#EXTINF:-1,|PL| TVN TURBO
+http://premium-ott.com:8000/live/bast/bast/6952.ts
+#EXTINF:-1,|PL| MOTORWIZJA
+http://premium-ott.com:8000/live/bast/bast/6953.ts
+#EXTINF:-1,|PL| HISTORY
+http://premium-ott.com:8000/live/bast/bast/6954.ts
+#EXTINF:-1,PL: 4Fun TV
+http://51.254.197.40:25461/live/n/n/10283.ts
+#EXTINF:-1,PL: Ale Kino  HD
+http://51.254.197.40:25461/live/n/n/10284.ts
+#EXTINF:-1,PL: Amazing
+http://51.254.197.40:25461/live/n/n/10285.ts
+#EXTINF:-1,PL: Animal Planet
+http://51.254.197.40:25461/live/n/n/10286.ts
 #EXTINF:-1,PL: AXN HD
-http://163.172.6.8:8000/live/5566/5566/1290.ts
-#EXTINF:-1,PL: AXN Black
-http://163.172.6.8:8000/live/5566/5566/1289.ts
-#EXTINF:-1,PL: Fokus Tv
-http://163.172.6.8:8000/live/5566/5566/1316.ts
-#EXTINF:-1,PL: VH1+
-http://163.172.6.8:8000/live/5566/5566/1295.ts
+http://51.254.197.40:25461/live/n/n/10287.ts
+#EXTINF:-1,PL: AXN Spin HD
+http://51.254.197.40:25461/live/n/n/10288.ts
+#EXTINF:-1,PL: AXN White
+http://51.254.197.40:25461/live/n/n/10289.ts
+#EXTINF:-1,PL: BBC HD
+http://51.254.197.40:25461/live/n/n/10290.ts
+#EXTINF:-1,PL: Canal  Discovery HD
+http://51.254.197.40:25461/live/n/n/10291.ts
+#EXTINF:-1,PL: Canal  Family HD
+http://51.254.197.40:25461/live/n/n/10292.ts
+#EXTINF:-1,PL: Canal  HD
+http://51.254.197.40:25461/live/n/n/10293.ts
+#EXTINF:-1,PL: Cinemax HD
+http://51.254.197.40:25461/live/n/n/10294.ts
+#EXTINF:-1,PL: Discovery HD
+http://51.254.197.40:25461/live/n/n/10295.ts
+#EXTINF:-1,PL: Discovery Life
+http://51.254.197.40:25461/live/n/n/10296.ts
+#EXTINF:-1,PL: Discovery Science
+http://51.254.197.40:25461/live/n/n/10297.ts
+#EXTINF:-1,PL: Discovery Turbo Xtra
+http://51.254.197.40:25461/live/n/n/10298.ts
+#EXTINF:-1,PL: Disney Channel
+http://51.254.197.40:25461/live/n/n/10299.ts
+#EXTINF:-1,PL: Filmbox
+http://51.254.197.40:25461/live/n/n/10300.ts
+#EXTINF:-1,PL: Filmbox Action
+http://51.254.197.40:25461/live/n/n/10301.ts
+#EXTINF:-1,PL: Filmbox Family
+http://51.254.197.40:25461/live/n/n/10302.ts
+#EXTINF:-1,PL: Filmbox Premium
+http://51.254.197.40:25461/live/n/n/10303.ts
+#EXTINF:-1,PL: Fox Comedy
+http://51.254.197.40:25461/live/n/n/10304.ts
+#EXTINF:-1,PL: HBO 2
+http://51.254.197.40:25461/live/n/n/10305.ts
+#EXTINF:-1,PL: HBO HD
+http://51.254.197.40:25461/live/n/n/10306.ts
+#EXTINF:-1,PL: History
+http://51.254.197.40:25461/live/n/n/10307.ts
+#EXTINF:-1,PL: Kino Polska
+http://51.254.197.40:25461/live/n/n/10308.ts
+#EXTINF:-1,PL: Kuchina HD
+http://51.254.197.40:25461/live/n/n/10309.ts
+#EXTINF:-1,PL: Mini Mini
+http://51.254.197.40:25461/live/n/n/10310.ts
 #EXTINF:-1,PL: MTV Polska
-http://163.172.6.8:8000/live/5566/5566/1297.ts
-#EXTINF:-1,PL: Music Vox 2 Tv
-http://163.172.6.8:8000/live/5566/5566/1309.ts
+http://51.254.197.40:25461/live/n/n/10311.ts
+#EXTINF:-1,PL: National Geo Wild
+http://51.254.197.40:25461/live/n/n/10312.ts
+#EXTINF:-1,PL: National Geographic
+http://51.254.197.40:25461/live/n/n/10313.ts
+#EXTINF:-1,PL: Polsat 2
+http://51.254.197.40:25461/live/n/n/10314.ts
+#EXTINF:-1,PL: Polsat Cafe
+http://51.254.197.40:25461/live/n/n/10315.ts
+#EXTINF:-1,PL: Polsat HD
+http://51.254.197.40:25461/live/n/n/10316.ts
+#EXTINF:-1,PL: TVP 1 HD
+http://51.254.197.40:25461/live/n/n/10317.ts
+#EXTINF:-1,POLSAT 2 HD PL
+http://51.254.197.40:25461/live/n/n/10336.ts
+#EXTINF:-1,POLSAT CAFE HD PL
+http://51.254.197.40:25461/live/n/n/10337.ts
+#EXTINF:-1,POLSAT FILM HD PL
+http://51.254.197.40:25461/live/n/n/10338.ts
+#EXTINF:-1,POLSAT PLAY HD PL
+http://51.254.197.40:25461/live/n/n/10339.ts
+#EXTINF:-1,TV4 HD PL
+http://51.254.197.40:25461/live/n/n/10331.ts
+#EXTINF:-1,TVP 1 HD PL
+http://51.254.197.40:25461/live/n/n/10332.ts
+#EXTINF:-1,TVP HD PL
+http://51.254.197.40:25461/live/n/n/10333.ts
+#EXTINF:-1,TVP SPORT HD PL
+http://51.254.197.40:25461/live/n/n/10334.ts
+#EXTINF:-1,UNIVERSAL HD PL
+http://51.254.197.40:25461/live/n/n/10335.ts
 #EXTINF:0 type="stream" tvg-name="=====OSN arabia=====" tvg-group="OSN" , =====OSN arabia=====
 http://iptvpro.vision-new.org:8789/live/Yahbohk67955/Idkfitty948489/104.ts
 #EXTINF:0 type="stream" tvg-name="OSN_Movies_HD" tvg-group="OSN" tvg-logo="http://www.lyngsat-logo.com/hires/oo/osn_movies.png" , OSN_Movies_HD
