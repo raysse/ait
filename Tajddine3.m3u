@@ -1,0 +1,1787 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://painel.soeu.ws:8000/live/sa/sa/185.ts
+#EXTINF:-1,RTP 2
+http://painel.soeu.ws:8000/live/sa/sa/184.ts
+#EXTINF:-1,SIC
+http://painel.soeu.ws:8000/live/sa/sa/183.ts
+#EXTINF:-1,TVI
+http://painel.soeu.ws:8000/live/sa/sa/191.ts
+#EXTINF:-1,RTP 1 FHD
+http://painel.soeu.ws:8000/live/sa/sa/1505.ts
+#EXTINF:-1,RTP 2 FHD
+http://painel.soeu.ws:8000/live/sa/sa/1506.ts
+#EXTINF:-1,SIC FHD
+http://painel.soeu.ws:8000/live/sa/sa/1508.ts
+#EXTINF:-1,TVI FHD
+http://painel.soeu.ws:8000/live/sa/sa/1507.ts
+#EXTINF:-1,RTP 3
+http://painel.soeu.ws:8000/live/sa/sa/212.ts
+#EXTINF:-1,SIC NOTICIAS
+http://painel.soeu.ws:8000/live/sa/sa/195.ts
+#EXTINF:-1,TVI 24
+http://painel.soeu.ws:8000/live/sa/sa/190.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://painel.soeu.ws:8000/live/sa/sa/1395.ts
+#EXTINF:-1,SIC MULHER
+http://painel.soeu.ws:8000/live/sa/sa/219.ts
+#EXTINF:-1,SIC RADICAL
+http://painel.soeu.ws:8000/live/sa/sa/194.ts
+#EXTINF:-1,SIC CARAS
+http://painel.soeu.ws:8000/live/sa/sa/204.ts
+#EXTINF:-1,CANAL Q
+http://painel.soeu.ws:8000/live/sa/sa/198.ts
+#EXTINF:-1,PORTO CANAL
+http://painel.soeu.ws:8000/live/sa/sa/196.ts
+#EXTINF:-1,CM TV
+http://painel.soeu.ws:8000/live/sa/sa/186.ts
+#EXTINF:-1,RTP MEMORIA
+http://painel.soeu.ws:8000/live/sa/sa/700.ts
+#EXTINF:-1,RTP AFRICA
+http://painel.soeu.ws:8000/live/sa/sa/518.ts
+#EXTINF:-1,RTP MADEIRA
+http://painel.soeu.ws:8000/live/sa/sa/697.ts
+#EXTINF:-1,RTP ACORES
+http://painel.soeu.ws:8000/live/sa/sa/698.ts
+#EXTINF:-1,TVI REALTY
+http://painel.soeu.ws:8000/live/sa/sa/689.ts
+#EXTINF:-1,TVI REALTY CAMERA 1
+http://painel.soeu.ws:8000/live/sa/sa/1394.ts
+#EXTINF:-1,TVI REALTY CAMERA 2
+http://painel.soeu.ws:8000/live/sa/sa/1393.ts
+#EXTINF:-1,TVI REALTY CAMERA 3
+http://painel.soeu.ws:8000/live/sa/sa/1392.ts
+#EXTINF:-1,TVI REALTY CAMERA 4
+http://painel.soeu.ws:8000/live/sa/sa/1391.ts
+#EXTINF:-1,TVI REALTY MOSAICO
+http://painel.soeu.ws:8000/live/sa/sa/1390.ts
+#EXTINF:-1,TVI FICCAO
+http://painel.soeu.ws:8000/live/sa/sa/213.ts
+#EXTINF:-1,ARTV
+http://painel.soeu.ws:8000/live/sa/sa/852.ts
+#EXTINF:-1,TV RECORD
+http://painel.soeu.ws:8000/live/sa/sa/189.ts
+#EXTINF:-1,GLOBO
+http://painel.soeu.ws:8000/live/sa/sa/512.ts
+#EXTINF:-1,GLOBO PREMIUM
+http://painel.soeu.ws:8000/live/sa/sa/511.ts
+#EXTINF:-1,SPORTV + FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1477.ts
+#EXTINF:-1,SPORTV +
+http://painel.soeu.ws:8000/live/sa/sa/1038.ts
+#EXTINF:-1,SPORTV 1 FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1476.ts
+#EXTINF:-1,SPORTV 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/193.ts
+#EXTINF:-1,SPORTV 1
+http://painel.soeu.ws:8000/live/sa/sa/286.ts
+#EXTINF:-1,SPORTV 2 FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1475.ts
+#EXTINF:-1,SPORTV 2 HD
+http://painel.soeu.ws:8000/live/sa/sa/192.ts
+#EXTINF:-1,SPORTV 2
+http://painel.soeu.ws:8000/live/sa/sa/285.ts
+#EXTINF:-1,SPORTV 3 FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1474.ts
+#EXTINF:-1,SPORTV 3 HD
+http://painel.soeu.ws:8000/live/sa/sa/202.ts
+#EXTINF:-1,SPORTV 3
+http://painel.soeu.ws:8000/live/sa/sa/688.ts
+#EXTINF:-1,SPORTV 4 FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1473.ts
+#EXTINF:-1,SPORTV 4 HD
+http://painel.soeu.ws:8000/live/sa/sa/201.ts
+#EXTINF:-1,SPORTV 4
+http://painel.soeu.ws:8000/live/sa/sa/687.ts
+#EXTINF:-1,SPORTV 5 FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1472.ts
+#EXTINF:-1,SPORTV 5 HD
+http://painel.soeu.ws:8000/live/sa/sa/200.ts
+#EXTINF:-1,SPORTV 5
+http://painel.soeu.ws:8000/live/sa/sa/686.ts
+#EXTINF:-1,A BOLA TV
+http://painel.soeu.ws:8000/live/sa/sa/199.ts
+#EXTINF:-1,BTV 1 FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1479.ts
+#EXTINF:-1,BTV 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/245.ts
+#EXTINF:-1,BTV 1
+http://painel.soeu.ws:8000/live/sa/sa/288.ts
+#EXTINF:-1,SPORTING TV HD
+http://painel.soeu.ws:8000/live/sa/sa/203.ts
+#EXTINF:-1,REAL MADRID TV
+http://painel.soeu.ws:8000/live/sa/sa/854.ts
+#EXTINF:-1,BARCA TV
+http://painel.soeu.ws:8000/live/sa/sa/863.ts
+#EXTINF:-1,EUROSPORT HD
+http://painel.soeu.ws:8000/live/sa/sa/207.ts
+#EXTINF:-1,EUROSPORT 2
+http://painel.soeu.ws:8000/live/sa/sa/227.ts
+#EXTINF:-1,EUROSPORT 2 XTRA FULL HD
+http://painel.soeu.ws:8000/live/sa/sa/1478.ts
+#EXTINF:-1,EUROSPORT 2 XTRA
+http://painel.soeu.ws:8000/live/sa/sa/899.ts
+#EXTINF:-1,EUROSPORT NEWS
+http://painel.soeu.ws:8000/live/sa/sa/786.ts
+#EXTINF:-1,POKER CENTRAL
+http://painel.soeu.ws:8000/live/sa/sa/1503.ts
+#EXTINF:-1,PFC
+http://painel.soeu.ws:8000/live/sa/sa/228.ts
+#EXTINF:-1,MOTORS TV
+http://painel.soeu.ws:8000/live/sa/sa/214.ts
+#EXTINF:-1,MOTORVISION
+http://painel.soeu.ws:8000/live/sa/sa/206.ts
+#EXTINF:-1,MCS EXTREME
+http://painel.soeu.ws:8000/live/sa/sa/1396.ts
+#EXTINF:-1,FUEL TV
+http://painel.soeu.ws:8000/live/sa/sa/276.ts
+#EXTINF:-1,FIGHT NETWORK
+http://painel.soeu.ws:8000/live/sa/sa/705.ts
+#EXTINF:-1,KOMBAT SPORT
+http://painel.soeu.ws:8000/live/sa/sa/900.ts
+#EXTINF:-1,CACAVISION
+http://painel.soeu.ws:8000/live/sa/sa/216.ts
+#EXTINF:-1,CAÇA E PESCA
+http://painel.soeu.ws:8000/live/sa/sa/208.ts
+#EXTINF:-1,OUTDOOR
+http://painel.soeu.ws:8000/live/sa/sa/784.ts
+#EXTINF:-1,TOROS TV
+http://painel.soeu.ws:8000/live/sa/sa/278.ts
+#EXTINF:-1,DOG TV
+http://painel.soeu.ws:8000/live/sa/sa/706.ts
+#EXTINF:-1,TVCINE 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/229.ts
+#EXTINF:-1,TVCINE 2 HD
+http://painel.soeu.ws:8000/live/sa/sa/230.ts
+#EXTINF:-1,TVCINE 3 HD
+http://painel.soeu.ws:8000/live/sa/sa/231.ts
+#EXTINF:-1,TVCINE 4 HD
+http://painel.soeu.ws:8000/live/sa/sa/232.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://painel.soeu.ws:8000/live/sa/sa/234.ts
+#EXTINF:-1,AMC
+http://painel.soeu.ws:8000/live/sa/sa/522.ts
+#EXTINF:-1,FOX MOVIES
+http://painel.soeu.ws:8000/live/sa/sa/513.ts
+#EXTINF:-1,CINEMUNDO
+http://painel.soeu.ws:8000/live/sa/sa/523.ts
+#EXTINF:-1,MOV HD
+http://painel.soeu.ws:8000/live/sa/sa/521.ts
+#EXTINF:-1,SUNDANCE
+http://painel.soeu.ws:8000/live/sa/sa/780.ts
+#EXTINF:-1,SYFY
+http://painel.soeu.ws:8000/live/sa/sa/182.ts
+#EXTINF:-1,AXN HD
+http://painel.soeu.ws:8000/live/sa/sa/217.ts
+#EXTINF:-1,AXN WHITE HD
+http://painel.soeu.ws:8000/live/sa/sa/237.ts
+#EXTINF:-1,AXN BLACK HD
+http://painel.soeu.ws:8000/live/sa/sa/238.ts
+#EXTINF:-1,FOX HD
+http://painel.soeu.ws:8000/live/sa/sa/215.ts
+#EXTINF:-1,FOX LIFE HD
+http://painel.soeu.ws:8000/live/sa/sa/235.ts
+#EXTINF:-1,FOX CRIME HD
+http://painel.soeu.ws:8000/live/sa/sa/236.ts
+#EXTINF:-1,FOX COMEDY
+http://painel.soeu.ws:8000/live/sa/sa/693.ts
+#EXTINF:-1,CRIME   INVESTIGATION
+http://painel.soeu.ws:8000/live/sa/sa/1398.ts
+#EXTINF:-1,TV SERIES HD
+http://painel.soeu.ws:8000/live/sa/sa/233.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://painel.soeu.ws:8000/live/sa/sa/239.ts
+#EXTINF:-1,CBS REALITY
+http://painel.soeu.ws:8000/live/sa/sa/517.ts
+#EXTINF:-1,MCS LIFESTYLE
+http://painel.soeu.ws:8000/live/sa/sa/790.ts
+#EXTINF:-1,NAT. GEOGRAPHIC
+http://painel.soeu.ws:8000/live/sa/sa/211.ts
+#EXTINF:-1,NAT GEO WILD
+http://painel.soeu.ws:8000/live/sa/sa/242.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://painel.soeu.ws:8000/live/sa/sa/180.ts
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://painel.soeu.ws:8000/live/sa/sa/514.ts
+#EXTINF:-1,TLC
+http://painel.soeu.ws:8000/live/sa/sa/240.ts
+#EXTINF:-1,A & E
+http://painel.soeu.ws:8000/live/sa/sa/284.ts
+#EXTINF:-1,ODISSEIA
+http://painel.soeu.ws:8000/live/sa/sa/280.ts
+#EXTINF:-1,CANAL HISTORIA
+http://painel.soeu.ws:8000/live/sa/sa/516.ts
+#EXTINF:-1,24 KITCHEN
+http://painel.soeu.ws:8000/live/sa/sa/241.ts
+#EXTINF:-1,FOOD NETWORK
+http://painel.soeu.ws:8000/live/sa/sa/695.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://painel.soeu.ws:8000/live/sa/sa/509.ts
+#EXTINF:-1,FASHION TV
+http://painel.soeu.ws:8000/live/sa/sa/696.ts
+#EXTINF:-1,LUXE TV
+http://painel.soeu.ws:8000/live/sa/sa/783.ts
+#EXTINF:-1,FINE LIVING HD
+http://painel.soeu.ws:8000/live/sa/sa/870.ts
+#EXTINF:-1,ZEE TV
+http://painel.soeu.ws:8000/live/sa/sa/867.ts
+#EXTINF:-1,MAX
+http://painel.soeu.ws:8000/live/sa/sa/869.ts
+#EXTINF:-1,TRACE URBAN HD
+http://painel.soeu.ws:8000/live/sa/sa/868.ts
+#EXTINF:-1,MTV PORTUGAL
+http://painel.soeu.ws:8000/live/sa/sa/692.ts
+#EXTINF:-1,MTV ROCKS
+http://painel.soeu.ws:8000/live/sa/sa/918.ts
+#EXTINF:-1,MTV MUSIC
+http://painel.soeu.ws:8000/live/sa/sa/919.ts
+#EXTINF:-1,MTV DANCE
+http://painel.soeu.ws:8000/live/sa/sa/920.ts
+#EXTINF:-1,MCM POP
+http://painel.soeu.ws:8000/live/sa/sa/788.ts
+#EXTINF:-1,TRACE TV
+http://painel.soeu.ws:8000/live/sa/sa/787.ts
+#EXTINF:-1,VH1
+http://painel.soeu.ws:8000/live/sa/sa/277.ts
+#EXTINF:-1,VH1 CLASSIC
+http://painel.soeu.ws:8000/live/sa/sa/1036.ts
+#EXTINF:-1,C-MUSIC
+http://painel.soeu.ws:8000/live/sa/sa/865.ts
+#EXTINF:-1,iCONCERTS
+http://painel.soeu.ws:8000/live/sa/sa/704.ts
+#EXTINF:-1,VIRGIN TV
+http://painel.soeu.ws:8000/live/sa/sa/1500.ts
+#EXTINF:-1,AFRO TV
+http://painel.soeu.ws:8000/live/sa/sa/515.ts
+#EXTINF:-1,MEZZO
+http://painel.soeu.ws:8000/live/sa/sa/781.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://painel.soeu.ws:8000/live/sa/sa/282.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://painel.soeu.ws:8000/live/sa/sa/243.ts
+#EXTINF:-1,CARTOON NETWORK
+http://painel.soeu.ws:8000/live/sa/sa/519.ts
+#EXTINF:-1,CANAL PANDA
+http://painel.soeu.ws:8000/live/sa/sa/283.ts
+#EXTINF:-1,PANDA BIGGS
+http://painel.soeu.ws:8000/live/sa/sa/279.ts
+#EXTINF:-1,JIM JAM
+http://painel.soeu.ws:8000/live/sa/sa/281.ts
+#EXTINF:-1,NICKELODEON
+http://painel.soeu.ws:8000/live/sa/sa/205.ts
+#EXTINF:-1,SIC K
+http://painel.soeu.ws:8000/live/sa/sa/188.ts
+#EXTINF:-1,BABY TV
+http://painel.soeu.ws:8000/live/sa/sa/187.ts
+#EXTINF:-1,BABY FIRST
+http://painel.soeu.ws:8000/live/sa/sa/1504.ts
+#EXTINF:-1,LOCALVISAO HD
+http://painel.soeu.ws:8000/live/sa/sa/855.ts
+#EXTINF:-1,KURISKOS TV
+http://painel.soeu.ws:8000/live/sa/sa/1579.ts
+#EXTINF:-1,REGIOES TV
+http://painel.soeu.ws:8000/live/sa/sa/898.ts
+#EXTINF:-1,SANTUARIO FATIMA
+http://painel.soeu.ws:8000/live/sa/sa/225.ts
+#EXTINF:-1,TPA INTERNACIONAL
+http://painel.soeu.ws:8000/live/sa/sa/699.ts
+#EXTINF:-1,TV CABO VERDE
+http://painel.soeu.ws:8000/live/sa/sa/1502.ts
+#EXTINF:-1,CANCAO NOVA
+http://painel.soeu.ws:8000/live/sa/sa/694.ts
+#EXTINF:-1,RECORD NEWS
+http://painel.soeu.ws:8000/live/sa/sa/866.ts
+#EXTINF:-1,EURONEWS
+http://painel.soeu.ws:8000/live/sa/sa/857.ts
+#EXTINF:-1,CNN
+http://painel.soeu.ws:8000/live/sa/sa/859.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://painel.soeu.ws:8000/live/sa/sa/862.ts
+#EXTINF:-1,CUBAVISION INTERNATIONAL
+http://painel.soeu.ws:8000/live/sa/sa/1397.ts
+#EXTINF:-1,TV GALICIA
+http://painel.soeu.ws:8000/live/sa/sa/1037.ts
+#EXTINF:-1,FRANCE 24
+http://painel.soeu.ws:8000/live/sa/sa/785.ts
+#EXTINF:-1,TV5 MONDE
+http://painel.soeu.ws:8000/live/sa/sa/864.ts
+#EXTINF:-1,DEUTSCHE WELLE
+http://painel.soeu.ws:8000/live/sa/sa/858.ts
+#EXTINF:-1,BLOOMBERG
+http://painel.soeu.ws:8000/live/sa/sa/861.ts
+#EXTINF:-1,M6
+http://painel.soeu.ws:8000/live/sa/sa/691.ts
+#EXTINF:-1,XXX: SEXTREME
+http://painel.soeu.ws:8000/live/sa/sa/690.ts
+#EXTINF:-1,XXX: PENTHOUSE
+http://painel.soeu.ws:8000/live/sa/sa/510.ts
+#EXTINF:-1,XXX: VENUS
+http://painel.soeu.ws:8000/live/sa/sa/181.ts
+#EXTINF:-1,XXX: PLAYBOY
+http://painel.soeu.ws:8000/live/sa/sa/304.ts
+#EXTINF:-1,XXX HOT XXX
+http://painel.soeu.ws:8000/live/sa/sa/244.ts
+#EXTINF:-1,XXX: REDLIGHT HD
+http://painel.soeu.ws:8000/live/sa/sa/853.ts
+#EXTINF:-1,XXX: HUSTLER HD
+http://painel.soeu.ws:8000/live/sa/sa/856.ts
+#EXTINF:-1,XXX: SCT
+http://painel.soeu.ws:8000/live/sa/sa/805.ts
+#EXTINF:-1,XXX: SESTO SENSO TV
+http://painel.soeu.ws:8000/live/sa/sa/800.ts
+#EXTINF:-1,XXX: SCT HD
+http://painel.soeu.ws:8000/live/sa/sa/801.ts
+#EXTINF:-1,XXX: TGIRLS TV
+http://painel.soeu.ws:8000/live/sa/sa/799.ts
+#EXTINF:-1,XXX: PINK O TV
+http://painel.soeu.ws:8000/live/sa/sa/802.ts
+#EXTINF:-1,XXX: EXOTICA TV
+http://painel.soeu.ws:8000/live/sa/sa/803.ts
+#EXTINF:-1,XXX: CENTOXCENTO TV
+http://painel.soeu.ws:8000/live/sa/sa/804.ts
+#EXTINF:-1,xXx: Hot Club 1
+http://painel.soeu.ws:8000/live/sa/sa/1328.ts
+#EXTINF:-1,xXx: Hot Club 2
+http://painel.soeu.ws:8000/live/sa/sa/1327.ts
+#EXTINF:-1,xXx: Hot Club 3
+http://painel.soeu.ws:8000/live/sa/sa/1326.ts
+#EXTINF:-1,xXx: Hot Club 4
+http://painel.soeu.ws:8000/live/sa/sa/1325.ts
+#EXTINF:-1,xXx: Hot Club 5
+http://painel.soeu.ws:8000/live/sa/sa/1324.ts
+#EXTINF:-1,XXX: Hot Club 6
+http://painel.soeu.ws:8000/live/sa/sa/1323.ts
+#EXTINF:-1,XXX: Hot Club 7
+http://painel.soeu.ws:8000/live/sa/sa/1322.ts
+#EXTINF:-1,XXX: Hot Club 8
+http://painel.soeu.ws:8000/live/sa/sa/1321.ts
+#EXTINF:-1,############# CANAIS EXTRA #############
+http://painel.soeu.ws:8000/live/sa/sa/524.ts
+#EXTINF:-1,---☛ FRANÇAISE ☚---
+http://painel.soeu.ws:8000/live/sa/sa/1179.ts
+#EXTINF:-1,FR: W9
+http://painel.soeu.ws:8000/live/sa/sa/1180.ts
+#EXTINF:-1,FR: VOYAGE HD
+http://painel.soeu.ws:8000/live/sa/sa/1181.ts
+#EXTINF:-1,FR: TF1 HD
+http://painel.soeu.ws:8000/live/sa/sa/1182.ts
+#EXTINF:-1,FR: TELETOON
+http://painel.soeu.ws:8000/live/sa/sa/1183.ts
+#EXTINF:-1,FR: Planete A&E
+http://painel.soeu.ws:8000/live/sa/sa/1184.ts
+#EXTINF:-1,FR: OCS Max
+http://painel.soeu.ws:8000/live/sa/sa/1185.ts
+#EXTINF:-1,FR: OCS GEANT
+http://painel.soeu.ws:8000/live/sa/sa/1186.ts
+#EXTINF:-1,FR: OCS City
+http://painel.soeu.ws:8000/live/sa/sa/1187.ts
+#EXTINF:-1,FR: NT1
+http://painel.soeu.ws:8000/live/sa/sa/1188.ts
+#EXTINF:-1,FR: NRJ 12
+http://painel.soeu.ws:8000/live/sa/sa/1189.ts
+#EXTINF:-1,FR: Nat. Geographic
+http://painel.soeu.ws:8000/live/sa/sa/1190.ts
+#EXTINF:-1,FR: Nat. Geo Wild HD
+http://painel.soeu.ws:8000/live/sa/sa/1191.ts
+#EXTINF:-1,FR: M6 HD
+http://painel.soeu.ws:8000/live/sa/sa/1192.ts
+#EXTINF:-1,FR: Gulli HD
+http://painel.soeu.ws:8000/live/sa/sa/1193.ts
+#EXTINF:-1,FR: France O
+http://painel.soeu.ws:8000/live/sa/sa/1194.ts
+#EXTINF:-1,FR: France 5
+http://painel.soeu.ws:8000/live/sa/sa/1195.ts
+#EXTINF:-1,FR: France 4
+http://painel.soeu.ws:8000/live/sa/sa/1196.ts
+#EXTINF:-1,FR: France 3
+http://painel.soeu.ws:8000/live/sa/sa/1197.ts
+#EXTINF:-1,FR: France 2
+http://painel.soeu.ws:8000/live/sa/sa/1198.ts
+#EXTINF:-1,FR: Disney Channel
+http://painel.soeu.ws:8000/live/sa/sa/1199.ts
+#EXTINF:-1,FR: Discovery Science
+http://painel.soeu.ws:8000/live/sa/sa/1200.ts
+#EXTINF:-1,FR: discovery Channel HD
+http://painel.soeu.ws:8000/live/sa/sa/1201.ts
+#EXTINF:-1,FR: Comedy
+http://painel.soeu.ws:8000/live/sa/sa/1202.ts
+#EXTINF:-1,FR: CINE  PREMIER HD
+http://painel.soeu.ws:8000/live/sa/sa/1203.ts
+#EXTINF:-1,FR: Cine  Frisson
+http://painel.soeu.ws:8000/live/sa/sa/1204.ts
+#EXTINF:-1,FR: Cine  Famiz
+http://painel.soeu.ws:8000/live/sa/sa/1205.ts
+#EXTINF:-1,FR: Cine  Emotion
+http://painel.soeu.ws:8000/live/sa/sa/1206.ts
+#EXTINF:-1,FR: Cine  Club
+http://painel.soeu.ws:8000/live/sa/sa/1207.ts
+#EXTINF:-1,FR: Cine  Classic
+http://painel.soeu.ws:8000/live/sa/sa/1208.ts
+#EXTINF:-1,FR: Canal  Sport
+http://painel.soeu.ws:8000/live/sa/sa/1209.ts
+#EXTINF:-1,FR: Canal  Decale
+http://painel.soeu.ws:8000/live/sa/sa/1210.ts
+#EXTINF:-1,FR: CANAL  CINEMA
+http://painel.soeu.ws:8000/live/sa/sa/1211.ts
+#EXTINF:-1,FR: Canal
+http://painel.soeu.ws:8000/live/sa/sa/1212.ts
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://painel.soeu.ws:8000/live/sa/sa/1213.ts
+#EXTINF:-1,FR: Bein Sports 2
+http://painel.soeu.ws:8000/live/sa/sa/1214.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/1215.ts
+#EXTINF:-1,FR: Animaux HD
+http://painel.soeu.ws:8000/live/sa/sa/1216.ts
+#EXTINF:-1,FR:  TELETOON
+http://painel.soeu.ws:8000/live/sa/sa/1217.ts
+#EXTINF:-1,FR:  FOOT  24/24
+http://painel.soeu.ws:8000/live/sa/sa/1218.ts
+#EXTINF:-1,---☛ SPAIN ☚---
+http://painel.soeu.ws:8000/live/sa/sa/1126.ts
+#EXTINF:-1,ES: VIAJAR HD
+http://painel.soeu.ws:8000/live/sa/sa/1127.ts
+#EXTINF:-1,ES: TNT HD
+http://painel.soeu.ws:8000/live/sa/sa/1128.ts
+#EXTINF:-1,ES: TMC HD
+http://painel.soeu.ws:8000/live/sa/sa/1129.ts
+#EXTINF:-1,ES: Teledeporte
+http://painel.soeu.ws:8000/live/sa/sa/1130.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://painel.soeu.ws:8000/live/sa/sa/1131.ts
+#EXTINF:-1,ES: SyFy
+http://painel.soeu.ws:8000/live/sa/sa/1132.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://painel.soeu.ws:8000/live/sa/sa/1133.ts
+#EXTINF:-1,ES: Odisea
+http://painel.soeu.ws:8000/live/sa/sa/1134.ts
+#EXTINF:-1,ES: Nova
+http://painel.soeu.ws:8000/live/sa/sa/1135.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://painel.soeu.ws:8000/live/sa/sa/1136.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://painel.soeu.ws:8000/live/sa/sa/1137.ts
+#EXTINF:-1,ES: Nat. Geographic HD
+http://painel.soeu.ws:8000/live/sa/sa/1138.ts
+#EXTINF:-1,ES: Nat. Geo Wild HD
+http://painel.soeu.ws:8000/live/sa/sa/1139.ts
+#EXTINF:-1,ES: Movistar MotoGP
+http://painel.soeu.ws:8000/live/sa/sa/1140.ts
+#EXTINF:-1,ES: Movistar F1
+http://painel.soeu.ws:8000/live/sa/sa/1141.ts
+#EXTINF:-1,ES: Ml  DCine
+http://painel.soeu.ws:8000/live/sa/sa/1142.ts
+#EXTINF:-1,ES: MEGA
+http://painel.soeu.ws:8000/live/sa/sa/1143.ts
+#EXTINF:-1,ES: M  Xtra HD
+http://painel.soeu.ws:8000/live/sa/sa/1144.ts
+#EXTINF:-1,ES: M  Toros
+http://painel.soeu.ws:8000/live/sa/sa/1145.ts
+#EXTINF:-1,ES: M  Series Xtra HD
+http://painel.soeu.ws:8000/live/sa/sa/1146.ts
+#EXTINF:-1,ES: M  Golf HD
+http://painel.soeu.ws:8000/live/sa/sa/1147.ts
+#EXTINF:-1,ES: M  Futbol HD
+http://painel.soeu.ws:8000/live/sa/sa/1148.ts
+#EXTINF:-1,ES: M  Deportes HD
+http://painel.soeu.ws:8000/live/sa/sa/1149.ts
+#EXTINF:-1,ES: M  Deportes 2 HD
+http://painel.soeu.ws:8000/live/sa/sa/1150.ts
+#EXTINF:-1,ES: M  Comedia
+http://painel.soeu.ws:8000/live/sa/sa/1151.ts
+#EXTINF:-1,ES: M  Accion
+http://painel.soeu.ws:8000/live/sa/sa/1152.ts
+#EXTINF:-1,ES: La Sexta HD
+http://painel.soeu.ws:8000/live/sa/sa/1153.ts
+#EXTINF:-1,ES: la liga tv HD
+http://painel.soeu.ws:8000/live/sa/sa/1154.ts
+#EXTINF:-1,ES: La 2
+http://painel.soeu.ws:8000/live/sa/sa/1155.ts
+#EXTINF:-1,ES: La 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/1156.ts
+#EXTINF:-1,ES: Hollywood HD
+http://painel.soeu.ws:8000/live/sa/sa/1157.ts
+#EXTINF:-1,ES: Historia
+http://painel.soeu.ws:8000/live/sa/sa/1158.ts
+#EXTINF:-1,ES: FOX Life
+http://painel.soeu.ws:8000/live/sa/sa/1159.ts
+#EXTINF:-1,ES: FOX
+http://painel.soeu.ws:8000/live/sa/sa/1160.ts
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/1161.ts
+#EXTINF:-1,ES: Disney Junior
+http://painel.soeu.ws:8000/live/sa/sa/1162.ts
+#EXTINF:-1,ES: DISNEY CHANNELS HD
+http://painel.soeu.ws:8000/live/sa/sa/1163.ts
+#EXTINF:-1,ES: Discovery Channel HD
+http://painel.soeu.ws:8000/live/sa/sa/1164.ts
+#EXTINF:-1,ES: CUATRO
+http://painel.soeu.ws:8000/live/sa/sa/1165.ts
+#EXTINF:-1,ES: CRIME INVESTIGACION
+http://painel.soeu.ws:8000/live/sa/sa/1166.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://painel.soeu.ws:8000/live/sa/sa/1167.ts
+#EXTINF:-1,ES: Caza y Pesca
+http://painel.soeu.ws:8000/live/sa/sa/1168.ts
+#EXTINF:-1,ES: Canal Cocina
+http://painel.soeu.ws:8000/live/sa/sa/1169.ts
+#EXTINF:-1,ES: Canal  Estrenos Hd
+http://painel.soeu.ws:8000/live/sa/sa/1170.ts
+#EXTINF:-1,ES: beIN Sport Ñ
+http://painel.soeu.ws:8000/live/sa/sa/1171.ts
+#EXTINF:-1,ES: BEIN LA LIGA HD
+http://painel.soeu.ws:8000/live/sa/sa/1172.ts
+#EXTINF:-1,ES: AXN HD
+http://painel.soeu.ws:8000/live/sa/sa/1173.ts
+#EXTINF:-1,ES: Antena 3
+http://painel.soeu.ws:8000/live/sa/sa/1174.ts
+#EXTINF:-1,ES: AMC
+http://painel.soeu.ws:8000/live/sa/sa/1175.ts
+#EXTINF:-1,ES: A&E
+http://painel.soeu.ws:8000/live/sa/sa/1176.ts
+#EXTINF:-1,ES: #0 HD
+http://painel.soeu.ws:8000/live/sa/sa/1177.ts
+#EXTINF:-1,ES : COSMOS HD
+http://painel.soeu.ws:8000/live/sa/sa/1178.ts
+#EXTINF:-1,---☛ BRASIL ☚---
+http://painel.soeu.ws:8000/live/sa/sa/1059.ts
+#EXTINF:-1,BR: Woohoo
+http://painel.soeu.ws:8000/live/sa/sa/1665.ts
+#EXTINF:-1,BR: Warner Channel
+http://painel.soeu.ws:8000/live/sa/sa/1666.ts
+#EXTINF:-1,BR: Viva
+http://painel.soeu.ws:8000/live/sa/sa/1667.ts
+#EXTINF:-1,BR: Universal Channel
+http://painel.soeu.ws:8000/live/sa/sa/1668.ts
+#EXTINF:-1,BR: TV Cultura
+http://painel.soeu.ws:8000/live/sa/sa/1669.ts
+#EXTINF:-1,BR: TV BrasiL
+http://painel.soeu.ws:8000/live/sa/sa/1670.ts
+#EXTINF:-1,BR: TNT
+http://painel.soeu.ws:8000/live/sa/sa/1671.ts
+#EXTINF:-1,BR: TLC
+http://painel.soeu.ws:8000/live/sa/sa/1672.ts
+#EXTINF:-1,BR: Telecine Touch
+http://painel.soeu.ws:8000/live/sa/sa/1673.ts
+#EXTINF:-1,BR: Telecine Premium
+http://painel.soeu.ws:8000/live/sa/sa/1674.ts
+#EXTINF:-1,BR: Telecine Pipoca
+http://painel.soeu.ws:8000/live/sa/sa/1675.ts
+#EXTINF:-1,BR: Telecine Fun
+http://painel.soeu.ws:8000/live/sa/sa/1676.ts
+#EXTINF:-1,BR: Telecine Cult
+http://painel.soeu.ws:8000/live/sa/sa/1677.ts
+#EXTINF:-1,BR: Telecine Action
+http://painel.soeu.ws:8000/live/sa/sa/1678.ts
+#EXTINF:-1,BR: TBS
+http://painel.soeu.ws:8000/live/sa/sa/1679.ts
+#EXTINF:-1,BR: sportv1
+http://painel.soeu.ws:8000/live/sa/sa/1680.ts
+#EXTINF:-1,BR: SporTV 3
+http://painel.soeu.ws:8000/live/sa/sa/1681.ts
+#EXTINF:-1,BR: SporTV 2
+http://painel.soeu.ws:8000/live/sa/sa/1682.ts
+#EXTINF:-1,BR: Space
+http://painel.soeu.ws:8000/live/sa/sa/1683.ts
+#EXTINF:-1,BR: SBT
+http://painel.soeu.ws:8000/live/sa/sa/1684.ts
+#EXTINF:-1,BR: Rede TV
+http://painel.soeu.ws:8000/live/sa/sa/1685.ts
+#EXTINF:-1,BR: Record News
+http://painel.soeu.ws:8000/live/sa/sa/1686.ts
+#EXTINF:-1,BR: Record
+http://painel.soeu.ws:8000/live/sa/sa/1687.ts
+#EXTINF:-1,BR: PFC
+http://painel.soeu.ws:8000/live/sa/sa/1688.ts
+#EXTINF:-1,BR: Paramount Channel
+http://painel.soeu.ws:8000/live/sa/sa/1689.ts
+#EXTINF:-1,BR: Nick Jr.
+http://painel.soeu.ws:8000/live/sa/sa/1690.ts
+#EXTINF:-1,BR: Nat. Geographic
+http://painel.soeu.ws:8000/live/sa/sa/1691.ts
+#EXTINF:-1,BR: Multishow
+http://painel.soeu.ws:8000/live/sa/sa/1692.ts
+#EXTINF:-1,BR: MEGAPIX
+http://painel.soeu.ws:8000/live/sa/sa/1693.ts
+#EXTINF:-1,BR: MAX Up
+http://painel.soeu.ws:8000/live/sa/sa/1694.ts
+#EXTINF:-1,BR: MAX Prime
+http://painel.soeu.ws:8000/live/sa/sa/1695.ts
+#EXTINF:-1,BR: MAX
+http://painel.soeu.ws:8000/live/sa/sa/1696.ts
+#EXTINF:-1,BR: Investigação Discovery
+http://painel.soeu.ws:8000/live/sa/sa/1697.ts
+#EXTINF:-1,BR: History 2
+http://painel.soeu.ws:8000/live/sa/sa/1698.ts
+#EXTINF:-1,BR: historia
+http://painel.soeu.ws:8000/live/sa/sa/1699.ts
+#EXTINF:-1,BR: HBO Signature
+http://painel.soeu.ws:8000/live/sa/sa/1700.ts
+#EXTINF:-1,BR: HBO Plus
+http://painel.soeu.ws:8000/live/sa/sa/1701.ts
+#EXTINF:-1,BR: HBO Family
+http://painel.soeu.ws:8000/live/sa/sa/1702.ts
+#EXTINF:-1,BR: HBO 2
+http://painel.soeu.ws:8000/live/sa/sa/1703.ts
+#EXTINF:-1,BR: HBO
+http://painel.soeu.ws:8000/live/sa/sa/1704.ts
+#EXTINF:-1,BR: GNT
+http://painel.soeu.ws:8000/live/sa/sa/1705.ts
+#EXTINF:-1,BR: Gloob
+http://painel.soeu.ws:8000/live/sa/sa/1706.ts
+#EXTINF:-1,BR: Globo PT
+http://painel.soeu.ws:8000/live/sa/sa/1707.ts
+#EXTINF:-1,BR: Globo Premium
+http://painel.soeu.ws:8000/live/sa/sa/1708.ts
+#EXTINF:-1,BR: Globo
+http://painel.soeu.ws:8000/live/sa/sa/1709.ts
+#EXTINF:-1,BR: FX
+http://painel.soeu.ws:8000/live/sa/sa/1710.ts
+#EXTINF:-1,BR: FOX Sports 2
+http://painel.soeu.ws:8000/live/sa/sa/1711.ts
+#EXTINF:-1,BR: FOX Sports
+http://painel.soeu.ws:8000/live/sa/sa/1712.ts
+#EXTINF:-1,BR: FOX Life
+http://painel.soeu.ws:8000/live/sa/sa/1713.ts
+#EXTINF:-1,BR: FOX
+http://painel.soeu.ws:8000/live/sa/sa/1714.ts
+#EXTINF:-1,BR: ESPN Brasil
+http://painel.soeu.ws:8000/live/sa/sa/1715.ts
+#EXTINF:-1,BR: ESPN
+http://painel.soeu.ws:8000/live/sa/sa/1716.ts
+#EXTINF:-1,BR: EI Maxx 2
+http://painel.soeu.ws:8000/live/sa/sa/1717.ts
+#EXTINF:-1,BR: EI Maxx
+http://painel.soeu.ws:8000/live/sa/sa/1718.ts
+#EXTINF:-1,BR: E!
+http://painel.soeu.ws:8000/live/sa/sa/1719.ts
+#EXTINF:-1,BR: Disney XD
+http://painel.soeu.ws:8000/live/sa/sa/1720.ts
+#EXTINF:-1,BR: Disney Junior
+http://painel.soeu.ws:8000/live/sa/sa/1721.ts
+#EXTINF:-1,BR: Disney Channel
+http://painel.soeu.ws:8000/live/sa/sa/1722.ts
+#EXTINF:-1,BR: Discovery Turbo
+http://painel.soeu.ws:8000/live/sa/sa/1723.ts
+#EXTINF:-1,BR: Discovery Science
+http://painel.soeu.ws:8000/live/sa/sa/1724.ts
+#EXTINF:-1,BR: Discovery Kids
+http://painel.soeu.ws:8000/live/sa/sa/1725.ts
+#EXTINF:-1,BR: Discovery Home & Health
+http://painel.soeu.ws:8000/live/sa/sa/1726.ts
+#EXTINF:-1,BR: Discovery Channel
+http://painel.soeu.ws:8000/live/sa/sa/1727.ts
+#EXTINF:-1,BR: Combate
+http://painel.soeu.ws:8000/live/sa/sa/1728.ts
+#EXTINF:-1,BR: Cartoon Network
+http://painel.soeu.ws:8000/live/sa/sa/1729.ts
+#EXTINF:-1,BR: Canal Off
+http://painel.soeu.ws:8000/live/sa/sa/1730.ts
+#EXTINF:-1,BR: Canal do Boi
+http://painel.soeu.ws:8000/live/sa/sa/1731.ts
+#EXTINF:-1,BR: BIS
+http://painel.soeu.ws:8000/live/sa/sa/1732.ts
+#EXTINF:-1,BR: Band Sports
+http://painel.soeu.ws:8000/live/sa/sa/1733.ts
+#EXTINF:-1,BR: Band News
+http://painel.soeu.ws:8000/live/sa/sa/1734.ts
+#EXTINF:-1,BR: Band
+http://painel.soeu.ws:8000/live/sa/sa/1735.ts
+#EXTINF:-1,BR: AXN
+http://painel.soeu.ws:8000/live/sa/sa/1736.ts
+#EXTINF:-1,BR: Animal Planet
+http://painel.soeu.ws:8000/live/sa/sa/1737.ts
+#EXTINF:-1,BR: A&E
+http://painel.soeu.ws:8000/live/sa/sa/1738.ts
+#EXTINF:-1,---☛ DEUTSCH ☚---
+http://painel.soeu.ws:8000/live/sa/sa/1081.ts
+#EXTINF:-1,DE: ZDF
+http://painel.soeu.ws:8000/live/sa/sa/1082.ts
+#EXTINF:-1,DE: WDR
+http://painel.soeu.ws:8000/live/sa/sa/1083.ts
+#EXTINF:-1,DE: VOX
+http://painel.soeu.ws:8000/live/sa/sa/1084.ts
+#EXTINF:-1,DE: TNT Film
+http://painel.soeu.ws:8000/live/sa/sa/1085.ts
+#EXTINF:-1,DE: Tagesschau 24
+http://painel.soeu.ws:8000/live/sa/sa/1086.ts
+#EXTINF:-1,DE: SuperRTL
+http://painel.soeu.ws:8000/live/sa/sa/1087.ts
+#EXTINF:-1,DE: SRF2
+http://painel.soeu.ws:8000/live/sa/sa/1088.ts
+#EXTINF:-1,DE: SRF1
+http://painel.soeu.ws:8000/live/sa/sa/1089.ts
+#EXTINF:-1,DE: Sky Sports Austria
+http://painel.soeu.ws:8000/live/sa/sa/1090.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://painel.soeu.ws:8000/live/sa/sa/1091.ts
+#EXTINF:-1,DE: SKY SPORTS 1 HQ
+http://painel.soeu.ws:8000/live/sa/sa/1092.ts
+#EXTINF:-1,DE: Sky Sport News
+http://painel.soeu.ws:8000/live/sa/sa/1093.ts
+#EXTINF:-1,DE: SKY Krimi
+http://painel.soeu.ws:8000/live/sa/sa/1094.ts
+#EXTINF:-1,DE: Sky emotion
+http://painel.soeu.ws:8000/live/sa/sa/1095.ts
+#EXTINF:-1,DE: Sky Comedy
+http://painel.soeu.ws:8000/live/sa/sa/1096.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://painel.soeu.ws:8000/live/sa/sa/1097.ts
+#EXTINF:-1,DE: Sky Cinema  24
+http://painel.soeu.ws:8000/live/sa/sa/1098.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://painel.soeu.ws:8000/live/sa/sa/1099.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://painel.soeu.ws:8000/live/sa/sa/1100.ts
+#EXTINF:-1,DE: SAT 1
+http://painel.soeu.ws:8000/live/sa/sa/1101.ts
+#EXTINF:-1,DE: RTLNitro
+http://painel.soeu.ws:8000/live/sa/sa/1102.ts
+#EXTINF:-1,DE: RTL living
+http://painel.soeu.ws:8000/live/sa/sa/1103.ts
+#EXTINF:-1,DE: RTL 2
+http://painel.soeu.ws:8000/live/sa/sa/1104.ts
+#EXTINF:-1,DE: RTL 1
+http://painel.soeu.ws:8000/live/sa/sa/1105.ts
+#EXTINF:-1,DE: RBB
+http://painel.soeu.ws:8000/live/sa/sa/1106.ts
+#EXTINF:-1,DE: PRO 7
+http://painel.soeu.ws:8000/live/sa/sa/1107.ts
+#EXTINF:-1,DE: Phoenix
+http://painel.soeu.ws:8000/live/sa/sa/1108.ts
+#EXTINF:-1,DE: ORF 2
+http://painel.soeu.ws:8000/live/sa/sa/1109.ts
+#EXTINF:-1,DE: ORF 1
+http://painel.soeu.ws:8000/live/sa/sa/1110.ts
+#EXTINF:-1,DE: NickelodeoN
+http://painel.soeu.ws:8000/live/sa/sa/1111.ts
+#EXTINF:-1,DE: NDR
+http://painel.soeu.ws:8000/live/sa/sa/1112.ts
+#EXTINF:-1,DE: Nat. Geo Wild
+http://painel.soeu.ws:8000/live/sa/sa/1113.ts
+#EXTINF:-1,DE: Nat. Geo  HD
+http://painel.soeu.ws:8000/live/sa/sa/1114.ts
+#EXTINF:-1,DE: N24
+http://painel.soeu.ws:8000/live/sa/sa/1115.ts
+#EXTINF:-1,DE: KIKA
+http://painel.soeu.ws:8000/live/sa/sa/1116.ts
+#EXTINF:-1,DE: History HD
+http://painel.soeu.ws:8000/live/sa/sa/1117.ts
+#EXTINF:-1,DE: FOX HQ
+http://painel.soeu.ws:8000/live/sa/sa/1118.ts
+#EXTINF:-1,DE: Eurosport HD
+http://painel.soeu.ws:8000/live/sa/sa/1119.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://painel.soeu.ws:8000/live/sa/sa/1120.ts
+#EXTINF:-1,DE: Disney Channel DE
+http://painel.soeu.ws:8000/live/sa/sa/1121.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://painel.soeu.ws:8000/live/sa/sa/1122.ts
+#EXTINF:-1,DE: BR
+http://painel.soeu.ws:8000/live/sa/sa/1123.ts
+#EXTINF:-1,DE: AXN HQ
+http://painel.soeu.ws:8000/live/sa/sa/1124.ts
+#EXTINF:-1,DE: ARD
+http://painel.soeu.ws:8000/live/sa/sa/1125.ts
+#EXTINF:-1,---☛ ENGLISH ☚---
+http://painel.soeu.ws:8000/live/sa/sa/1267.ts
+#EXTINF:-1,UK: Utv iRELAND
+http://painel.soeu.ws:8000/live/sa/sa/1268.ts
+#EXTINF:-1,UK: True Movies
+http://painel.soeu.ws:8000/live/sa/sa/1269.ts
+#EXTINF:-1,UK: Travel channel
+http://painel.soeu.ws:8000/live/sa/sa/1270.ts
+#EXTINF:-1,UK: TMC
+http://painel.soeu.ws:8000/live/sa/sa/1271.ts
+#EXTINF:-1,UK: TLC
+http://painel.soeu.ws:8000/live/sa/sa/1272.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://painel.soeu.ws:8000/live/sa/sa/1273.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://painel.soeu.ws:8000/live/sa/sa/1274.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://painel.soeu.ws:8000/live/sa/sa/1275.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://painel.soeu.ws:8000/live/sa/sa/1276.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://painel.soeu.ws:8000/live/sa/sa/1277.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://painel.soeu.ws:8000/live/sa/sa/1278.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/1279.ts
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror
+http://painel.soeu.ws:8000/live/sa/sa/1280.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://painel.soeu.ws:8000/live/sa/sa/1281.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats
+http://painel.soeu.ws:8000/live/sa/sa/1282.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://painel.soeu.ws:8000/live/sa/sa/1283.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://painel.soeu.ws:8000/live/sa/sa/1284.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://painel.soeu.ws:8000/live/sa/sa/1285.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://painel.soeu.ws:8000/live/sa/sa/1286.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://painel.soeu.ws:8000/live/sa/sa/1287.ts
+#EXTINF:-1,UK: Sky Movies Atlantic
+http://painel.soeu.ws:8000/live/sa/sa/1288.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+http://painel.soeu.ws:8000/live/sa/sa/1289.ts
+#EXTINF:-1,UK: Sky living
+http://painel.soeu.ws:8000/live/sa/sa/1290.ts
+#EXTINF:-1,UK: Racing
+http://painel.soeu.ws:8000/live/sa/sa/1291.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://painel.soeu.ws:8000/live/sa/sa/1292.ts
+#EXTINF:-1,UK: Nicktoons
+http://painel.soeu.ws:8000/live/sa/sa/1293.ts
+#EXTINF:-1,UK: Nat. Geo
+http://painel.soeu.ws:8000/live/sa/sa/1294.ts
+#EXTINF:-1,UK: More 4
+http://painel.soeu.ws:8000/live/sa/sa/1295.ts
+#EXTINF:-1,UK: Manchester TV
+http://painel.soeu.ws:8000/live/sa/sa/1296.ts
+#EXTINF:-1,UK: Liverpool FC  tv
+http://painel.soeu.ws:8000/live/sa/sa/1297.ts
+#EXTINF:-1,UK: ITVBE
+http://painel.soeu.ws:8000/live/sa/sa/1298.ts
+#EXTINF:-1,UK: ITV4
+http://painel.soeu.ws:8000/live/sa/sa/1299.ts
+#EXTINF:-1,UK: ITV3
+http://painel.soeu.ws:8000/live/sa/sa/1300.ts
+#EXTINF:-1,UK: ITV2
+http://painel.soeu.ws:8000/live/sa/sa/1301.ts
+#EXTINF:-1,UK: ITV1
+http://painel.soeu.ws:8000/live/sa/sa/1302.ts
+#EXTINF:-1,UK: Gold
+http://painel.soeu.ws:8000/live/sa/sa/1303.ts
+#EXTINF:-1,UK: E4
+http://painel.soeu.ws:8000/live/sa/sa/1304.ts
+#EXTINF:-1,UK: Discovery Channel history
+http://painel.soeu.ws:8000/live/sa/sa/1305.ts
+#EXTINF:-1,UK: CBS action
+http://painel.soeu.ws:8000/live/sa/sa/1306.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://painel.soeu.ws:8000/live/sa/sa/1307.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://painel.soeu.ws:8000/live/sa/sa/1308.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://painel.soeu.ws:8000/live/sa/sa/1309.ts
+#EXTINF:-1,UK: BT ESPN HD
+http://painel.soeu.ws:8000/live/sa/sa/1310.ts
+#EXTINF:-1,UK: BOX NATION
+http://painel.soeu.ws:8000/live/sa/sa/1311.ts
+#EXTINF:-1,UK: BBC 4
+http://painel.soeu.ws:8000/live/sa/sa/1312.ts
+#EXTINF:-1,UK: BBC 3
+http://painel.soeu.ws:8000/live/sa/sa/1313.ts
+#EXTINF:-1,UK: BBC 2
+http://painel.soeu.ws:8000/live/sa/sa/1314.ts
+#EXTINF:-1,UK: BBC 1
+http://painel.soeu.ws:8000/live/sa/sa/1315.ts
+#EXTINF:-1,UK: AT RACES
+http://painel.soeu.ws:8000/live/sa/sa/1316.ts
+#EXTINF:-1,UK : SETENTA
+http://painel.soeu.ws:8000/live/sa/sa/1317.ts
+#EXTINF:-1,UK : FOX
+http://painel.soeu.ws:8000/live/sa/sa/1318.ts
+#EXTINF:-1,UK : Food Network
+http://painel.soeu.ws:8000/live/sa/sa/1319.ts
+#EXTINF:-1,############# CANAIS MOBILE #############
+http://painel.soeu.ws:8000/live/sa/sa/1471.ts
+#EXTINF:-1,RTP 1 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1399.ts
+#EXTINF:-1,RTP 2 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1400.ts
+#EXTINF:-1,SIC MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1401.ts
+#EXTINF:-1,TVI MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1402.ts
+#EXTINF:-1,RTP 3 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1403.ts
+#EXTINF:-1,SIC NOTICIAS MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1404.ts
+#EXTINF:-1,TVI 24 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1405.ts
+#EXTINF:-1,CMTV MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1406.ts
+#EXTINF:-1,PORTO CANAL MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1407.ts
+#EXTINF:-1,RTP MADEIRA MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1413.ts
+#EXTINF:-1,RTP AÇORES MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1414.ts
+#EXTINF:-1,SIC MULHER MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1411.ts
+#EXTINF:-1,SIC CARAS MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1461.ts
+#EXTINF:-1,SIC RADICAL MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1410.ts
+#EXTINF:-1,CANAL Q MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1412.ts
+#EXTINF:-1,TVI FICCAO MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1408.ts
+#EXTINF:-1,TVI REALTY MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1409.ts
+#EXTINF:-1,TV RECORD MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1415.ts
+#EXTINF:-1,GLOBO MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1416.ts
+#EXTINF:-1,GLOBO PREMIUM MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1417.ts
+#EXTINF:-1,ABOLA TV MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1418.ts
+#EXTINF:-1,SPORTV + MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1419.ts
+#EXTINF:-1,SPORTV 1 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1420.ts
+#EXTINF:-1,SPORTV 2 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1421.ts
+#EXTINF:-1,SPORTV 3 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1422.ts
+#EXTINF:-1,SPORTV 4 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1423.ts
+#EXTINF:-1,SPORTV 5 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1424.ts
+#EXTINF:-1,BENFICA TV 1 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1425.ts
+#EXTINF:-1,EUROSPORT MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1428.ts
+#EXTINF:-1,EUROSPORT 2 XTRA MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1430.ts
+#EXTINF:-1,EUROSPORT 2 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1429.ts
+#EXTINF:-1,SPORTING TV MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1426.ts
+#EXTINF:-1,PFC MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1427.ts
+#EXTINF:-1,CAÇA E PESCA MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1434.ts
+#EXTINF:-1,MOTORS TV MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1432.ts
+#EXTINF:-1,MOTORVISION MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1431.ts
+#EXTINF:-1,KOMBAT SPORT MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1433.ts
+#EXTINF:-1,TVCINE 1 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1435.ts
+#EXTINF:-1,TVCINE 2 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1436.ts
+#EXTINF:-1,TVCINE 3 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1437.ts
+#EXTINF:-1,TVCINE 4 MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1438.ts
+#EXTINF:-1,TVSERIES MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1439.ts
+#EXTINF:-1,CINEMUNDO MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1442.ts
+#EXTINF:-1,FOX MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1446.ts
+#EXTINF:-1,FOX MOVIE MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1447.ts
+#EXTINF:-1,FOX LIFE MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1448.ts
+#EXTINF:-1,FOX CRIME MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1449.ts
+#EXTINF:-1,FOX COMEDY MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1450.ts
+#EXTINF:-1,AXN MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1443.ts
+#EXTINF:-1,AXN WHITE MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1444.ts
+#EXTINF:-1,AXN BLACK MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1445.ts
+#EXTINF:-1,HOLLYWOOD MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1441.ts
+#EXTINF:-1,MOV MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1440.ts
+#EXTINF:-1,BABY TV MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1455.ts
+#EXTINF:-1,CANAL PANDA MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1467.ts
+#EXTINF:-1,DISNEY CHANNEL MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1460.ts
+#EXTINF:-1,DISNEY JUNIOR MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1459.ts
+#EXTINF:-1,CARTOON NETWORK MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1464.ts
+#EXTINF:-1,SIC K MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1465.ts
+#EXTINF:-1,JIM JAM MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1463.ts
+#EXTINF:-1,PANDA BIGGS MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1462.ts
+#EXTINF:-1,NICKELODEON MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1466.ts
+#EXTINF:-1,NAT GEOGRAFIC MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1451.ts
+#EXTINF:-1,DISCOVERY MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1452.ts
+#EXTINF:-1,DISCOVERY SHOWCASE MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1453.ts
+#EXTINF:-1,A & E MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1456.ts
+#EXTINF:-1,TLC MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1457.ts
+#EXTINF:-1,CANAL HISTORIA MOBILE
+http://painel.soeu.ws:8000/live/sa/sa/1454.ts
+#EXTINF:-1,############# RADIO #############
+http://painel.soeu.ws:8000/live/sa/sa/917.ts
+#EXTINF:-1,RADIO: SMOOTH FM
+http://painel.soeu.ws:8000/live/sa/sa/1481.ts
+#EXTINF:-1,RADIO: RFM CLUBBING
+http://painel.soeu.ws:8000/live/sa/sa/1482.ts
+#EXTINF:-1,RADIO: RFM
+http://painel.soeu.ws:8000/live/sa/sa/1483.ts
+#EXTINF:-1,RADIO: RENASCENCA
+http://painel.soeu.ws:8000/live/sa/sa/1484.ts
+#EXTINF:-1,RADIO: RDP INTERNACIONAL
+http://painel.soeu.ws:8000/live/sa/sa/1485.ts
+#EXTINF:-1,RADIO: RDP AFRICA
+http://painel.soeu.ws:8000/live/sa/sa/1486.ts
+#EXTINF:-1,RADIO: RADIO COMERCIAL
+http://painel.soeu.ws:8000/live/sa/sa/1487.ts
+#EXTINF:-1,RADIO: OCEANO PACIFICO
+http://painel.soeu.ws:8000/live/sa/sa/1488.ts
+#EXTINF:-1,RADIO: NOVA ERA
+http://painel.soeu.ws:8000/live/sa/sa/1489.ts
+#EXTINF:-1,RADIO: MEGA HITS
+http://painel.soeu.ws:8000/live/sa/sa/1490.ts
+#EXTINF:-1,RADIO: M80
+http://painel.soeu.ws:8000/live/sa/sa/1491.ts
+#EXTINF:-1,RADIO: LUSITANIA
+http://painel.soeu.ws:8000/live/sa/sa/1492.ts
+#EXTINF:-1,RADIO: CIDADE FM
+http://painel.soeu.ws:8000/live/sa/sa/1493.ts
+#EXTINF:-1,RADIO: ANTENA 3 ROCK
+http://painel.soeu.ws:8000/live/sa/sa/1494.ts
+#EXTINF:-1,RADIO: ANTENA 3 DANCE
+http://painel.soeu.ws:8000/live/sa/sa/1495.ts
+#EXTINF:-1,RADIO: ANTENA 3
+http://painel.soeu.ws:8000/live/sa/sa/1496.ts
+#EXTINF:-1,RADIO: ANTENA 2
+http://painel.soeu.ws:8000/live/sa/sa/1497.ts
+#EXTINF:-1,RADIO: ANTENA 1 FADO
+http://painel.soeu.ws:8000/live/sa/sa/1498.ts
+#EXTINF:-1,RADIO: 80s RFM
+http://painel.soeu.ws:8000/live/sa/sa/1499.ts
+#EXTINF:-1,############# VIDEOCLUB #############
+http://painel.soeu.ws:8000/live/sa/sa/835.ts
+#EXTINF:-1,Zanjeer
+http://painel.soeu.ws:8000/movie/sa/sa/1580.mp4
+#EXTINF:-1,Virar a Pagina
+http://painel.soeu.ws:8000/movie/sa/sa/1581.mp4
+#EXTINF:-1,USS Indianapolis
+http://painel.soeu.ws:8000/movie/sa/sa/1582.mp4
+#EXTINF:-1,True Memoirs of an International Assassin
+http://painel.soeu.ws:8000/movie/sa/sa/1583.mp4
+#EXTINF:-1,Toda a Verdade
+http://painel.soeu.ws:8000/movie/sa/sa/1584.mp4
+#EXTINF:-1,Tini Depois de Violetta
+http://painel.soeu.ws:8000/movie/sa/sa/1585.mp4
+#EXTINF:-1,The White Helmets
+http://painel.soeu.ws:8000/movie/sa/sa/1586.mp4
+#EXTINF:-1,The Monster
+http://painel.soeu.ws:8000/movie/sa/sa/1587.mp4
+#EXTINF:-1,THE MEDDLER
+http://painel.soeu.ws:8000/movie/sa/sa/1588.mp4
+#EXTINF:-1,The Late Bloomer
+http://painel.soeu.ws:8000/movie/sa/sa/1589.mp4
+#EXTINF:-1,The Darkness
+http://painel.soeu.ws:8000/movie/sa/sa/1590.mp4
+#EXTINF:-1,The Call Up
+http://painel.soeu.ws:8000/movie/sa/sa/1591.mp4
+#EXTINF:-1,THE BROTHERS GRIMSBY
+http://painel.soeu.ws:8000/movie/sa/sa/1664.mp4
+#EXTINF:-1,Tell Me How I Die
+http://painel.soeu.ws:8000/movie/sa/sa/1592.mp4
+#EXTINF:-1,Snowden
+http://painel.soeu.ws:8000/movie/sa/sa/1593.mp4
+#EXTINF:-1,Sister Cities
+http://painel.soeu.ws:8000/movie/sa/sa/1594.mp4
+#EXTINF:-1,Sininho Fadas e Piratas
+http://painel.soeu.ws:8000/movie/sa/sa/1595.mp4
+#EXTINF:-1,Shovel Buddies
+http://painel.soeu.ws:8000/movie/sa/sa/1596.mp4
+#EXTINF:-1,Satanic
+http://painel.soeu.ws:8000/movie/sa/sa/1597.mp4
+#EXTINF:-1,Salsicha Party
+http://painel.soeu.ws:8000/movie/sa/sa/1598.mp4
+#EXTINF:-1,Raja Rani
+http://painel.soeu.ws:8000/movie/sa/sa/1599.mp4
+#EXTINF:-1,Plane to fthe Sharks
+http://painel.soeu.ws:8000/movie/sa/sa/1600.mp4
+#EXTINF:-1,Pirate Today
+http://painel.soeu.ws:8000/movie/sa/sa/1601.mp4
+#EXTINF:-1,Piku
+http://painel.soeu.ws:8000/movie/sa/sa/1602.mp4
+#EXTINF:-1,Phantasm Ravager
+http://painel.soeu.ws:8000/movie/sa/sa/1603.mp4
+#EXTINF:-1,Pedido de Amizade
+http://painel.soeu.ws:8000/movie/sa/sa/1604.mp4
+#EXTINF:-1,Os Traficantes
+http://painel.soeu.ws:8000/movie/sa/sa/1605.mp4
+#EXTINF:-1,Os Mercenarios 3
+http://painel.soeu.ws:8000/movie/sa/sa/1606.mp4
+#EXTINF:-1,O Ultimo Desafio
+http://painel.soeu.ws:8000/movie/sa/sa/1607.mp4
+#EXTINF:-1,O Segredo da Pequena Sereia
+http://painel.soeu.ws:8000/movie/sa/sa/1608.mp4
+#EXTINF:-1,O Rei Leao
+http://painel.soeu.ws:8000/movie/sa/sa/1609.mp4
+#EXTINF:-1,O Bebe de Bridget Jones
+http://painel.soeu.ws:8000/movie/sa/sa/1610.mp4
+#EXTINF:-1,O Amigo Gigante
+http://painel.soeu.ws:8000/movie/sa/sa/1611.mp4
+#EXTINF:-1,Ninja Assassin
+http://painel.soeu.ws:8000/movie/sa/sa/1612.mp4
+#EXTINF:-1,Nem Respires
+http://painel.soeu.ws:8000/movie/sa/sa/1613.mp4
+#EXTINF:-1,Mythica The Iron Crown
+http://painel.soeu.ws:8000/movie/sa/sa/1614.mp4
+#EXTINF:-1,Mune O Guardiao da Lua
+http://painel.soeu.ws:8000/movie/sa/sa/1615.mp4
+#EXTINF:-1,Mr Peabody e Sherman
+http://painel.soeu.ws:8000/movie/sa/sa/1616.mp4
+#EXTINF:-1,Most Likely to Die
+http://painel.soeu.ws:8000/movie/sa/sa/1617.mp4
+#EXTINF:-1,Modelis
+http://painel.soeu.ws:8000/movie/sa/sa/1618.mp4
+#EXTINF:-1,Milenge Milenge
+http://painel.soeu.ws:8000/movie/sa/sa/1619.mp4
+#EXTINF:-1,Milagre no Rio Hudson
+http://painel.soeu.ws:8000/movie/sa/sa/1620.mp4
+#EXTINF:-1,Megamind
+http://painel.soeu.ws:8000/movie/sa/sa/1621.mp4
+#EXTINF:-1,Meet the Blacks
+http://painel.soeu.ws:8000/movie/sa/sa/1622.mp4
+#EXTINF:-1,Mary Kom
+http://painel.soeu.ws:8000/movie/sa/sa/1623.mp4
+#EXTINF:-1,Looney Tunes: Rabbits Run
+http://painel.soeu.ws:8000/movie/sa/sa/1624.mp4
+#EXTINF:-1,LoLo
+http://painel.soeu.ws:8000/movie/sa/sa/1625.mp4
+#EXTINF:-1,Kubo e as Duas Cordas
+http://painel.soeu.ws:8000/movie/sa/sa/1626.mp4
+#EXTINF:-1,King Cobra
+http://painel.soeu.ws:8000/movie/sa/sa/1627.mp4
+#EXTINF:-1,Kalyug
+http://painel.soeu.ws:8000/movie/sa/sa/1628.mp4
+#EXTINF:-1,Junooniyat
+http://painel.soeu.ws:8000/movie/sa/sa/1629.mp4
+#EXTINF:-1,Indignation
+http://painel.soeu.ws:8000/movie/sa/sa/1630.mp4
+#EXTINF:-1,I.T.
+http://painel.soeu.ws:8000/movie/sa/sa/1631.mp4
+#EXTINF:-1,Honey 3 Der Beat des Lebens
+http://painel.soeu.ws:8000/movie/sa/sa/1632.mp4
+#EXTINF:-1,Hellor High Water
+http://painel.soeu.ws:8000/movie/sa/sa/1633.mp4
+#EXTINF:-1,Heidi
+http://painel.soeu.ws:8000/movie/sa/sa/1634.mp4
+#EXTINF:-1,Hamari Adhuri Kahani
+http://painel.soeu.ws:8000/movie/sa/sa/1635.mp4
+#EXTINF:-1,Guzaarish
+http://painel.soeu.ws:8000/movie/sa/sa/1636.mp4
+#EXTINF:-1,Goat
+http://painel.soeu.ws:8000/movie/sa/sa/1637.mp4
+#EXTINF:-1,Ghulam
+http://painel.soeu.ws:8000/movie/sa/sa/1638.mp4
+#EXTINF:-1,Food
+http://painel.soeu.ws:8000/movie/sa/sa/1639.mp4
+#EXTINF:-1,Edge of Winter
+http://painel.soeu.ws:8000/movie/sa/sa/1640.mp4
+#EXTINF:-1,Dum Laga Ke Haisha
+http://painel.soeu.ws:8000/movie/sa/sa/1641.mp4
+#EXTINF:-1,Dil Ka Rishta
+http://painel.soeu.ws:8000/movie/sa/sa/1642.mp4
+#EXTINF:-1,Deewaar
+http://painel.soeu.ws:8000/movie/sa/sa/1643.mp4
+#EXTINF:-1,Daeho
+http://painel.soeu.ws:8000/movie/sa/sa/1644.mp4
+#EXTINF:-1,Cowboy Zombies
+http://painel.soeu.ws:8000/movie/sa/sa/1645.mp4
+#EXTINF:-1,Complete Unknown
+http://painel.soeu.ws:8000/movie/sa/sa/1646.mp4
+#EXTINF:-1,Cinderela
+http://painel.soeu.ws:8000/movie/sa/sa/1647.mp4
+#EXTINF:-1,Chosen (2016)
+http://painel.soeu.ws:8000/movie/sa/sa/1648.mp4
+#EXTINF:-1,Certain Women
+http://painel.soeu.ws:8000/movie/sa/sa/1649.mp4
+#EXTINF:-1,Center Stage On Pointe
+http://painel.soeu.ws:8000/movie/sa/sa/1650.mp4
+#EXTINF:-1,Capsule
+http://painel.soeu.ws:8000/movie/sa/sa/1651.mp4
+#EXTINF:-1,Caged No More
+http://painel.soeu.ws:8000/movie/sa/sa/1652.mp4
+#EXTINF:-1,Beyond the Call to Duty
+http://painel.soeu.ws:8000/movie/sa/sa/1653.mp4
+#EXTINF:-1,Bewakoofiyaan
+http://painel.soeu.ws:8000/movie/sa/sa/1654.mp4
+#EXTINF:-1,Aqui Ha Gato 2016
+http://painel.soeu.ws:8000/movie/sa/sa/1655.mp4
+#EXTINF:-1,Anthropoid
+http://painel.soeu.ws:8000/movie/sa/sa/1656.mp4
+#EXTINF:-1,Airlift
+http://painel.soeu.ws:8000/movie/sa/sa/1657.mp4
+#EXTINF:-1,A Procura de Dory
+http://painel.soeu.ws:8000/movie/sa/sa/1658.mp4
+#EXTINF:-1,A Lenda do Dragao
+http://painel.soeu.ws:8000/movie/sa/sa/1659.mp4
+#EXTINF:-1,A Girl Like Her
+http://painel.soeu.ws:8000/movie/sa/sa/1660.mp4
+#EXTINF:-1,A Cinderella Story If the Shoe Fits
+http://painel.soeu.ws:8000/movie/sa/sa/1661.mp4
+#EXTINF:-1,A Casa da Senhora Peregrine para Criancas Peculiares
+http://painel.soeu.ws:8000/movie/sa/sa/1662.mp4
+#EXTINF:-1,A Cancao De Lisboa
+http://painel.soeu.ws:8000/movie/sa/sa/1663.mp4
+#EXTINF:-1,O NOSSO MILAGRE
+http://painel.soeu.ws:8000/movie/sa/sa/1578.mp4
+#EXTINF:-1,WHILE WERE YOUNG
+http://painel.soeu.ws:8000/movie/sa/sa/1509.mp4
+#EXTINF:-1,WARCAFT
+http://painel.soeu.ws:8000/movie/sa/sa/1510.mp4
+#EXTINF:-1,TUMBLEDOWN
+http://painel.soeu.ws:8000/movie/sa/sa/1511.mp4
+#EXTINF:-1,THIS IS THE END
+http://painel.soeu.ws:8000/movie/sa/sa/1512.mp4
+#EXTINF:-1,THE TRANSPORTER REFUELED
+http://painel.soeu.ws:8000/movie/sa/sa/1513.mp4
+#EXTINF:-1,THE SIEGE OF JADOTVILLE
+http://painel.soeu.ws:8000/movie/sa/sa/1514.mp4
+#EXTINF:-1,THE SHALLOWS
+http://painel.soeu.ws:8000/movie/sa/sa/1515.mp4
+#EXTINF:-1,THE SECRET LIFE OF PETS
+http://painel.soeu.ws:8000/movie/sa/sa/1516.mp4
+#EXTINF:-1,THE PURGE ELECTION YEAR
+http://painel.soeu.ws:8000/movie/sa/sa/1517.mp4
+#EXTINF:-1,THE MAN WHO KNEW INFINITY
+http://painel.soeu.ws:8000/movie/sa/sa/1518.mp4
+#EXTINF:-1,THE LITTLE DEATH
+http://painel.soeu.ws:8000/movie/sa/sa/1519.mp4
+#EXTINF:-1,THE JUNGLE BOOK
+http://painel.soeu.ws:8000/movie/sa/sa/1520.mp4
+#EXTINF:-1,THE INFILTRATOR
+http://painel.soeu.ws:8000/movie/sa/sa/1521.mp4
+#EXTINF:-1,THE FUNDAMENTALS OF CARING
+http://painel.soeu.ws:8000/movie/sa/sa/1522.mp4
+#EXTINF:-1,THE FINAL GIRLS
+http://painel.soeu.ws:8000/movie/sa/sa/1523.mp4
+#EXTINF:-1,THE ESCORT
+http://painel.soeu.ws:8000/movie/sa/sa/1524.mp4
+#EXTINF:-1,THE CONJURING 2
+http://painel.soeu.ws:8000/movie/sa/sa/1525.mp4
+#EXTINF:-1,TED 2
+http://painel.soeu.ws:8000/movie/sa/sa/1526.mp4
+#EXTINF:-1,SWISS ARMY MAN
+http://painel.soeu.ws:8000/movie/sa/sa/1527.mp4
+#EXTINF:-1,SULTAN
+http://painel.soeu.ws:8000/movie/sa/sa/1528.mp4
+#EXTINF:-1,SUICIDE SQUAD
+http://painel.soeu.ws:8000/movie/sa/sa/1529.mp4
+#EXTINF:-1,SPY
+http://painel.soeu.ws:8000/movie/sa/sa/1530.mp4
+#EXTINF:-1,RUAS RIVAIS
+http://painel.soeu.ws:8000/movie/sa/sa/1531.mp4
+#EXTINF:-1,ROBINSON CRUSOE
+http://painel.soeu.ws:8000/movie/sa/sa/1532.mp4
+#EXTINF:-1,RATCHET E CLANK HEROIS DA GALAXIA- HEROIS DA GALAXIA
+http://painel.soeu.ws:8000/movie/sa/sa/1533.mp4
+#EXTINF:-1,R.L. STINES MONSTERVILLE
+http://painel.soeu.ws:8000/movie/sa/sa/1534.mp4
+#EXTINF:-1,POPSTAR NEVES STOP
+http://painel.soeu.ws:8000/movie/sa/sa/1535.mp4
+#EXTINF:-1,PEE-WEES BIG HOLIDAY
+http://painel.soeu.ws:8000/movie/sa/sa/1536.mp4
+#EXTINF:-1,PATIO DAS CANTIGAS
+http://painel.soeu.ws:8000/movie/sa/sa/1537.mp4
+#EXTINF:-1,PAPA OU MAMA
+http://painel.soeu.ws:8000/movie/sa/sa/1538.mp4
+#EXTINF:-1,OVELHA CHONE
+http://painel.soeu.ws:8000/movie/sa/sa/1539.mp4
+#EXTINF:-1,OUR KIND OF TRAITOR
+http://painel.soeu.ws:8000/movie/sa/sa/1540.mp4
+#EXTINF:-1,NOW YOU SEE ME 2
+http://painel.soeu.ws:8000/movie/sa/sa/1541.mp4
+#EXTINF:-1,NERVE
+http://painel.soeu.ws:8000/movie/sa/sa/1542.mp4
+#EXTINF:-1,MOTHERS DAY
+http://painel.soeu.ws:8000/movie/sa/sa/1543.mp4
+#EXTINF:-1,MIKE AND DAVE NEED WEDDING DATES
+http://painel.soeu.ws:8000/movie/sa/sa/1544.mp4
+#EXTINF:-1,ME BEFORE YOU
+http://painel.soeu.ws:8000/movie/sa/sa/1545.mp4
+#EXTINF:-1,MASCOTS
+http://painel.soeu.ws:8000/movie/sa/sa/1546.mp4
+#EXTINF:-1,MARLEY AND ME
+http://painel.soeu.ws:8000/movie/sa/sa/1547.mp4
+#EXTINF:-1,LOVE FRIENDSHIP
+http://painel.soeu.ws:8000/movie/sa/sa/1548.mp4
+#EXTINF:-1,LITGHTS OUT
+http://painel.soeu.ws:8000/movie/sa/sa/1549.mp4
+#EXTINF:-1,JUE DI TAO WANG
+http://painel.soeu.ws:8000/movie/sa/sa/1550.mp4
+#EXTINF:-1,INTERNET FAMOUS
+http://painel.soeu.ws:8000/movie/sa/sa/1551.mp4
+#EXTINF:-1,INDEPENDENCE DAY RESURGENCE
+http://painel.soeu.ws:8000/movie/sa/sa/1552.mp4
+#EXTINF:-1,IMPERIUM 2016
+http://painel.soeu.ws:8000/movie/sa/sa/1553.mp4
+#EXTINF:-1,HUNT FOR THE WILDERPEOPLE
+http://painel.soeu.ws:8000/movie/sa/sa/1554.mp4
+#EXTINF:-1,GHOSTBUSTERS
+http://painel.soeu.ws:8000/movie/sa/sa/1555.mp4
+#EXTINF:-1,FRIEND REQUEST
+http://painel.soeu.ws:8000/movie/sa/sa/1556.mp4
+#EXTINF:-1,FREE STATE OF JONES
+http://painel.soeu.ws:8000/movie/sa/sa/1557.mp4
+#EXTINF:-1,FLORENCE FOSTER JENKINS
+http://painel.soeu.ws:8000/movie/sa/sa/1558.mp4
+#EXTINF:-1,EVERYBODY WANTS SOME
+http://painel.soeu.ws:8000/movie/sa/sa/1559.mp4
+#EXTINF:-1,ELLE
+http://painel.soeu.ws:8000/movie/sa/sa/1560.mp4
+#EXTINF:-1,DIRTY 30
+http://painel.soeu.ws:8000/movie/sa/sa/1561.mp4
+#EXTINF:-1,DE PALMA
+http://painel.soeu.ws:8000/movie/sa/sa/1562.mp4
+#EXTINF:-1,CENTRAL INTELLIGENCE
+http://painel.soeu.ws:8000/movie/sa/sa/1563.mp4
+#EXTINF:-1,CAPTAIN FANTASTIC
+http://painel.soeu.ws:8000/movie/sa/sa/1564.mp4
+#EXTINF:-1,BROKEN VOWS
+http://painel.soeu.ws:8000/movie/sa/sa/1565.mp4
+#EXTINF:-1,BLUE MOUNTAIN STATE- THE RISE OF THADLAND
+http://painel.soeu.ws:8000/movie/sa/sa/1566.mp4
+#EXTINF:-1,BASTILLE DAY
+http://painel.soeu.ws:8000/movie/sa/sa/1567.mp4
+#EXTINF:-1,BAD MOMS
+http://painel.soeu.ws:8000/movie/sa/sa/1568.mp4
+#EXTINF:-1,ARQ
+http://painel.soeu.ws:8000/movie/sa/sa/1569.mp4
+#EXTINF:-1,Anomalisa
+http://painel.soeu.ws:8000/movie/sa/sa/1570.mp4
+#EXTINF:-1,Angry Birds- O Filme
+http://painel.soeu.ws:8000/movie/sa/sa/1571.mp4
+#EXTINF:-1,AMERICAN ULTRA
+http://painel.soeu.ws:8000/movie/sa/sa/1572.mp4
+#EXTINF:-1,American Reunion
+http://painel.soeu.ws:8000/movie/sa/sa/1573.mp4
+#EXTINF:-1,All The Way
+http://painel.soeu.ws:8000/movie/sa/sa/1574.mp4
+#EXTINF:-1,Alice Through The Looking Glass
+http://painel.soeu.ws:8000/movie/sa/sa/1575.mp4
+#EXTINF:-1,A MILLION WAYS TO DIE IN THE WEST
+http://painel.soeu.ws:8000/movie/sa/sa/1576.mp4
+#EXTINF:-1,A Briliant Yong Mind
+http://painel.soeu.ws:8000/movie/sa/sa/1577.mp4
+#EXTINF:-1,X Men Apocalipse
+http://painel.soeu.ws:8000/movie/sa/sa/1354.mp4
+#EXTINF:-1,Warcraft
+http://painel.soeu.ws:8000/movie/sa/sa/1355.mp4
+#EXTINF:-1,Viver Depois de Ti
+http://painel.soeu.ws:8000/movie/sa/sa/1356.mp4
+#EXTINF:-1,Uma Aventura no Jurassico
+http://painel.soeu.ws:8000/movie/sa/sa/1357.mp4
+#EXTINF:-1,Um Traidor dos Nossos
+http://painel.soeu.ws:8000/movie/sa/sa/1358.mp4
+#EXTINF:-1,Um Dia de Mae
+http://painel.soeu.ws:8000/movie/sa/sa/1359.mp4
+#EXTINF:-1,Todos Querem o Mesmo
+http://painel.soeu.ws:8000/movie/sa/sa/1360.mp4
+#EXTINF:-1,The Midnight Man 2016
+http://painel.soeu.ws:8000/movie/sa/sa/1361.mp4
+#EXTINF:-1,The Conjuring 2  A Evocacao
+http://painel.soeu.ws:8000/movie/sa/sa/1362.mp4
+#EXTINF:-1,Temps
+http://painel.soeu.ws:8000/movie/sa/sa/1363.mp4
+#EXTINF:-1,Tartarugas Ninja Herois Mutantes O Romper das Sombras
+http://painel.soeu.ws:8000/movie/sa/sa/1364.mp4
+#EXTINF:-1,Size Zero
+http://painel.soeu.ws:8000/movie/sa/sa/1365.mp4
+#EXTINF:-1,Range 15
+http://painel.soeu.ws:8000/movie/sa/sa/1366.mp4
+#EXTINF:-1,Race 10 Segundos de Liberdade
+http://painel.soeu.ws:8000/movie/sa/sa/1367.mp4
+#EXTINF:-1,Pele O Nascimento de Uma Lenda
+http://painel.soeu.ws:8000/movie/sa/sa/1368.mp4
+#EXTINF:-1,O Livro da Selva
+http://painel.soeu.ws:8000/movie/sa/sa/1369.mp4
+#EXTINF:-1,Money Monster
+http://painel.soeu.ws:8000/movie/sa/sa/1370.mp4
+#EXTINF:-1,Mestres da Ilusao 2
+http://painel.soeu.ws:8000/movie/sa/sa/1371.mp4
+#EXTINF:-1,Main Aur Mr Riight
+http://painel.soeu.ws:8000/movie/sa/sa/1372.mp4
+#EXTINF:-1,Ma Vizinhanca 2
+http://painel.soeu.ws:8000/movie/sa/sa/1373.mp4
+#EXTINF:-1,Kickboxer
+http://painel.soeu.ws:8000/movie/sa/sa/1374.mp4
+#EXTINF:-1,Keanu
+http://painel.soeu.ws:8000/movie/sa/sa/1375.mp4
+#EXTINF:-1,Jason Bourne
+http://painel.soeu.ws:8000/movie/sa/sa/1376.mp4
+#EXTINF:-1,In the Deep
+http://painel.soeu.ws:8000/movie/sa/sa/1377.mp4
+#EXTINF:-1,I Am Not a Serial Killer
+http://painel.soeu.ws:8000/movie/sa/sa/1378.mp4
+#EXTINF:-1,Hard Target 2
+http://painel.soeu.ws:8000/movie/sa/sa/1379.mp4
+#EXTINF:-1,Fan
+http://painel.soeu.ws:8000/movie/sa/sa/1380.mp4
+#EXTINF:-1,Countdown
+http://painel.soeu.ws:8000/movie/sa/sa/1381.mp4
+#EXTINF:-1,Bons Rapazes
+http://painel.soeu.ws:8000/movie/sa/sa/1382.mp4
+#EXTINF:-1,Blood Father
+http://painel.soeu.ws:8000/movie/sa/sa/1383.mp4
+#EXTINF:-1,Bastille Day  Missao Antiterrorista
+http://painel.soeu.ws:8000/movie/sa/sa/1384.mp4
+#EXTINF:-1,Aguas Perigosas
+http://painel.soeu.ws:8000/movie/sa/sa/1385.mp4
+#EXTINF:-1,A Vida Secreta dos Nossos Bichos
+http://painel.soeu.ws:8000/movie/sa/sa/1386.mp4
+#EXTINF:-1,A Lenda de Tarzan
+http://painel.soeu.ws:8000/movie/sa/sa/1387.mp4
+#EXTINF:-1,A Idade do Gelo O Big Bang
+http://painel.soeu.ws:8000/movie/sa/sa/1388.mp4
+#EXTINF:-1,A Hologram for the King
+http://painel.soeu.ws:8000/movie/sa/sa/1389.mp4
+#EXTINF:-1,Zootropolis
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/154.mp4
+#EXTINF:-1,Whiskey Tango Foxtrot
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/173.mp4
+#EXTINF:-1,Viram se Novamente Gregos Para Casar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/172.mp4
+#EXTINF:-1,The Young Messiah
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/152.mkv
+#EXTINF:-1,The Offering
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/151.mp4
+#EXTINF:-1,The Duel
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/170.mp4
+#EXTINF:-1,The Do-Over
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/150.mp4
+#EXTINF:-1,The Confirmation
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/171.mp4
+#EXTINF:-1,The Brothers Grimsby
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/149.mp4
+#EXTINF:-1,Sponge Bob Esponja Fora De Agua
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/147.mp4
+#EXTINF:-1,O Nosso Milagre
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/169.mp4
+#EXTINF:-1,O Escaravelho do Diabo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/168.mp4
+#EXTINF:-1,Never Back Down No Surrender
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/167.mp4
+#EXTINF:-1,Minimos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/146.mp4
+#EXTINF:-1,Marauders
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/166.mp4
+#EXTINF:-1,Manhattan Night
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/145.mp4
+#EXTINF:-1,Kiddo O Super Camiao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/144.mp4
+#EXTINF:-1,Home
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/143.mp4
+#EXTINF:-1,Hardcore Henry
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/142.mp4
+#EXTINF:-1,Girl in Woods
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/164.mp4
+#EXTINF:-1,Frozen Reino Gelo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/153.mp4
+#EXTINF:-1,Emmas Chance
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/163.mp4
+#EXTINF:-1,Electra Woman and Dyna Girl
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/141.mp4
+#EXTINF:-1,Eddie The Eagle
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/140.mp4
+#EXTINF:-1,Demolicao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/162.mp4
+#EXTINF:-1,Deadly Intent
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/161.mp4
+#EXTINF:-1,Dead Rising Endgame
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/160.mp4
+#EXTINF:-1,Dads Army
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/139.mp4
+#EXTINF:-1,Da Serie Divergente Convergente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/159.mp4
+#EXTINF:-1,Criminoso
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/138.mp4
+#EXTINF:-1,Code of Honor
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/137.mp4
+#EXTINF:-1,Cell Chamada Para a Morte
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/158.mp4
+#EXTINF:-1,Brahman Naman
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/175.mp4
+#EXTINF:-1,Before I Wake
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/157.mp4
+#EXTINF:-1,Batman v Super Homem O Despertar da Justica
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/156.mp4
+#EXTINF:-1,Barbershop The Next
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/174.mp4
+#EXTINF:-1,Avioes Equipa de Resgate
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/136.mp4
+#EXTINF:-1,Alice do Outro Lado do Espelho
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/155.mp4
+#EXTINF:-1,Abelha Maia
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/135.mp4
+#EXTINF:-1,7 Anao O Pequeno Heroi
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/133.mp4
+#EXTINF:-1,13 Horas Os Soldados Secretos de Benghazi
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/134.mp4
+#EXTINF:-1,Zootopia
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/127.mp4
+#EXTINF:-1,Zoolander 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/126.mp4
+#EXTINF:-1,Uma Escolha Por Amor
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/119.mp4
+#EXTINF:-1,Um Avo Muito a Frente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/83.mp4
+#EXTINF:-1,Triple 9
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/125.mp4
+#EXTINF:-1,The Witch
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/76.mp4
+#EXTINF:-1,The Veil
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/124.mp4
+#EXTINF:-1,The Trust
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/130.mkv
+#EXTINF:-1,The Dead Room
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/120.mp4
+#EXTINF:-1,The Boy - Segue as Regras
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/118.mp4
+#EXTINF:-1,Tevar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/117.mp4
+#EXTINF:-1,Tempo Limite
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/132.mp4
+#EXTINF:-1,Stealing Cars
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/116.mp4
+#EXTINF:-1,Special Correspondents
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/115.mp4
+#EXTINF:-1,Sniper: Special Ops
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/114.mp4
+#EXTINF:-1,Salve, Cesar!
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/91.mp4
+#EXTINF:-1,Sacrifice
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/113.mp4
+#EXTINF:-1,Reza Lenda
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/111.mp4
+#EXTINF:-1,Ressurreicao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/112.mp4
+#EXTINF:-1,Pee-wee's Big Holiday
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/109.mp4
+#EXTINF:-1,Pandemic
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/75.mkv
+#EXTINF:-1,OUTCAST - O ULTIMO TEMPLARIO
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/108.mp4
+#EXTINF:-1,Os Deuses do Egipto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/100.mp4
+#EXTINF:-1,O Cacador e a Rainha do Gelo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/122.mp4
+#EXTINF:-1,Nowhere Boys: The Book of Shadows
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/107.mp4
+#EXTINF:-1,NORM - O HEROI DO ARTICO
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/129.mp4
+#EXTINF:-1,Mothers and Daughters
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/106.mp4
+#EXTINF:-1,Misconduct
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/105.mp4
+#EXTINF:-1,Midnight Special
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/104.mp4
+#EXTINF:-1,Lego Scooby-Doo!: Haunted Hollywood
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/102.mkv
+#EXTINF:-1,Leao da Estrela
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/131.mp4
+#EXTINF:-1,Lake Eerie
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/94.mp4
+#EXTINF:-1,Kindergarten Cop 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/101.mp4
+#EXTINF:-1,Killing Jesus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/88.mp4
+#EXTINF:-1,Jarhead 3: The Siege
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/87.mp4
+#EXTINF:-1,I Am Wrath
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/80.mp4
+#EXTINF:-1,Hush
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/74.mp4
+#EXTINF:-1,Horas Decisivas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/121.mp4
+#EXTINF:-1,Holidays
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/92.mp4
+#EXTINF:-1,Factor de Risco
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/123.mp4
+#EXTINF:-1,Emelie
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/84.mp4
+#EXTINF:-1,Duplo Confronto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/110.mp4
+#EXTINF:-1,Diablo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/90.mp4
+#EXTINF:-1,Devdas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/99.mp4
+#EXTINF:-1,Decay
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/82.mp4
+#EXTINF:-1,Deadpool
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/79.mp4
+#EXTINF:-1,Como Ser Solteira
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/93.mp4
+#EXTINF:-1,Capitao America: Guerra Civil
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/98.mp4
+#EXTINF:-1,Cabin Fever
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/81.mp4
+#EXTINF:-1,BROTHERS
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/97.mp4
+#EXTINF:-1,Boog e Elliot Aventura Na Floresta
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/128.mp4
+#EXTINF:-1,Barbie e As Agentes Secretas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/89.mp4
+#EXTINF:-1,Assalto a Londres
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/103.mp4
+#EXTINF:-1,As Cinquenta Sombras de Black
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/85.mp4
+#EXTINF:-1,ARRANHA CEUS
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/86.mp4
+#EXTINF:-1,Antonio Raminhos Apresenta As Marias
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/96.mkv
+#EXTINF:-1,Amor em Roma
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/78.mp4
+#EXTINF:-1,10 Cloverfield Lane
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/77.mp4
+#EXTINF:-1,Umrao Jaan
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/61.mp4
+#EXTINF:-1,The Hoarder
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/64.mp4
+#EXTINF:-1,The Girl in the Photographs
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/69.mp4
+#EXTINF:-1,Star Wars: O Despertar da Forca
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/51.mp4
+#EXTINF:-1,Snoopy e Charlie Brown: Peanuts
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/50.mp4
+#EXTINF:-1,Remember
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/49.mp4
+#EXTINF:-1,Ramaiya Vastavaiya
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/68.mp4
+#EXTINF:-1,Policias em Grandes Apuros
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/71.mp4
+#EXTINF:-1,Orgulho e Preconceito e Guerra
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/48.mp4
+#EXTINF:-1,O Principezinho
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/52.mp4
+#EXTINF:-1,Muito a Frente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/67.mp4
+#EXTINF:-1,Kung Fu Panda 3
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/47.mp4
+#EXTINF:-1,Jazbaa
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/65.mp4
+#EXTINF:-1,James White
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/63.mp4
+#EXTINF:-1,Ip Man 3
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/46.mp4
+#EXTINF:-1,Heropanti
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/56.mp4
+#EXTINF:-1,Get a Job
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/54.mp4
+#EXTINF:-1,Fourth Man Out
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/45.mp4
+#EXTINF:-1,Ek Tha Tiger
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/62.mp4
+#EXTINF:-1,Curse of the Witching Tree
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/55.mp4
+#EXTINF:-1,Bem vindo ao Afeganistao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/53.mp4
+#EXTINF:-1,As Armas de Jane
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/59.mp4
+#EXTINF:-1,A Viagem de Arlo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/43.mp4
+#EXTINF:-1,A Guarda do Leao o Regresso do Rugido
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/70.mkv
+#EXTINF:-1,A 5 Vaga
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/42.mp4
+#EXTINF:-1,Victor Frankenstein
+http://painel.soeu.ws:8000/movie/sa/sa/791.mp4
+#EXTINF:-1,Verdade
+http://painel.soeu.ws:8000/movie/sa/sa/792.mp4
+#EXTINF:-1,The Overnight
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/29.mp4
+#EXTINF:-1,The Lobster
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/26.mp4
+#EXTINF:-1,The Forest
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/25.mp4
+#EXTINF:-1,The Boy
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/20.mp4
+#EXTINF:-1,Terminus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/3.mp4
+#EXTINF:-1,Standoff
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/24.mp4
+#EXTINF:-1,Southbound
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/23.mp4
+#EXTINF:-1,So Podiam Ser Irmas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/38.mp4
+#EXTINF:-1,Sem Compromissos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/19.mp4
+#EXTINF:-1,Samurai Cop 2: Deadly Vengeance
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/39.mp4
+#EXTINF:-1,Rainha do Deserto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/22.mp4
+#EXTINF:-1,Point Break Cacadores De Emocoes
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/37.mp4
+#EXTINF:-1,Pan: Viagem A Terra do Nunca
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/10.mp4
+#EXTINF:-1,Pai So Ha Um
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/36.mp4
+#EXTINF:-1,Os Coopers Sao o Maximo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/17.mp4
+#EXTINF:-1,Os 33
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/4.mp4
+#EXTINF:-1,O Segredo dos Seus Olhos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/12.mp4
+#EXTINF:-1,Moonwalkers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/18.mp4
+#EXTINF:-1,Monster High: Boo York, Boo York PT
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/9.mp4
+#EXTINF:-1,Junto Ao Mar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/41.mp4
+#EXTINF:-1,Jogos da Fome - A Revolta 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/35.mp4
+#EXTINF:-1,Jeruzalem
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/6.mp4
+#EXTINF:-1,Hotel Transylvania 2 PT
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/28.mp4
+#EXTINF:-1,Forsaken
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/27.mp4
+#EXTINF:-1,Criminal Activities
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/16.mp4
+#EXTINF:-1,Cartel Land
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/5.mp4
+#EXTINF:-1,American Hero
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/14.mp4
+#EXTINF:-1,Alvin e os Esquilos: A Grande Aventura
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/44.mp4
+#EXTINF:-1,Adulterers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4
+#EXTINF:-1,A Ultima Noitada
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/32.mp4
+#EXTINF:-1,A Senhora da Furgoneta
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/33.mp4
+#EXTINF:-1,A Modista
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/30.mp4
+#EXTINF:-1,90 Minutes in Heaven
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/40.mp4
+#EXTINF:-1,45 Anos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/11.mp4
+#EXTINF:-1,Filmes Da Semana 1
+http://painel.soeu.ws:8000/movie/sa/sa/1349.mp4
+#EXTINF:-1,Filmes da Semana 2
+http://painel.soeu.ws:8000/movie/sa/sa/1350.mp4
+#EXTINF:-1,Filmes da Semana 3
+http://painel.soeu.ws:8000/movie/sa/sa/1351.mp4
+#EXTINF:-1,Filmes da Semana 4
+http://painel.soeu.ws:8000/movie/sa/sa/1352.mp4
+#EXTINF:-1,Filmes Da Semana 5
+http://painel.soeu.ws:8000/movie/sa/sa/1353.mp4
+#EXTINF:-1,######### FIM #############
+http://painel.soeu.ws:8000/live/sa/sa/290.ts
+#EXTINF:-1,RADIO: TOCA A DANCAR
+http://painel.soeu.ws:8000/live/sa/sa/1480.ts
