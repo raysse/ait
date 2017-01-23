@@ -1,6 +1,6 @@
 #EXTM3U
 
---- BEIN-MBC Channels ----
+--- BEIN-movies ----
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR-Bein-Movies1" tvg-logo="http://e.top4top.net/p_312b76zm1.png" group-title="ARABIC BEIN Movies HD",AR-Bein-Movies1
@@ -11,26 +11,75 @@ http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/620.ts
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2957.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR-Bein-Movies4" tvg-logo="http://b.top4top.net/p_3129z7n14.png" group-title="ARABIC BEIN Movies HD",AR-Bein-Movies4
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-1HD" tvg-logo="http://a.top4top.net/p_312nezoi3.jpg" group-title="ARABIC MBC",AR-MBC-1HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2414.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-2HD" tvg-logo="http://f.top4top.net/p_312ltole2.png" group-title="ARABIC MBC",AR-MBC-2HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2415.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-3HD" tvg-logo="http://a.top4top.net/p_312mo1hz9.png" group-title="ARABIC MBC",AR-MBC-3HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2416.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-4HD" tvg-logo="http://f.top4top.net/p_312c6t3k8.png" group-title="ARABIC MBC",AR-MBC-4HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2417.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-ACTION-HD" tvg-logo="http://e.top4top.net/p_312gpgj87.png" group-title="ARABIC MBC",AR-MBC-ACTION-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2421.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-BOLLYWOOD-HD" tvg-logo="http://e.top4top.net/p_312k5ttl1.png" group-title="ARABIC MBC",AR-MBC-BOLLYWOOD-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2420.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-DRAMA-HD" tvg-logo="http://d.top4top.net/p_312a168c6.png" group-title="ARABIC MBC",AR-MBC-DRAMA-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2419.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-MAX-HD" tvg-logo="http://e.top4top.net/p_312u5l0d1.png" group-title="ARABIC MBC",AR-MBC-MAX-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2418.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-MISR-HD" tvg-logo="http://c.top4top.net/p_3120a6845.png" group-title="ARABIC MBC",AR-MBC-MISR-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2422.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-MISR2-HD" tvg-logo="http://b.top4top.net/p_31235puu4.png" group-title="ARABIC MBC",AR-MBC-MISR2-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2423.ts
+
+--- BEIN SPORT ARABIC local 1 ---
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR-BEIN-MAX1" tvg-logo="" group-title="ARABIC BEINSPORT HD",AR-BEIN-MAX1
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEINMAX02" tvg-logo="" group-title="ARABIC BEINSPORT HD",BEINMAX02
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-MAX-3HD" tvg-logo="" group-title="ARABIC BEINSPORT HD",VIP-Bein-MAX-3HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-1HD" tvg-logo="http://f.top4top.net/p_312zyxzt2.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-1HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4696.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-2HD" tvg-logo="http://a.top4top.net/p_312tbbgm3.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-2HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-3HD" tvg-logo="http://b.top4top.net/p_312mcair4.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-3HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-4HD" tvg-logo="http://c.top4top.net/p_312i80fc5.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-4HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-5HD" tvg-logo="http://d.top4top.net/p_312hxltq6.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-5HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-6HD" tvg-logo="http://e.top4top.net/p_312zxkin7.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-6HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-7HD" tvg-logo="http://a.top4top.net/p_31283n8q9.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-7HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-8HD" tvg-logo="http://b.top4top.net/p_3125v89910.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-8HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-9HD" tvg-logo="http://a.top4top.net/p_312zsp251.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-9HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4704.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-10HD" tvg-logo="http://b.top4top.net/p_312y4hbk2.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-10HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-11HD" tvg-logo="http://c.top4top.net/p_312i0imu3.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-11HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4707.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-12HD" tvg-logo="http://d.top4top.net/p_3128gh9g4.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-12HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-13HD" tvg-logo="http://e.top4top.net/p_3128hx1y5.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-13HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-14HD" tvg-logo="http://f.top4top.net/p_312f5qe46.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-14HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-15HD" tvg-logo="http://a.top4top.net/p_312pt9nt7.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-15HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-16HD" tvg-logo="http://b.top4top.net/p_312711do8.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-16HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-17HD" tvg-logo="http://c.top4top.net/p_312ctsu49.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-17HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3925.ts
+
+--- BEIN SPORT FR ----
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT1" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT1
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/1228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT2" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT2
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/1229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT3" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT3
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/1230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT4" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT4
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4844.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT5" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT5
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4845.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT6" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT6
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT7" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT7
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-CANAL-SPORT" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-CANAL-SPORT
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-SFR-SPORT-1-HD" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-SFR-SPORT-1-HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-SFR-SPORT-2-HD" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-SFR-SPORT-2-HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR-SFR-SPORT-3-HD" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-SFR-SPORT-3-HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4236.ts
+
 
 --- CANAL - CINEMA----
 
@@ -140,74 +189,6 @@ http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4163.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ESP-TAQUILLA-1-HD" tvg-logo="http://b.top4top.net/p_313kcqd11.png" group-title="Spanish",ESP-TAQUILLA-1-HD
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4154.ts
 
---- BEIN SPORT ARABIC ---
-
-#EXTINF:-1 tvg-ID="" tvg-name="AR-BEIN-MAX1" tvg-logo="" group-title="ARABIC BEINSPORT HD",AR-BEIN-MAX1
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BEINMAX02" tvg-logo="" group-title="ARABIC BEINSPORT HD",BEINMAX02
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6232.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-MAX-3HD" tvg-logo="" group-title="ARABIC BEINSPORT HD",VIP-Bein-MAX-3HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6128.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-1HD" tvg-logo="http://f.top4top.net/p_312zyxzt2.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-1HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4696.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-2HD" tvg-logo="http://a.top4top.net/p_312tbbgm3.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-2HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4697.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-3HD" tvg-logo="http://b.top4top.net/p_312mcair4.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-3HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4698.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-4HD" tvg-logo="http://c.top4top.net/p_312i80fc5.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-4HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4699.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-5HD" tvg-logo="http://d.top4top.net/p_312hxltq6.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-5HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4700.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-6HD" tvg-logo="http://e.top4top.net/p_312zxkin7.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-6HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4701.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-7HD" tvg-logo="http://a.top4top.net/p_31283n8q9.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-7HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4702.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-8HD" tvg-logo="http://b.top4top.net/p_3125v89910.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-8HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4703.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-9HD" tvg-logo="http://a.top4top.net/p_312zsp251.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-9HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4704.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-10HD" tvg-logo="http://b.top4top.net/p_312y4hbk2.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-10HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4705.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-11HD" tvg-logo="http://c.top4top.net/p_312i0imu3.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-11HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-12HD" tvg-logo="http://d.top4top.net/p_3128gh9g4.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-12HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4706.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-13HD" tvg-logo="http://e.top4top.net/p_3128hx1y5.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-13HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2995.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-14HD" tvg-logo="http://f.top4top.net/p_312f5qe46.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-14HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2529.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-15HD" tvg-logo="http://a.top4top.net/p_312pt9nt7.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-15HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2530.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-16HD" tvg-logo="http://b.top4top.net/p_312711do8.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-16HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2531.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-Sport-17HD" tvg-logo="http://c.top4top.net/p_312ctsu49.png" group-title="ARABIC BEINSPORT HD",VIP-Bein-Sport-17HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3925.ts
-
---- BEIN SPORT FR ----
-
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT1" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT1
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/1228.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT2" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT2
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/1229.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT3" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT3
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/1230.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT4" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT4
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT5" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT5
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4845.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT6" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT6
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4847.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-BEINSPORT7" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-BEINSPORT7
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-CANAL-SPORT" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-CANAL-SPORT
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3227.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-SFR-SPORT-1-HD" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-SFR-SPORT-1-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4234.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-SFR-SPORT-2-HD" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-SFR-SPORT-2-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4235.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-SFR-SPORT-3-HD" tvg-logo="http://d.top4top.net/p_313wa33n1.png" group-title="France",FR-SFR-SPORT-3-HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4236.ts
-
 --- MBC SPORT ----
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-PROSPORT1" tvg-logo="http://b.top4top.net/p_31224axq1.png" group-title="ARABIC Nilesat",AR-MBC-PROSPORT1
@@ -218,44 +199,6 @@ http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/449.ts
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/448.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR-MBC-PROSPORT4" tvg-logo="http://c.top4top.net/p_3127h50f2.png" group-title="ARABIC Nilesat",AR-MBC-PROSPORT4
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4199.ts
-
-
---- AlKASS SPORT ----
-
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-1HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-1HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2622.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-2HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-2HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2621.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-3HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-3HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2620.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-4HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-4HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2619.ts
-
---- Abu-Dhabi SPORT ----
-
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-1HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-1HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-2HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-2HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-3HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-3HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3939.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-4HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-4HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3940.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-5HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-5HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3941.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-6HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-6HD
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3942.ts
-
---- OSN SPORT ----
-
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-1" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-1
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4067.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-2" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-2
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4068.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-3" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-3
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4069.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-4" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-4
-http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4070.ts
 
 --- OSN Channels ----
 
@@ -932,7 +875,45 @@ http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/5335.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR-MEGA-BOX-6-HD" tvg-logo="" group-title="France",FR-MEGA-BOX-6-HD
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/5334.ts
 
---- BEINSPORT HD ----
+--- AlKASS SPORT ----
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-1HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-1HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2622.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-2HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-2HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-3HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-3HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AlKASS-4HD" tvg-logo="http://a.top4top.net/p_312h4m4r1.png" group-title="ARABIC OSN HD",AR-OSN-AlKASS-4HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2619.ts
+
+--- Abu-Dhabi SPORT ----
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-1HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-1HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2453.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-2HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-2HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-3HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-3HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3939.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-4HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-4HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-5HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-5HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3941.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-AbuDhabi-Sports-6HD" tvg-logo="http://a.top4top.net/p_312kai891.png" group-title="ARABIC OSN HD",AR-OSN-AbuDhabi-Sports-6HD
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/3942.ts
+
+--- OSN SPORT ----
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-1" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-1
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-2" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-2
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4068.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-3" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-3
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4069.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR-OSN-Sports-4" tvg-logo="http://c.top4top.net/p_312kyxfn1.png" group-title="ARABIC OSN HD",AR-OSN-Sports-4
+http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/4070.ts
+
+
+--- BEINSPORT HD local 2 ----
 
 #EXTINF:-1 tvg-ID="" tvg-name="L-Bein-Sport-HD1" tvg-logo="http://f.top4top.net/p_312zyxzt2.png" group-title="ARABIC BEINSPORT HD",L-Bein-Sport-HD1
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2982.ts
@@ -961,7 +942,6 @@ http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/2993.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="BEINMAX01" tvg-logo="" group-title="ARABIC BEINSPORT HD",BEINMAX01
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6233.ts
-
 #EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-MAX-1HD" tvg-logo="" group-title="ARABIC BEINSPORT HD",VIP-Bein-MAX-1HD
 http://otmanshowiptv.com:7777/live/RAMOU/TpOYg8Qj82/6126.ts
 #EXTINF:-1 tvg-ID="" tvg-name="VIP-Bein-MAX-2HD" tvg-logo="" group-title="ARABIC BEINSPORT HD",VIP-Bein-MAX-2HD
