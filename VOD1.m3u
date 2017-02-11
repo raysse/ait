@@ -1,0 +1,731 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="****_Filmes-3D_****" tvg-logo="" group-title="",****_Filmes-3D_****
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1809.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_San.Andreas" tvg-logo="" group-title="",VOD_3D_San.Andreas
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1812.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Jurassic.World.3D" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_3D_Jurassic.World.3D
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1811.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Iron.Man.3" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_3D_Iron.Man.3
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1799.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Run" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_3D_Run
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1802.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Turbo" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_3D_Turbo
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1806.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_World.War.Z" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_3D_World.War.Z
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1808.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Thor.The.Dark.World" tvg-logo="http://smart-iptv2016.com:9500/images/1981115.jpg" group-title="",VOD_3D_Thor.The.Dark.World
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1805.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_The.Hobbit.The.Desolation.of.Smaug." tvg-logo="http://smart-iptv2016.com:9500/images/1170358.jpg" group-title="",VOD_3D_The.Hobbit.The.Desolation.of.Smaug.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1804.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Cloudy.with.a.Chance.of.Meatballs.2" tvg-logo="http://smart-iptv2016.com:9500/images/1985966.jpg" group-title="",VOD_3D_Cloudy.with.a.Chance.of.Meatballs.2
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1797.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_3D_Free.Birds" tvg-logo="http://smart-iptv2016.com:9500/images/1985966.jpg" group-title="",VOD_3D_Free.Birds
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1798.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="---_Films_Action_---" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",---_Films_Action_---
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1387.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Suicide.Squad.2016" tvg-logo="http://smart-iptv2016.com/picon/france/Suicide_Squad.jpg" group-title="",VOD_FR_Suicide.Squad.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1634.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Riphagen.2016" tvg-logo="http://smart-iptv2016.com/picon/france/Suicide_Squad.jpg" group-title="",VOD_FR_Riphagen.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1632.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Marauders.2016" tvg-logo="http://smart-iptv2016.com/picon/france/Suicide_Squad.jpg" group-title="",VOD_FR_Marauders.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1631.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Blood.Father.2016" tvg-logo="http://smart-iptv2016.com/picon/france/Suicide_Squad.jpg" group-title="",VOD_FR_Blood.Father.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1630.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Le.Syndicat.Du.Crime" tvg-logo="http://smart-iptv2016.com/picon/france/Suicide_Squad.jpg" group-title="",VOD_FR_Le.Syndicat.Du.Crime
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1635.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_300.2016" tvg-logo="http://smart-iptv2016.com/picon/france/Suicide_Squad.jpg" group-title="",VOD_FR_300.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1327.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_300 Rise Of An Empire" tvg-logo="http://smart-iptv2016.com:9500/images/1253863.jpg" group-title="",VOD_FR_300 Rise Of An Empire
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1328.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_X-Men.Apocalypse" tvg-logo="http://smart-iptv2016.com:9500/images/3385516.jpg" group-title="",VOD_FR_X-Men.Apocalypse
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1324.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Expendables.1" tvg-logo="http://smart-iptv2016.com:9500/images/3385516.jpg" group-title="",VOD_FR_The.Expendables.1
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1331.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Expendables.2" tvg-logo="http://smart-iptv2016.com:9500/images/1764651.jpg" group-title="",VOD_FR_The.Expendables.2
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1332.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Expendables.3" tvg-logo="http://smart-iptv2016.com:9500/images/2333784.jpg" group-title="",VOD_FR_The.Expendables.3
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1465.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Jungle.Book" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_The.Jungle.Book
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1308.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Conjuring.2.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_The.Conjuring.2.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1322.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Call.Up.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_The.Call.Up.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1307.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Meddler" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_The.Meddler
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1464.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Sniper.Ghost.Shooter.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_Sniper.Ghost.Shooter.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1321.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Independence.Day.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_Independence.Day.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1319.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Criminal.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5646362.jpg" group-title="",VOD_FR_Criminal.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1316.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Captain.America.Civil.War.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5899762.jpg" group-title="",VOD_FR_Captain.America.Civil.War.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1311.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Batman.v.Superman.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5899762.jpg" group-title="",VOD_FR_Batman.v.Superman.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1314.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Bastille.Day.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5899762.jpg" group-title="",VOD_FR_Bastille.Day.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1305.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Agents.Presque.Secrets.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5899762.jpg" group-title="",VOD_FR_Agents.Presque.Secrets.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1304.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_600.Miles.2015" tvg-logo="http://smart-iptv2016.com:9500/images/3685622.jpg" group-title="",VOD_FR_600.Miles.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1325.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Hard.Target.2.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3685622.jpg" group-title="",VOD_FR_Hard.Target.2.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1317.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Titanic" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Titanic
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1333.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Avatar" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Avatar
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1330.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Now.You.See.Me.2.2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Now.You.See.Me.2.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1346.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Mechanic Resurrection 2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Mechanic Resurrection 2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1342.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Maximum.Ride.2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Maximum.Ride.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1341.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_London.Has.Fallen.2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_London.Has.Fallen.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1340.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Jurassic Park" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Jurassic Park
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1345.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Interrogation.2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Interrogation.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1336.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Citizen.Soldier.2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Citizen.Soldier.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1337.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Triple.9.2016" tvg-logo="http://smart-iptv2016.com:9500/images/2671450.jpg" group-title="",VOD_FR_Triple.9.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1363.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Teenage.Mutant.Ninja" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Teenage.Mutant.Ninja
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1362.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Sons.Of.Liberty.2013" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Sons.Of.Liberty.2013
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1361.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Pattaya.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Pattaya.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1360.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Narcos.S02E03" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Narcos.S02E03
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1359.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Moonwalkers.2015" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Moonwalkers.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1358.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Money.Monster.2016.avi" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Money.Monster.2016.avi
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1357.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Midnight.Special.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Midnight.Special.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1356.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Mafia.Survival.Game.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Mafia.Survival.Game.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1355.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_L.Age.De.Glace.5.Les.Lois." tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_L.Age.De.Glace.5.Les.Lois.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1354.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_David.And.Goliath.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_David.And.Goliath.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1353.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Braqueurs.2015" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Braqueurs.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1352.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Boy.7.2015" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Boy.7.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1351.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Arrowhead.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Arrowhead.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1350.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Angry.Birds.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Angry.Birds.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1349.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Adopte.Un.Veuf.2016" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Adopte.Un.Veuf.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1348.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Abandoned.2015" tvg-logo="http://smart-iptv2016.com:9500/images/1291150.jpg" group-title="",VOD_FR_Abandoned.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1347.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_13.Hours.The.Secret.Soldiers.of.Benghazi.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5324878.jpg" group-title="",VOD_FR_13.Hours.The.Secret.Soldiers.of.Benghazi.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1364.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Legend.of.Tarzan.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5324878.jpg" group-title="",VOD_FR_The.Legend.of.Tarzan.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1379.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Skin.Trade.2014" tvg-logo="http://smart-iptv2016.com:9500/images/0028010.jpg" group-title="",VOD_FR_Skin.Trade.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1378.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Rurouni.Kenshin.Kyoto.Inferno.2014" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Rurouni.Kenshin.Kyoto.Inferno.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1377.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Risen.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Risen.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1376.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Project.Itoh.The.Empire.Of.Corpses.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Project.Itoh.The.Empire.Of.Corpses.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1375.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Navy.Seals.vs.Zombies.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Navy.Seals.vs.Zombies.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1374.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Mythica.The.Darkspore.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Mythica.The.Darkspore.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1373.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Kajaki.2014" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Kajaki.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1372.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Heidi.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Heidi.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1380.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Hardcore.Henry.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Hardcore.Henry.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1371.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Deadpool.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Deadpool.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1370.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Beyond.The.Mask.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Beyond.The.Mask.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1369.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Antboy.La.revanche.de.Red.Fury.2014" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Antboy.La.revanche.de.Red.Fury.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1367.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Antboy.3.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Antboy.3.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1366.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Antboy.La.revanche.de.Red.Fury.2014." tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Antboy.La.revanche.de.Red.Fury.2014.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1368.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Wave.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_The.Wave.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1381.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Duel.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_The.Duel.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1385.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Precious.Cargo.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Precious.Cargo.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1383.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Le.Bon.Gros.Geant.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Le.Bon.Gros.Geant.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1384.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Kung.Fu.Panda.3.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Kung.Fu.Panda.3.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1382.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_01813.Hours.The.Secret.Soldiers.of.Benghazi.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_01813.Hours.The.Secret.Soldiers.of.Benghazi.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1386.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Woodlawn.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Woodlawn.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1396.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Warcraft.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_Warcraft.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1389.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_War.Dogs.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_War.Dogs.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1395.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_V8.Du.Willst.Der.Beste.Sein.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5241042.jpg" group-title="",VOD_FR_V8.Du.Willst.Der.Beste.Sein.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1391.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Point.Break.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5304420.jpg" group-title="",VOD_FR_Point.Break.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1392.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Jason.Bourne.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5304420.jpg" group-title="",VOD_FR_Jason.Bourne.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1394.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Admiral.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5304420.jpg" group-title="",VOD_FR_Admiral.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1390.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Kickboxer.Vengeance" tvg-logo="http://smart-iptv2016.com:9500/images/3082898.jpg" group-title="",VOD_EN_Kickboxer.Vengeance
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1466.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="****_Films_Historiques" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",****_Films_Historiques
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1647.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Hitler" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Hitler
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1646.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Attila Le-Hun-VF-I" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Attila Le-Hun-VF-I
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1645.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Rurouni.Kenshin.The.Legend.Ends.2014" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Rurouni.Kenshin.The.Legend.Ends.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1633.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Apocalypto" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Apocalypto
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1329.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Hannibal" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Hannibal
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1648.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Alexandre" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Alexandre
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1649.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="---_Films_Westerns_---" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",---_Films_Westerns_---
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1419.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Westerns" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Westerns
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1421.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Assassination" tvg-logo="http://smart-iptv2016.com:9500/images/0068233.jpg" group-title="",VOD_FR_The.Assassination
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1430.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Pm4-bbt" tvg-logo="http://smart-iptv2016.com:9500/images/0068233.jpg" group-title="",VOD_FR_Pm4-bbt
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1429.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Bone.Tomahawk" tvg-logo="http://smart-iptv2016.com:9500/images/0068233.jpg" group-title="",VOD_FR_Bone.Tomahawk
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1426.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Blackthorn" tvg-logo="http://smart-iptv2016.com:9500/images/0292212.jpg" group-title="",VOD_FR_Blackthorn
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1425.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Big.City" tvg-logo="http://smart-iptv2016.com:9500/images/0292212.jpg" group-title="",VOD_FR_Big.City
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1424.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Appaloosa" tvg-logo="http://smart-iptv2016.com:9500/images/0292212.jpg" group-title="",VOD_FR_Appaloosa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1423.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Aint.Them.Bodies.Saints" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_Aint.Them.Bodies.Saints
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1422.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_301.310 to yuma" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_301.310 to yuma
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1420.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Tmb.wer" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_Tmb.wer
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1440.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Revenant" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_The.Revenant
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1439.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Mountie" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_The.Mountie
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1438.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Dark.Valley" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_The.Dark.Valley
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1437.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Sherif.Jackson" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_Sherif.Jackson
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1436.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Meek.s.Cutoff" tvg-logo="http://smart-iptv2016.com:9500/images/2388637.jpg" group-title="",VOD_FR_Meek.s.Cutoff
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1435.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Dead.in.Tombstone" tvg-logo="http://smart-iptv2016.com:9500/images/2268419.jpg" group-title="",VOD_FR_Dead.in.Tombstone
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1433.avi
+#EXTINF:-1 tvg-ID="" tvg-name="---_Films_d'animation_---" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",---_Films_d'animation_---
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1388.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Sausage.Party.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EN_Sausage.Party.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1662.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Tout.en.Haut.du.Monde.2015" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Tout.en.Haut.du.Monde.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1409.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Prophet.2014" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_The.Prophet.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1407.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Robinson.Crusoe.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Robinson.Crusoe.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1408.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Ratchet.and.Clank.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Ratchet.and.Clank.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1406.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Norm.of.the.North.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_FR_Norm.of.the.North.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1410.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Miss.Hokusai.2015" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Miss.Hokusai.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1402.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Ghosthunters.On.Icy.Trails.2015" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Ghosthunters.On.Icy.Trails.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1404.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Dofus.Livre.1.Julith.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Dofus.Livre.1.Julith.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1403.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Comme.des.betes.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Comme.des.betes.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1400.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Cafard.2015" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Cafard.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1399.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Bling.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Bling.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1398.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Bakemono.no.Ko.2015" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_Bakemono.no.Ko.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1401.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_April.and.the.Extraordinary" tvg-logo="http://smart-iptv2016.com:9500/images/3689910.jpg" group-title="",VOD_FR_April.and.the.Extraordinary
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1397.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Ooops.Noah.is.gone.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_Ooops.Noah.is.gone.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1405.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Ip.Man.3.2015." tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_Ip.Man.3.2015.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1393.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Good.Dinosaur.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_The.Good.Dinosaur.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1417.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_The.Alvin.and.the.Chipmunks.The.Road.Chip.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_The.Alvin.and.the.Chipmunks.The.Road.Chip.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1416.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Open.Season.Scared.Silly.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_Open.Season.Scared.Silly.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1415.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Justice.League.vs.Teen.Titans.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_Justice.League.vs.Teen.Titans.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1414.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Hotel.Transylvania.2.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_Hotel.Transylvania.2.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1413.avi
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_dragon.ball.z.resurrection.f.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_dragon.ball.z.resurrection.f.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1418.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Adama.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5543332.jpg" group-title="",VOD_FR_Adama.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1412.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="---_Films_Action_EN---" tvg-logo="http://smart-iptv2016.com:9500/images/3731944.jpg" group-title="",---_Films_Action_EN---
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1476.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Viking.Legacy.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3731944.jpg" group-title="",VOD_EN_Viking.Legacy.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1475.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_TPEY.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5619938.jpg" group-title="",VOD_EN_TPEY.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1474.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_The.Legend.of.Tarzan.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5619938.jpg" group-title="",VOD_EN_The.Legend.of.Tarzan.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1473.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Jokers Wild 2016" tvg-logo="http://smart-iptv2016.com:9500/images/5619938.jpg" group-title="",VOD_EN_Jokers Wild 2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1472.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Teenage.Mutant.Ninja.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Teenage.Mutant.Ninja.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1502.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Skiptrace.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Skiptrace.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1500.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Level.Up.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Level.Up.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1499.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Kickboxer.Vengeance.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Kickboxer.Vengeance.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1498.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_ID2.Shadwell.Army.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_ID2.Shadwell.Army.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1497.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Hard.Target.2.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Hard.Target.2.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1496.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Bastille.Day.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Bastille.Day.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1495.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Alleycats.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Alleycats.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1494.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Monster.High.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Monster.High.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1485.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Sniper Ghost Shooter.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Sniper Ghost Shooter.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1487.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Free.State.of.Jones.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Free.State.of.Jones.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1482.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Daylights.End.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Daylights.End.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1481.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Cold.War.II.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Cold.War.II.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1480.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Ben.Hur.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_Ben.Hur.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1479.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_I.T.2016" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_I.T.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1484.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_X-Men.The.Last.Stand.2006" tvg-logo="http://smart-iptv2016.com:9500/images/3473640.jpg" group-title="",VOD_EN_X-Men.The.Last.Stand.2006
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1493.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_X-Men.Days.of.Future.Past.2014" tvg-logo="http://smart-iptv2016.com:9500/images/5693056.jpg" group-title="",VOD_EN_X-Men.Days.of.Future.Past.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1492.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_X-Men.Apocalypse.2016nce" tvg-logo="http://smart-iptv2016.com:9500/images/5693056.jpg" group-title="",VOD_EN_X-Men.Apocalypse.2016nce
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1491.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Take.Down" tvg-logo="http://smart-iptv2016.com:9500/images/2428276.jpg" group-title="",VOD_EN_Take.Down
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1501.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_The.Bourne.Supremacy.2004" tvg-logo="http://smart-iptv2016.com:9500/images/2428276.jpg" group-title="",VOD_EN_The.Bourne.Supremacy.2004
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1503.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Sicario 2015" tvg-logo="http://smart-iptv2016.com:9500/images/2428276.jpg" group-title="",VOD_EN_Sicario 2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1477.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Edge.of.Tomorrow" tvg-logo="http://smart-iptv2016.com:9500/images/1631867.jpg" group-title="",VOD_EN_Edge.of.Tomorrow
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1471.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_10000.BC.2008" tvg-logo="http://smart-iptv2016.com:9500/images/1631867.jpg" group-title="",VOD_EN_10000.BC.2008
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1470.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Quadrant 9EV9" tvg-logo="http://smart-iptv2016.com:9500/images/1631867.jpg" group-title="",VOD_EN_Quadrant 9EV9
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1486.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Helix.2015" tvg-logo="http://smart-iptv2016.com:9500/images/1631867.jpg" group-title="",VOD_EN_Helix.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1483.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EN_Batman.V.Superman" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_EN_Batman.V.Superman
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1478.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="****_Filmes-Islam_****" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",****_Filmes-Islam_****
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1777.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Aressala" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_Aressala
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1771.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Hegret-ElRasool." tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_Hegret-ElRasool.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1774.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Almawlid_anabawi_charif." tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_Almawlid_anabawi_charif.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1772.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_mawlid-nabaoui" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_mawlid-nabaoui
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1792.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Khalid-ibno-alwalid" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_Khalid-ibno-alwalid
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1775.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Rabia-Al-Adawiyya" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_Rabia-Al-Adawiyya
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1776.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Fagr-El-Islam" tvg-logo="http://smart-iptv2016.com:9500/images/2975590.jpg" group-title="",VOD_ISL_Fagr-El-Islam
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1773.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_Waislamah" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_ISL_Waislamah
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1794.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_saer-salah-din" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_ISL_saer-salah-din
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1793.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_El_Mamaleek" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_ISL_El_Mamaleek
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1790.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_amir-dohaa" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_ISL_amir-dohaa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1789.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_ISL_akhawafi" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_ISL_akhawafi
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1788.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="****_Msrah-Maroc_****:" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",****_Msrah-Maroc_****:
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1787.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_Jar-Wa-Majror." tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_Jar-Wa-Majror.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1782.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_saa-mabroka" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_saa-mabroka
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1785.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_maksor-jnah" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_maksor-jnah
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1783.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_zawaj-tamtil" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_zawaj-tamtil
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1786.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_mas_ma" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_mas_ma
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1784.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_Hada-Nta" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_Hada-Nta
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1780.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_Ban-Chaab" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_Ban-Chaab
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1779.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_al9adiya" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_al9adiya
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1778.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_MA_ hob-w-tban" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",Msrah_MA_ hob-w-tban
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1781.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="****_Filmes-MAROC_****" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",****_Filmes-MAROC_****
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1622.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Légèreté_des_Jambes" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Légèreté_des_Jambes
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1813.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Red_Line" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Red_Line
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1680.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Roumansiyine" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Roumansiyine
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1694.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Wolves_Never_Sleeps" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Wolves_Never_Sleeps
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1678.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Zéro_Complet" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Zéro_Complet
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1698.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Alfas_dans_la_tête" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Alfas_dans_la_tête
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1671.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Chab_Y3rif_kayfa_yal3ab_binisaa" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Chab_Y3rif_kayfa_yal3ab_binisaa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1672.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_A_vous_Le_Tour" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_A_vous_Le_Tour
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1682.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Désolé_papa" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Désolé_papa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1679.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Second_half_2016" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Second_half_2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1695.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Tu_te_souviens_Adil." tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Tu_te_souviens_Adil.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1668.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Riphagen.2016Dadas." tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Riphagen.2016Dadas.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1701.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Mission_spéciale_2016" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Mission_spéciale_2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1689.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Boisson_Descriptive" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Boisson_Descriptive
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1681.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Wisal" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Wisal
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1697.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Chadat-alhayat" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Chadat-alhayat
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1712.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Wear_in_your_size." tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Wear_in_your_size.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1696.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_pris_la_nuit" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_pris_la_nuit
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1693.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_The-Bait" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_The-Bait
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1725.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Silence-of-The-Wind" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Silence-of-The-Wind
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1724.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Pikass" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Pikass
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1723.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Nsib-lhaj" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Nsib-lhaj
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1722.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_mal-Hayati" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_mal-Hayati
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1709.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Little-Joy" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Little-Joy
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1721.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_La39al-ou-Saboura" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_La39al-ou-Saboura
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1719.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Kanbghik-htaana" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Kanbghik-htaana
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1718.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_KaanyaMakan" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_KaanyaMakan
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1717.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_hawajis-ba3da-montasaf-alayl" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_hawajis-ba3da-montasaf-alayl
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1716.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Hamman-Lmhzala" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Hamman-Lmhzala
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1715.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_filme-mr" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_filme-mr
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1714.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Chifor." tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Chifor.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1713.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_aromansiya" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_aromansiya
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1711.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_amin-naji" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_amin-naji
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1710.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Al-Bayra" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Al-Bayra
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1708.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Ahlam-Moajala" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Ahlam-Moajala
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1707.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_3lach-la" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_3lach-la
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1706.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_LHaj-Aiboud" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_LHaj-Aiboud
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1720.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Pour_être_comme" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Pour_être_comme
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1692.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Ourjoh" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Ourjoh
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1691.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_alkhobz-al7afi" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_alkhobz-al7afi
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1703.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Talat-banat" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Talat-banat
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1702.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Alfarah Asaghir" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Alfarah Asaghir
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1699.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Non_Nisswa" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Non_Nisswa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1690.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_la_porte_de_la_repentance" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_la_porte_de_la_repentance
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1688.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_jadid_Jalal" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_jadid_Jalal
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1687.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Hors_Jeu" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Hors_Jeu
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1686.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Riphagen.2016" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Riphagen.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1669.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Grand_Amour" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Grand_Amour
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1685.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Dame_Maghdour" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Dame_Maghdour
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1684.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_code_complet" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_code_complet
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1683.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Les_Mecrenants" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Les_Mecrenants
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1676.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_La_Grande_villa" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_La_Grande_villa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1674.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Lanniversaire" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Lanniversaire
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1675.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Inti9am" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Inti9am
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1673.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_Al_Khataf" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_Al_Khataf
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1670.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_MA_maroki_fi_paris" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",VOD_MA_maroki_fi_paris
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1677.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="MA-Lcouple-Complet-1" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",MA-Lcouple-Complet-1
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1704.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="MA-Lcouple-Complet-2" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",MA-Lcouple-Complet-2
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1705.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="MA-Lcouple-Complet-3" tvg-logo="http://smart-iptv2016.com:9500/images/0370051.jpg" group-title="",MA-Lcouple-Complet-3
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1810.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="---_Films_EGYBT_---" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",---_Films_EGYBT_---
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1523.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Saboba" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Saboba
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1550.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Party.F.7arty" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Party.F.7arty
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1543.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Hatoli.Ragel" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Hatoli.Ragel
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1549.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Gedo.Habiby" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Gedo.Habiby
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1548.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Baba" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Baba
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1547.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_film_eg" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_film_eg
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1795.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Al.7arami.W.Al.3abit" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Al.7arami.W.Al.3abit
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1516.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Welcome.To.Lebanon.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Welcome.To.Lebanon.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1515.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Triple.Burglary.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Triple.Burglary.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1514.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Pupils.Weapon.2016." tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Pupils.Weapon.2016.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1512.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Titanic.Arabic" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Titanic.Arabic
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1519.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Al.Jazeera.1" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Al.Jazeera.1
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1546.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Al.Jazeera.2" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Al.Jazeera.2
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1508.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Blue.E.HD" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Blue.E.HD
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1488.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Zarf.Sa7y.2014" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Zarf.Sa7y.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1520.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Years.Ago" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Years.Ago
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1521.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Reklam.HD" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Reklam.HD
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1513.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_ra7_feel" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_ra7_feel
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1506.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Qapl.Al.Rba3" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Qapl.Al.Rba3
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1505.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Halawet.Ro7" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Halawet.Ro7
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1518.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_GFH.HD" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_GFH.HD
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1509.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Al7agez.1972" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Al7agez.1972
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1517.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Abu.Shanab" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Abu.Shanab
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1542.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Welad.Rezk" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Welad.Rezk
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1545.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Ta7t.Eltrabiza." tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Ta7t.Eltrabiza.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1544.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_zawja-min-paris" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_zawja-min-paris
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1665.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Thoma-Toshreq-El Shams" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Thoma-Toshreq-El Shams
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1664.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_tawhida" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_tawhida
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1663.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_sab3-layl" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_sab3-layl
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1661.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_nar-cho9" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_nar-cho9
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1660.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_khaif-michaa-ma" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_khaif-michaa-ma
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1659.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_jamila-bouhayra" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_jamila-bouhayra
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1658.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Ibnat-al3aziza" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Ibnat-al3aziza
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1657.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Hekayty-ma-a-el zaman" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Hekayty-ma-a-el zaman
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1656.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_gold stone 2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_gold stone 2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1655.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_da3oni-anta" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_da3oni-anta
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1654.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Almassajin-atalat" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Almassajin-atalat
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1653.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Albanat-lazam-tatzawaj." tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Albanat-lazam-tatzawaj.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1652.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_Adaya3" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_Adaya3
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1651.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_EG_30.Years.Ago.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_EG_30.Years.Ago.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1650.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="---_Films_HINIDI_---" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",---_Films_HINIDI_---
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1524.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Raja Cheyyi Vesthe 2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Raja Cheyyi Vesthe 2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1534.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Mudinja.Ivana.Pudi.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Mudinja.Ivana.Pudi.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1528.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Iifa.Awards.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Iifa.Awards.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1527.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Guru.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Guru.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1526.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Dishoom.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Dishoom.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1490.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Glass.no.Hana.to.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Glass.no.Hana.to.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1533.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Brahmotsavam.2016." tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Brahmotsavam.2016.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1532.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Baar.Baar.Dekho.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Baar.Baar.Dekho.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1531.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Yaro Oruvan 2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Yaro Oruvan 2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1541.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Wzir1080B" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Wzir1080B
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1562.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Win.Theri.2016." tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Win.Theri.2016.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1552.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Win.Tere.Bin.Laden.2.2016" tvg-logo="http://smart-iptv2016.com:9500/images/not-found.jpg" group-title="",VOD_HI_Win.Tere.Bin.Laden.2.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1561.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Tamilselvanum Thaniyar Anjalum.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5958298.jpg" group-title="",VOD_HI_Tamilselvanum Thaniyar Anjalum.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1540.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Raman Raghav 2.0.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Raman Raghav 2.0.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1539.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_N.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_N.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1559.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Mudhugauv.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Mudhugauv.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1538.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_M.D.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_M.D.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1537.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_F.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_F.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1556.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Housefull.3.2016" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Housefull.3.2016
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1536.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Heropanti.2014" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Heropanti.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1558.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_G.2008" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_G.2008
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1557.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Cars" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Cars
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1555.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Brave" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Brave
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1554.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Big.Hero.6" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Big.Hero.6
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1553.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Win.Santa.Banta" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Win.Santa.Banta
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1551.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Win.Bruce.Lee." tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Win.Bruce.Lee.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1560.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_B.2015" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_B.2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1535.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_The.Spy.Undercover.Operation" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_The.Spy.Undercover.Operation
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1530.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Cheeni.Kum" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Cheeni.Kum
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1525.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_The.Karate.Kid" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_The.Karate.Kid
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1529.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Dilwale 2015" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Dilwale 2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1489.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_DON.1978" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_DON.1978
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1467.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Rey 2015" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Rey 2015
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1522.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD_HI_Brahma.2014" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",VOD_HI_Brahma.2014
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1504.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="****_Msrah-EGYPT_****" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",****_Msrah-EGYPT_****
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1621.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Shahed_Mashafsh_Haga" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Shahed_Mashafsh_Haga
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1614.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_ElWad-Sayed-ElShaghal" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_ElWad-Sayed-ElShaghal
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1615.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Madraset-ElMoshaghbeen" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Madraset-ElMoshaghbeen
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1619.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_El_Zaeem" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_El_Zaeem
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1617.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Keda" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Keda
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1620.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_El_Eyal_Kebret." tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_El_Eyal_Kebret.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1616.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_elhajami" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_elhajami
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1618.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_sayarat_elhanimn" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_sayarat_elhanimn
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1629.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Mrati-za3mat-3issaba" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Mrati-za3mat-3issaba
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1628.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_milyonir_bilafiya" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_milyonir_bilafiya
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1627.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_man_yadhak_akhiran" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_man_yadhak_akhiran
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1626.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Bahlol_Fi_Estanboul." tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Bahlol_Fi_Estanboul.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1625.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_wijhat-nadar." tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_wijhat-nadar.
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1644.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_sikat-assalama" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_sikat-assalama
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1643.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Rayya_We_Sekeena" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Rayya_We_Sekeena
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1642.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Lo3bat-asit" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Lo3bat-asit
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1641.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Goha_Yahkoum_El_Madina" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Goha_Yahkoum_El_Madina
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1640.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_El_Motazawegoon" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_El_Motazawegoon
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1639.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_atakharif" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_atakharif
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1637.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Asaayda" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Asaayda
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1638.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_7snay3" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_7snay3
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1623.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_wal_walkomby" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_wal_walkomby
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1624.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Tbor-Al3ard" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Tbor-Al3ard
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1585.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_kamel-ibtasim" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_kamel-ibtasim
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1590.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Hbob-Halwasa" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Hbob-Halwasa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1587.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_haysa" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_haysa
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1591.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_haja-Siny" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_haja-Siny
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1586.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Forssa-Taniya" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Forssa-Taniya
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1584.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_choghl-korod" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_choghl-korod
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1592.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_ana-ihlijabni-hona" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_ana-ihlijabni-hona
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1589.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_albokhl-san3ah" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_albokhl-san3ah
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1593.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_A3ajiz-Walkanz" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_A3ajiz-Walkanz
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1588.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_Rasmy.Fahmy.Nazmy" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_Rasmy.Fahmy.Nazmy
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1595.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Msrah_El.Eyal.Kebret.1979" tvg-logo="http://smart-iptv2016.com:9500/images/5662932.jpg" group-title="",Msrah_El.Eyal.Kebret.1979
+http://smart-iptv2016.com:9500/movie/stream156/0610509511/1594.mkv
