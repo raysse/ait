@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,VIP-FR-SFR1-SPORT-HD
 http://casaiptv.com:7777/live/ismail0007/6Aa6MykcEf/5920.ts
 #EXTINF:-1,VIP-FR-SFR2-SPORT-HD
@@ -32,6 +33,8 @@ http://casaiptv.com:7777/live/ismail0007/6Aa6MykcEf/5954.ts
 http://casaiptv.com:7777/live/ismail0007/6Aa6MykcEf/5953.ts
 #EXTINF:-1,VIP-FR-FRANCE-5
 http://casaiptv.com:7777/live/ismail0007/6Aa6MykcEf/5952.ts
+#EXTINF:-1,E!_Entertainment
+http://pro.leaderiptv.com:8000/live/TAZI-HASSAN/O666206831/1186.ts
 #EXTINF:-1,VIP-FR-GULLI
 http://casaiptv.com:7777/live/ismail0007/6Aa6MykcEf/5950.ts
 #EXTINF:-1,VIP-FR-ITELE
