@@ -1,2386 +1,767 @@
 #EXTM3U
-#EXTINF:-1,#=======MOVISTAR+ESPAGNE=======#
-#EXTINF:-1,LA_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/44.ts
-#EXTINF:-1,LA_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/52.ts
-#EXTINF:-1,ANTENA_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/95.ts
-#EXTINF:-1,CUATRO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/49.ts
-#EXTINF:-1,TELECINCO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/46.ts
-#EXTINF:-1,LA_SEXTA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/47.ts
-#EXTINF:-1,24_HORAS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2500.ts
-#EXTINF:-1,FOX_NEWS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3710.ts
-#EXTINF:-1,#0
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2475.ts
-#EXTINF:-1,C+XTRA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/51.ts
-#EXTINF:-1,C+ACCION
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2542.ts
-#EXTINF:-1,C+COMEDIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2541.ts
-#EXTINF:-1,C+DCINE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/478.ts
-#EXTINF:-1,C+SERIES
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/376.ts
-#EXTINF:-1,C+SERIESXTRA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/362.ts
-#EXTINF:-1,C+ESTRENOS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/363.ts
-#EXTINF:-1,C+ESTRELLAS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/375.ts
-#EXTINF:-1,C+ODISEA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/789.ts
-#EXTINF:-1,C+DECASA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2492.ts
-#EXTINF:-1,C+PANDA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2540.ts
-#EXTINF:-1,C+TOROS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/477.ts
-#EXTINF:-1,C+COCINA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/361.ts
-#EXTINF:-1,DCINE_ESPANIOL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3728.ts
-#EXTINF:-1,FOX+
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/365.ts
-#EXTINF:-1,FOX_LIFE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2538.ts
-#EXTINF:-1,AXN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/764.ts
-#EXTINF:-1,AXN_White
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/763.ts
-#EXTINF:-1,FDF
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/45.ts
-#EXTINF:-1,SYFY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/73.ts
-#EXTINF:-1,NEOX
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/91.ts
-#EXTINF:-1,NOVA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/780.ts
-#EXTINF:-1,SUNDANCE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3709.ts
-#EXTINF:-1,COMEDY_CENTRAL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3714.ts
-#EXTINF:-1,TNT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2489.ts
-#EXTINF:-1,AMC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2495.ts
-#EXTINF:-1,ENERGY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/373.ts
-#EXTINF:-1,DIVINITY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/374.ts
-#EXTINF:-1,TCM
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/358.ts
-#EXTINF:-1,PARAMOUNT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/90.ts
-#EXTINF:-1,HOLLYWOOD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/48.ts
-#EXTINF:-1,CALLE_13
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/761.ts
-#EXTINF:-1,YOMVI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3731.ts
-#EXTINF:-1,MULTICINE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3738.ts
-#EXTINF:-1,LTC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3736.ts
-#EXTINF:-1,CANAL_SUR_A
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3727.ts
-#EXTINF:-1,CANAL_ORBE21
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3739.ts
-#EXTINF:-1,ARAGON_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3732.ts
-#EXTINF:-1,DISCOVERYMAX
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/92.ts
-#EXTINF:-1,NAT_GEOGRAPH
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/74.ts
-#EXTINF:-1,Casa_Y_Pesca
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/758.ts
-#EXTINF:-1,IBERALIA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3729.ts
-#EXTINF:-1,CLASSICA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3730.ts
-#EXTINF:-1,A&E
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3726.ts
-#EXTINF:-1,HISTORIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3725.ts
-#EXTINF:-1,CRIMEN_INVES
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3724.ts
-#EXTINF:-1,VIAJAR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3711.ts
-#EXTINF:-1,Movistar+F1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/369.ts
-#EXTINF:-1,C+LIGA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/75.ts
-#EXTINF:-1,BEINSPORT_SPAIN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3186.ts
-#EXTINF:-1,EUROSPORT_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3713.ts
-#EXTINF:-1,EUROSPORT_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3715.ts
-#EXTINF:-1,C+PartidazoHD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3195.ts
-#EXTINF:-1,C+FTBOL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/76.ts
-#EXTINF:-1,Barça_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/366.ts
-#EXTINF:-1,R_MADRID_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/94.ts
-#EXTINF:-1,C+DEPORT_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/93.ts
-#EXTINF:-1,C+DEPORTES
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/77.ts
-#EXTINF:-1,TELEDEPORTE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3722.ts
-#EXTINF:-1,C+GOLF
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2398.ts
-#EXTINF:-1,M_MOTOGP
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2496.ts
-#EXTINF:-1,NICKELODEON_Iberia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3733.ts
-#EXTINF:-1,BABY_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/367.ts
-#EXTINF:-1,CLAN_TVE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/50.ts
-#EXTINF:-1,BOING
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/380.ts
-#EXTINF:-1,DISNEY_XD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2499.ts
-#EXTINF:-1,DISNEY_CH.
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3712.ts
-#EXTINF:-1,DISNEY_JR_ES
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2543.ts
-#EXTINF:-1,VH1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3735.ts
-#EXTINF:-1,MTV_ROCKS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3734.ts
-#EXTINF:-1,MTV_ESPANIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3737.ts
-#EXTINF:-1,MEZZO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3740.ts
-#EXTINF:-1,SOL_MSICA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3741.ts
-#EXTINF:-1,Los40
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3742.ts
-#EXTINF:-1,NONSTOPEOPLE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3723.ts
-#EXTINF:-1,TAQUILLA_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3440.ts
-#EXTINF:-1,TAQUILLA_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3441.ts
-#EXTINF:-1,TAQUILLA_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3442.ts
-#EXTINF:-1,TAQUILLA_4_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3443.ts
-#EXTINF:-1,TAQUILLA_5_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3444.ts
-#EXTINF:-1,TAQUILLA_6_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3445.ts
-#EXTINF:-1,TAQUILLA_7_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3446.ts
-#EXTINF:-1,TAQUILLA_8_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3447.ts
-#EXTINF:-1,TAQUILLA_9_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3448.ts
-#EXTINF:-1,TAQUILLA_10_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3449.ts
-#EXTINF:-1,TAQUILLA_11_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3450.ts
-#EXTINF:-1,TAQUILLA_12_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3451.ts
-#EXTINF:-1,TAQUILLA_13_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3452.ts
-#EXTINF:-1,TAQUILLA_14_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3453.ts
-#EXTINF:-1,TAQUILLA_15_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3454.ts
-#EXTINF:-1,TAQUILLA_16_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3455.ts
-#EXTINF:-1,TAQUILLA_17_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3456.ts
-#EXTINF:-1,#=======CANALSAT_FRANCE=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2328.ts
-#EXTINF:-1,CANAL+
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/55.ts
-#EXTINF:-1,CANAL+CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/60.ts
-#EXTINF:-1,CANAL+SERIES
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/59.ts
-#EXTINF:-1,CANAL+FAMILY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/432.ts
-#EXTINF:-1,CINE+PREMIER
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/39.ts
-#EXTINF:-1,CINE+FRISSON
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/430.ts
-#EXTINF:-1,OCS_MAX_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/62.ts
-#EXTINF:-1,CANAL_CINEMA_EMOTION
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3601.ts
-#EXTINF:-1,CANAL_DISCOVERY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3600.ts
-#EXTINF:-1,DISCOVERY_SCIENCE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/71.ts
-#EXTINF:-1,CANAL+SPORT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/56.ts
-#EXTINF:-1,BEINSPORT-1-FR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2697.ts
-#EXTINF:-1,BEINSPORT-2-FR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2698.ts
-#EXTINF:-1,TVA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3367.ts
-#EXTINF:-1,TF1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/85.ts
-#EXTINF:-1,M6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/86.ts
-#EXTINF:-1,HD1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/434.ts
-#EXTINF:-1,6TER
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/740.ts
-#EXTINF:-1,FRANCE_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/79.ts
-#EXTINF:-1,FRANCE_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/80.ts
-#EXTINF:-1,FRANCE_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/81.ts
-#EXTINF:-1,FRANCE_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/82.ts
-#EXTINF:-1,FRANCE_O
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/78.ts
-#EXTINF:-1,La-Une-HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3718.ts
-#EXTINF:-1,La-Deux
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3720.ts
-#EXTINF:-1,La-Trois
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3719.ts
-#EXTINF:-1,RTL-TVi-HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3716.ts
-#EXTINF:-1,Plug-RTL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3717.ts
-#EXTINF:-1,Club-RTL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3721.ts
-#EXTINF:-1,TV5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2454.ts
-#EXTINF:-1,Arte
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/423.ts
-#EXTINF:-1,W9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/84.ts
-#EXTINF:-1,D8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/83.ts
-#EXTINF:-1,TMC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3136.ts
-#EXTINF:-1,I_TELE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/427.ts
-#EXTINF:-1,LCI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/66.ts
-#EXTINF:-1,INFOSPORT+
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/352.ts
-#EXTINF:-1,OCS_City_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/424.ts
-#EXTINF:-1,OCS_GEANT_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2389.ts
-#EXTINF:-1,OCS_CHOC_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2390.ts
-#EXTINF:-1,Action
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/747.ts
-#EXTINF:-1,Comedie
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/743.ts
-#EXTINF:-1,Teva
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/751.ts
-#EXTINF:-1,SERIE_CLUB_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2401.ts
-#EXTINF:-1,Syfy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/749.ts
-#EXTINF:-1,Paris_Premiere
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/735.ts
-#EXTINF:-1,13eme_Rue
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/741.ts
-#EXTINF:-1,BEINSPORT-3-FR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2699.ts
-#EXTINF:-1,Eurosport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/753.ts
-#EXTINF:-1,Eurosport_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/752.ts
-#EXTINF:-1,LEQUIPE21
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2400.ts
-#EXTINF:-1,EQUIDIA_LIVE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/353.ts
-#EXTINF:-1,Chasse_&_Peche_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/754.ts
-#EXTINF:-1,Animaux
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/746.ts
-#EXTINF:-1,NATIONAL_GEO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/69.ts
-#EXTINF:-1,NAT_GEO_WILD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/63.ts
-#EXTINF:-1,VOYAGE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2396.ts
-#EXTINF:-1,PLANETE+
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/68.ts
-#EXTINF:-1,PLANETE+CI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/67.ts
-#EXTINF:-1,USHUAIA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/37.ts
-#EXTINF:-1,Disney_xd
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/738.ts
-#EXTINF:-1,Disney_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/739.ts
-#EXTINF:-1,Disney_Chanel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/755.ts
-#EXTINF:-1,Cartoon_network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/744.ts
-#EXTINF:-1,BOOMERANG
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/355.ts
-#EXTINF:-1,DISNEY_CHANNEL_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/70.ts
-#EXTINF:-1,GULLI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/88.ts
-#EXTINF:-1,PIWI+
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/61.ts
-#EXTINF:-1,Boing
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/745.ts
-#EXTINF:-1,MANGAS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/757.ts
-#EXTINF:-1,M6_Music
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/736.ts
-#EXTINF:-1,NRJ_12
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/87.ts
-#EXTINF:-1,A_LA_CARTE_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3356.ts
-#EXTINF:-1,A_LA_CARTE_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3357.ts
-#EXTINF:-1,A_LA_CARTE_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3358.ts
-#EXTINF:-1,A_LA_CARTE_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3359.ts
-#EXTINF:-1,A_LA_CARTE_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3360.ts
-#EXTINF:-1,A_LA_CARTE_6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3361.ts
-#EXTINF:-1,A_LA_CARTE_7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3362.ts
-#EXTINF:-1,A_LA_CARTE_8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3363.ts
-#EXTINF:-1,A_LA_CARTE_9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3364.ts
-#EXTINF:-1,A_LA_CARTE_10
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3365.ts
-#EXTINF:-1,A_LA_CARTE_11
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3386.ts
-#EXTINF:-1,A_LA_CARTE_12
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3387.ts
-#EXTINF:-1,A_LA_CARTE_13
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3388.ts
-#EXTINF:-1,A_LA_CARTE_14
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3389.ts
-#EXTINF:-1,A_LA_CARTE_15
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3390.ts
-#EXTINF:-1,A_LA_CARTE_16
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3391.ts
-#EXTINF:-1,A_LA_CARTE_17
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3392.ts
-#EXTINF:-1,A_LA_CARTE_18
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3393.ts
-#EXTINF:-1,A_LA_CARTE_19
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3394.ts
-#EXTINF:-1,A_LA_CARTE_20
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3395.ts
-#EXTINF:-1,#=======BEINSPORT=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2327.ts
-#EXTINF:-1,BEINSPORT_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/57.ts
-#EXTINF:-1,BEINSPORT_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/58.ts
-#EXTINF:-1,BEINSPORT_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/250.ts
-#EXTINF:-1,BEINSPORT_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/251.ts
-#EXTINF:-1,BEINSPORT_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/252.ts
-#EXTINF:-1,BEINSPORT_6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/304.ts
-#EXTINF:-1,BEINSPORT_7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/305.ts
-#EXTINF:-1,BEINSPORT_8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/306.ts
-#EXTINF:-1,BEINSPORT_9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/802.ts
-#EXTINF:-1,BEINSPORT_10
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1169.ts
-#EXTINF:-1,BEINSPORT_11
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1177.ts
-#EXTINF:-1,BEINSPORT_12
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1178.ts
-#EXTINF:-1,BEINSPORT_13
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2213.ts
-#EXTINF:-1,BEINSPORT_14
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2214.ts
-#EXTINF:-1,BEINSPORT_15
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2215.ts
-#EXTINF:-1,BEINSPORT_1H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/860.ts
-#EXTINF:-1,BEINSPORT_2H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3188.ts
-#EXTINF:-1,BEINSPORT_3H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3189.ts
-#EXTINF:-1,BEINSPORT_4H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3190.ts
-#EXTINF:-1,BEINSPORT_5H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3191.ts
-#EXTINF:-1,BEINSPORT_6H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3192.ts
-#EXTINF:-1,BEINSPORT_7H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3193.ts
-#EXTINF:-1,BEINSPORT_8H265
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3194.ts
-#EXTINF:-1,BEINSPORT_MAX_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2395.ts
-#EXTINF:-1,BEINSPORT_MAX_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2394.ts
-#EXTINF:-1,BEINSPORT_MAX_6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2393.ts
-#EXTINF:-1,BEINSPORT_MAX_7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2392.ts
-#EXTINF:-1,BEINSPORT_MAX_8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2391.ts
-#EXTINF:-1,beIN_SPORTS_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3350.ts
-#EXTINF:-1,beIN_SPORTS_News_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3349.ts
-#EXTINF:-1,VIASAT Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3925.ts
-#EXTINF:-1,VIASAT Football
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3926.ts
-#EXTINF:-1,Tivibuspor
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3927.ts
-#EXTINF:-1,TEN_Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3928.ts
-#EXTINF:-1,Ten_Cricket
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3929.ts
-#EXTINF:-1,TEN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3930.ts
-#EXTINF:-1,SuperSport 4 HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3931.ts
-#EXTINF:-1,SuperSport_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3932.ts
-#EXTINF:-1,SuperSport_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3933.ts
-#EXTINF:-1,SuperSport_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3934.ts
-#EXTINF:-1,SPORTS_Kombat_Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3935.ts
-#EXTINF:-1,Sport_TV_1_PT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3936.ts
-#EXTINF:-1,Sport_Klub_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3937.ts
-#EXTINF:-1,Sport_Klub_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3938.ts
-#EXTINF:-1,Sport_Klub_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3939.ts
-#EXTINF:-1,Sport_Klub_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3940.ts
-#EXTINF:-1,Sport_Klub_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3941.ts
-#EXTINF:-1,Sony_Six
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3942.ts
-#EXTINF:-1,PTV_Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3943.ts
-#EXTINF:-1,NBA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3944.ts
-#EXTINF:-1,LIG_TV3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3945.ts
-#EXTINF:-1,LIG_TV2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3946.ts
-#EXTINF:-1,LIG_TV1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3947.ts
-#EXTINF:-1,GEO_Super
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3948.ts
-#EXTINF:-1,Fight_Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3949.ts
-#EXTINF:-1,Fight_Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3950.ts
-#EXTINF:-1,Fight_Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3951.ts
-#EXTINF:-1,Extrem_Sports_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3952.ts
-#EXTINF:-1,DigiSport_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3953.ts
-#EXTINF:-1,DigiSport_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3954.ts
-#EXTINF:-1,DigiSport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3955.ts
-#EXTINF:-1,CTH_Stadium_X
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3956.ts
-#EXTINF:-1,CTH_Stadium_6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3957.ts
-#EXTINF:-1,CTH_Stadium_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3958.ts
-#EXTINF:-1,CTH_Stadium_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3959.ts
-#EXTINF:-1,CTH_Stadium_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3960.ts
-#EXTINF:-1,Astro_Supersport_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3961.ts
-#EXTINF:-1,Astro_Supersport_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3962.ts
-#EXTINF:-1,Astro_Supersport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3963.ts
-#EXTINF:-1,#=======SKY_IT=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3924.ts
-#EXTINF:-1,Sky_Cinema_Passion_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3812.ts
-#EXTINF:-1,YoYo
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3744.ts
-#EXTINF:-1,Videolina
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3745.ts
-#EXTINF:-1,Top_Crime
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3746.ts
-#EXTINF:-1,TG_Com_24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3747.ts
-#EXTINF:-1,Super_Tennis
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3748.ts
-#EXTINF:-1,Super
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3749.ts
-#EXTINF:-1,Sky_Sport_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3752.ts
-#EXTINF:-1,Sky_Sport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3753.ts
-#EXTINF:-1,Sky_Disney_XD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3754.ts
-#EXTINF:-1,Sky_Disney_Junior
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3755.ts
-#EXTINF:-1,Sky_Disney_Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3756.ts
-#EXTINF:-1,Sky_Cinema_Plus24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3757.ts
-#EXTINF:-1,Sky_Cinema_Max_Plus_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3758.ts
-#EXTINF:-1,Sky_Cinema_Max
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3759.ts
-#EXTINF:-1,Sky_Cinema_Hits
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3760.ts
-#EXTINF:-1,Sky_Cinema_Family
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3761.ts
-#EXTINF:-1,Sky_Cinema_Cult
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3762.ts
-#EXTINF:-1,Sky_Cinema_Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3763.ts
-#EXTINF:-1,Sky_Cinema_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3764.ts
-#EXTINF:-1,Sky_Cartoon_Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3765.ts
-#EXTINF:-1,RSi_LA_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3766.ts
-#EXTINF:-1,RSi_LA_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3767.ts
-#EXTINF:-1,Rete_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3768.ts
-#EXTINF:-1,Real_Time
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3769.ts
-#EXTINF:-1,Rai_Sport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3770.ts
-#EXTINF:-1,Sky_Uno
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3750.ts
-#EXTINF:-1,Sky_Tg_24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3751.ts
-#EXTINF:-1,Rai_Premium
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3771.ts
-#EXTINF:-1,Rai_News
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3772.ts
-#EXTINF:-1,Rai_Gulp
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3773.ts
-#EXTINF:-1,Rai_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3778.ts
-#EXTINF:-1,Rai_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3777.ts
-#EXTINF:-1,Rai_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3776.ts
-#EXTINF:-1,Rai_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3775.ts
-#EXTINF:-1,Rai_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3774.ts
-#EXTINF:-1,Radio_MonteCarlo_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3779.ts
-#EXTINF:-1,Radio_Italia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3780.ts
-#EXTINF:-1,National_Geographic
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3781.ts
-#EXTINF:-1,Nat_Geo_Wild
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3782.ts
-#EXTINF:-1,Nat_Geo_People
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3783.ts
-#EXTINF:-1,MTV_8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3784.ts
-#EXTINF:-1,Mediaset_Italia_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3785.ts
-#EXTINF:-1,Mediaset_Extra
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3786.ts
-#EXTINF:-1,Marcopolo
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3787.ts
-#EXTINF:-1,La_7d
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3788.ts
-#EXTINF:-1,LA_7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3789.ts
-#EXTINF:-1,Italia_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3790.ts
-#EXTINF:-1,Italia_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3791.ts
-#EXTINF:-1,Iris
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3792.ts
-#EXTINF:-1,HIstory
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3793.ts
-#EXTINF:-1,Gambero_Rosso
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3794.ts
-#EXTINF:-1,Fox_Sport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3795.ts
-#EXTINF:-1,Fox_Life
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3796.ts
-#EXTINF:-1,Fox_Crime
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3797.ts
-#EXTINF:-1,Fox_Animation
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3798.ts
-#EXTINF:-1,Fox
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3799.ts
-#EXTINF:-1,Focus
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3800.ts
-#EXTINF:-1,Fine_Living
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3801.ts
-#EXTINF:-1,Dmax
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3802.ts
-#EXTINF:-1,Discovery_Travel_&_Living
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3803.ts
-#EXTINF:-1,Discovery_Science
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3804.ts
-#EXTINF:-1,Discovery_Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3805.ts
-#EXTINF:-1,Deejay_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3806.ts
-#EXTINF:-1,Cartoon_Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3807.ts
-#EXTINF:-1,Canale_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3808.ts
-#EXTINF:-1,AXN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3809.ts
-#EXTINF:-1,Animal_Planet
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3810.ts
-#EXTINF:-1,Alice
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3811.ts
-#EXTINF:-1,Cinema_italia_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3382.ts
-#EXTINF:-1,Cinema_italia_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3383.ts
-#EXTINF:-1,Cinema_italia_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3397.ts
-#EXTINF:-1,Cinema_italia_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3399.ts
-#EXTINF:-1,Cinema_italia_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3400.ts
-#EXTINF:-1,Cinema_italia_6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3401.ts
-#EXTINF:-1,Cinema_italia_7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3402.ts
-#EXTINF:-1,Cinema_italia_8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3403.ts
-#EXTINF:-1,Cinema_italia_9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3404.ts
-#EXTINF:-1,Cinema_italia_10
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3405.ts
-#EXTINF:-1,#=======ARABIC=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2326.ts
-#EXTINF:-1,Aljazeera
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1155.ts
-#EXTINF:-1,Al_Arabiya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3347.ts
-#EXTINF:-1,MBC_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/123.ts
-#EXTINF:-1,MBC_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/124.ts
-#EXTINF:-1,MBC_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/125.ts
-#EXTINF:-1,MBC_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/126.ts
-#EXTINF:-1,MBC_Action
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/127.ts
-#EXTINF:-1,MBC_DRAMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/131.ts
-#EXTINF:-1,MBC_MAXHD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1151.ts
-#EXTINF:-1,MBC_MASR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/527.ts
-#EXTINF:-1,MBC_MASR_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/526.ts
-#EXTINF:-1,MBC_bollywood
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/631.ts
-#EXTINF:-1,Rotana_Masriya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/137.ts
-#EXTINF:-1,Rotana_Khalijiah
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/138.ts
-#EXTINF:-1,Rotana_Clip
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/139.ts
-#EXTINF:-1,Rotana_Classic
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/140.ts
-#EXTINF:-1,Rotana_Cinema_EGY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/141.ts
-#EXTINF:-1,Medi1_Tv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/136.ts
-#EXTINF:-1,2M_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/389.ts
-#EXTINF:-1,Al_AOULA_Inter
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/388.ts
-#EXTINF:-1,Al_Aoula_Inter_L
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/386.ts
-#EXTINF:-1,Arriadia_Sat
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/383.ts
-#EXTINF:-1,Arrabiaa
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/384.ts
-#EXTINF:-1,Al_Maghribia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/385.ts
-#EXTINF:-1,Assadissa
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/382.ts
-#EXTINF:-1,Tamazight
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/381.ts
-#EXTINF:-1,Tamazight
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3988.ts
-#EXTINF:-1,SAMIRA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3995.ts
-#EXTINF:-1,Kbc_Algérie
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3989.ts
-#EXTINF:-1,ENTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4004.ts
-#EXTINF:-1,ENNAHAR_TV_ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3985.ts
-#EXTINF:-1,ENNAHAR_LAKI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3996.ts
-#EXTINF:-1,Echourouk_news
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3997.ts
-#EXTINF:-1,Echourouk_benna
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3990.ts
-#EXTINF:-1,Echourouk
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3991.ts
-#EXTINF:-1,DzairNews
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3992.ts
-#EXTINF:-1,Dzair3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4005.ts
-#EXTINF:-1,DZAIR_TV_ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3986.ts
-#EXTINF:-1,Dzaier_tv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3993.ts
-#EXTINF:-1,Djazairia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3994.ts
-#EXTINF:-1,CANAL_ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3602.ts
-#EXTINF:-1,bzaf_music
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3998.ts
-#EXTINF:-1,BEUR_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4007.ts
-#EXTINF:-1,BENNA_TV__ALGERIE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3987.ts
-#EXTINF:-1,ALMAGARIBIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4010.ts
-#EXTINF:-1,Alhadef_Algérie
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4008.ts
-#EXTINF:-1,ALGERIAN_amazight
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3999.ts
-#EXTINF:-1,Algérie3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4009.ts
-#EXTINF:-1,Al_Majd
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3977.ts
-#EXTINF:-1,Ennahar
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2385.ts
-#EXTINF:-1,FRANCE24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/531.ts
-#EXTINF:-1,RTNews
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2402.ts
-#EXTINF:-1,ABU_DHABI_NATGEO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3486.ts
-#EXTINF:-1,Nile_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/237.ts
-#EXTINF:-1,Nile_Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/236.ts
-#EXTINF:-1,Nile_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/234.ts
-#EXTINF:-1,Nile_Culture
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/235.ts
-#EXTINF:-1,Nile_Life
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/233.ts
-#EXTINF:-1,Nile_Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/231.ts
-#EXTINF:-1,Nile_News
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/232.ts
-#EXTINF:-1,FUNoon
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/238.ts
-#EXTINF:-1,Alhayat_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/135.ts
-#EXTINF:-1,Cairo_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1158.ts
-#EXTINF:-1,Cairo_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1159.ts
-#EXTINF:-1,dubai_sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/642.ts
-#EXTINF:-1,dubai_one
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/643.ts
-#EXTINF:-1,dubai
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/644.ts
-#EXTINF:-1,M_TUNISIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2470.ts
-#EXTINF:-1,jawhara_fm_cam
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2471.ts
-#EXTINF:-1,CBC_SOFRA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2472.ts
-#EXTINF:-1,ART_Hikeyet_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/628.ts
-#EXTINF:-1,ART_Hikeyet_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/629.ts
-#EXTINF:-1,ART_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/630.ts
-#EXTINF:-1,ART_AFLAM_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/626.ts
-#EXTINF:-1,ART_AFLAM_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/627.ts
-#EXTINF:-1,Libya_Documentary
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3226.ts
-#EXTINF:-1,First_TV_TUNISIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3240.ts
-#EXTINF:-1,El_Heddaf_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3239.ts
-#EXTINF:-1,DARBAKA_CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3245.ts
-#EXTINF:-1,CNA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3250.ts
-#EXTINF:-1,ALMASRAWIA_AFLAM
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3243.ts
-#EXTINF:-1,CNBC_ARABIYA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3332.ts
-#EXTINF:-1,CBC_eXtra
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3314.ts
-#EXTINF:-1,CBC__2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3311.ts
-#EXTINF:-1,ALnahar_one
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3312.ts
-#EXTINF:-1,Al-Nahar_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3313.ts
-#EXTINF:-1,Al_Rayyan_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3238.ts
-#EXTINF:-1,Al_Magharibia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3229.ts
-#EXTINF:-1,CN_Arabia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3251.ts
-#EXTINF:-1,ANN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3255.ts
-#EXTINF:-1,Alhayat_Muslsalat
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3259.ts
-#EXTINF:-1,Al-nahar_noor
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3257.ts
-#EXTINF:-1,Al-Nahar_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3260.ts
-#EXTINF:-1,Al_Ghad_Al_Arabi
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3227.ts
-#EXTINF:-1,Al_Araby_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3231.ts
-#EXTINF:-1,Al_Anis_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3228.ts
-#EXTINF:-1,AL_ALAM
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3242.ts
-#EXTINF:-1,TUNISNA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3213.ts
-#EXTINF:-1,TRT_KURDI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3212.ts
-#EXTINF:-1,TRT_ELARABIYE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3211.ts
-#EXTINF:-1,TOP_CINEMA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3210.ts
-#EXTINF:-1,TIME_TURKI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3225.ts
-#EXTINF:-1,TIME_COMEDY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3224.ts
-#EXTINF:-1,SYRIA_DRAMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3207.ts
-#EXTINF:-1,SAUDI_24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3222.ts
-#EXTINF:-1,Sama_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3208.ts
-#EXTINF:-1,Sada_El_Balad
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3219.ts
-#EXTINF:-1,Rotana_Cinema_KSA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3197.ts
-#EXTINF:-1,Rotana
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3196.ts
-#EXTINF:-1,Palestine_Today
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3217.ts
-#EXTINF:-1,Palestine
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3215.ts
-#EXTINF:-1,NOUR_EL_SHAM
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3206.ts
-#EXTINF:-1,Kuwait_Sport_&_
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3218.ts
-#EXTINF:-1,KURDISTAN_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3221.ts
-#EXTINF:-1,IRAQ_TODAY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3205.ts
-#EXTINF:-1,BELAD_HARAMEN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3202.ts
-#EXTINF:-1,Alhurra
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3214.ts
-#EXTINF:-1,AL-MUSTAKILA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3199.ts
-#EXTINF:-1,MUSIC_PLUS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3462.ts
-#EXTINF:-1,Modern_Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3461.ts
-#EXTINF:-1,Future_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3459.ts
-#EXTINF:-1,Tele_Lebonan
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4172.ts
-#EXTINF:-1,Ldc_Lebanon_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4167.ts
-#EXTINF:-1,Almanar_Lebanon
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4171.ts
-#EXTINF:-1,Al_Mayadeen
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4168.ts
-#EXTINF:-1,Al_Hayat_We_Alnas
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4169.ts
-#EXTINF:-1,Al_Hayat
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4170.ts
-#EXTINF:-1,KURDMAX
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3458.ts
-#EXTINF:-1,AL_RAHMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3198.ts
-#EXTINF:-1,CBC_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/632.ts
-#EXTINF:-1,CBC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/633.ts
-#EXTINF:-1,Toktokaflam
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/635.ts
-#EXTINF:-1,Cinemapro
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/636.ts
-#EXTINF:-1,Aljazeera_Doc_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1156.ts
-#EXTINF:-1,NBN_TV_LEBANON_AR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1152.ts
-#EXTINF:-1,MTV_Lebanon_HD_AR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1153.ts
-#EXTINF:-1,Tounesna
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1166.ts
-#EXTINF:-1,Zaytouna_Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2382.ts
-#EXTINF:-1,Otv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2386.ts
-#EXTINF:-1,Nessma_Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2380.ts
-#EXTINF:-1,Moutawaset
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2384.ts
-#EXTINF:-1,Janoubiya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2381.ts
-#EXTINF:-1,TIME-TURKI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2521.ts
-#EXTINF:-1,TIME-TAXI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2519.ts
-#EXTINF:-1,TIME-SHA3BEYAT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2535.ts
-#EXTINF:-1,TIME-FILM
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2511.ts
-#EXTINF:-1,TIME-COMEDY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2512.ts
-#EXTINF:-1,TIME-CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2513.ts
-#EXTINF:-1,TEN-2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2529.ts
-#EXTINF:-1,TEN-1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2528.ts
-#EXTINF:-1,sada-Misr
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2531.ts
-#EXTINF:-1,Sada-ElBalad2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2532.ts
-#EXTINF:-1,Play-Aflam
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2515.ts
-#EXTINF:-1,Panorama-Film
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2507.ts
-#EXTINF:-1,Panorama-Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2508.ts
-#EXTINF:-1,Panorama-Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2506.ts
-#EXTINF:-1,Moga-Comedy-TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2509.ts
-#EXTINF:-1,MOGA-Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2510.ts
-#EXTINF:-1,Misr-EL-Bald
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2530.ts
-#EXTINF:-1,MICKEY-CHANNEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2518.ts
-#EXTINF:-1,Mehwer
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2534.ts
-#EXTINF:-1,MB_CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2517.ts
-#EXTINF:-1,M24_MUSIC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2536.ts
-#EXTINF:-1,CIMA-ALIBABA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2514.ts
-#EXTINF:-1,B4U-Aflam
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2520.ts
-#EXTINF:-1,Al-thanya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2524.ts
-#EXTINF:-1,Al-Nahar-Sport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2527.ts
-#EXTINF:-1,AL-Nahar-Alyawm
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2526.ts
-#EXTINF:-1,Al-Kahera-WalNas-2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2523.ts
-#EXTINF:-1,Al-Kahera-WalNas
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2522.ts
-#EXTINF:-1,hannibal_Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2379.ts
-#EXTINF:-1,ARABICA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2387.ts
-#EXTINF:-1,Almostakela
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2383.ts
-#EXTINF:-1,Tunisia_Nat_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1161.ts
-#EXTINF:-1,Tunisia_Nat_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1160.ts
-#EXTINF:-1,Numidia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2403.ts
-#EXTINF:-1,Attesisa_Tunisia
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1165.ts
-#EXTINF:-1,Attounisiya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1162.ts
-#EXTINF:-1,Zeealwan
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/645.ts
-#EXTINF:-1,toyouraljanna
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/670.ts
-#EXTINF:-1,Syria_Akhbariya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/665.ts
-#EXTINF:-1,Sharqianews
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/666.ts
-#EXTINF:-1,qods
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/660.ts
-#EXTINF:-1,manar
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/672.ts
-#EXTINF:-1,majdkids
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/671.ts
-#EXTINF:-1,LBC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/639.ts
-#EXTINF:-1,JSC_mubacher
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/648.ts
-#EXTINF:-1,Jsc_int
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/647.ts
-#EXTINF:-1,Alresala
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/667.ts
-#EXTINF:-1,Alnas
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/669.ts
-#EXTINF:-1,Almayden
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/663.ts
-#EXTINF:-1,Almajd3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/668.ts
-#EXTINF:-1,TIME-QURAN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2878.ts
-#EXTINF:-1,Saudi_ch_for_Quran_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2501.ts
-#EXTINF:-1,Saudi_Ch_for_Sunnah_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3976.ts
-#EXTINF:-1,TV_Coran
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4001.ts
-#EXTINF:-1,Almajd_Holy_Qura'n
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3982.ts
-#EXTINF:-1,Almajd_Space_Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3978.ts
-#EXTINF:-1,Almajd_Nature
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3979.ts
-#EXTINF:-1,Almajd_Masah
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3980.ts
-#EXTINF:-1,Almajd_Kids
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3981.ts
-#EXTINF:-1,Almajd_Holy_Hadeeth
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3983.ts
-#EXTINF:-1,Almajd_Documentary
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3984.ts
-#EXTINF:-1,aljadeed
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/662.ts
-#EXTINF:-1,Alhayet
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/637.ts
-#EXTINF:-1,alanwar
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/664.ts
-#EXTINF:-1,abu_dhaby_emarat
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/641.ts
-#EXTINF:-1,abu_dhaby_drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/640.ts
-#EXTINF:-1,Dream2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/239.ts
-#EXTINF:-1,Abu_Dhabi_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/130.ts
-#EXTINF:-1,TOKTOK_CIMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3466.ts
-#EXTINF:-1,Music_Alhanen
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3478.ts
-#EXTINF:-1,MAJESTIC_CINEMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3471.ts
-#EXTINF:-1,HONAA_ELAASEMA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3464.ts
-#EXTINF:-1,HADRAMOUT_CHANNEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3473.ts
-#EXTINF:-1,ALSIRAT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3469.ts
-#EXTINF:-1,ALSAHRAA-ALEBEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3481.ts
-#EXTINF:-1,AL-TEEB
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3480.ts
-#EXTINF:-1,Al-Arabiya_Alhadath
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3482.ts
-#EXTINF:-1,Al_Rayyan_SD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3479.ts
-#EXTINF:-1,Al_Mergab_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3477.ts
-#EXTINF:-1,Al_Jazeera_Mubasher
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3483.ts
-#EXTINF:-1,Al_Jazeera_Documentary
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3484.ts
-#EXTINF:-1,#=======Mediaset_Premium=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2338.ts
-#EXTINF:-1,Premium_Stories
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1064.ts
-#EXTINF:-1,Premium_Sport_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1083.ts
-#EXTINF:-1,Premium_Joy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1093.ts
-#EXTINF:-1,Premium_EuroSport_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1094.ts
-#EXTINF:-1,Premium_Disney_Junior_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1095.ts
-#EXTINF:-1,Premium_Crime__24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1096.ts
-#EXTINF:-1,Premium_Cinema__24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1063.ts
-#EXTINF:-1,PREMIUM_CINEMA_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1085.ts
-#EXTINF:-1,Premium_Cinema_2__24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1098.ts
-#EXTINF:-1,Premium_Cinema_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1084.ts
-#EXTINF:-1,Premium_Cartoon_Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1086.ts
-#EXTINF:-1,Premium_Calcio_HD_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1087.ts
-#EXTINF:-1,Premium_Action_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1088.ts
-#EXTINF:-1,Mediaset_Italia_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1066.ts
-#EXTINF:-1,Mediaset_Extra
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1067.ts
-#EXTINF:-1,Premium_Studio_Universal_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1077.ts
-#EXTINF:-1,Premium_Fox_Sport_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1091.ts
-#EXTINF:-1,Premium_Energy_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1078.ts
-#EXTINF:-1,Premium_Emotion_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1079.ts
-#EXTINF:-1,Premium_Disney_Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1080.ts
-#EXTINF:-1,Premium_Discovery_World
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1081.ts
-#EXTINF:-1,Premium_Carton_Network_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1082.ts
-#EXTINF:-1,Premium_Emotion
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1070.ts
-#EXTINF:-1,PREMIUM_ENERGY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1071.ts
-#EXTINF:-1,PREMIUM_EMOTION
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1072.ts
-#EXTINF:-1,PREMIUM_CRIME_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1090.ts
-#EXTINF:-1,PREMIUM_COMEDY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1073.ts
-#EXTINF:-1,PREMIUM_CINEMA_24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1074.ts
-#EXTINF:-1,PREMIUM_CALCIO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1075.ts
-#EXTINF:-1,PREMIUM_ACTION
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/1076.ts
-#EXTINF:-1,Premium_Calcio_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2445.ts
-#EXTINF:-1,Premium_Calcio_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2446.ts
-#EXTINF:-1,Premium_Calcio_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2447.ts
-#EXTINF:-1,Premium_Calcio_4_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2448.ts
-#EXTINF:-1,Premium_Calcio_5_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2449.ts
-#EXTINF:-1,Premium_Calcio_6_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2450.ts
-#EXTINF:-1,Premium_Calcio_7_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2451.ts
-#EXTINF:-1,#=======NEDERLAND=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2341.ts
-#EXTINF:-1,Veronica_Disney_XD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3922.ts
-#EXTINF:-1,Ziggo_Sport_Voetbal
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3862.ts
-#EXTINF:-1,Ziggo_Sport_Select_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3863.ts
-#EXTINF:-1,Ziggo_Sport_Racing
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3864.ts
-#EXTINF:-1,Ziggo_Sport_Golf
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3865.ts
-#EXTINF:-1,Ziggo_Sport_eXtra_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3866.ts
-#EXTINF:-1,Ziggo_Sport_eXtra_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3867.ts
-#EXTINF:-1,TLC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3868.ts
-#EXTINF:-1,SBS_9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3869.ts
-#EXTINF:-1,SBS_6_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3870.ts
-#EXTINF:-1,RTV_OOST
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3871.ts
-#EXTINF:-1,RTV_Drenthe
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3872.ts
-#EXTINF:-1,RTL_Z
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3873.ts
-#EXTINF:-1,Rtl_Lounge
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3874.ts
-#EXTINF:-1,RTL_8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3875.ts
-#EXTINF:-1,RTL_7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3876.ts
-#EXTINF:-1,RTL_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3877.ts
-#EXTINF:-1,RTL_4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3878.ts
-#EXTINF:-1,Omroep_Brabant
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3879.ts
-#EXTINF:-1,NPO_Zappelin_Xtra/Humor_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3880.ts
-#EXTINF:-1,NPO_Politiek/Best
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3881.ts
-#EXTINF:-1,NPO_Doc
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3882.ts
-#EXTINF:-1,NPO_3HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3883.ts
-#EXTINF:-1,NPO_2HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3884.ts
-#EXTINF:-1,NPO_1HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3885.ts
-#EXTINF:-1,Nicktoons
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3887.ts
-#EXTINF:-1,Nickelodeon
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3888.ts
-#EXTINF:-1,Nick_Jr
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3886.ts
-#EXTINF:-1,Net5_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3889.ts
-#EXTINF:-1,National_Geographic_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3891.ts
-#EXTINF:-1,Nat_Geo_Wild_NL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3890.ts
-#EXTINF:-1,MTV_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3892.ts
-#EXTINF:-1,MTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3893.ts
-#EXTINF:-1,Ketnet_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3894.ts
-#EXTINF:-1,HBO_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3895.ts
-#EXTINF:-1,HBO_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3896.ts
-#EXTINF:-1,HBO_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3897.ts
-#EXTINF:-1,Fox_Sports_6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3899.ts
-#EXTINF:-1,Fox_Sports_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3900.ts
-#EXTINF:-1,Fox_Sports_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3901.ts
-#EXTINF:-1,Fox_Sports_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3902.ts
-#EXTINF:-1,Fox_Sport_HD1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3898.ts
-#EXTINF:-1,FOX_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3903.ts
-#EXTINF:-1,Film_1_Sundance
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3904.ts
-#EXTINF:-1,Film_1_Premiere_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3905.ts
-#EXTINF:-1,Film_1_Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3906.ts
-#EXTINF:-1,Film_1_Action
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3907.ts
-#EXTINF:-1,Eurosport_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3908.ts
-#EXTINF:-1,Eurosport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3909.ts
-#EXTINF:-1,Edge_Sport_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3910.ts
-#EXTINF:-1,E!_entertainement_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3911.ts
-#EXTINF:-1,Disney_Junior
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3912.ts
-#EXTINF:-1,Disney_Channel_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3913.ts
-#EXTINF:-1,Crime_&_Investigation
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3914.ts
-#EXTINF:-1,Comedy_Central_extra
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3915.ts
-#EXTINF:-1,Comedy_Central
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3916.ts
-#EXTINF:-1,Cartoon_Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3917.ts
-#EXTINF:-1,BBC_Entertainment
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3918.ts
-#EXTINF:-1,AT5_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3919.ts
-#EXTINF:-1,24_Kitchen_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3920.ts
-#EXTINF:-1,13TH_Street
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3921.ts
-#EXTINF:-1,SALON_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4150.ts
-#EXTINF:-1,SALON_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4148.ts
-#EXTINF:-1,YUMURCAK_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4065.ts
-#EXTINF:-1,WORLD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4066.ts
-#EXTINF:-1,ULKE_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4067.ts
-#EXTINF:-1,TV2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4071.ts
-#EXTINF:-1,TV_NET
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4068.ts
-#EXTINF:-1,TV_8_HD_(yedek)
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4069.ts
-#EXTINF:-1,TV_8_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4070.ts
-#EXTINF:-1,TRT_HABER
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4072.ts
-#EXTINF:-1,TRT_COCUK
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4073.ts
-#EXTINF:-1,TRT_BELGESEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4074.ts
-#EXTINF:-1,TRT_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4075.ts
-#EXTINF:-1,TGRT_HABER
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4076.ts
-#EXTINF:-1,TGRT_BELGESEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4077.ts
-#EXTINF:-1,TGRT_avrupa
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4078.ts
-#EXTINF:-1,Türkiyem
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4079.ts
-#EXTINF:-1,SPORTS_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4080.ts
-#EXTINF:-1,SINETIVI_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4083.ts
-#EXTINF:-1,SINETIVI_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4084.ts
-#EXTINF:-1,SINEMAX_TURK
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4089.ts
-#EXTINF:-1,SINEMAX_FEAR_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4090.ts
-#EXTINF:-1,SINEMAX_COMEDY_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4091.ts
-#EXTINF:-1,SINEMA_TV_AILE_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4086.ts
-#EXTINF:-1,SINEMA_TV_1001_HD_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4087.ts
-#EXTINF:-1,Sinema_TV_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4088.ts
-#EXTINF:-1,Sinema_TV__2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4085.ts
-#EXTINF:-1,SINE_ANIMASYON_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4081.ts
-#EXTINF:-1,SINE_ANIMASYON_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4082.ts
-#EXTINF:-1,Show_TV_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4092.ts
-#EXTINF:-1,Show_Max
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4093.ts
-#EXTINF:-1,PLANET_TURK
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4094.ts
-#EXTINF:-1,PLANET_PEMBE_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4095.ts
-#EXTINF:-1,PLANET_COCUK
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4096.ts
-#EXTINF:-1,NTV_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4097.ts
-#EXTINF:-1,NTV_avrupa
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4098.ts
-#EXTINF:-1,NOSTALJI_TURK_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4099.ts
-#EXTINF:-1,NOSTALJI_TURK_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4100.ts
-#EXTINF:-1,NOSTALJI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4101.ts
-#EXTINF:-1,NAT_GEO_WILD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4102.ts
-#EXTINF:-1,NAT_GEO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4103.ts
-#EXTINF:-1,MOVIESMART_Family
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4104.ts
-#EXTINF:-1,MOVIESMART_Action
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4105.ts
-#EXTINF:-1,MOVIEMAX_TURK_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4106.ts
-#EXTINF:-1,MOVIEMAX_STAR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4107.ts
-#EXTINF:-1,MOVIEMAX_PREMIER_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4108.ts
-#EXTINF:-1,MOVIEMAX_PREMIER_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4109.ts
-#EXTINF:-1,MOVIEMAX_FESTIVAL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4110.ts
-#EXTINF:-1,MINIKA_GO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4111.ts
-#EXTINF:-1,KON_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4112.ts
-#EXTINF:-1,Kanal_D_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4113.ts
-#EXTINF:-1,KANAL_7_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4114.ts
-#EXTINF:-1,kanal_42_Konya
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4115.ts
-#EXTINF:-1,Kanal_24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4116.ts
-#EXTINF:-1,IDMAN_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4117.ts
-#EXTINF:-1,History
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4118.ts
-#EXTINF:-1,HALK_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4119.ts
-#EXTINF:-1,Haberturk
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4120.ts
-#EXTINF:-1,GS_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4121.ts
-#EXTINF:-1,FLASH_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4122.ts
-#EXTINF:-1,FENERBAHCE_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4123.ts
-#EXTINF:-1,fanatik_tv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4124.ts
-#EXTINF:-1,EURONEWS_TURKCE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4127.ts
-#EXTINF:-1,EURO_STAR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4125.ts
-#EXTINF:-1,EURO_D
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4126.ts
-#EXTINF:-1,DISCOVERY_Science
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4128.ts
-#EXTINF:-1,DISCOVERY_CHANNEL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4129.ts
-#EXTINF:-1,DiGiMAX_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4130.ts
-#EXTINF:-1,DA_VINCI_LEARNING
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4131.ts
-#EXTINF:-1,CNN_TURK_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4132.ts
-#EXTINF:-1,CINESTAR_VIZYON_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4133.ts
-#EXTINF:-1,CINESTAR_VIZYON_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4134.ts
-#EXTINF:-1,CINESTAR_TÜRK_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4135.ts
-#EXTINF:-1,CINESTAR_TÜRK_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4136.ts
-#EXTINF:-1,Cartoon_Network
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4137.ts
-#EXTINF:-1,BJK_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4138.ts
-#EXTINF:-1,BEYAZ_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4139.ts
-#EXTINF:-1,BENGU_TURK
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4140.ts
-#EXTINF:-1,ATV_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4143.ts
-#EXTINF:-1,ATV_AZERBEYCAN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4144.ts
-#EXTINF:-1,ANIMAL_PLANET
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4145.ts
-#EXTINF:-1,AKIT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4146.ts
-#EXTINF:-1,A_SPOR_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4141.ts
-#EXTINF:-1,A_HABER_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4142.ts
-#EXTINF:-1,360_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4147.ts
-#EXTINF:-1,#=======SKY_GERMANY=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2334.ts
-#EXTINF:-1,ZDF
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3813.ts
-#EXTINF:-1,WDR
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3814.ts
-#EXTINF:-1,VOX
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3815.ts
-#EXTINF:-1,TNT_Film_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3816.ts
-#EXTINF:-1,Syfy_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3817.ts
-#EXTINF:-1,SUPER-RTL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3818.ts
-#EXTINF:-1,Sportdigital_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3820.ts
-#EXTINF:-1,Sport_1__HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3819.ts
-#EXTINF:-1,Sony_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3821.ts
-#EXTINF:-1,Sky.Discovery.Channel.HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3839.ts
-#EXTINF:-1,Sky_Sports_News_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3825.ts
-#EXTINF:-1,Sky_Sport_Austria_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3822.ts
-#EXTINF:-1,Sky_Sport_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3823.ts
-#EXTINF:-1,Sky_Sport_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3824.ts
-#EXTINF:-1,Sky_Krimi
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3826.ts
-#EXTINF:-1,Sky_Hits_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3827.ts
-#EXTINF:-1,Sky_Hits
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3828.ts
-#EXTINF:-1,Sky_Germany_Cinema__1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3829.ts
-#EXTINF:-1,SKY_EMOTION
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3830.ts
-#EXTINF:-1,Sky_Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3831.ts
-#EXTINF:-1,sky_cinema_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3833.ts
-#EXTINF:-1,Sky_Cinema__24_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3832.ts
-#EXTINF:-1,Sky_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3834.ts
-#EXTINF:-1,Sky_Bundesliga_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3835.ts
-#EXTINF:-1,Sky_Atlantic_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3836.ts
-#EXTINF:-1,Sky_Action_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3837.ts
-#EXTINF:-1,Sky_13_Street_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3838.ts
-#EXTINF:-1,SAT_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3840.ts
-#EXTINF:-1,RTL2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3842.ts
-#EXTINF:-1,RTL_Nitro
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3841.ts
-#EXTINF:-1,RTL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3843.ts
-#EXTINF:-1,PRO7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3844.ts
-#EXTINF:-1,Phoenix
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3845.ts
-#EXTINF:-1,ORF_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3846.ts
-#EXTINF:-1,ORF_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3847.ts
-#EXTINF:-1,NTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3848.ts
-#EXTINF:-1,N24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3849.ts
-#EXTINF:-1,Kika_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3850.ts
-#EXTINF:-1,KABEL-1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3851.ts
-#EXTINF:-1,FOX_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3852.ts
-#EXTINF:-1,FOX
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3853.ts
-#EXTINF:-1,Eurosport
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3854.ts
-#EXTINF:-1,Dmax
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3855.ts
-#EXTINF:-1,Disney_Channel
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3856.ts
-#EXTINF:-1,DISCOVERY
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3857.ts
-#EXTINF:-1,BOOMERANG
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3858.ts
-#EXTINF:-1,AXN_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3859.ts
-#EXTINF:-1,ARTE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3860.ts
-#EXTINF:-1,ARD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3861.ts
-#EXTINF:-1,Sony_Movies
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4011.ts
-#EXTINF:-1,Sky-Movies-Showcase
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4058.ts
-#EXTINF:-1,Sky-Movies-Select
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4059.ts
-#EXTINF:-1,Sky-Movies-Family
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4060.ts
-#EXTINF:-1,Sky-Movies-Disney.
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4061.ts
-#EXTINF:-1,Sky-Movies-Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4062.ts
-#EXTINF:-1,Sky-Movies-Action
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4063.ts
-#EXTINF:-1,Sky-Movies_-Premiere
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4064.ts
-#EXTINF:-1,SKY_SPORTS_NEWS_HQ
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4012.ts
-#EXTINF:-1,sky_sports_news_hd
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4013.ts
-#EXTINF:-1,Sky_Sports_F1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4014.ts
-#EXTINF:-1,Sky_Sports_4_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4015.ts
-#EXTINF:-1,Sky_Sports_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4016.ts
-#EXTINF:-1,Sky_Sports_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4017.ts
-#EXTINF:-1,SKY_SPORTS_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4018.ts
-#EXTINF:-1,SKY_ONE_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4019.ts
-#EXTINF:-1,SKY_MOVIES_THRILLER_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4020.ts
-#EXTINF:-1,SKY_MOVIES_SHOWCASE_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4021.ts
-#EXTINF:-1,Sky_Movies_Show_Case
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4022.ts
-#EXTINF:-1,SKY_MOVIES_SCIFI_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4023.ts
-#EXTINF:-1,SKY_MOVIES_MODERN_GREAT_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4024.ts
-#EXTINF:-1,SKY_MOVIES_FAMILY_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4025.ts
-#EXTINF:-1,Sky_Movies_Drama_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4026.ts
-#EXTINF:-1,SKY_MOVIES_DISNEY_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4027.ts
-#EXTINF:-1,Sky_Movies_Comedy_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4028.ts
-#EXTINF:-1,Setanta_Sports
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4029.ts
-#EXTINF:-1,Premiere_Sport_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4030.ts
-#EXTINF:-1,National_Geography_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4031.ts
-#EXTINF:-1,National_Geo_WILD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4032.ts
-#EXTINF:-1,NATIONAL_GEO
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4033.ts
-#EXTINF:-1,MU_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4034.ts
-#EXTINF:-1,LONDON_LIFE
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4035.ts
-#EXTINF:-1,LIVERPOOL_FC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4036.ts
-#EXTINF:-1,Sky-movies-Thriller
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4057.ts
-#EXTINF:-1,ITV_4_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4037.ts
-#EXTINF:-1,ITV_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4038.ts
-#EXTINF:-1,ITV_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4039.ts
-#EXTINF:-1,ITV_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4040.ts
-#EXTINF:-1,Eurosport_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4041.ts
-#EXTINF:-1,ESPN_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4042.ts
-#EXTINF:-1,Disney_Chaneel_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4043.ts
-#EXTINF:-1,CHELSEA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4044.ts
-#EXTINF:-1,Chelsea_FC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4045.ts
-#EXTINF:-1,BT_Sport_Extra
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4046.ts
-#EXTINF:-1,BT_SPORT_EUROPE_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4047.ts
-#EXTINF:-1,BT_Sport_ESPN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4048.ts
-#EXTINF:-1,BT_Sport_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4049.ts
-#EXTINF:-1,BT_SPORT_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4050.ts
-#EXTINF:-1,Box_Nation__HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4051.ts
-#EXTINF:-1,Box_Nation
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4056.ts
-#EXTINF:-1,BBC_News
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4052.ts
-#EXTINF:-1,BBC_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4053.ts
-#EXTINF:-1,BBC_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4054.ts
-#EXTINF:-1,BBC_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/4055.ts
-#EXTINF:-1,#=======USA_CHANNEL=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3592.ts
-#EXTINF:-1,TSN_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3579.ts
-#EXTINF:-1,TSN_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3577.ts
-#EXTINF:-1,TSN_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3576.ts
-#EXTINF:-1,TSN_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3575.ts
-#EXTINF:-1,TNT
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3574.ts
-#EXTINF:-1,TBS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3587.ts
-#EXTINF:-1,Starz_Encore
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3585.ts
-#EXTINF:-1,Starz_Cinema
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3586.ts
-#EXTINF:-1,Sport1_US
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3583.ts
-#EXTINF:-1,Space
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3591.ts
-#EXTINF:-1,Poker_Central
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3588.ts
-#EXTINF:-1,PAG
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3582.ts
-#EXTINF:-1,NFL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3581.ts
-#EXTINF:-1,NBA_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3572.ts
-#EXTINF:-1,Hallmark
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3589.ts
-#EXTINF:-1,Golf
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3590.ts
-#EXTINF:-1,FOX_Sports_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3571.ts
-#EXTINF:-1,Fox_Sports_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3570.ts
-#EXTINF:-1,ESPN_USA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3569.ts
-#EXTINF:-1,CNN
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3568.ts
-#EXTINF:-1,CNBC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3567.ts
-#EXTINF:-1,Bloomberg
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3566.ts
-#EXTINF:-1,Bein_USA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3565.ts
-#EXTINF:-1,Animal_Planet
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3564.ts
-#EXTINF:-1,AMC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3563.ts
-#EXTINF:-1,ABC_News
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3562.ts
-#EXTINF:-1,#=======INDIA=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3599.ts
-#EXTINF:-1,ZeeAction
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3530.ts
-#EXTINF:-1,ZeeTamil
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3558.ts
-#EXTINF:-1,ZeeStudio
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3529.ts
-#EXTINF:-1,ZeeSmile
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3559.ts
-#EXTINF:-1,ZeePunjabi
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3557.ts
-#EXTINF:-1,ZeeClassic
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3560.ts
-#EXTINF:-1,ZeeBangla
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3531.ts
-#EXTINF:-1,TV9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3532.ts
-#EXTINF:-1,TenCricket
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3534.ts
-#EXTINF:-1,TenAction
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3536.ts
-#EXTINF:-1,SunTVUS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3537.ts
-#EXTINF:-1,SunTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3535.ts
-#EXTINF:-1,SunMusic
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3538.ts
-#EXTINF:-1,StarSports4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3539.ts
-#EXTINF:-1,StarSports3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3540.ts
-#EXTINF:-1,StarSports1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3541.ts
-#EXTINF:-1,StarMovies
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3542.ts
-#EXTINF:-1,StarJalsha
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3544.ts
-#EXTINF:-1,SonySab
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3555.ts
-#EXTINF:-1,SonyMax2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3545.ts
-#EXTINF:-1,SonyMax
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3543.ts
-#EXTINF:-1,Sony
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3556.ts
-#EXTINF:-1,SanthoraTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3561.ts
-#EXTINF:-1,MTunes
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3549.ts
-#EXTINF:-1,MaaTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3546.ts
-#EXTINF:-1,MaaMusic
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3547.ts
-#EXTINF:-1,MaaGold
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3548.ts
-#EXTINF:-1,JayaTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3550.ts
-#EXTINF:-1,JayaPlus
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3553.ts
-#EXTINF:-1,JayaMovies
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3552.ts
-#EXTINF:-1,JayaMaxUSA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3551.ts
-#EXTINF:-1,Colors
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3554.ts
-#EXTINF:-1,#=======OSN_ARABIA=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2331.ts
-#EXTINF:-1,OSN_Movies_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/619.ts
-#EXTINF:-1,OSN_Movies_Action_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/620.ts
-#EXTINF:-1,OSN_MOVIES_DRAMA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/915.ts
-#EXTINF:-1,OSN_Movies_Premiere_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/618.ts
-#EXTINF:-1,OSN_FIRST_COMEDY-HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/622.ts
-#EXTINF:-1,OSN_MOVIE_FAMILY-HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/913.ts
-#EXTINF:-1,OSN_Movie_kids_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/912.ts
-#EXTINF:-1,OSN_Yahala_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/616.ts
-#EXTINF:-1,OSN_Yahala_Shabab
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/611.ts
-#EXTINF:-1,OSN_Yahala_Drama_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/617.ts
-#EXTINF:-1,OSN_Al_youm
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/625.ts
-#EXTINF:-1,osn_safwa
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3384.ts
-#EXTINF:-1,OSN_ANIMAL_PLANET
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/916.ts
-#EXTINF:-1,OSN_Movies_Premiere_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3966.ts
-#EXTINF:-1,OSN_Movies_Festival
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3967.ts
-#EXTINF:-1,OSN_Movies_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3968.ts
-#EXTINF:-1,OSN_Movies_Comedy
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3969.ts
-#EXTINF:-1,OSN_MBC_Plus_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3970.ts
-#EXTINF:-1,OSN_MBC_Drama
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3971.ts
-#EXTINF:-1,OSN_Discovery_Science
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3972.ts
-#EXTINF:-1,OSN_Discovery_I.D
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3973.ts
-#EXTINF:-1,OSN_Animal_Planet
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3974.ts
-#EXTINF:-1,OSN_Action_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3975.ts
-#EXTINF:-1,Cinema1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/922.ts
-#EXTINF:-1,Cinema2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/921.ts
-#EXTINF:-1,Cinema3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/920.ts
-#EXTINF:-1,Cinema4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/919.ts
-#EXTINF:-1,Cinema5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/918.ts
-#EXTINF:-1,Cinema6
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/917.ts
-#EXTINF:-1,Cinema7
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3373.ts
-#EXTINF:-1,Cinema8
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3374.ts
-#EXTINF:-1,Cinema9
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3375.ts
-#EXTINF:-1,Cinema10
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3376.ts
-#EXTINF:-1,BeinHD_Movies1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/609.ts
-#EXTINF:-1,BeinHD_Movies2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/610.ts
-#EXTINF:-1,BeinHD_Movies3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3308.ts
-#EXTINF:-1,BeinHD_Movies4
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3335.ts
-#EXTINF:-1,OSN_NAT_GEO_WILD_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/914.ts
-#EXTINF:-1,OSN_Cinema_1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/624.ts
-#EXTINF:-1,OSN_Cinema_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/623.ts
-#EXTINF:-1,OSN_Movies_Action_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/621.ts
-#EXTINF:-1,OSN_Movies_Box_Office_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/613.ts
-#EXTINF:-1,OSN_Movies_Box_Office_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/612.ts
-#EXTINF:-1,OSN_Movies_Box_Office_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/615.ts
-#EXTINF:-1,#=======PORTUGS=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3598.ts
-#EXTINF:-1,TVI_24
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3143.ts
-#EXTINF:-1,TVI
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3140.ts
-#EXTINF:-1,TVCine_4_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3149.ts
-#EXTINF:-1,TVCine_3_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3150.ts
-#EXTINF:-1,TVCine_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3151.ts
-#EXTINF:-1,TVCine_1_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3152.ts
-#EXTINF:-1,TV_Globo
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3171.ts
-#EXTINF:-1,SportTV_5
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3164.ts
-#EXTINF:-1,SportTV_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3166.ts
-#EXTINF:-1,SportTV_2_HD/SD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3167.ts
-#EXTINF:-1,SportTV_1_HD/SD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3168.ts
-#EXTINF:-1,SIC_Noticias
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3141.ts
-#EXTINF:-1,SIC
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3139.ts
-#EXTINF:-1,RTP_Memoria
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3146.ts
-#EXTINF:-1,RTP_Madeira
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3147.ts
-#EXTINF:-1,RTP_África
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3172.ts
-#EXTINF:-1,RTP_Acores
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3148.ts
-#EXTINF:-1,RTP_3
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3142.ts
-#EXTINF:-1,RTP_2
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3138.ts
-#EXTINF:-1,RTP_1_SD/HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3137.ts
-#EXTINF:-1,HollyWood_SD/HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3158.ts
-#EXTINF:-1,GLOBO_PORTUGAL
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3169.ts
-#EXTINF:-1,FOX_Movies
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3153.ts
-#EXTINF:-1,Fox_Life_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3154.ts
-#EXTINF:-1,Fox_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3155.ts
-#EXTINF:-1,CMTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3144.ts
-#EXTINF:-1,CineMundo
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3157.ts
-#EXTINF:-1,CBS_Reality
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3145.ts
-#EXTINF:-1,CAÇAVISION_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3170.ts
-#EXTINF:-1,Benfica_TV_2_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3162.ts
-#EXTINF:-1,Benfica_TV_1_Full_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3163.ts
-#EXTINF:-1,AXN_WHITE_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3160.ts
-#EXTINF:-1,AXN_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3159.ts
-#EXTINF:-1,#=======AFRIQUA=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3597.ts
-#EXTINF:-1,AFR-2STV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3276.ts
-#EXTINF:-1,AFR-Weo_HD
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3277.ts
-#EXTINF:-1,AFR-vicatv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3278.ts
-#EXTINF:-1,AFR-TVC_NEWS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3279.ts
-#EXTINF:-1,AFR-TV_CONTINENTAL_NIGERIA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3280.ts
-#EXTINF:-1,AFR-teleprogreso
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3281.ts
-#EXTINF:-1,AFR-teleceiba
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3283.ts
-#EXTINF:-1,AFR-TELEBASICA
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3284.ts
-#EXTINF:-1,AFR-RADIO_MONTE_CARLO_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3285.ts
-#EXTINF:-1,AFR-RADIO_Corcas.com
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3286.ts
-#EXTINF:-1,AFR-imedi
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3290.ts
-#EXTINF:-1,AFR-hctvgermany
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3292.ts
-#EXTINF:-1,AFR-hchtv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3293.ts
-#EXTINF:-1,AFR-GONG
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3295.ts
-#EXTINF:-1,AFR-globotv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3296.ts
-#EXTINF:-1,AFR-fashionone
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3297.ts
-#EXTINF:-1,AFR-Euronews
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3298.ts
-#EXTINF:-1,AFR-Enorme_TV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3299.ts
-#EXTINF:-1,AFR-Assemble_Nationale
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3301.ts
-#EXTINF:-1,AFR-ADTV
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3304.ts
-#EXTINF:-1,AFR-1tv
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3305.ts
-#EXTINF:-1,AFR-1_CORCAS
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3306.ts
-#EXTINF:-1,AFR-1
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3307.ts
-#EXTINF:-1,#=======CINEMA_FR=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2343.ts
-#EXTINF:-1,Lego.scooby.doo.haunted
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3526.mp4
-#EXTINF:-1,Before.We.Go
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3525.mp4
-#EXTINF:-1,Point.break
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3524.mp4
-#EXTINF:-1,Precious.Cargo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3457.mp4
-#EXTINF:-1,Deadpool
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3396.mp4
-#EXTINF:-1,The.Forest
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3385.mp4
-#EXTINF:-1,Les_Dossiers_Secrets_du_Vatican
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3366.mp4
-#EXTINF:-1,The.Revenant
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3351.mp4
-#EXTINF:-1,Docteur_Frankenstein
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3187.mp4
-#EXTINF:-1,Carte_des_étoiles
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3177.mp4
-#EXTINF:-1,Lolo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3176.mp4
-#EXTINF:-1,Star.Wars.Episode.VII.The.Force.Awakens
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3173.mp4
-#EXTINF:-1,The.Hunger.Games.Mockingjay
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3135.mp4
-#EXTINF:-1,Spotlight
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3134.mp4
-#EXTINF:-1,Legend
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3133.mp4
-#EXTINF:-1,Trumbo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3132.mp4
-#EXTINF:-1,The_Big_Short
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3131.mp4
-#EXTINF:-1,Diablo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3130.mp4
-#EXTINF:-1,The_33
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3128.mp4
-#EXTINF:-1,Supilinna_Salaselts
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3129.mp4
-#EXTINF:-1,In_the_Heart_of_the_Sea
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3125.mp4
-#EXTINF:-1,Dragon_Blade
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3126.mp4
-#EXTINF:-1,A_Walk_in_the_Woods
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3127.mp4
-#EXTINF:-1,Suburra
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2994.mp4
-#EXTINF:-1,Secret_in_Their_Eyes
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2995.mp4
-#EXTINF:-1,Extraction
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2996.mp4
-#EXTINF:-1,Creed
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2997.mp4
-#EXTINF:-1,Southpaw
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2988.mp4
-#EXTINF:-1,Rabid.Dogs
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2987.mp4
-#EXTINF:-1,Momentum
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2986.mp4
-#EXTINF:-1,Marguerite
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2985.mp4
-#EXTINF:-1,Man.Up
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2984.mp4
-#EXTINF:-1,Love-the-Coopers
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2983.mp4
-#EXTINF:-1,Les_nouvelles_aventures_d'Aladin
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2989.mp4
-#EXTINF:-1,Jurassic.World
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2982.mp4
-#EXTINF:-1,JeruZalem
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2724.mp4
-#EXTINF:-1,Truth
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2721.mp4
-#EXTINF:-1,Steve.Jobs.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2722.mp4
-#EXTINF:-1,rock.the.kasbah
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2723.mp4
-#EXTINF:-1,Hyena.Road.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2725.mp4
-#EXTINF:-1,These.Final.Hours.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2720.mp4
-#EXTINF:-1,The.Last.Witch.Hunter.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2709.mp4
-#EXTINF:-1,Sicario
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2710.mp4
-#EXTINF:-1,Spectre
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2682.mp4
-#EXTINF:-1,The.Martian
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2683.mp4
-#EXTINF:-1,Solace
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2681.mp4
-#EXTINF:-1,Our.Brand.Is.Crisis
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2680.mp4
-#EXTINF:-1,Goosebumps
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2679.mp4
-#EXTINF:-1,Dragon.Blade
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2678.mp4
-#EXTINF:-1,Bridge.of.Spies
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2677.mp4
-#EXTINF:-1,Black.Mass
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2676.mp4
-#EXTINF:-1,Burnt
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2675.mp4
-#EXTINF:-1,Mission_Impossible_5_:_Rogue_Nation
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/1150.mp4
-#EXTINF:-1,Terminator_Genisys
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2230.mp4
-#EXTINF:-1,Avengers:_Age_of_Ultron
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2233.mp4
-#EXTINF:-1,Hitman:_Agent_47
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2221.mp4
-#EXTINF:-1,CHILD44
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2466.mp4
-#EXTINF:-1,400_Days
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2218.mp4
-#EXTINF:-1,MI_5
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2224.mp4
-#EXTINF:-1,No_Escape
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2226.mp4
-#EXTINF:-1,Visions
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2234.mp4
-#EXTINF:-1,Tremors_5:_Bloodline
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2232.mp4
-#EXTINF:-1,The_Transporter_Refueled
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2231.mp4
-#EXTINF:-1,Ted_2
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2229.mp4
-#EXTINF:-1,Tale_of_tales
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2228.mp4
-#EXTINF:-1,Welcome_to_New_York
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2479.mp4
-#EXTINF:-1,The_Flowers_of_War
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2478.mp4
-#EXTINF:-1,Strangerland
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2463.mp4
-#EXTINF:-1,Saphirblau
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2477.mp4
-#EXTINF:-1,Monsters:_Dark_Continent
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2476.mp4
-#EXTINF:-1,Pay_The_Ghost
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2227.mp4
-#EXTINF:-1,Ex_Machina
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2469.mp4
-#EXTINF:-1,Dark_Places
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2468.mp4
-#EXTINF:-1,Cloud_Atlas
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2467.mp4
-#EXTINF:-1,Narcopolis
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2225.mp4
-#EXTINF:-1,Maze_Runner:_The_Scorch_Trials
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2223.mp4
-#EXTINF:-1,The_Measure_of_a_Man
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2457.mp4
-#EXTINF:-1,The_Man_from_U.N.C.L.E.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2456.mp4
-#EXTINF:-1,Poltergeist
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2455.mp4
-#EXTINF:-1,Erased
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2298.mp4
-#EXTINF:-1,Amnesiac
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2297.mp4
-#EXTINF:-1,Infini
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2222.mp4
-#EXTINF:-1,Ant_Man
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2220.mp4
-#EXTINF:-1,Air
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2219.mp4
-#EXTINF:-1,Maggie
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/1214.mp4
-#EXTINF:-1,#=======CINEMA_EN=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/2344.ts
-#EXTINF:-1,The_Diary_of_a_Teenage_Girl
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2919.mp4
-#EXTINF:-1,The_Peanuts_Movie
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2918.mp4
-#EXTINF:-1,The_Longest_Ride
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2917.mp4
-#EXTINF:-1,Our.Brand.Is.Crisis.en
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2714.mp4
-#EXTINF:-1,MI-5
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2713.mp4
-#EXTINF:-1,Maze.Runner.The.Scorch.Trials
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2715.mp4
-#EXTINF:-1,Everest.en
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2716.mp4
-#EXTINF:-1,Sicario.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2711.mp4
-#EXTINF:-1,The.Last.Witch.Hunter
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2708.mp4
-#EXTINF:-1,Mad_Max:_Fury_Road_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2245.mp4
-#EXTINF:-1,Ex_Machina_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2238.mp4
-#EXTINF:-1,Last_Knights_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2244.mp4
-#EXTINF:-1,Insurgent_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2243.mp4
-#EXTINF:-1,Home_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2242.mp4
-#EXTINF:-1,Get_Hard_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2241.mp4
-#EXTINF:-1,Focus_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2240.mp4
-#EXTINF:-1,Fast_and_Furious_7_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2239.mp4
-#EXTINF:-1,Danny_Collins_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2237.mp4
-#EXTINF:-1,Cinderella_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2236.mp4
-#EXTINF:-1,Chappie_vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2235.mp4
-#EXTINF:-1,Survivor-vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2464.mp4
-#EXTINF:-1,Slow-West-vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2462.mp4
-#EXTINF:-1,Shaun_the_Sheep_Movie-vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2461.mp4
-#EXTINF:-1,Run_All_Night-vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2460.mp4
-#EXTINF:-1,Pound_of_Flesh-vo
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2459.mp4
-#EXTINF:-1,#=======CINEMA_SP=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3381.ts
-#EXTINF:-1,truman.sp
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2993.mp4
-#EXTINF:-1,the_walk
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2992.mp4
-#EXTINF:-1,Saat.po.long.2
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2991.mp4
-#EXTINF:-1,Los.arboles.mueren.de.pie
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2990.mp4
-#EXTINF:-1,Criminal.Activities.sp
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2718.mp4
-#EXTINF:-1,Bridge.of.spies.sp
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2719.mp4
-#EXTINF:-1,Segon.origen.sp
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2717.mp4
-#EXTINF:-1,Hitman.Agente.47.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2706.mp4
-#EXTINF:-1,Pay.the.Ghost
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2707.mp4
-#EXTINF:-1,Spectre.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2703.mp4
-#EXTINF:-1,Black.Mass.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2705.mp4
-#EXTINF:-1,Everest
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2701.mp4
-#EXTINF:-1,Avengers.Age.Of.Ultron
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2700.mp4
-#EXTINF:-1,martian.land
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2702.mp4
-#EXTINF:-1,#=======CINEMA_DE=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3923.ts
-#EXTINF:-1,Amy
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2921.mp4
-#EXTINF:-1,Woman_in_Gold.
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2920.mp4
-#EXTINF:-1,#=======CINEMA_AR=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3379.ts
-#EXTINF:-1,Man_yotfe2_alNar
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3372.mp4
-#EXTINF:-1,3arous_el_ba7r
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3371.mp4
-#EXTINF:-1,Samak_Bala_Hasak
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3370.mp4
-#EXTINF:-1,Angham
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3369.mp4
-#EXTINF:-1,ana_wel_athab
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3368.mp4
-#EXTINF:-1,Paparazzi
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3124.mp4
-#EXTINF:-1,Sarkhat_Namla
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3123.mp4
-#EXTINF:-1,El_HAFLA
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3121.mp4
-#EXTINF:-1,The_Blue_Elephant
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3122.mp4
-#EXTINF:-1,Sokar_Mor
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3010.mp4
-#EXTINF:-1,hadeed
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3015.mp4
-#EXTINF:-1,Hamati_Bithibini
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3014.mp4
-#EXTINF:-1,jomhoriyat_imbaba
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3008.mp4
-#EXTINF:-1,alnabatshy
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3013.mp4
-#EXTINF:-1,Aswar_El_Amar
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3009.mp4
-#EXTINF:-1,Nazareyet_Amity
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3011.mp4
-#EXTINF:-1,fazzaa
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3012.mp4
-#EXTINF:-1,Allembi
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3005.mp4
-#EXTINF:-1,al_jil_al_rabia
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3002.mp4
-#EXTINF:-1,Dastet_Ashrar
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3007.mp4
-#EXTINF:-1,EL.5alboos
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3004.mp4
-#EXTINF:-1,Welad_Rizk
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3003.mp4
-#EXTINF:-1,Ahwak
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3006.mp4
-#EXTINF:-1,Shadd_Agzaa
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2998.mp4
-#EXTINF:-1,Hayaty.Mebahdela
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3001.mp4
-#EXTINF:-1,7ara.Maznoqah
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3000.mp4
-#EXTINF:-1,3eyal.7arefa
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/2999.mp4
-#EXTINF:-1,#=======CINEMA_IT=======#
-http://service1.astrovida.tv:8000/live/CuATXmiyBkq/wsSJS4qQjAQ/3380.ts
-#EXTINF:-1,Agente_007_Skyfall
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3708.mp4
-#EXTINF:-1,Agente_007_Quantum_of_Solace
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3707.mp4
-#EXTINF:-1,Agente_007_Casino_Royale
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3706.mp4
-#EXTINF:-1,VOD-1
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3696.mp4
-#EXTINF:-1,VOD-2
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3697.mp4
-#EXTINF:-1,VOD-3
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3698.mp4
-#EXTINF:-1,VOD-4
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3699.mp4
-#EXTINF:-1,VOD-5
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3700.mp4
-#EXTINF:-1,VOD-6
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3701.mp4
-#EXTINF:-1,VOD-7
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3702.mp4
-#EXTINF:-1,VOD-8
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3703.mp4
-#EXTINF:-1,VOD-9
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3704.mp4
-#EXTINF:-1,VOD-10
-http://service1.astrovida.tv:8000/movie/CuATXmiyBkq/wsSJS4qQjAQ/3705.mp4
+#EXTINF:-1,ARABIC Wilad Albalad
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/217.mkv
+#EXTINF:-1,ARABIC Welcome To Lebanon 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/216.mkv
+#EXTINF:-1,ARABIC Warda
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/215.mkv
+#EXTINF:-1,ARABIC Triple Burglary 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/214.mkv
+#EXTINF:-1,ARABIC Toufahat Hawwa
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/213.mkv
+#EXTINF:-1,ARABIC TITO
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/212.mkv
+#EXTINF:-1,ARABIC Shi Yom R7 Fill
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/211.mkv
+#EXTINF:-1,ARABIC Shemal Ea Donea
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/210.mkv
+#EXTINF:-1,ARABIC SHARE3 18
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/209.mkv
+#EXTINF:-1,ARABIC SABOOBA
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/208.mkv
+#EXTINF:-1,ARABIC Pupils Weapon 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/207.mkv
+#EXTINF:-1,ARABIC Party F 7arty
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/206.mkv
+#EXTINF:-1,ARABIC OKAL
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/205.mkv
+#EXTINF:-1,ARABIC Nine
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/204.mkv
+#EXTINF:-1,ARABIC Nems Boond
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/203.mkv
+#EXTINF:-1,ARABIC Mice Room
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/202.mkv
+#EXTINF:-1,ARABIC Majid
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/201.mkv
+#EXTINF:-1,ARABIC Mafia
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/200.mkv
+#EXTINF:-1,ARABIC M7taram Ala rob3
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/199.mkv
+#EXTINF:-1,ARABIC Kimo W Antimo
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/198.mkv
+#EXTINF:-1,ARABIC Inferno In India 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/197.mkv
+#EXTINF:-1,ARABIC Ibraheem Alabead
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/196.mkv
+#EXTINF:-1,ARABIC Hatloy Ragel
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/195.mkv
+#EXTINF:-1,ARABIC Hasalena Kheer
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/194.mkv
+#EXTINF:-1,ARABIC HALAWET ROO7
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/193.mkv
+#EXTINF:-1,ARABIC Habbet Lolo
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/192.mkv
+#EXTINF:-1,ARABIC Ghesh Elzawgya
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/191.mkv
+#EXTINF:-1,ARABIC Gawaza Meri
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/190.mkv
+#EXTINF:-1,ARABIC From A To B
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/189.mkv
+#EXTINF:-1,ARABIC Fe Shakt Masr ElGedida 2007
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/188.mkv
+#EXTINF:-1,ARABIC Elbar
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/183.mkv
+#EXTINF:-1,ARABIC El Sheta Ely Fat 2012
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/187.mkv
+#EXTINF:-1,ARABIC El Shabh 2007
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/186.mkv
+#EXTINF:-1,ARABIC El Princesa 2013
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/185.mkv
+#EXTINF:-1,ARABIC El Maslaha 2012
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/184.mkv
+#EXTINF:-1,ARABIC BOOHA
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/182.mkv
+#EXTINF:-1,ARABIC Before Spring 2013 ARABIC
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/112.mkv
+#EXTINF:-1,ARABIC Azbet Abo Hashesh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/111.mkv
+#EXTINF:-1,ARABIC Asfouri
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/110.mkv
+#EXTINF:-1,ARABIC Allimbe
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/109.mkv
+#EXTINF:-1,ARABIC Abu Shanab 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/101.mkv
+#EXTINF:-1,ARABIC 30 Years Ago 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/95.mkv
+#EXTINF:-1,INDIAN-AR-SUB Yevadu
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/248.mkv
+#EXTINF:-1,INDIAN-AR-SUB Vaaimai
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/247.mkv
+#EXTINF:-1,INDIAN-AR-SUB Uchathula Shiva
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/245.mkv
+#EXTINF:-1,INDIAN-AR-SUB U Turn
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/246.mkv
+#EXTINF:-1,INDIAN-AR-SUB Tutak Tutak Tutiya
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/244.mkv
+#EXTINF:-1,INDIAN-AR-SUB Thodari
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/243.mkv
+#EXTINF:-1,INDIAN-AR-SUB The Lunchbox
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/242.mkv
+#EXTINF:-1,INDIAN-AR-SUB Tanu Weds Manu
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/241.mkv
+#EXTINF:-1,INDIAN-AR-SUB Shivaay
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/240.mkv
+#EXTINF:-1,INDIAN-AR-SUB Saheb Bibi Golam
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/239.mkv
+#EXTINF:-1,INDIAN-AR-SUB Rustom
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/238.mkv
+#EXTINF:-1,INDIAN-AR-SUB Rekka
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/237.mkv
+#EXTINF:-1,INDIAN-AR-SUB Pink
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/236.mkv
+#EXTINF:-1,INDIAN-AR-SUB Nenu Sailaja
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/235.mkv
+#EXTINF:-1,INDIAN-AR-SUB Nayagi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/234.mkv
+#EXTINF:-1,INDIAN-AR-SUB Mohenjo Daro
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/233.mkv
+#EXTINF:-1,INDIAN-AR-SUB Mirzya
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/232.mkv
+#EXTINF:-1,INDIAN-AR-SUB Khawto
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/231.mkv
+#EXTINF:-1,INDIAN-AR-SUB Kallattam
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/230.mkv
+#EXTINF:-1,INDIAN-AR-SUB Kadalai
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/229.mkv
+#EXTINF:-1,INDIAN-AR-SUB Jigarthanda
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/228.mkv
+#EXTINF:-1,INDIAN-AR-SUB Janatha Garage
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/227.mkv
+#EXTINF:-1,INDIAN-AR-SUB Iru Mugan
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/226.mkv
+#EXTINF:-1,INDIAN-AR-SUB Happy Bhaag Jayegi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/225.mkv
+#EXTINF:-1,INDIAN-AR-SUB Haider
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/224.mkv
+#EXTINF:-1,INDIAN-AR-SUB Global Baba
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/223.mkv
+#EXTINF:-1,INDIAN-AR-SUB Gajakesari
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/222.mkv
+#EXTINF:-1,INDIAN-AR-SUB Fever
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/221.mkv
+#EXTINF:-1,INDIAN-AR-SUB Faraar Punjabi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/220.mkv
+#EXTINF:-1,INDIAN-AR-SUB Devi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/219.mkv
+#EXTINF:-1,INDIAN AR SUB Warrior Savitri
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/174.mkv
+#EXTINF:-1,INDIAN AR SUB TumBin 2
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/173.mkv
+#EXTINF:-1,INDIAN AR SUB Ranbanka
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/172.mkv
+#EXTINF:-1,INDIAN AR SUB M S Dhoni
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/171.mkv
+#EXTINF:-1,INDIAN AR SUB Ishq Click
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/170.mkv
+#EXTINF:-1,INDIAN AR SUB Force 2
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/169.mkv
+#EXTINF:-1,INDIAN AR SUB Dark Chocolate
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/168.mkv
+#EXTINF:-1,INDIAN AR SUB Chalk N Duster
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/167.mkv
+#EXTINF:-1,INDIAN AR SUB Boss
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/181.mkv
+#EXTINF:-1,INDIAN AR SUB Beiimaan Love
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/180.mkv
+#EXTINF:-1,INDIAN AR SUB Bang Bang
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/179.mkv
+#EXTINF:-1,INDIAN AR SUB Bahubali The Beginning
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/178.mkv
+#EXTINF:-1,INDIAN AR SUB Ammani
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/177.mkv
+#EXTINF:-1,INDIAN AR SUB Akira
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/176.mkv
+#EXTINF:-1,INDIAN AR SUB Ae Dil Hai Mushkil
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/175.mkv
+#EXTINF:-1,ENGLISH ZYZYLDC 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/149.mkv
+#EXTINF:-1,ENGLISH Zoombies 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/19.mkv
+#EXTINF:-1,ENGLISH Within 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/148.mkv
+#EXTINF:-1,ENGLISH White Island 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/147.mkv
+#EXTINF:-1,ENGLISH White Girl 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/15.mkv
+#EXTINF:-1,ENGLISH War Dogs 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/146.mkv
+#EXTINF:-1,ENGLISH Vanished Left BNG 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/29.mkv
+#EXTINF:-1,ENGLISH USS Indianapolis Men of Courage 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/145.mkv
+#EXTINF:-1,ENGLISH Under the Shadow 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/144.mkv
+#EXTINF:-1,ENGLISH Tunnel 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/143.mkv
+#EXTINF:-1,ENGLISH Trash Fire 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/142.mkv
+#EXTINF:-1,ENGLISH TMOIA 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/141.mkv
+#EXTINF:-1,ENGLISH Tiger Raid 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/140.mkv
+#EXTINF:-1,ENGLISH The Witching 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/139.mkv
+#EXTINF:-1,ENGLISH The Whole Truth 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/138.mkv
+#EXTINF:-1,ENGLISH The Watcher 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/137.mkv
+#EXTINF:-1,ENGLISH The Wailing 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/136.mkv
+#EXTINF:-1,ENGLISH The Thinning 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/135.mkv
+#EXTINF:-1,ENGLISH The River Thief 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/134.mkv
+#EXTINF:-1,ENGLISH The Remains 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/31.mkv
+#EXTINF:-1,ENGLISH The Red Man 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/133.mkv
+#EXTINF:-1,ENGLISH The Perfect Weapon 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/132.mkv
+#EXTINF:-1,ENGLISH The Neighbor 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/32.mkv
+#EXTINF:-1,ENGLISH The Monster 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/131.mkv
+#EXTINF:-1,ENGLISH The Meddler 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/20.mkv
+#EXTINF:-1,ENGLISH The Magnificent Seven 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/7.mkv
+#EXTINF:-1,ENGLISH The Light Between Oceans 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/6.mkv
+#EXTINF:-1,ENGLISH The Last Film Festival 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/130.mkv
+#EXTINF:-1,ENGLISH The Innocents 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/21.mkv
+#EXTINF:-1,ENGLISH The Infiltrator 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/22.mkv
+#EXTINF:-1,ENGLISH The Hatton Garden Heist 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/129.mkv
+#EXTINF:-1,ENGLISH The Fiance 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/128.mkv
+#EXTINF:-1,ENGLISH The Evil in Us 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/127.mkv
+#EXTINF:-1,ENGLISH The Darkest Dawn 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/126.mkv
+#EXTINF:-1,ENGLISH The Charnel House 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/125.mkv
+#EXTINF:-1,ENGLISH The BFG 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/124.mkv
+#EXTINF:-1,ENGLISH The Accountant 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/14.mkv
+#EXTINF:-1,ENGLISH Terra Formars 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/23.mkv
+#EXTINF:-1,ENGLISH Swing State 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/123.mkv
+#EXTINF:-1,ENGLISH Sully 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/13.mkv
+#EXTINF:-1,ENGLISH Suicide Squad 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/122.mkv
+#EXTINF:-1,ENGLISH Sugar Mountain 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/5.mkv
+#EXTINF:-1,ENGLISH Star Trek Beyond 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/121.mkv
+#EXTINF:-1,ENGLISH Stagecoach The Texas JackStory 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/120.mkv
+#EXTINF:-1,ENGLISH Soul Fray 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/119.mkv
+#EXTINF:-1,ENGLISH Snowden 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/118.mkv
+#EXTINF:-1,ENGLISH Sc 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/117.mkv
+#EXTINF:-1,ENGLISH Rupture 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/116.mkv
+#EXTINF:-1,ENGLISH Run the Tide 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/12.mkv
+#EXTINF:-1,ENGLISH RTROJTP 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/115.mkv
+#EXTINF:-1,ENGLISH Renesse 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/114.mkv
+#EXTINF:-1,ENGLISH Recovery 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/113.mkv
+#EXTINF:-1,ENGLISH Rainbow Time 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/108.mkv
+#EXTINF:-1,ENGLISH Pup Star 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/107.mkv
+#EXTINF:-1,ENGLISH Plan Z 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/106.mkv
+#EXTINF:-1,ENGLISH Petes Dragon 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/105.mkv
+#EXTINF:-1,ENGLISH Pet 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/11.mkv
+#EXTINF:-1,ENGLISH Outlaws and Angels 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/34.mkv
+#EXTINF:-1,ENGLISH Ordinary World 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/104.mkv
+#EXTINF:-1,ENGLISH Operator 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/103.mkv
+#EXTINF:-1,ENGLISH Officer Downe 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/102.mkv
+#EXTINF:-1,ENGLISH Oddball 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/162.mkv
+#EXTINF:-1,ENGLISH Nerve 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/100.mkv
+#EXTINF:-1,ENGLISH My Dead Boyfriend 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/99.mkv
+#EXTINF:-1,ENGLISH My Bakery in Brooklyn 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/24.mkv
+#EXTINF:-1,ENGLISH Mr Pig 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/98.mkv
+#EXTINF:-1,ENGLISH Mr Church 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/97.mkv
+#EXTINF:-1,ENGLISH Morris From America 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/96.mkv
+#EXTINF:-1,ENGLISH Morgan 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/9.mkv
+#EXTINF:-1,ENGLISH Money 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/93.mkv
+#EXTINF:-1,ENGLISH Mississippi Murder 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/92.mkv
+#EXTINF:-1,ENGLISH Mechanic Resurrection 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/91.mkv
+#EXTINF:-1,ENGLISH MasterMinds 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/90.mkv
+#EXTINF:-1,ENGLISH Mascots 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/89.mkv
+#EXTINF:-1,ENGLISH M P Home for P Children 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/10.mkv
+#EXTINF:-1,ENGLISH Loving 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/88.mkv
+#EXTINF:-1,ENGLISH Love Ever lasting 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/87.mkv
+#EXTINF:-1,ENGLISH Looking The Movie 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/86.mkv
+#EXTINF:-1,ENGLISH Little Men 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/85.mkv
+#EXTINF:-1,ENGLISH Line Walker 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/84.mkv
+#EXTINF:-1,ENGLISH Like Crazy 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/25.mkv
+#EXTINF:-1,ENGLISH Lazer Team 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/161.mkv
+#EXTINF:-1,ENGLISH Late Summer 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/83.mkv
+#EXTINF:-1,ENGLISH Krampus Unleashed 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/82.mkv
+#EXTINF:-1,ENGLISH Kickboxer Vengeance 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/81.mkv
+#EXTINF:-1,ENGLISH Jurassic Monster 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/8.mkv
+#EXTINF:-1,ENGLISH Jattilainen 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/26.mkv
+#EXTINF:-1,ENGLISH Jason Bourne 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/80.mkv
+#EXTINF:-1,ENGLISH Jack Goes Home 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/79.mkv
+#EXTINF:-1,ENGLISH Indignation 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/77.mkv
+#EXTINF:-1,ENGLISH Independence Day 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/27.mkv
+#EXTINF:-1,ENGLISH In a Valley of Violence 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/76.mkv
+#EXTINF:-1,ENGLISH Imperium 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/75.mkv
+#EXTINF:-1,ENGLISH I T 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/78.mkv
+#EXTINF:-1,ENGLISH I Am the Pretty 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/74.mkv
+#EXTINF:-1,ENGLISH High Strung 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/73.mkv
+#EXTINF:-1,ENGLISH HHTM 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/72.mkv
+#EXTINF:-1,ENGLISH Hero of the Underworld 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/71.mkv
+#EXTINF:-1,ENGLISH Hands of Stone 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/70.mkv
+#EXTINF:-1,ENGLISH Good Witch Secrets of Grey House 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/69.mkv
+#EXTINF:-1,ENGLISH Goldstone 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/68.mkv
+#EXTINF:-1,ENGLISH Ghostbusters 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/28.mkv
+#EXTINF:-1,ENGLISH Genius 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/67.mkv
+#EXTINF:-1,ENGLISH Frank And Lola 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/4.mkv
+#EXTINF:-1,ENGLISH Feast of the Body 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/66.mkv
+#EXTINF:-1,ENGLISH Fear Inc 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/65.mkv
+#EXTINF:-1,ENGLISH ENGLISH Bad People 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/46.mkv
+#EXTINF:-1,ENGLISH Elle 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/64.mkv
+#EXTINF:-1,ENGLISH Drifter 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/63.mkv
+#EXTINF:-1,ENGLISH Dreamland 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/62.mkv
+#EXTINF:-1,ENGLISH Downhill 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/61.mkv
+#EXTINF:-1,ENGLISH Dont Think Twice 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/60.mkv
+#EXTINF:-1,ENGLISH Dont Breathe 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/59.mkv
+#EXTINF:-1,ENGLISH Dog Eat Dog 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/58.mkv
+#EXTINF:-1,ENGLISH Ditch Day Massacre 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/16.mkv
+#EXTINF:-1,ENGLISH Deadly Inferno 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/57.mkv
+#EXTINF:-1,ENGLISH Dam sharks 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/56.mkv
+#EXTINF:-1,ENGLISH Crooked and Narrow 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/55.mkv
+#EXTINF:-1,ENGLISH Come and Find Me 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/54.mkv
+#EXTINF:-1,ENGLISH Cold War II 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/53.mkv
+#EXTINF:-1,ENGLISH Cardboard Boxer 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/52.mkv
+#EXTINF:-1,ENGLISH Captain Fantastic 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/51.mkv
+#EXTINF:-1,ENGLISH Bus Driver 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/50.mkv
+#EXTINF:-1,ENGLISH Burn Country 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/3.mkv
+#EXTINF:-1,ENGLISH Broken 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/49.mkv
+#EXTINF:-1,ENGLISH Bridget Joness Baby 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/48.mkv
+#EXTINF:-1,ENGLISH Blowtorch 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/47.mkv
+#EXTINF:-1,ENGLISH Blood Father 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/17.mkv
+#EXTINF:-1,ENGLISH Beyond the Gates 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/2.mkv
+#EXTINF:-1,ENGLISH Ben Hur 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/30.mkv
+#EXTINF:-1,ENGLISH Bad Moms 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/45.mkv
+#EXTINF:-1,ENGLISH Autumn Lights 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/150.mkv
+#EXTINF:-1,ENGLISH Auld Lang Syne 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/151.mkv
+#EXTINF:-1,ENGLISH ATBP 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/152.mkv
+#EXTINF:-1,ENGLISH Army of One 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/153.mkv
+#EXTINF:-1,ENGLISH Arcadia 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/154.mkv
+#EXTINF:-1,ENGLISH AOTLZ 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/155.mkv
+#EXTINF:-1,ENGLISH Anthropoid 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/156.mkv
+#EXTINF:-1,ENGLISH American Romance 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/157.mkv
+#EXTINF:-1,ENGLISH Aloys 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/159.mkv
+#EXTINF:-1,ENGLISH All We Had 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/1.mkv
+#EXTINF:-1,ENGLISH All In Time 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/160.mkv
+#EXTINF:-1,ENGLISH Alienween 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/44.mkv
+#EXTINF:-1,ENGLISH alice through the looking glass 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/18.mkv
+#EXTINF:-1,ENGLISH Ali and Nino 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/43.mkv
+#EXTINF:-1,ENGLISH Alcoholist 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/42.mkv
+#EXTINF:-1,ENGLISH Absolutely Fabulous The Movie 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/38.mkv
+#EXTINF:-1,ENGLISH A Miracle On Christmas Lake 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/33.mkv
+#EXTINF:-1,ENGLISH A Meeting of the Minds 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/158.mkv
+#EXTINF:-1,ENGLISH A Doggone Christmas 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/41.mkv
+#EXTINF:-1,ENGLISH A Cinderella Christmas 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/40.mkv
+#EXTINF:-1,ENGLISH A Chinese Odyssey Part Three 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/39.mkv
+#EXTINF:-1,ENGLISH A Better Place 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/37.mkv
+#EXTINF:-1,ENGLISH 100 Streets 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/36.mkv
+#EXTINF:-1,ENGLISH 1 st Strike 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/35.mkv
+#EXTINF:-1,Franch Zulu
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/254.mkv
+#EXTINF:-1,Franch Welcome To New York
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/255.mkv
+#EXTINF:-1,Franch The Witch 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/282.mkv
+#EXTINF:-1,Franch The Sighting
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/256.mkv
+#EXTINF:-1,Franch The maze runner glups
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/257.mkv
+#EXTINF:-1,Franch The Intouchables
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/252.mkv
+#EXTINF:-1,Franch The Finest Hours 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/258.mkv
+#EXTINF:-1,Franch The Duel 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/259.mkv
+#EXTINF:-1,Franch The Brand New Testament
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/251.mkv
+#EXTINF:-1,Franch Survival Game 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/284.mkv
+#EXTINF:-1,Franch Querelles De Clocher
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/281.mkv
+#EXTINF:-1,Franch Project Itoh The Empire Of Corpses 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/260.mkv
+#EXTINF:-1,Franch Mythica A Quest for Heroes 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/261.mkv
+#EXTINF:-1,Franch Most Likely To Die
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/253.mkv
+#EXTINF:-1,Franch Miles Ahead 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/262.mkv
+#EXTINF:-1,Franch Meurtres Sur Le Lac Leman 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/280.mkv
+#EXTINF:-1,Franch Maze Runner The Scorch Trials 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/263.mkv
+#EXTINF:-1,Franch London Has Fallen 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/265.mkv
+#EXTINF:-1,Franch La Pirogue 2012
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/266.mkv
+#EXTINF:-1,Franch La Partition De la mort 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/279.mkv
+#EXTINF:-1,Franch Kill Command 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/278.mkv
+#EXTINF:-1,Franch Heli 2013
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/283.mkv
+#EXTINF:-1,Franch Franch Marseille
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/264.mkv
+#EXTINF:-1,Franch Eye in the Sky 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/267.mkv
+#EXTINF:-1,Franch Dear Eleanor 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/268.mkv
+#EXTINF:-1,Franch Dads-Army 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/269.mkv
+#EXTINF:-1,Franch Comment C Est Loin 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/277.mkv
+#EXTINF:-1,Franch Cirkeln 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/276.mkv
+#EXTINF:-1,Franch Chromeskull Laid To Rest II 2011
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/270.mkv
+#EXTINF:-1,Franch Chocolat 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/275.mkv
+#EXTINF:-1,Franch Captain America Civil War 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/274.mkv
+#EXTINF:-1,Franch Borderline 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/271.mkv
+#EXTINF:-1,Franch Antigang
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/250.mkv
+#EXTINF:-1,Franch 90 Minutes in Heaven 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/273.mkv
+#EXTINF:-1,Franch 16 ans ou presque 2013
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/272.mkv
+#EXTINF:-1,Germany Who Am I 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/288.mp4
+#EXTINF:-1,Germany Welp 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/293.mp4
+#EXTINF:-1,Germany The Foster Boy 2011
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/292.mp4
+#EXTINF:-1,Germany The Dark Valley 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/289.mp4
+#EXTINF:-1,Germany Inherent Vice
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/291.mp4
+#EXTINF:-1,Germany Grown Ups 2010
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/287.mp4
+#EXTINF:-1,Germany Goodnight Mommy 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/218.mp4
+#EXTINF:-1,Germany Fifty Shades of Grey 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/286.mp4
+#EXTINF:-1,Germany Die Welle
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/290.mp4
+#EXTINF:-1,Germany CHAPPIE 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/285.mp4
+#EXTINF:-1,Kids Zootopia 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/368.mp4
+#EXTINF:-1,Kids Wreck It Ralph 2012
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/373.mp4
+#EXTINF:-1,Kids Toy Story 3 2010
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/374.mp4
+#EXTINF:-1,Kids The Peanuts Movie 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/354.mp4
+#EXTINF:-1,Kids The Little Prince 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/385.mp4
+#EXTINF:-1,Kids The Lion King 3 2004
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/363.mp4
+#EXTINF:-1,Kids The Lego Movie (2014)
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/387.mp4
+#EXTINF:-1,Kids The Incredibles 2004
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/379.mp4
+#EXTINF:-1,Kids The Boxtrolls 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/392.mp4
+#EXTINF:-1,Kids Tarzan II 2005
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/340.mkv
+#EXTINF:-1,Kids Tangled 2010
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/375.mp4
+#EXTINF:-1,Kids Superheroes Justice League Gotham City Breakout 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/366.mp4
+#EXTINF:-1,Kids Storks 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/341.mp4
+#EXTINF:-1,Kids Space Dogs Adventure To The Moon 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/343.mp4
+#EXTINF:-1,Kids Snezhnaya Koroleva 2 Perezamorozka 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/355.mp4
+#EXTINF:-1,Kids Shaun the Sheep The Movie 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/390.mp4
+#EXTINF:-1,Kids Scooby Doo And WWE Curse Of The Speed Demon 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/349.mp4
+#EXTINF:-1,Kids Robinson Crusoe 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/362.mp4
+#EXTINF:-1,Kids Quackerz 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/350.mp4
+#EXTINF:-1,Kids Paddington 2014
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/357.mp4
+#EXTINF:-1,Kids Open Season Scared Silly 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/383.mp4
+#EXTINF:-1,Kids Norm Of The North 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/369.mp4
+#EXTINF:-1,Kids Monster High Welcome to Monster High 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/348.mp4
+#EXTINF:-1,Kids Monster High The Great Scarrier Reef 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/351.mp4
+#EXTINF:-1,Kids Monster High Boo York Boo York 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/360.mp4
+#EXTINF:-1,Kids Minions 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/389.mp4
+#EXTINF:-1,Kids Lego Scooby Doo! Haunted Hollywood 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/367.mp4
+#EXTINF:-1,Kids Kung Fu Panda 3 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/371.mp4
+#EXTINF:-1,Kids Kubo and the Two Strings 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/344.mp4
+#EXTINF:-1,Kids Justice League vs Teen Titans 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/370.mp4
+#EXTINF:-1,Kids Insideout Out 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/384.mp4
+#EXTINF:-1,Kids Ice Age Collision Course-2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/347.mp4
+#EXTINF:-1,Kids Hulk Where Monsters Dwell 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/346.mp4
+#EXTINF:-1,Kids Hotel Transylvania 2
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/386.mp4
+#EXTINF:-1,Kids Home 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/391.mp4
+#EXTINF:-1,Kids Hell And Back 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/361.mp4
+#EXTINF:-1,Kids FThe Secret Life Of Pets 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/342.mp4
+#EXTINF:-1,Kids Finding Dory 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/345.mp4
+#EXTINF:-1,Kids Dragon Ball Z Doragon Bôru Z Fukkatsu No F 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/359.mp4
+#EXTINF:-1,Kids Despicable Me 2010
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/376.mp4
+#EXTINF:-1,Kids Curious George 3 Back To The Jungle 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/381.mp4
+#EXTINF:-1,Kids Capture The Flag 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/358.mp4
+#EXTINF:-1,Kids Blinky Bill The Movie 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/356.mp4
+#EXTINF:-1,Kids Bling 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/364.mp4
+#EXTINF:-1,Kids Batman The Killing Joke 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/365.mp4
+#EXTINF:-1,Kids Batman Bad Blood 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/372.mp4
+#EXTINF:-1,Kids Barbie Spy Squad 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/352.mp4
+#EXTINF:-1,Kids Anomalisa 2015
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/380.mp4
+#EXTINF:-1,Kids Angry Birds 2016
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/353.mp4
+#EXTINF:-1,Kids All Creatures Big and Small (2015)
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/388.mp4
+#EXTINF:-1,Persian Telephone
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/339.mp4
+#EXTINF:-1,Persian Tanhaei
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/322.mp4
+#EXTINF:-1,Persian Tameshk
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/308.mp4
+#EXTINF:-1,Persian Tame Gelas
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/309.mp4
+#EXTINF:-1,Persian Shiva
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/338.mp4
+#EXTINF:-1,Persian Salam Zendegi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/331.mp4
+#EXTINF:-1,Persian Saghaye Pooshali
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/321.mp4
+#EXTINF:-1,Persian Pesar Asemooni
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/300.mkv
+#EXTINF:-1,Persian Persian Mard va Jaddeh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/336.mp4
+#EXTINF:-1,Persian Payane Bazi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/320.mp4
+#EXTINF:-1,Persian Nazanin
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/327.mp4
+#EXTINF:-1,Persian Moshtzan
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/337.mp4
+#EXTINF:-1,Persian Mojarradeh 40 Saleh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/330.mp4
+#EXTINF:-1,Persian Mehmane Baba
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/299.mkv
+#EXTINF:-1,Persian Mazar Sharif
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/306.mkv
+#EXTINF:-1,Persian Malakeh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/319.mp4
+#EXTINF:-1,Persian Mahrokh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/305.mkv
+#EXTINF:-1,Persian Kheshabe Khali
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/318.mp4
+#EXTINF:-1,Persian Khastegaran
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/329.mp4
+#EXTINF:-1,Persian Kamin
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/317.mp4
+#EXTINF:-1,Persian Kalaf
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/316.mp4
+#EXTINF:-1,Persian Iran Burger
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/304.mp4
+#EXTINF:-1,Persian Habib Agha
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/335.mp4
+#EXTINF:-1,Persian Gonjeshko Ghanari
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/298.mkv
+#EXTINF:-1,Persian Gonahkaran
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/315.mp4
+#EXTINF:-1,Persian Ezhdehaye Sorkh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/314.mp4
+#EXTINF:-1,Persian Eteraz
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/313.mp4
+#EXTINF:-1,Persian Eshghe Sandwichi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/334.mp4
+#EXTINF:-1,Persian Enteghame Mafiyaei
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/312.mp4
+#EXTINF:-1,Persian Emkane Mina
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/297.mkv
+#EXTINF:-1,Persian Elima
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/326.mp4
+#EXTINF:-1,Persian Ekhrajiha 3
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/296.mkv
+#EXTINF:-1,Persian Ekhrajiha 2
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/295.mkv
+#EXTINF:-1,Persian Ekhrajiha 1
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/294.mkv
+#EXTINF:-1,Persian Dorane Asheghi
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/307.mkv
+#EXTINF:-1,Persian Derakhsheshe Penha
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/325.mp4
+#EXTINF:-1,Persian Del shodegan
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/303.mkv
+#EXTINF:-1,Persian Darya Kenar
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/302.mp4
+#EXTINF:-1,Persian DarEmtedade Shahr
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/324.mp4
+#EXTINF:-1,Persian Cherk Nevis
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/311.mp4
+#EXTINF:-1,Persian Che
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/310.mp4
+#EXTINF:-1,Persian Chand Metr Mokab Eshgh
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/323.mp4
+#EXTINF:-1,Persian Bacheh Nasho
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/333.mkv
+#EXTINF:-1,Persian Babaye Doost Dashtani
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/328.mp4
+#EXTINF:-1,Persian Az Karkheh Ta Rhein
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/301.mp4
+#EXTINF:-1,Persian Atash Bas
+http://movie.b-iptv.com:8000/movie/ramou00/ramou00/332.mkv
